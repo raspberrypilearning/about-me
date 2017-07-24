@@ -13,8 +13,12 @@ interests: ''
 technologies: python
 site_areas: codeclub, python
 steps:
+- title: 'Introduction: '
+- title: Saying hello
 - title: 'Challenge: What''s on your mind?'
+- title: ASCII art
 - title: 'Challenge: About yourself'
+- title: The Year 2025
 - title: 'Challenge: Your age in dog years'
 - title: 'Challenge: Calculating text'
 

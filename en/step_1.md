@@ -1,43 +1,16 @@
---- challenge ---
-## Challenge: What's on your mind?
-Change the code above, to print something more interesting about you!
+## Introduction: 
 
-![screenshot](images/me-mind.png)
+In this project you will learn how to write a Python program telling people all about you.
+ 
+<div class="trinket">
+  <iframe src="https://trinket.io/embed/python/a1f663ae0d?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  </iframe>
+  <img src="images/me-final.png">
+</div>
 
+### Additional information for club leaders
 
-
-## Step 2: ASCII art
-
-Let’s print something much more fun than text… ASCII art! ASCII art (pronounced '_ask-e_') is creating __pictures out of text__.
-
-
-
-+ Let's add some art to your program - a picture of a dog!
-
-    ![screenshot](images/me-dog.png)
-
-+ If you click 'run', you'll see that there's a bug in your new code.
-
-    ![screenshot](images/me-dog-bug.png)
-
-    That's because your text contains a quote, which Python thinks means the end of the text!
-
-    ![screenshot](images/me-dog-quote.png) 
-
-+ To fix this, just put a backslash `\` before the quote in the word `here's`. This tells Python that the quote is part of the text.
-
-    ![screenshot](images/me-dog-bug-fix.png)
-
-+ If you prefer, you can use 3 quotes `'''` instead of 1, which allows you to print multiple lines of text with 1 `print` statement:
-
-    ![screenshot](images/me-dog-triple-quote.png)
-
-
-
-
---- /challenge ---### Additional information for club leaders
-
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/about-me).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberry-pi.org/en/projects/about-me/print).
 
 
 --- collapse ---

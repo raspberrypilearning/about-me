@@ -10,7 +10,7 @@ In this project you will learn how to write a Python program telling people all 
 
 ### Additional information for club leaders
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberry-pi.org/en/projects/about-me/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/about-me/print).
 
 
 --- collapse ---

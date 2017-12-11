@@ -1,15 +1,10 @@
 --- challenge ---
-## Challenge: Calculating text
-Did you know that you can also calculate text?!
+## Challenge: Your age in dog years
+Write a program to ask the user their age, and then tell them their age in dog years! You can calculate a person’s age in dog years by multiplying their age by 7.
 
-What does the following program print to the screen? See if you can guess correctly before running the program.
+![screenshot](images/me-dog-years.png)
 
-![screenshot](images/me-text-calc.png)
-
-Can you make up any words of your own? You could even make your own patterns!
-
-![screenshot](images/me-patterns.png)
-
+In programming, the symbol for __multiplication__ is `*`, and is usually __shift+8__ on the keyboard.
 
 
 

@@ -2,11 +2,11 @@
 
 Let’s print something much more fun than text… ASCII art! ASCII art (pronounced '_ask-e_') is creating __pictures out of text__.
 
-
-
 + Let's add some art to your program - a picture of a dog!
 
     ![screenshot](images/me-dog.png)
+
+The dog's legs are made using the pipe character `|` which can be found by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards. 
 
 + If you click 'run', you'll see that there's a bug in your new code.
 
@@ -14,7 +14,7 @@ Let’s print something much more fun than text… ASCII art! ASCII art (pronoun
 
     That's because your text contains a quote, which Python thinks means the end of the text!
 
-    ![screenshot](images/me-dog-quote.png) 
+    ![screenshot](images/me-dog-quote.png)
 
 + To fix this, just put a backslash `\` before the quote in the word `here's`. This tells Python that the quote is part of the text.
 
@@ -23,6 +23,3 @@ Let’s print something much more fun than text… ASCII art! ASCII art (pronoun
 + If you prefer, you can use 3 quotes `'''` instead of 1, which allows you to print multiple lines of text with 1 `print` statement:
 
     ![screenshot](images/me-dog-triple-quote.png)
-
-
-

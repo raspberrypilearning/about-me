@@ -12,7 +12,8 @@ interests: ''
 technologies: python
 site_areas: codeclub, python
 steps:
-- title: 'Introduction'
+- title: Introduction
+- title: What you will need
 - title: Saying hello
 - title: 'Challenge: What''s on your mind?'
 - title: ASCII art
@@ -20,4 +21,3 @@ steps:
 - title: The Year 2025
 - title: 'Challenge: Your age in dog years'
 - title: 'Challenge: Calculating text'
-

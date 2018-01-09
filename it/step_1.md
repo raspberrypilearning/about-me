@@ -1,6 +1,6 @@
 ## Introduzione
 
-In this project you will learn how to write a Python program telling people all about you.
+In questo progetto imparerete come scrivere un programma Python che vi introduce.
 
 ### Cosa farai
 
@@ -12,7 +12,7 @@ In this project you will learn how to write a Python program telling people all 
 
 ### Cosa imparerai
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Questo progetto comprende elementi dai seguenti strand del [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) {: target = blank"}:
 
 + [Usare programmazione di base per creare dei semplici programmi](https://www.raspberrypi.org/curriculum/programming/creator) {: target = blank"}
 
@@ -20,4 +20,4 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 Se hai bisogno di stampare questo progetto, si consiglia di utilizzare la [versione stampa ecologica](https://projects.raspberrypi.org/en/projects/about-me/print) {: target = blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Usa il link nel footer per accedere a GitHub, che contiene tutte le risorse (tra cui un esempio di un progetto finito) nella cartella ' it/resources'.

@@ -12,14 +12,14 @@ Le gambe del cane sono realizzate utilizzando il carattere pipe `|` che puoi dig
     
     ![screenshot](images/me-dog-bug.png)
     
-    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
+    Questo è perchè il tuo testo contiene un'apostrofe `'`, il quale Python crede che sia la fine del testo!
     
     ![screenshot](images/me-dog-quote.png)
 
-+ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
++ Per aggiustarlo, metti `` prima dell'apostrofo nella parola `here's`. Questo dice a Python che l'apostrofo è parte del testo.
     
     ![screenshot](images/me-dog-bug-fix.png)
 
-+ If you prefer, you can use three apostrophe `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
++ Se preferisci, puoi usare tre apostrofi `'''` invece di una, il quale ti permette di stampare piú linee di testo con un estratto `print`:
     
     ![screenshot](images/me-dog-triple-quote.png)

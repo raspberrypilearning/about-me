@@ -1,14 +1,14 @@
-## ASCII art
+## Arte ASCII
 
-Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
+Stampiamo qualcosa di molto più divertente del testo: ASCII art! Arte ASCII (pronunciato ' *ask-e* ') è creare **Immagini fuori testo**.
 
-+ Let's add some art to your program — a picture of a dog!
++ Aggiungiamo alcune opere d'arte al tuo programma — la foto di un cane!
     
     ![screenshot](images/me-dog.png)
 
-The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
+Le gambe del cane sono realizzate utilizzando il carattere pipe `|` che puoi digitare premendo <kbd>Shift + \</kbd> con la maggior parte delle tastiere UK /US.
 
-+ If you click **Run**, you'll see that there's a bug in your new code.
++ Se clicchi su **Run**, vedrai che c'è un bug nel tuo nuovo codice.
     
     ![screenshot](images/me-dog-bug.png)
     

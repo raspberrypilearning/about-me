@@ -1,22 +1,22 @@
-## Saying hello
+## Salutare
 
-Let's start by writing some text.
+Iniziamo scrivendo qualcosa.
 
-+ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Apri un template Python vuoto: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-nuovo</a>.
 
-+ Type the following into the window that appears:
++ Digita quanto segue nella finestra che apparirá:
     
     ![screenshot](images/me-hi.png)
     
-    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
+    La linea `#! / bin/python3` dice solo a Trinket che stiamo usando Python 3 (l'ultima versione).
 
-+ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
++ Clicca su **Run** e dovresti vedere che il comando `Print()` stampa tutto tra i segni di citazione `"`.
     
     ![screenshot](images/me-hi-test.png)
 
-If you've made a mistake, you'll get an error message telling you what went wrong instead!
+Se hai fatto uno sbaglio, apparirá un messaggio di errore che ti dice che cosa è andato storto!
 
-+ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
++ Provalo! Elimina la citazione di fine `'` o la parentesi di chiusura `)` (o entrambi) e vedi cosa succede.
     
     ![screenshot](images/me-syntax.png)
 

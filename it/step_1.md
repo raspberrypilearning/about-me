@@ -14,7 +14,7 @@ In this project you will learn how to write a Python program telling people all 
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [Usare programmazione di base per creare dei semplici programmi](https://www.raspberrypi.org/curriculum/programming/creator) {: target = blank"}
 
 ### Maggiori informazioni per educatori
 

@@ -20,14 +20,14 @@ Se hai fatto uno sbaglio, apparirá un messaggio di errore che ti dice che cosa 
     
     ![screenshot](images/me-syntax.png)
 
-+ Add the quote or bracket back in, and click **Run** to make sure your project works again.
++ Riaggiungi la citazione o la parentesi, e clicca su **Run** per assicurarti che il tuo progetto funziona di nuovo.
 
-**You don't need a Trinket account to save your projects!**
+**Non hai bisogno di un Trinket account per salvare i tuoi progetti!**
 
-If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+Se non hai un account Trinket, clicca sulla freccia che indica giú e clicca **Link**. Questo ti dará un link che puoi salvare e riprendere in un secondo momento. Dovrai rifarlo ogni volta che fai dei cambiamenti, perché il link cambierá!
 
 ![screenshot](images/me-link.png)
 
-If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
+Se hai un account Trinket, puoi cliccare **Remix** per salvare una tua copia.
 
 ![screenshot](images/me-remix.png)

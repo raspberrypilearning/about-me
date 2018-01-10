@@ -1,35 +1,35 @@
 ## L’anno 2025
 
-You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
+Puoi anche fare calcoli e stampare numeri. Vediamo quanti anni avrai nel 2025!
 
-+ To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
++ Per calcolare la tua età nell’anno 2025, devi sottrarre il tuo anno di nascita da 2025.
     
-    Add this code to your program:
+    Aggiungi questo codice al tuo programma:
     
     ![screenshot](images/me-calc.png)
     
-    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
+    Hai visto che non devi racchiudere i numeri tra virgolette? (Ricorda che devi cambiare il numero 2006 se il tuo anno di nascita è diverso)
 
-+ Click **Run**, and your program should print your age in the year 2025.
++ Fai clic su “run” e il programma dovrebbe stampare la tua età nell’anno 2025.
     
     ![screenshot](images/me-calc-run.png)
 
-+ You could improve your program by using `input()` to ask the user their age and store it in a **variable** called `born`.
++ Puoi anche migliorare il tuo programma usando l’istruzione “input()” per chiedere all’utilizzatore la sua età e memorizzarla in una variabile con il nome “born”.
     
     ![screenshot](images/me-input.png)
 
-+ Run your program and then enter the year you were born. Did you get another error messgae?
++ Esegui il programma ed immetti il tuo anno di nascita. È apparso un messaggio di errore?
     
-    That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
+    Questo è perché tutto quello che viene digitato nel programma è testo, ma in questo caso deve essere convertito in numero.
     
-    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
+    Puoi usare “int()” per convertire il testo in integer (la parola “integer” significa “numero intero”).
     
     ![screenshot](images/me-input-test.png)
 
-+ You can also create another variable to store your calculation, and print that instead.
++ Puoi anche creare un’altra variabile in cui memorizzare il tuo calcolo e stampare quella invece.
     
     ![screenshot](images/me-result-variable.png)
 
-+ Finally, you can make your program easier to understand by adding a helpful message.
++ Infine, puoi rendere il programma più facile da capire aggiungendo un messaggio di spiegazioni.
     
     ![screenshot](images/me-message.png)

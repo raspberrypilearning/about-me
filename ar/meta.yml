@@ -14,20 +14,20 @@ technologies: python
 site_areas: codeclub, python
 steps:
   - 
-    title: المقدمة
+    title: '''المقدمة'''
+  - 
+    title: '?'
   - 
     title: إلقاء التحية
   - 
-    title: Saying hello
+    title: '''تحدي: بم تفكر؟'''
   - 
-    title: 'Challenge: what''s on your mind?'
+    title: رسم ASCII
   - 
-    title: ASCII art
+    title: '''تحدي: عن نفسك'''
   - 
-    title: 'Challenge: about yourself'
+    title: عام 2025
   - 
-    title: The year 2025
+    title: 'تحدي: عمرك في سنوات الكلب'
   - 
-    title: 'Challenge: your age in dog years'
-  - 
-    title: 'Challenge: calculating text'
+    title: 'تحدي: حساب النص'

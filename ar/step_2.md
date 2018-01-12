@@ -1,9 +1,9 @@
-## What you will need
+## كل ما تستحق
 
-### Hardware
+### الأجهزة
 
-+ A computer capable of accessing the [trinket.io](https://trinket.io){:target="_blank"} website
++ جهاز كمبيوتر قادر على الوصول إلى [ trinket.io ](https://trinket.io) {: تارجيت = "_ بلانك"} على الويب
 
-### Software
+### البرمجيات
 
-This project can be completed in a web browser using [trinket.io](https://trinket.io){:target="_blank"}
+هذا المشروع يمكن أن تكتمل في متصفح الويب باستخدام [ trinket.io ](https://trinket.io) {: الهدف = "_ فارغا"}

@@ -1,35 +1,35 @@
-## The year 2025
+## عام 2025
 
-You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
+يمكنك أيضًا القيام بالعمليات الحسابية وطباعة الأرقام. دعنا نكتشف كم سيكون عمرك بحلول عام 2025!
 
-+ To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
++ لحساب كم سيكون عمرك في عام 2025، تحتاج إلى طرح العام الذي ولدت فيه من 2025.
     
-    Add this code to your program:
+    أضف هذه التعليمات البرمجية إلى برنامجك:
     
     ![screenshot](images/me-calc.png)
     
-    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
+    لاحظ أنك لا تحتاج إلى وضع علاماتي اقتباس حول الأرقام. (ستحتاج إلى تغيير الرقم 2006 إذا كنت قد ولدت في عام أخر).
 
-+ Click **Run**, and your program should print your age in the year 2025.
++ انقر فوق ‘run’ وسيطبع برنامجك عمرك في عام 2025.
     
     ![screenshot](images/me-calc-run.png)
 
-+ You could improve your program by using `input()` to ask the user their age and store it in a **variable** called `born`.
++ يمكنك تحسين البرنامج باستخدام input() لسؤال المستخدم عن عمره وتخزينه في متغيّر يسمى born.
     
     ![screenshot](images/me-input.png)
 
-+ Run your program and then enter the year you were born. Did you get another error messgae?
++ قم بتشغيل البرنامج الخاص بك ثم أدخل العام الذي ولدت فيه. هل تلقيت رسالة خطأ أخرى؟
     
-    That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
+    حسنًا، ذلك لأن أي شيء كتب في برنامجك هو نص، ويحتاج إلى تحويله إلى رقم.
     
-    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
+    يمكنك استخدام int() لتحويل النص إلى عدد صحيح (“العدد الصحيح” يعني “رقم صحيح”).
     
     ![screenshot](images/me-input-test.png)
 
-+ You can also create another variable to store your calculation, and print that instead.
++ يمكنك أيضًا إنشاء متغير آخر لتخزين العملية الحسابية الخاصة بك، وطباعة ذلك بدلًا منها.
     
     ![screenshot](images/me-result-variable.png)
 
-+ Finally, you can make your program easier to understand by adding a helpful message.
++ وأخيرًا، يمكنك إضفاء سهولة على فهم برنامجك عن طريق إضافة رسالة مفيدة.
     
     ![screenshot](images/me-message.png)

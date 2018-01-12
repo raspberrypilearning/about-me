@@ -1,25 +1,25 @@
-## ASCII art
+## رسم ASCII
 
-Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
+هيا بنا نطبع شيئًا أكثر متعة من النصوص¦ رسم ASCII! رسم ASCII (تنطق ‘أسكي’) هو رسم يقوم بإنشاء صور من نصوص.
 
-+ Let's add some art to your program — a picture of a dog!
++ دعونا نضيف بعض الرسوم إلى البرنامج - مثل صورة كلب!
     
     ![screenshot](images/me-dog.png)
 
 The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
 
-+ If you click **Run**, you'll see that there's a bug in your new code.
++ إذا نقرت على ‘run’، فسترى أن هناك خطأ في التعليمات البرمجية الجديدة.
     
     ![screenshot](images/me-dog-bug.png)
     
-    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
+    هذا لأن النص يحتوي على علامة اقتباس، يعتقد Python أنها تعني نهاية النص!
     
     ![screenshot](images/me-dog-quote.png)
 
-+ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
++ لإصلاح هذا الأمر، ضع فقط شرطة مائلة للخلف \ قبل علامة الاقتباس في كلمة here's. فهذا يخبر Python أن علامة الاقتباس هي جزء من النص.
     
     ![screenshot](images/me-dog-bug-fix.png)
 
-+ If you prefer, you can use three apostrophe `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
++ يمكنك استخدام 3 علامات اقتباس ''' بدلًا من استخدام علامة اقتباس واحدة، إذا كنت تفضل ذلك، لطباعة أسطر متعددة من النص بعبارة print واحدة:
     
     ![screenshot](images/me-dog-triple-quote.png)

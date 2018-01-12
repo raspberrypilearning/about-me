@@ -18,6 +18,6 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ### معلومات إضافية للمعلمين
 
-إذا كنت بحاجة إلى طباعة هذا المشروع، فالرجاء استخدام [ نسخة متوافقة مع الطابعة ](https://projects.raspberrypi.org/en/projects/about-me/print) {: الهدف = "_ فارغا"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/about-me/print){:target="_blank"}.
 
 استخدم الارتباط في التذييل للوصول إلى مستودع جيثب لهذا المشروع، الذي يحتوي على كافة الموارد (بما في ذلك مثال المشروع الذي تم الانتهاء منه) في المجلد 'إن / ريسورسز'.

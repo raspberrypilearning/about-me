@@ -1,6 +1,6 @@
-## Introduction
+## المقدمة
 
-In this project you will learn how to write a Python program telling people all about you.
+ستتعلم في هذا المشروع كيفية كتابة برنامج Python لتخبر الناس كل شيء عنك.
 
 ### What you will make
 

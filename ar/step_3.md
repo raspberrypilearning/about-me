@@ -2,17 +2,13 @@
 
 لنبدأ من خلال كتابة بعض النصوص.
 
-+ افتح Trinket الذي يحتوي على قالب Python فارغ</a></: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new.</p></li> 
++ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
+
++ اكتب ما يلي في النافذة التي يتم عرضها:
     
-    <li>
-      <p>
-        اكتب ما يلي في النافذة التي يتم عرضها:
-      </p>
-      <p>
-        <img src="images/me-hi.png" alt="screenshot" />
-      </p>
-      <p>
-        يخبر السطر <code>0/>#!/bin/python3> فقط Trinket أننا نستخدم Python 3 (أحدث إصدار).</p></li>
+    ![screenshot](images/me-hi.png)
+    
+    يخبر السطر 0/>#!/bin/python3> فقط Trinket أننا نستخدم Python 3 (أحدث إصدار).</p></li>
 <li><p>ى ‘run’، ويجب أن ترى أن الأمر print() يطبع كل شيء بين علاماتي الاقتباس ''.</p>
 
 <p><img src="images/me-hi-test.png" alt="screenshot" /></p></li>

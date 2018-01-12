@@ -1,33 +1,55 @@
-## Saying hello
+## إلقاء التحية
 
-Let's start by writing some text.
+لنبدأ من خلال كتابة بعض النصوص.
 
-+ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
-
-+ Type the following into the window that appears:
++ افتح Trinket الذي يحتوي على قالب Python فارغ</a></: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new.</p></li> 
     
-    ![screenshot](images/me-hi.png)
+    <li>
+      <p>
+        اكتب ما يلي في النافذة التي يتم عرضها:
+      </p>
+      <p>
+        <img src="images/me-hi.png" alt="screenshot" />
+      </p>
+      <p>
+        يخبر السطر <code>0/>#!/bin/python3> فقط Trinket أننا نستخدم Python 3 (أحدث إصدار).&lt;/p>&lt;/li>
+&lt;li>&lt;p>اضغط على ‘run’، ويجب أن ترى أن الأمر print() يطبع كل شيء بين علاماتي الاقتباس ''.&lt;/p>
+
+&lt;p>&lt;img src="images/me-hi-test.png" alt="screenshot" />&lt;/p>&lt;/li>
+&lt;/ul>
+
+&lt;p>If you've made a mistake, you'll get an error message telling you what went wrong instead!&lt;/p>
+
+&lt;ul>
+&lt;li>&lt;p>Try it! Delete the end quote &lt;code>'</code> or the closing bracket <code>)</code> (or both) and see what happens.
+      </p>
+      <p>
+        <img src="images/me-syntax.png" alt="screenshot" />
+      </p>
+    </li>
     
-    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
-
-+ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
+    <li>
+      <p>
+        Add the quote or bracket back in, and click <strong>Run</strong> to make sure your project works again.
+      </p>
+    </li></ul> 
     
-    ![screenshot](images/me-hi-test.png)
-
-If you've made a mistake, you'll get an error message telling you what went wrong instead!
-
-+ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
+    <p>
+      <strong>You don't need a Trinket account to save your projects!</strong>
+    </p>
     
-    ![screenshot](images/me-syntax.png)
-
-+ Add the quote or bracket back in, and click **Run** to make sure your project works again.
-
-**You don't need a Trinket account to save your projects!**
-
-If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
-
-![screenshot](images/me-link.png)
-
-If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
-
-![screenshot](images/me-remix.png)
+    <p>
+      If you don't have a Trinket account, click the down arrow and then click <strong>Link</strong>. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+    </p>
+    
+    <p>
+      <img src="images/me-link.png" alt="screenshot" />
+    </p>
+    
+    <p>
+      If you have a Trinket account, you can click <strong>Remix</strong> to save your own copy of the trinket.
+    </p>
+    
+    <p>
+      <img src="images/me-remix.png" alt="screenshot" />
+    </p>

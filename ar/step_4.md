@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: What's on your mind?
+## التحدي: بم تفكر؟
 
-Change the code you just wrote to print something more interesting about you!
+قم بتغيير التعليمات البرمجية أعلاه، لطباعة شيء أكثر إثارة عنك!
 
 ![screenshot](images/me-mind.png)
 

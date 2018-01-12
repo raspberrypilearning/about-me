@@ -12,7 +12,7 @@
 
 ### ما سوف تتعلم
 
-ويغطي هذا المشروع عناصر من السلاسل التالية من [ منهج التوت الرقمية بي التوت ](http://rpf.io/curriculum) {: الهدف = "_ فارغا"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 + [ استخدام البرمجة الأساسية يبني لإنشاء برامج بسيطة ](https://www.raspberrypi.org/curriculum/programming/creator) {: الهدف = "_ فارغا"}
 

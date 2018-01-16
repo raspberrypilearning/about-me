@@ -6,7 +6,7 @@
     
     ![screenshot](images/me-dog.png)
 
-The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
+يتم تصنيع أرجل الكلب باستخدام حرف الأنبوب ` | ` والتي يمكنك كتابتها بالضغط على <kbd> شيفت + \ </kbd> على معظم لوحات مفاتيح المملكة المتحدة / الولايات المتحدة الإنجليزية.
 
 + إذا نقرت على ‘run’، فسترى أن هناك خطأ في التعليمات البرمجية الجديدة.
     

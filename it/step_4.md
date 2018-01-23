@@ -1,4 +1,4 @@
---sfida--
+\--- challenge \---
 
 ## Sfida: Cosa stai pensando?
 
@@ -6,4 +6,4 @@ Cambia il codice che hai appena scritto per scrivere qualcosa di piú interessan
 
 ![screenshot](images/me-mind.png)
 
---/sfida--
+\--- /challenge \---

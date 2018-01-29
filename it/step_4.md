@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Sfida: Cosa stai pensando?
+## Challenge: What's on your mind?
 
-Cambia il codice che hai appena scritto per scrivere qualcosa di piú interessante su di te!
+Change the code you just wrote to print something more interesting about you!
 
 ![screenshot](images/me-mind.png)
 

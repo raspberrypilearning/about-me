@@ -1,33 +1,33 @@
-## Salutare
+## Saying hello
 
-Iniziamo scrivendo qualcosa.
+Let's start by writing some text.
 
-+ Apri un template Python vuoto: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-nuovo</a>.
++ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Digita quanto segue nella finestra che apparirá:
++ Type the following into the window that appears:
     
     ![screenshot](images/me-hi.png)
     
-    La linea `#! / bin/python3` dice solo a Trinket che stiamo usando Python 3 (l'ultima versione).
+    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
 
-+ Clicca su **Run** e dovresti vedere che il comando `Print()` stampa tutto tra i segni di citazione `"`.
++ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
     
     ![screenshot](images/me-hi-test.png)
 
-Se hai fatto uno sbaglio, apparirá un messaggio di errore che ti dice che cosa è andato storto!
+If you've made a mistake, you'll get an error message telling you what went wrong instead!
 
-+ Provalo! Elimina la citazione di fine `'` o la parentesi di chiusura `)` (o entrambi) e vedi cosa succede.
++ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
     
     ![screenshot](images/me-syntax.png)
 
-+ Riaggiungi la citazione o la parentesi, e clicca su **Run** per assicurarti che il tuo progetto funziona di nuovo.
++ Add the quote or bracket back in, and click **Run** to make sure your project works again.
 
-**Non hai bisogno di un Trinket account per salvare i tuoi progetti!**
+**You don't need a Trinket account to save your projects!**
 
-Se non hai un account Trinket, clicca sulla freccia che indica giú e clicca **Link**. Questo ti dará un link che puoi salvare e riprendere in un secondo momento. Dovrai rifarlo ogni volta che fai dei cambiamenti, perché il link cambierá!
+If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
 
 ![screenshot](images/me-link.png)
 
-Se hai un account Trinket, puoi cliccare **Remix** per salvare una tua copia.
+If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
 
 ![screenshot](images/me-remix.png)

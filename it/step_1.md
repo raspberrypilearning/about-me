@@ -1,8 +1,8 @@
-## Introduzione
+## Introduction
 
-In questo progetto imparerete come scrivere un programma Python che vi introduce.
+In this project you will learn how to write a Python program telling people all about you.
 
-### Cosa farai
+### What you will make
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a1f663ae0d?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -10,14 +10,14 @@ In questo progetto imparerete come scrivere un programma Python che vi introduce
   <img src="images/me-final.png">
 </div>
 
-### Cosa imparerai
+### What you will learn
 
-Questo progetto comprende elementi dai seguenti strand del [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) {: target = blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Usare programmazione di base per creare dei semplici programmi](https://www.raspberrypi.org/curriculum/programming/creator) {: target = blank"}
++ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-### Maggiori informazioni per educatori
+### Additional information for educators
 
-Se hai bisogno di stampare questo progetto, si consiglia di utilizzare la [versione stampa ecologica](https://projects.raspberrypi.org/en/projects/about-me/print) {: target = blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/about-me/print){:target="_blank"}.
 
-Usa il link nel footer per accedere a GitHub, che contiene tutte le risorse (tra cui un esempio di un progetto finito) nella cartella ' it/resources'.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.

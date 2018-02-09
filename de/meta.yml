@@ -1,26 +1,26 @@
 ---
-hero_image: images/about-me.png
+hero_image: Bilder/über-mich.png
 theme: orange
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: creator, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: About me
-description: Use the Python programming language to create pictures out of text
-original_url: https://codeclubprojects.org/en-GB/python/about-me
+curriculum: Schöpfer, Design-0, Programmierung-1, Phys-Comp-0, Herstellung-0, Gemeinde-0
+title: Über mich
+description: Verwenden Sie die Python-Programmiersprache, um Bilder aus Text zu erstellen
+original_url: https://codeclubprojects.org/de-DE/python/about-me
 interests: ''
-technologies: python
-site_areas: codeclub, python
+technologies: Python
+site_areas: Codeclub, Python
 steps:
   - 
-    title: Introduction
+    title: Einführung
   - 
-    title: What you will need
+    title: Was du benötigen wirst
   - 
-    title: Saying hello
+    title: Hallo sagen
   - 
-    title: 'Challenge: what''s on your mind?'
+    title: 'Challenge: Was beschäftigt dich?'
   - 
     title: ASCII art
   - 

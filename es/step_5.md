@@ -12,7 +12,7 @@ Las patas del perro se hacen usando el carácter `|` que se puede escribir tecle
     
     ![screenshot](images/me-dog-bug.png)
     
-    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
+    ¡Eso es porque el texto contiene un apóstrofo `'`, que Python cree es el final del texto!
     
     ![screenshot](images/me-dog-quote.png)
 

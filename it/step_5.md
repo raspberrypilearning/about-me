@@ -1,8 +1,8 @@
-## ASCII art
+## I simboli ASCII
 
-Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
+Stampiamo qualcosa di molto più divertente di un semplice testo: i simboli ASCII! I simboli ASCII (pronuncia: '*ask-i*') permettono di creare delle **immagini a partire da un testo**.
 
-+ Let's add some art to your program — a picture of a dog!
++ Aggiungiamo un po' di arte al tuo programma: un'immagine di un cane!
     
     ![screenshot](images/me-dog.png)
 

@@ -7,18 +7,18 @@ ingredient: false
 copyedit: true
 curriculum: creador, diseño-0, programación-1, informática-física-0, fabricación-0, comunidad-0
 title: Sobre mí
-description: Use the Python programming language to create pictures out of text
+description: Utiliza el lenguaje de programación Python para crear cuadros de texto
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
 technologies: python
 site_areas: codeclub, python
 steps:
   - 
-    title: Introduction
+    title: Introducción
   - 
-    title: What you will need
+    title: Lo que necesitarás
   - 
-    title: Saying hello
+    title: Decir hola
   - 
     title: 'Challenge: what''s on your mind?'
   - 

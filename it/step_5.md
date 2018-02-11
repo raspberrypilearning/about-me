@@ -6,20 +6,20 @@ Stampiamo qualcosa di molto più divertente di un semplice testo: i simboli ASCI
     
     ![screenshot](images/me-dog.png)
 
-The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
+Per realizzare le zampe del cane, utilizza la barra verticale `|`, che puoi digitare premendo <kbd>Shift + \ </kbd> (questo tasto si trova in alto a sinistra sulla tua tastiera).
 
-+ If you click **Run**, you'll see that there's a bug in your new code.
++ Cliccando **Run**, vedrai che c'è un problema con il tuo nuovo codice.
     
     ![screenshot](images/me-dog-bug.png)
     
-    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
+    Questo perché il tuo codice contiene un apostrofo `'`, e Python pensa che si tratti della fine del testo!
     
     ![screenshot](images/me-dog-quote.png)
 
-+ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
++ Per risolvere questo problema, inserisci una barra retroversa (o backslash) `` prima dell'apostrofo nella parola `l'immagine`. In questo modo Python saprà che l'apostrofo fa parte del testo.
     
     ![screenshot](images/me-dog-bug-fix.png)
 
-+ If you prefer, you can use three apostrophe `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
++ Se preferisci, puoi usare tre apostrofi `'''` invece di uno. Questo ti permetterà di stampare più righe di testo utilizzando il comando `print` una volta sola:
     
     ![screenshot](images/me-dog-triple-quote.png)

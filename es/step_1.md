@@ -1,8 +1,8 @@
 ## Introducción
 
-In this project you will learn how to write a Python program telling people all about you.
+A través de este proyecto, aprenderás a escribir un programa Python contando cosas sobre ti.
 
-### What you will make
+### Lo que crearás
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a1f663ae0d?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -10,7 +10,7 @@ In this project you will learn how to write a Python program telling people all 
   <img src="images/me-final.png">
 </div>
 
-### What you will learn
+### Lo que aprenderás
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 

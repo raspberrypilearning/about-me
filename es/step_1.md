@@ -20,4 +20,4 @@ Este proyecto incluye elementos de los siguientes aspectos del [currículo de cr
 
 Si necesitas imprimir este proyecto, use la [versión para imprimir](https://projects.raspberrypi.org/en/projects/about-me/print){:target="_blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Usa el enlace en el pie de página para acceder al repositorio de GitHub para este proyecto, que contiene todos los recursos (incluso un ejemplo de un proyecto terminado) en la carpeta 'en/resources'.

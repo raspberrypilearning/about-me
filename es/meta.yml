@@ -6,7 +6,7 @@ listed: true
 ingredient: false
 copyedit: true
 curriculum: creador, diseño-0, programación-1, informática-física-0, fabricación-0, comunidad-0
-title: Sobre mí
+title: Sobre mi
 description: Utiliza el lenguaje de programación Python para crear cuadros de texto
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
@@ -20,14 +20,14 @@ steps:
   - 
     title: Decir hola
   - 
-    title: 'Challenge: what''s on your mind?'
+    title: 'Desafío: ¿qué tienes en la cabeza?'
   - 
-    title: ASCII art
+    title: Arte ASCII
   - 
-    title: 'Challenge: about yourself'
+    title: 'Desafío: sobre ti'
   - 
-    title: The year 2025
+    title: El año 2025
   - 
-    title: 'Challenge: your age in dog years'
+    title: 'Desafío: tu edad en años de perro'
   - 
-    title: 'Challenge: calculating text'
+    title: 'Desafío: calcular el texto'

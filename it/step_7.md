@@ -20,16 +20,16 @@ In questo programma, puoi anche fare dei calcoli e stampare dei numeri. Scopriam
 
 + Esegui il tuo programma e poi inserisci l'anno in cui sei nato. Hai ricevuto un messaggio di errore?
     
-    That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
+    Questo perché qualsiasi cosa che digiti nel tuo programma è un **testo**, e questo testo va convertito in un **numero**.
     
-    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
+    Puoi utilizzare `int()` per convertire il testo in un **integer**. Un integer è un numero intero.
     
     ![screenshot](images/me-input-test.png)
 
-+ You can also create another variable to store your calculation, and print that instead.
++ Puoi anche creare un'altra variabile per archiviare il calcolo e stamparlo.
     
     ![screenshot](images/me-result-variable.png)
 
-+ Finally, you can make your program easier to understand by adding a helpful message.
++ Infine, puoi rendere il tuo programma più facile da capire aggiungendo un messaggio.
     
     ![screenshot](images/me-message.png)

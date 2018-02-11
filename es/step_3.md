@@ -24,10 +24,10 @@ Si cometes un error, ¡recibirás un mensaje de error indicándote lo qué sali�
 
 **¡No necesitas una cuenta de Trinket para guardar sus proyectos!**
 
-Si no tienes una cuenta de Trinket, haz clic en la flecha hacia abajo y haz clic en **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+Si no tienes una cuenta de Trinket, haz clic en la flecha hacia abajo y haz clic en **Link**. Obtendrás un enlace que podrás guardar y al que podrás regresar más tarde. ¡Deberás hacer esto cada vez que realices cambios, ya que el enlace cambiará!
 
 ![screenshot](images/me-link.png)
 
-If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
+Si tienes una cuenta de Trinket, puedes hacer clic en **Remix** para guardar tu propia copia del trinket.
 
 ![screenshot](images/me-remix.png)

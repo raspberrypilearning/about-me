@@ -1,24 +1,24 @@
-## The year 2025
+## Nel 2025
 
-You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
+In questo programma, puoi anche fare dei calcoli e stampare dei numeri. Scopriamo quanti anni avrai nel 2025!
 
-+ To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
++ Per calcolare quanti anni avrai nel 2025, devi sottrarre da 2025 l'anno in cui sei nato.
     
-    Add this code to your program:
+    Aggiungi questo codice al tuo programma:
     
     ![screenshot](images/me-calc.png)
     
-    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
+    Se noti, non c'è bisogno di aggiungere le virgolette tra i numeri. (Dovrai però cambiare il numero `2006` se sei nato in un altro anno.)
 
-+ Click **Run**, and your program should print your age in the year 2025.
++ Fai click su **Run**. Il programma dovrebbe stampare quanti anni avrai nel 2025.
     
     ![screenshot](images/me-calc-run.png)
 
-+ You could improve your program by using `input()` to ask the user their age and store it in a **variable** called `born`.
++ Potresti migliorare il tuo programma utilizzando `input()` per chiedere a chi lo usa quanti anni hanno, e per conservare la loro età in una **variabile** chiamata `anno`.
     
     ![screenshot](images/me-input.png)
 
-+ Run your program and then enter the year you were born. Did you get another error messgae?
++ Esegui il tuo programma e poi inserisci l'anno in cui sei nato. Hai ricevuto un messaggio di errore?
     
     That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
     

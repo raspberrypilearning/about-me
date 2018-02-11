@@ -1,4 +1,4 @@
-## Saying hello
+## Salutare
 
 Let's start by writing some text.
 

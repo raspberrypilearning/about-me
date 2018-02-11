@@ -2,13 +2,13 @@
 
 Empecemos por escribir un texto.
 
-+ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Abre el Trinket de la plantilla en blanco de Python: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Type the following into the window that appears:
++ Escribe lo siguiente en la ventana que aparece:
     
-    ![screenshot](images/me-hi.png)
+    ![captura de pantalla](images/me-hi.png)
     
-    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
+    La línea `#!/bin/python3` simplemente dice a Trinket que estamos usando Python 3 (la última versión).
 
 + Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
     

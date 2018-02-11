@@ -1,28 +1,28 @@
 ## Salutare
 
-Let's start by writing some text.
+Iniziamo scrivendo un testo.
 
-+ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Apri un modello di Python vuoto su trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Type the following into the window that appears:
++ Digita il seguente testo nella finestra che compare:
     
     ![screenshot](images/me-hi.png)
     
-    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
+    La stringa `#!/bin/python3` dice a Trinket che stiamo usando Python 3 (l'ultima versione di Python).
 
-+ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
++ Fai click su **Run**. Vedrai che il comando `print()` "stampa" sulla pagina tutto ciò che si trova tra le virgolette `''`.
     
     ![screenshot](images/me-hi-test.png)
 
-If you've made a mistake, you'll get an error message telling you what went wrong instead!
+Se hai commesso un errore, riceverai un messaggio di errore che ti farà sapere cosa è andato storto!
 
-+ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
++ Fai una prova! Elimina la virgoletta alla fine `'` la parentesi alla fine `)` (o entrambe) e vedi cosa succede.
     
     ![screenshot](images/me-syntax.png)
 
-+ Add the quote or bracket back in, and click **Run** to make sure your project works again.
++ Aggiungi di nuovo la virgoletta o la parentesi, e fai click su **Run** per far sì che il progetto funzioni di nuovo.
 
-**You don't need a Trinket account to save your projects!**
+**Non hai bisogno di un account Trinket per salvare i tuoi progetti!**
 
 If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
 

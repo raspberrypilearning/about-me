@@ -10,21 +10,21 @@ Empecemos por escribir un texto.
     
     La línea `#!/bin/python3` simplemente dice a Trinket que estamos usando Python 3 (la última versión).
 
-+ Haga clic en **Run**, y deberías ver que el comando `print()` imprime todo entre comillas `''`.
++ Haz clic en **Run**, y deberías ver que el comando `print()` imprime todo entre comillas `''`.
     
     ![screenshot](images/me-hi-test.png)
 
 Si cometes un error, ¡recibirás un mensaje de error indicándote lo qué salió mal!
 
-+ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
++ ¡Pruébalo! Borra la última comilla `'` o el último paréntesis `)` (o ambos) y ver lo qué pasa.
     
     ![screenshot](images/me-syntax.png)
 
-+ Add the quote or bracket back in, and click **Run** to make sure your project works again.
++ Vuelve a escribir la comilla o el paréntesis, y haz clic en **Run** para asegurarte de que el proyecto vuelve a funcionar correctamente.
 
-**You don't need a Trinket account to save your projects!**
+**¡No necesitas una cuenta de Trinket para guardar sus proyectos!**
 
-If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+Si no tienes una cuenta de Trinket, haz clic en la flecha hacia abajo y haz clic en **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
 
 ![screenshot](images/me-link.png)
 

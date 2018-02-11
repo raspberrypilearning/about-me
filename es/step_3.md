@@ -1,6 +1,6 @@
-## Saying hello
+## Decir hola
 
-Let's start by writing some text.
+Empecemos por escribir un texto.
 
 + Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 

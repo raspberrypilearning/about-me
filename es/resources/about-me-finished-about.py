@@ -1,6 +1,6 @@
 #!/bin/python3
 
-print('Hi, I can code in Python!')
+print ('Hola, puedo escribir código en Python!')
 
 print('''
 My favourite animals are sheep

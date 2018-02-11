@@ -7,27 +7,27 @@ ingredient: false
 copyedit: true
 curriculum: creator, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: Mi presento
-description: Use the Python programming language to create pictures out of text
+description: Usa il linguaggio di programmazione Python per creare delle immagini a partire da un testo
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
 technologies: python
 site_areas: codeclub, python
 steps:
   - 
-    title: Introduction
+    title: Introduzione
   - 
-    title: What you will need
+    title: Requisiti
   - 
-    title: Saying hello
+    title: Salutare
   - 
-    title: 'Challenge: what''s on your mind?'
+    title: 'Challenge: A cosa stai pensando?'
   - 
-    title: ASCII art
+    title: I simboli ASCII
   - 
-    title: 'Challenge: about yourself'
+    title: 'Challenge: Mi presento'
   - 
-    title: The year 2025
+    title: Nel 2025
   - 
-    title: 'Challenge: your age in dog years'
+    title: 'Challenge: La tua età in anni canini'
   - 
-    title: 'Challenge: calculating text'
+    title: 'Challenge: Calcolare un testo'

@@ -6,15 +6,15 @@ Empecemos por escribir un texto.
 
 + Escribe lo siguiente en la ventana que aparece:
     
-    ![captura de pantalla](images/me-hi.png)
+    ![screenshot](images/me-hi.png)
     
     La línea `#!/bin/python3` simplemente dice a Trinket que estamos usando Python 3 (la última versión).
 
-+ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
++ Haga clic en **Run**, y deberías ver que el comando `print()` imprime todo entre comillas `''`.
     
     ![screenshot](images/me-hi-test.png)
 
-If you've made a mistake, you'll get an error message telling you what went wrong instead!
+Si cometes un error, ¡recibirás un mensaje de error indicándote lo qué salió mal!
 
 + Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
     

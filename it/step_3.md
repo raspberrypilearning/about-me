@@ -1,16 +1,16 @@
-## Salutare
+## Diciamo ciao
 
-Iniziamo scrivendo un testo.
+Cominciamo a scrivere del testo.
 
-+ Apri un modello di Python vuoto su trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Apri un modello vuoto di Python su Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Digita il seguente testo nella finestra che compare:
++ Scrivi il seguente testo nella finestra che compare:
     
     ![screenshot](images/me-hi.png)
     
-    La stringa `#!/bin/python3` dice a Trinket che stiamo usando Python 3 (l'ultima versione di Python).
+    La riga `#!/bin/python3` dice a Trinket che stiamo usando Python 3 (l'ultima versione di Python).
 
-+ Fai click su **Run**. Vedrai che il comando `print()` "stampa" sulla pagina tutto ciò che si trova tra le virgolette `''`.
++ Fai click su **Run**. Vedrai che il comando `print()` "stampa" (cioè fa visualizzare) sulla pagina tutto il testo contenuto tra le virgolette `''`.
     
     ![screenshot](images/me-hi-test.png)
 

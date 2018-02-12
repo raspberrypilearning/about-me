@@ -1,6 +1,6 @@
 ## Introduzione
 
-In questo progetto, imparerai a creare un programma in Python che racconta agli altri qualcosa su di te.
+In questo progetto, imparerai a creare un programma in Python che parla di te.
 
 ### Cosa creerai
 

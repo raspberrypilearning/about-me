@@ -14,7 +14,7 @@ In questo programma, puoi anche fare dei calcoli e stampare dei numeri. Scopriam
     
     ![screenshot](images/me-calc-run.png)
 
-+ Potresti migliorare il tuo programma utilizzando `input()` per chiedere a chi lo usa quanti anni hanno, e per conservare la loro età in una **variabile** chiamata `anno`.
++ Potresti migliorare il tuo programma utilizzando `input()` per chiedere a chi lo usa quanti anni hanno, e per conservare la loro età in una **variabile** chiamata `born`.
     
     ![screenshot](images/me-input.png)
 

@@ -1,6 +1,6 @@
 ---
 hero_image: images/about-me.png
-theme: arancione
+theme: orange
 duration: 2
 listed: true
 ingredient: false
@@ -18,16 +18,16 @@ steps:
   - 
     title: Requisiti
   - 
-    title: Salutare
+    title: Diciamo ciao
   - 
-    title: 'Challenge: A cosa stai pensando?'
+    title: 'Sfida: A cosa stai pensando?'
   - 
-    title: I simboli ASCII
+    title: Disegni ASCII
   - 
-    title: 'Challenge: Mi presento'
+    title: 'Sfida: Mi presento'
   - 
     title: Nel 2025
   - 
-    title: 'Challenge: La tua età in anni canini'
+    title: 'Sfida: La tua età in anni canini'
   - 
-    title: 'Challenge: Calcolare un testo'
+    title: 'Sfida: Calcolare un testo'

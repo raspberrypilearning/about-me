@@ -20,6 +20,6 @@ Vivo a Glasgow
 ''')
 
 born = input('In che anno sei nato?')
-born = int(anno)
-age = 2025 - anno
+born = int(anno di nascita)
+age = 2025 - born
 print('Nel 2025 avrai', età, 'anni!')

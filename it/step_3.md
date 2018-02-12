@@ -16,15 +16,15 @@ Cominciamo a scrivere del testo.
 
 Se hai commesso un errore, riceverai un messaggio di errore che ti farà sapere cosa è andato storto!
 
-+ Fai una prova! Elimina la virgoletta alla fine `'` la parentesi alla fine `)` (o entrambe) e vedi cosa succede.
++ Fai una prova! Cancella la virgoletta alla fine `'` o la parentesi alla fine `)` (o entrambe) e prova a vedere cosa succede.
     
     ![screenshot](images/me-syntax.png)
 
-+ Aggiungi di nuovo la virgoletta o la parentesi, e fai click su **Run** per far sì che il progetto funzioni di nuovo.
++ Rimetti di nuovo al loro posto la virgoletta o la parentesi, e fai click su **Run** per far sì che il progetto funzioni di nuovo.
 
 **Non hai bisogno di un account Trinket per salvare i tuoi progetti!**
 
-Se non hai un account Trinket, fai click sulla freccia che punta verso il basso e clicca su **Link**. Questo comando ti darà un link che puoi salvare e a cui puoi tornare più tardi. Dovrai fare questa cosa ogni volta che apporti delle modifiche al progetto, perché il link cambierà di volta in volta!
+Se non hai un account Trinket, fai click sulla freccia che punta verso il basso e clicca su **Link**. Questo comando ti darà un link che puoi salvare e che potrai aprire di nuovo più tardi. Dovrai fare questa cosa ogni volta che apporti delle modifiche al progetto, perché il link cambierà di volta in volta!
 
 ![screenshot](images/me-link.png)
 

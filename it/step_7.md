@@ -26,7 +26,7 @@ In questo programma, puoi anche fare dei calcoli e stampare dei numeri. Scopriam
     
     ![screenshot](images/me-input-test.png)
 
-+ Puoi anche creare un'altra variabile per archiviare il calcolo, e stampare questa variabile.
++ Puoi anche creare un'altra variabile, la variabile "eta", per archiviare il calcolo, e stampare questa variabile. Scrivi la parola "età" senza accento ("eta"), altrimenti comparirà un messaggio di errore.
     
     ![screenshot](images/me-result-variable.png)
 

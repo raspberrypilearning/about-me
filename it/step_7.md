@@ -26,7 +26,7 @@ In questo programma, puoi anche fare dei calcoli e stampare dei numeri. Scopriam
     
     ![screenshot](images/me-input-test.png)
 
-+ Puoi anche creare un'altra variabile per archiviare il calcolo e stamparlo.
++ Puoi anche creare un'altra variabile per archiviare il calcolo, e stampare questa variabile.
     
     ![screenshot](images/me-result-variable.png)
 

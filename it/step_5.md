@@ -1,14 +1,14 @@
-## I simboli ASCII
+## Disegni ASCII
 
-Stampiamo qualcosa di molto più divertente di un semplice testo: i simboli ASCII! I simboli ASCII (pronuncia: '*ask-i*') permettono di creare delle **immagini a partire da un testo**.
+Proviamo a stampare qualcosa di molto più interessante che un semplice testo: i disegni ASCII! I disegni ASCII (pronuncia: '*ask-i*') sono delle **immagini create usando caratteri di testo**.
 
-+ Aggiungiamo un po' di arte al tuo programma: un'immagine di un cane!
++ Aggiungiamo un bel disegno al tuo programma: aggiungiamo l'immagine di un cane!
     
     ![screenshot](images/me-dog.png)
 
 Per realizzare le zampe del cane, utilizza la barra verticale `|`, che puoi digitare premendo <kbd>Shift + \ </kbd> (questo tasto si trova in alto a sinistra sulla tua tastiera).
 
-+ Cliccando **Run**, vedrai che c'è un problema con il tuo nuovo codice.
++ Se fai click su **Run**, vedrai che c'è un problema con il tuo nuovo codice.
     
     ![screenshot](images/me-dog-bug.png)
     

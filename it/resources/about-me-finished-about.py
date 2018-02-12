@@ -19,7 +19,7 @@ Vivo a Glasgow
 
 ''')
 
-born = input('In che anno sei nato?')
-born = int(nato)
-age = 2025 - born
-print('Nel 2025 avrai', age, 'anni!')
+anno = input('In che anno sei nato?')
+anno = int(anno)
+eta = 2025 - anno
+print('Nel 2025 avrai', eta, 'anni!')

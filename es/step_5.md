@@ -20,6 +20,6 @@ Las patas del perro se hacen usando el carácter `|` que se puede escribir tecle
     
     ![screenshot](images/me-dog-bug-fix.png)
 
-+ If you prefer, you can use three apostrophe `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
++ Si lo prefieres, puedes usar tres comillas `'''` en lugar de uno, permitiéndote imprimir múltiples líneas de texto con un sentencia `print`:
     
     ![screenshot](images/me-dog-triple-quote.png)

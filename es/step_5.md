@@ -16,7 +16,7 @@ Las patas del perro se hacen usando el carácter `|` que se puede escribir tecle
     
     ![screenshot](images/me-dog-quote.png)
 
-+ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
++ Para solucionarlo, simplemente coloca una barra inversa `` antes de la comilla en la palabra `aquí'`.
     
     ![screenshot](images/me-dog-bug-fix.png)
 

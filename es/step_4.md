@@ -1,4 +1,4 @@
-\--- reto \---
+\--- challenge \---
 
 ## Reto: ¿en qué estás pensando?
 
@@ -6,4 +6,4 @@
 
 ![screenshot](images/me-mind.png)
 
-\--- /reto \---
+\--- /challenge \---

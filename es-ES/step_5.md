@@ -12,11 +12,11 @@ Las patas del perro se hacen usando el carácter `|` que se puede escribir tecle
     
     ![screenshot](images/me-dog-bug.png)
     
-    ¡Eso es porque el texto contiene un paréntesis `)`, que Python cree es un parte del código!
+    ¡Eso es porque el texto contiene una comilla `'`, que Python cree es el fin del texto!
     
     ![screenshot](images/me-dog-quote.png)
 
-+ Para solucionarlo, simplemente coloca una barra inversa `` antes de la comilla en la palabra `aquí'`.
++ Para solucionarlo, simplemente coloca una barra inversa `` antes de la comilla en la palabra `pa' ca`.
     
     ![screenshot](images/me-dog-bug-fix.png)
 

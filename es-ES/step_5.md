@@ -16,7 +16,7 @@ Las patas del perro se hacen usando el carácter `|` que se puede escribir tecle
     
     ![screenshot](images/me-dog-quote.png)
 
-+ Para solucionarlo, simplemente coloca una barra inversa `` antes de la comilla en la palabra `pa' ca`.
++ Para solucionarlo, simplemente coloca una barra inversa `` antes de la comilla que forme la cola del perro `'`.
     
     ![screenshot](images/me-dog-bug-fix.png)
 

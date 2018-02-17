@@ -6,13 +6,13 @@ Imprimamos algo más divertido que simple texto, ¡arte ASCII! El arte ASCII (pr
     
     ![screenshot](images/me-dog.png)
 
-Las patas del perro se hacen usando el carácter `|` que se puede escribir tecleando <kbd>Shift + \</kbd> en la mayoría de teclados ingleses del Reino Unido/de los Estados Unidos.
+Las patas del perro se hacen usando el carácter `|` que se puede escribir tecleando <kbd>Shift + \</kbd> en la mayoría de teclados, o que se encuentra en el superior izquierdo del teclado.
 
 + Si haz clic en **Run**, verás que hay un error en tu nuevo código.
     
     ![screenshot](images/me-dog-bug.png)
     
-    ¡Eso es porque el texto contiene un apóstrofo `'`, que Python cree es el final del texto!
+    ¡Eso es porque el texto contiene un paréntesis `)`, que Python cree es un parte del código!
     
     ![screenshot](images/me-dog-quote.png)
 

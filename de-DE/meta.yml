@@ -1,0 +1,33 @@
+---
+hero_image: Bilder/über-mich.png
+theme: orange
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+curriculum: Schöpfer, Design-0, Programmierung-1, Phys-Comp-0, Herstellung-0, Gemeinde-0
+title: Über mich
+description: Verwenden Sie die Python-Programmiersprache, um Bilder aus Text zu erstellen
+original_url: https://codeclubprojects.org/de-DE/python/about-me
+interests: ''
+technologies: Python
+site_areas: Codeclub, Python
+steps:
+  - 
+    title: Einführung
+  - 
+    title: Was du benötigen wirst
+  - 
+    title: Hallo sagen
+  - 
+    title: 'Challenge: Was beschäftigt dich?'
+  - 
+    title: ASCII Kunst
+  - 
+    title: 'Challenge: über dich selbst'
+  - 
+    title: Das Jahr 2025
+  - 
+    title: 'Challenge: Dein Alter in Hundejahren'
+  - 
+    title: 'Challenge: Einen Text berechnen'

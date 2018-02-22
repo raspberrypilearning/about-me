@@ -1,6 +1,6 @@
 ## ASCII art
 
-Zkusíme vypsat něco zábavnějšího než je text: ASCII art! ASCII art (vyslovuje se jako '*asky*') je vytváření '**obrázků z textu**'.
+Zkusíme vypsat něco zábavnějšího než je text: ASCII grafiku! ASCII grafika (vyslovuje se jako '*aski*') je vytváření '**obrázků z textu**'.
 
 + Let's add some art to your program — a picture of a dog!
     

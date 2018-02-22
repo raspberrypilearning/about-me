@@ -16,7 +16,7 @@
 
 إذا قمت بخطأ ما، فستتلقى رسالة خطأ بدلًا من ذلك - تخبرك بالخطأ الذي حدث!
 
-+ جربها! احذف نهاية الاقتباس ' أو قوس الإغلاق ) (أو كليهما) وراقب ما يحدث.
++ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
     
     ![screenshot](images/me-syntax.png)
 

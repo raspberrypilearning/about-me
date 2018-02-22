@@ -1,6 +1,6 @@
 ## The year 2025
 
-You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
+Další věc, kterou můžeš udělat, je provádění výpočtů a zobrazování čísel. Zkusíme zjistit, kolik ti bude v roce 2025!
 
 + To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
     
@@ -8,7 +8,7 @@ You can also do calculations and print numbers. Let's find out how old you'll be
     
     ![screenshot](images/me-calc.png)
     
-    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
+    Všimni si, že kolem čísel nemusíš psát uvozovky. (Číslo `2006` změň na číslo roku, kdy jsi se narodil)
 
 + Click **Run**, and your program should print your age in the year 2025.
     
@@ -18,11 +18,11 @@ You can also do calculations and print numbers. Let's find out how old you'll be
     
     ![screenshot](images/me-input.png)
 
-+ Run your program and then enter the year you were born. Did you get another error messgae?
++ Spusť program a vlož rok, kdy jsi se narodil. Vrátila se ti další chyba?
     
     That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
     
-    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
+    `Funkce int()` slouží k převodu textu na **celé číslo**. Integer je celé číslo.
     
     ![screenshot](images/me-input-test.png)
 

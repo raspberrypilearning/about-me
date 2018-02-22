@@ -2,9 +2,9 @@
 
 ## Challenge: about yourself
 
-Write a Python program to tell others about yourself using text and ASCII art. You can create images of your hobbies, friends, or anything you like!
+Napiš program, který ostatním ukáže, jak umíš používat text a ASCII art. You can create images of your hobbies, friends, or anything you like!
 
-**Remember that the code you write in Trinket is public. Don't share any personal information like your full name or address!**
+**Nezapomeň, že tvůj kód na Trinketu je veřejný. Nesdílej proto žádné osobní informace, jako je například celé tvé jméno, nebo adresa kde bydlíš!**
 
 Here’s an example:
 

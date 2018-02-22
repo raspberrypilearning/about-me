@@ -4,11 +4,11 @@
 
 Did you know that you can also calculate text?!
 
-What will the following program print to the screen? See if you can guess it correctly before running the program.
+Co vytiskne následující program na obrazovku? Zkus to odhadnout než program spustíš.
 
 ![screenshot](images/me-text-calc.png)
 
-Can you make up any words of your own? You could even make your own patterns!
+Dokážeš také poskládat slova podobným způsobem? Můžeš dokonce vyzkoušet vlastní vzory!
 
 ![screenshot](images/me-patterns.png)
 

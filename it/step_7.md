@@ -1,35 +1,35 @@
-## L’anno 2025
+## Nel 2025
 
-Puoi anche fare calcoli e stampare numeri. Vediamo quanti anni avrai nel 2025!
+You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
 
-+ Per calcolare la tua età nell’anno 2025, devi sottrarre il tuo anno di nascita da 2025.
++ Per calcolare quanti anni avrai nel 2025, devi sottrarre il tuo anno di nascita da 2025.
     
     Aggiungi questo codice al tuo programma:
     
     ![screenshot](images/me-calc.png)
     
-    Hai visto che non devi racchiudere i numeri tra virgolette? (Ricorda che devi cambiare il numero 2006 se il tuo anno di nascita è diverso)
+    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
 
-+ Fai clic su “run” e il programma dovrebbe stampare la tua età nell’anno 2025.
++ Fai click su **Run**. Il programma dovrebbe stampare quanti anni avrai nel 2025.
     
     ![screenshot](images/me-calc-run.png)
 
-+ Puoi anche migliorare il tuo programma usando l’istruzione “input()” per chiedere all’utilizzatore la sua età e memorizzarla in una variabile con il nome “born”.
++ Potresti migliorare il tuo programma utilizzando l'istruzione `input()` per chiedere a chi lo usa quanti anni ha, e per conservare la sua età in una **variabile** chiamata `anno`.
     
     ![screenshot](images/me-input.png)
 
-+ Esegui il programma ed immetti il tuo anno di nascita. È apparso un messaggio di errore?
++ Run your program and then enter the year you were born. Did you get another error messgae?
     
-    Questo è perché tutto quello che viene digitato nel programma è testo, ma in questo caso deve essere convertito in numero.
+    Questo perché tutto quello che viene digitato nel tuo programma è un **testo**, e questo testo va convertito in un **numero**.
     
-    Puoi usare “int()” per convertire il testo in integer (la parola “integer” significa “numero intero”).
+    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
     
     ![screenshot](images/me-input-test.png)
 
-+ Puoi anche creare un’altra variabile in cui memorizzare il tuo calcolo e stampare quella invece.
++ Puoi anche creare un'altra variabile, la variabile "eta", per archiviare il calcolo, e stampare questa variabile. Scrivi la parola "età" senza accento ("eta"), altrimenti comparirà un messaggio di errore.
     
     ![screenshot](images/me-result-variable.png)
 
-+ Infine, puoi rendere il programma più facile da capire aggiungendo un messaggio di spiegazioni.
++ Infine, puoi rendere il tuo programma più facile da capire aggiungendo un messaggio.
     
     ![screenshot](images/me-message.png)

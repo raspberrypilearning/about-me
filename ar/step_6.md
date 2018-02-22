@@ -2,9 +2,9 @@
 
 ## التحدي: عن نفسك
 
-اكتب برنامج Python لإخبار الآخرين عن نفسك، باستخدام النص ورسم ASCII. يمكنك إنشاء صور عن هواياتك أو أصدقائك أو أي شيء تحبه!
+Write a Python program to tell others about yourself using text and ASCII art. You can create images of your hobbies, friends, or anything you like!
 
-**تذكر أن التعليمات البرمجية التي تكتبها في Trinket عامة. لا تشارك أي معلومات شخصية مثل اسمك الكامل أو عنوانك!**
+**Remember that the code you write in Trinket is public. Don't share any personal information like your full name or address!**
 
 فيما يلي مثال على ذلك:
 

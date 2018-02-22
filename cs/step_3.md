@@ -16,7 +16,7 @@ Let's start by writing some text.
 
 If you've made a mistake, you'll get an error message telling you what went wrong instead!
 
-+ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
++ Zkus to! Odstraň uvozovky na konci ` ' ` nebo uzavírací závorku `) ` (nebo obojí) a uvidíš, co se stane.
     
     ![screenshot](images/me-syntax.png)
 

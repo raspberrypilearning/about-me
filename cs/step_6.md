@@ -2,9 +2,9 @@
 
 ## Challenge: about yourself
 
-Napiš program, který ostatním ukáže, jak umíš používat text a ASCII art. You can create images of your hobbies, friends, or anything you like!
+Napiš program, který ostatním ukáže, jak umíš používat text a ASCII grafiku. Můžeš vytvářet obrázky svých zálib, přátel, nebo čehokoliv jiného!
 
-**Nezapomeň, že tvůj kód na Trinketu je veřejný. Nesdílej proto žádné osobní informace, jako je například celé tvé jméno, nebo adresa kde bydlíš!**
+**Nezapomeň, že kód, který píšeš v Trinketu, je veřejný. Nesdílej proto žádné osobní informace, jako je například celé tvé jméno, nebo adresa kde bydlíš!**
 
 Here’s an example:
 

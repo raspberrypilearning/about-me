@@ -2,10 +2,10 @@
 
 ## Sfida: La tua età in anni canini
 
-Scrivi un programma in cui chiedi all’utilizzatore la sua età e poi gli dici la sua età in anni canini! Puoi calcolare l’età di una persona in anni canini moltiplicando la loro età per 7.
+Write a program to ask the user their age, and then tell them their age in dog years! You can calculate a person’s age in dog years by multiplying their age by 7.
 
 ![screenshot](images/me-dog-years.png)
 
-In programmazione, il simbolo della moltiplicazione è l’asterisco (*) che trovi, in una tastiera Windows, nell’ultimo tasto a destra della seconda fila di tasti dall’alto, accanto a Invio.
+In programmazione, il simbolo della **moltiplicazione** è l'asterisco `*`, che puoi digitare premendo <kbd>Shift + +</kbd> (il segno + si trova sulla tua tastiera accanto al tasto Invio).
 
 \--- /challenge \---

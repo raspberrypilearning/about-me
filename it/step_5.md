@@ -1,25 +1,25 @@
-## Arte ASCII
+## Disegni ASCII
 
-Stampiamo qualcosa di molto più divertente del testo: ASCII art! Arte ASCII (pronunciato ' *ask-e* ') è creare **Immagini fuori testo**.
+Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
 
-+ Aggiungiamo alcune opere d'arte al tuo programma — la foto di un cane!
++ Aggiungiamo un bel disegno al tuo programma: aggiungiamo l'immagine di un cane!
     
     ![screenshot](images/me-dog.png)
 
-Le gambe del cane sono realizzate utilizzando il carattere pipe `|` che puoi digitare premendo <kbd>Shift + \</kbd> con la maggior parte delle tastiere UK /US.
+Per realizzare le zampe del cane, utilizza la barra verticale `|`, che puoi digitare premendo <kbd>Shift + \ </kbd> (questo tasto si trova in alto a sinistra sulla tua tastiera).
 
-+ Se clicchi su **Run**, vedrai che c'è un bug nel tuo nuovo codice.
++ Se fai click su **Run**, vedrai che c'è un problema con il tuo nuovo codice.
     
     ![screenshot](images/me-dog-bug.png)
     
-    Questo è perchè il tuo testo contiene un'apostrofe `'`, il quale Python crede che sia la fine del testo!
+    Questo perché il tuo codice contiene un apostrofo `'`, e Python pensa che si tratti della fine del testo!
     
     ![screenshot](images/me-dog-quote.png)
 
-+ Per aggiustarlo, metti `` prima dell'apostrofo nella parola `here's`. Questo dice a Python che l'apostrofo è parte del testo.
++ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
     
     ![screenshot](images/me-dog-bug-fix.png)
 
-+ Se preferisci, puoi usare tre apostrofi `'''` invece di una, il quale ti permette di stampare piú linee di testo con un estratto `print`:
++ Se preferisci, puoi usare tre apostrofi `'''` invece di uno. Questo ti permetterà di stampare più righe di testo utilizzando il comando `print` una volta sola:
     
     ![screenshot](images/me-dog-triple-quote.png)

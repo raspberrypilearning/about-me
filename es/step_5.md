@@ -1,6 +1,6 @@
 ## Arte ASCII
 
-Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
+Vamos a imprimir algo mucho más divertido que el texto: ¡ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
 
 + Añadamos un poco de arte a tu programa, ¡la imagen de un perro!
     

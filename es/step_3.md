@@ -16,7 +16,7 @@ Empecemos por escribir un texto.
 
 Si cometes un error, ¡recibirás un mensaje de error indicándote lo qué salió mal!
 
-+ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
++ Pruébalo! Borra la última comilla `'` o el último paréntesis `)` (o ambos) y ver lo qué pasa.
     
     ![screenshot](images/me-syntax.png)
 

@@ -14,22 +14,22 @@ También podrás realizar cálculos e imprimir números. ¡Comprobemos que edad 
     
     ![screenshot](images/me-calc-run.png)
 
-+ Puedes mejorar tu programa usando `input()` para preguntarle al usuario su edad y almacenarla en una **variable** llamado `naciste`.
++ Podrás mejorar tu programa usando `input()` para preguntar al usuario su edad y almacenarla en una **variable** denominada `naciste`.
     
     ![screenshot](images/me-input.png)
 
-+ Run your program and then enter the year you were born. Did you get another error messgae?
++ Ejecuta tu programa y, a continuación, introduce el año en el que naciste. ¿Has recibido otro mensaje de error?
     
-    Eso es porque todo lo que se escribe en tu programa es **texto** y necesita ser convertido a un **número**.
+    Esto se debe a que todo lo escrito en tu programa es **texto** y necesita ser convertido a **números**.
     
-    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
+    Usa `int()` para convertir el texto en un **entero**. Un entero es un número entero.
     
     ![screenshot](images/me-input-test.png)
 
-+ También puedes crear otra variable para almacenar su cálculo e imprimirlo en su lugar.
++ También podrás crear otra variable para almacenar tus cálculos e imprimirlos.
     
     ![screenshot](images/me-result-variable.png)
 
-+ Finalmente, puedes hacer que tu programa sea más fácil de comprender al añadir de un mensaje útil.
++ Por último, podrás facilitar la comprensión de tu programa añadiendo un mensaje práctico.
     
     ![screenshot](images/me-message.png)

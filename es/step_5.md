@@ -1,6 +1,6 @@
 ## Arte ASCII
 
-Vamos a imprimir algo mucho más divertido que el texto: ¡ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
+Vamos a imprimir algo mucho más divertido que el texto: ¡arte ASCII! Arte ASCII (pronunciado '*ask-i* ') es la creación de **imágenes a partir de texto**.
 
 + Añadamos un poco de arte a tu programa, ¡la imagen de un perro!
     
@@ -16,7 +16,7 @@ Las patas del perro se hacen usando el carácter `|` que se puede escribir tecle
     
     ![screenshot](images/me-dog-quote.png)
 
-+ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
++ Para solucionar esto, simplemente coloque una barra invertida `` antes de la comilla que forma la cola del perro `'`. Esto le dice a Python que la comilla es parte del texto.
     
     ![screenshot](images/me-dog-bug-fix.png)
 

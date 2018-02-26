@@ -2,9 +2,9 @@
 
 ## Reto: sobre ti
 
-Write a Python program to tell others about yourself using text and ASCII art. You can create images of your hobbies, friends, or anything you like!
+Escribe un programa Python contando cosas sobre ti usando texto y arte ASCII. ¡Puedes crear imágenes de tus aficiones, amigos o cualquier otra cosa que prefieras!
 
-**Remember that the code you write in Trinket is public. Don't share any personal information like your full name or address!**
+**No te olvides de que el código que escribas en Trinket es público. ¡No compartas ningún tipo de información personal como, por ejemplo, tu nombre o dirección!**
 
 Aquí tienes un ejemplo:
 

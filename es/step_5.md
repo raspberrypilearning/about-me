@@ -6,7 +6,7 @@ Vamos a imprimir algo mucho más divertido que el texto: ¡arte ASCII! Arte ASCI
     
     ![screenshot](images/me-dog.png)
 
-Las patas del perro se hacen usando el carácter `|` que se puede escribir tecleando <kbd>Shift + \</kbd> en la mayoría de teclados, o que se encuentra en el superior izquierdo del teclado.
+Las patas del perro se hacen usando el carácter `|` que se puede escribir tecleando <kbd>mayúsculas+\</kbd> en la mayoría de teclados, o que se encuentra en el superior izquierdo del teclado.
 
 + Si haz clic en **Run**, verás que hay un error en tu nuevo código.
     

@@ -12,6 +12,7 @@ interests: ''
 technologies: python
 site_areas: codeclub, python
 steps:
+- title: Introduction
 - title: Dire Bonjour
 - title: "Défi: Qu'est-ce qui te passe par la tête?"
 - title: Art ASCII

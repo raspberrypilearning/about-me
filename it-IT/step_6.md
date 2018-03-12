@@ -16,7 +16,7 @@ Puoi anche fare calcoli e stampare numeri. Vediamo quanti anni avrai nel 2025.
 
     ![screenshot](images/me-calc-run.png)
 
-+ Puoi anche migliorare il tuo programma usando l'istruzione "input()" per chiedere all'utilizzatore la sua età e memorizzarla in una __variabile__ con il nome "born".
++ Puoi anche migliorare il tuo programma usando l'istruzione `input()` per chiedere all'utilizzatore la sua età e memorizzarla in una __variabile__ con il nome "born".
 
     ![screenshot](images/me-input.png)
 
@@ -24,7 +24,7 @@ Puoi anche fare calcoli e stampare numeri. Vediamo quanti anni avrai nel 2025.
 
     Questo è perché tutto quello che viene digitato nel programma è __testo__, ma in questo caso deve essere convertito in __numero__.
 
-    Puoi usare "int()" per convertire il testo in __integer__ (la parola "integer" significa "numero intero").
+    Puoi usare `int()` per convertire il testo in __integer__ (la parola "integer" significa "numero intero").
 
     ![screenshot](images/me-input-test.png)
 

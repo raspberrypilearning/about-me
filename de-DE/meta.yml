@@ -1,0 +1,22 @@
+hero_image: images/about-me.png
+theme: orange
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+curriculum: creator, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: Über Mich
+description: Schreibe über dich und erstelle Bilder von dir
+original_url: https://projects.raspberrypi.org/en/projects/about-me
+interests: ''
+technologies: python
+site_areas: codeclub, python
+steps:
+- title: Einführung
+- title: Hallo sagen
+- title: "Aufgabe: An was denkst du?"
+- title: ASCII Bild
+- title: "Aufgabe: Über Dich"
+- title: Das Jahr 2025
+- title: "Aufgabe: Alter in Hundejahren"
+- title: "Aufgabe: Text berechnen"

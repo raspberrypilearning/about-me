@@ -14,10 +14,10 @@ Proviamo a stampare qualcosa di più interessante che semplice testo. Stampiamo 
 
     ![screenshot](images/me-dog-quote.png)
 
-+ Per correggere questo problema, basta aggiungere una barra rovesciata "\" prima dell'apostrofo nella parola "here's". Questo indica a Python che l'apostrofo è parte del testo.
++ Per correggere questo problema, basta aggiungere una barra rovesciata `\` prima dell'apostrofo nella parola `here's`. Questo indica a Python che l'apostrofo è parte del testo.
 
     ![screenshot](images/me-dog-bug-fix.png)
 
-+ Se preferisci, puoi usare tre virgolette (""") invece di 1, per stampare più righe di testo con una sola istruzione "print":
++ Se preferisci, puoi usare tre virgolette (`'''`) invece di 1, per stampare più righe di testo con una sola istruzione `print`:
 
     ![screenshot](images/me-dog-triple-quote.png)

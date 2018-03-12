@@ -8,15 +8,15 @@ Cominciamo a scrivere del testo.
 
     ![screenshot](images/me-hi.png)
 
-    La riga "#!/bin/python3" dice a Trinket che stiamo usando Python 3 (l'ultima versione).
+    La riga `#!/bin/python3` dice a Trinket che stiamo usando Python 3 (l'ultima versione).
 
-+ Premi "run" e dovresti vedere che il comando "print()" stampa (o visualizza) tutto il testo contenuto tra le virgolette (").
++ Premi "run" e dovresti vedere che il comando `print()` stampa (o visualizza) tutto il testo contenuto tra le virgolette (`' '`).
 
     ![screenshot](images/me-hi-test.png)
 
 + Se ha fatto un qualche sbaglio, apparirà invece un messaggio di errore che ti dice cosa c'è di sbagliato.
 
-    Prova! Cancella le virgolette di chiusura " o la chiusura di parentesi ) (o tutte e due) e prova a vedere cosa succede.
+    Prova! Cancella le virgolette di chiusura `'` o la chiusura di parentesi `)` (o tutte e due) e prova a vedere cosa succede.
 
     ![screenshot](images/me-syntax.png)
 

@@ -1,5 +1,5 @@
 --- challenge ---
-## Aufgabe: Über Dich { .challenge}
+## Aufgabe: Über Dich
 Write a Python program to tell others about yourself using text and ASCII art. You can create images of your hobbies, friends, or anything you like!
 
 __Denke daran, dass der Code, den du in Trinket schreibst, öffentlich zugänglich ist. Teile hier keine persönlichen Informationen, wie z. B. deinen vollständigen Namen oder deine Anschrift, mit!__

@@ -12,6 +12,6 @@ In diesem Projekt lernst du, wie man ein Python Programm schreibt und wie du and
 
 ### Was du lernen wirst
 
-Dieses Projekt deckt Elemente aus den folgenden Bereichen des [Raspberry Pi Lehrplans zur digitalen Produktion]{http://rpf.io/curriculum}:
+Dieses Projekt deckt Elemente aus den folgenden Bereichen des [Raspberry Pi Lehrplans zur digitalen Produktion](http://rpf.io/curriculum):
 
 + [Einfach Programmierungskonstrukte benutzen, um einfache Programme zu erstellen.](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}

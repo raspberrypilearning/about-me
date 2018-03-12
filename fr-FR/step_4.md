@@ -1,4 +1,4 @@
-## rt ASCII
+## Art ASCII
 
 Affichons quelque chose de plus amusant que du texte... De l'art ASCII (prononcé "_aski_") consiste à créer des __images à l'aide de texte__.
 

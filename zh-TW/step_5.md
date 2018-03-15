@@ -1,25 +1,25 @@
-## ASCII art
+## ASCII藝術
 
-Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
+讓我們打印比文本更有趣的東西：ASCII藝術！ ASCII藝術（發音為'*ask-e*'）正在從文本</strong>中創建 **個圖片。</p> 
 
-+ Let's add some art to your program — a picture of a dog!
++ 讓我們給你的程序添加一些藝術 - 一隻狗的照片！
     
-    ![screenshot](images/me-dog.png)
+    ![截圖](images/me-dog.png)
 
-The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
+狗的腿是用管道字符 `|製成的您可以在大多數英國/美國英語鍵盤上按 <kbd>Shift + \ </kbd> 鍵入`。
 
-+ If you click **Run**, you'll see that there's a bug in your new code.
++ 如果您點擊 **運行**，則會看到新代碼中存在一個錯誤。
     
-    ![screenshot](images/me-dog-bug.png)
+    ![截圖](images/me-dog-bug.png)
     
-    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
+    這是因為您的文本包含一個撇號 `'`，Python認為它是文本的結尾！
     
-    ![screenshot](images/me-dog-quote.png)
+    ![截圖](images/me-dog-quote.png)
 
-+ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
++ 要解決這個問題，只需在撇號 `這裡的`之前加一個反斜杠 ``。 這告訴Python撇號是文本的一部分。
     
-    ![screenshot](images/me-dog-bug-fix.png)
+    ![截圖](images/me-dog-bug-fix.png)
 
-+ If you prefer, you can use three apostrophe `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
++ 如果您願意，可以使用三個撇號 `'''` 而不是一個，這允許您用一個 `print` 語句打印多行文本：
     
-    ![screenshot](images/me-dog-triple-quote.png)
+    ![截圖](images/me-dog-triple-quote.png)

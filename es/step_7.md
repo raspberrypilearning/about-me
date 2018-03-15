@@ -1,6 +1,6 @@
 ## El año 2025
 
-También podrás realizar cálculos e imprimir números. ¡Comprobemos que edad tendrás en el año 2025!
+También podrás realizar cálculos e imprimir números. ¡Comprobemos qué edad tendrás en el año 2025!
 
 + Para calcular los años que tendrás en el año 2025 necesitas restar a 2025 el año en el que naciste.
     
@@ -22,7 +22,7 @@ También podrás realizar cálculos e imprimir números. ¡Comprobemos que edad 
     
     Esto se debe a que todo lo escrito en tu programa es **texto** y necesita ser convertido a **números**.
     
-    Usa `int()` para convertir el texto en un **entero**. Un entero es un número entero.
+    Usa `int()` para convertir el texto a un **entero**. Un entero es un número sin decimales.
     
     ![screenshot](images/me-input-test.png)
 
@@ -30,6 +30,6 @@ También podrás realizar cálculos e imprimir números. ¡Comprobemos que edad 
     
     ![screenshot](images/me-result-variable.png)
 
-+ Por último, podrás facilitar la comprensión de tu programa añadiendo un mensaje práctico.
++ Por último, podrás facilitar la comprensión de tu programa añadiendo un mensaje de ayuda.
     
     ![screenshot](images/me-message.png)

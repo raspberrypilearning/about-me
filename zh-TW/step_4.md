@@ -1,9 +1,9 @@
-\--- challenge \---
+\---挑戰\---
 
-## Challenge: What's on your mind?
+## 挑戰：你在想什麼？
 
-Change the code you just wrote to print something more interesting about you!
+更改您剛寫入的代碼以打印更有趣的關於您的代碼！
 
-![screenshot](images/me-mind.png)
+![截圖](images/me-mind.png)
 
-\--- /challenge \---
+\--- /挑戰\---

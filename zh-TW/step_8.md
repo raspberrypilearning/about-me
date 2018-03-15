@@ -1,11 +1,11 @@
-\--- challenge \---
+\---挑戰\---
 
-## Challenge: your age in dog years
+## 挑戰：你在狗年的年齡
 
-Write a program to ask the user their age, and then tell them their age in dog years! You can calculate a person’s age in dog years by multiplying their age by 7.
+編寫一個程序向用戶詢問他們的年齡，然後告訴他們他們的年齡在狗年！ 你可以通過將年齡乘以7來計算一個人的年齡。
 
-![screenshot](images/me-dog-years.png)
+![截圖](images/me-dog-years.png)
 
-In programming, the symbol for **multiplication** is the `*` character, which you can usually type by pressing <kbd>Shift + 8</kbd> on the keyboard.
+在編程中， **乘法符號** 是 `*` 字符，通常可以通過按下鍵盤上的 <kbd>Shift + 8</kbd> 來鍵入。
 
-\--- /challenge \---
+\--- /挑戰\---

@@ -6,28 +6,28 @@ listed: true
 ingredient: false
 copyedit: true
 curriculum: creator, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: About me
-description: Use the Python programming language to create pictures out of text
+title: O mnie
+description: Używamy języka programowania Python do tworzenia obrazków z tekstu
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
 technologies: python
 site_areas: codeclub, python
 steps:
   - 
-    title: Introduction
+    title: Wprowadzenie
   - 
-    title: What you will need
+    title: Czego będziesz potrzebować
   - 
-    title: Saying hello
+    title: Mówimy "cześć"
   - 
-    title: 'Challenge: what''s on your mind?'
+    title: 'Wyzwanie: o czym myślisz?'
   - 
     title: ASCII art
   - 
-    title: 'Challenge: about yourself'
+    title: 'Wyzwanie: o sobie'
   - 
-    title: The year 2025
+    title: Rok 2025
   - 
-    title: 'Challenge: your age in dog years'
+    title: 'Wyzwanie: twój wiek w psich latach'
   - 
-    title: 'Challenge: calculating text'
+    title: 'Wyzwanie: obliczanie tekstu'

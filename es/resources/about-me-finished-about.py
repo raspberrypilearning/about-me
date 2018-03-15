@@ -11,9 +11,9 @@ Mis animales preferidos son las ovejas
 Vivo en Glasgow
 
    _|_
-  |   |
+  | |
   |#  |____
-  |   |    |
+  | | |
   |  #|  # |
  _|___|_#__|_
 

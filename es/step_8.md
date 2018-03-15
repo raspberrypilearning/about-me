@@ -6,6 +6,6 @@ Escribe un programa que pregunte al usuario su edad y, a continuación, ¡le dig
 
 ![screenshot](images/me-dog-years.png)
 
-En programación, el símbolo de **multiplicación** es `*`, y, por norma general, se encuentra en <kbd>mayúsculas+8</kbd> en el teclado.
+En programación, el símbolo de **multiplicación** es `*`, que puedes encontrar en la parte derecha del teclado.
 
 \--- /challenge \---

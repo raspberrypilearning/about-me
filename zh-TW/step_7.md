@@ -1,35 +1,35 @@
-## The year 2025
+## 2025年
 
-You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
+你也可以做計算和打印數字。 讓我們來看看你在2025年的年齡吧！
 
-+ To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
++ 要計算你在2025年的年齡，你需要從2025年減去你出生的那一年。
     
-    Add this code to your program:
+    將此代碼添加到您的程序中：
     
-    ![screenshot](images/me-calc.png)
+    ![截圖](images/me-calc.png)
     
-    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
+    注意你不需要在數字周圍加引號。 （如果您出生在不同的年份，您需要更改號碼 `2006` 。）
 
-+ Click **Run**, and your program should print your age in the year 2025.
++ 點擊 **運行**，你的程序應該在2025年打印你的年齡。
     
-    ![screenshot](images/me-calc-run.png)
+    ![截圖](images/me-calc-run.png)
 
-+ You could improve your program by using `input()` to ask the user their age and store it in a **variable** called `born`.
++ 您可以使用 `input（）` 向用戶詢問其年齡並將其存儲在名為 `的 <strong>變量</strong> （`）中，以改善程序。
     
-    ![screenshot](images/me-input.png)
+    ![截圖](images/me-input.png)
 
-+ Run your program and then enter the year you were born. Did you get another error messgae?
++ 運行你的程序，然後輸入你出生的那一年。 你有沒有得到另一個錯誤messgae？
     
-    That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
+    這是因為輸入到程序中的任何內容都是 **文本**，並且需要將其轉換為 **號碼**。
     
-    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
+    您可以使用 `int（）` 將文本轉換為 **整數**。 整數是整數。
     
-    ![screenshot](images/me-input-test.png)
+    ![截圖](images/me-input-test.png)
 
-+ You can also create another variable to store your calculation, and print that instead.
++ 您也可以創建另一個變量來存儲計算結果，然後打印。
     
-    ![screenshot](images/me-result-variable.png)
+    ![截圖](images/me-result-variable.png)
 
-+ Finally, you can make your program easier to understand by adding a helpful message.
++ 最後，通過添加有用的消息，可以使您的程序更易於理解。
     
-    ![screenshot](images/me-message.png)
+    ![截圖](images/me-message.png)

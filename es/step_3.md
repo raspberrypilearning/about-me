@@ -16,7 +16,7 @@ Empecemos por escribir un texto.
 
 Si cometes un error, ¡recibirás un mensaje de error indicándote lo qué salió mal!
 
-+ Pruébalo! Borra la última comilla `'` o el último paréntesis `)` (o ambos) y ver lo qué pasa.
++ Pruébalo! Borra la última comilla `'` o el último paréntesis `)` (o ambos) y comprueba lo que pasa.
     
     ![screenshot](images/me-syntax.png)
 

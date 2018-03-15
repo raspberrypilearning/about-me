@@ -1,25 +1,26 @@
-## ASCII art
+## ASCIIアート
 
-Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
+テキストよりももっと楽しいものを印刷しましょう：ASCIIアート！ ASCIIアート（「*ask-e*」と発音）は</strong>のテキストから **枚の画像を作成しています。</p> 
 
-+ Let's add some art to your program — a picture of a dog!
++ あなたのプログラムに芸術を加えてみましょう - 犬の絵！
     
-    ![screenshot](images/me-dog.png)
+    ![スクリーンショット](images/me-dog.png)
 
-The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
+犬の足は、パイプ文字 `| 123_7_2_321 Shift + \ </kbd> を押して入力できます。ほとんどの英国/米国英語キーボードで入力できます。</p>
 
-+ If you click **Run**, you'll see that there's a bug in your new code.
-    
-    ![screenshot](images/me-dog-bug.png)
-    
-    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
-    
-    ![screenshot](images/me-dog-quote.png)
+<ul>
+<li><p><strong>Run</strong>をクリックすると、新しいコードにバグがあることがわかります。</p>
 
-+ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
-    
-    ![screenshot](images/me-dog-bug-fix.png)
+<p><img src="images/me-dog-bug.png" alt="スクリーンショット" /></p>
 
-+ If you prefer, you can use three apostrophe `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
+<p>これは、テキストにアポストロフィ <code>'`が含まれているためです。これはPythonがテキストの終わりと考えるものです！
+
+![スクリーンショット](images/me-dog-quote.png)</li> 
+
++ これを修正するには、アポストロフィの前にバックスラッシュ `` を `の単語`に入れてください。 これは、アポストロフィがテキストの一部であることをPythonに伝えます。
     
-    ![screenshot](images/me-dog-triple-quote.png)
+    ![スクリーンショット](images/me-dog-bug-fix.png)
+
++ 必要に応じて、3つのアポストロフィ `'' '` を1つではなく使用して、1つの `印刷` ステートメントで複数行のテキストを印刷することができます。
+    
+    ![スクリーンショット](images/me-dog-triple-quote.png)</ul>

@@ -1,9 +1,9 @@
-\--- challenge \---
+\---挑戦\---
 
-## Challenge: What's on your mind?
+## 課題：あなたの心には何がありますか？
 
-Change the code you just wrote to print something more interesting about you!
+あなたが書いたコードを変更して、面白いものを印刷してください！
 
-![screenshot](images/me-mind.png)
+![スクリーンショット](images/me-mind.png)
 
-\--- /challenge \---
+\--- /チャレンジ\---

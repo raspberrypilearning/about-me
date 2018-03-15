@@ -1,14 +1,14 @@
-#!/bin/python3
+# bin/python3
 
 print('Hi, I can code in Python!')
 
 print('''
-My favourite animals are sheep
+我最喜歡的動物是綿羊
 
  o-###-
    | |   #
 
-I live in Glasgow
+我住在格拉斯哥
 
    _|_
   |   |

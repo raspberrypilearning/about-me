@@ -2,7 +2,7 @@ files:
   - source: /en/**/*.*
     ignore:
       - /**/*.zip
-    translation: /%osx_locale%/**/%original_file_name%
+    translation: /%locale%/**/%original_file_name%
     languages_mapping:
       osx_locale:
         zh-CN: zh-CN

@@ -18,7 +18,7 @@ U kunt ook berekeningen maken en nummers afdrukken. Laten we eens kijken hoe oud
     
     ![screenshot](images/me-input.png)
 
-+ Run your program and then enter the year you were born. Did you get another error messgae?
++ Run het programma en voer je geboortejaar in. Heb je nog een foutmelding gekregen?
     
     That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
     

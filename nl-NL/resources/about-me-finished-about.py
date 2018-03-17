@@ -5,8 +5,8 @@ print('Hoi, ik kan programmeren in Python!')
 print('''
 Schapen zijn mijn favoriete dieren
 
- o-###-
-   | | #
+  o-###-
+       | | #
 
 Ik woon in Glasgow
 
@@ -19,7 +19,7 @@ Ik woon in Glasgow
 
 ''')
 
-born = input('In welk jaar ben je geboren?')
-born = int(born)
-age = 2025 - born
-print('In 2025 ben je', age, 'jaar!')
+geboren = input('In welk jaar ben je geboren?')
+geboren = int(geboren)
+leeftijd = 2025 - geboren
+print('In 2025 ben je', leeftijd, 'jaar!')

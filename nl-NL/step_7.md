@@ -6,30 +6,30 @@ U kunt ook berekeningen maken en nummers afdrukken. Laten we eens kijken hoe oud
     
     Voeg deze code toe aan je programma:
     
-    ![screenshot](images/me-calc.png)
+    ![schermafdruk](images/me-calc.png)
     
     Je ziet dat er geen aanhalingstekens om cijfers hoeven te staan. (Je moet het nummer ` 2006 ` veranderen als je in een ander jaar bent geboren.)
 
 + Klik op ** Run ** en het programma zou je leeftijd in het jaar 2025 moeten laten zien.
     
-    ![screenshot](images/me-calc-run.png)
+    ![schermafdruk](images/me-calc-run.png)
 
 + Je kunt het programma verbeteren door met ` invoer () ` de gebruiker zijn / haar leeftijd te vragen en die op te slaan in een ** variabele ** met de naam ` geboren `.
     
-    ![screenshot](images/me-input.png)
+    ![schermafdruk](images/me-input.png)
 
 + Run het programma en voer je geboortejaar in. Heb je nog een foutmelding gekregen?
     
-    That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
+    Dat komt omdat alles wat je in je programma typt ** tekst ** is. En dat moet worden omgezet naar een ** getal **.
     
-    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
+    Je kunt ` int () gebruiken ` om de tekst om te zetten naar een ** integer**. Een integer is een geheel getal.
     
-    ![screenshot](images/me-input-test.png)
+    ![schermafdruk](images/me-input-test.png)
 
-+ You can also create another variable to store your calculation, and print that instead.
++ Je kunt ook een andere variabele maken om de berekening op te slaan en die af te drukken.
     
-    ![screenshot](images/me-result-variable.png)
+    ![schermafdruk](images/me-result-variable.png)
 
-+ Finally, you can make your program easier to understand by adding a helpful message.
++ Tenslotte kan het programma gemakkelijker te begrijpen worden gemaakt, door er een handig bericht aan toe te voegen.
     
-    ![screenshot](images/me-message.png)
+    ![schermafdruk](images/me-message.png)

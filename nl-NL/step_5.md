@@ -20,6 +20,6 @@ De poten van de hond zijn gemaakt met behulp van het sluisteken ` | ` (Engels: p
     
     ![schermafdruk](images/me-dog-bug-fix.png)
 
-+ Als je wilt, kunt je drie apostrofs gebruiken ` ''' ` in plaats van één, waardoor je meerdere regels tekst kunt afdrukken met één ` print ` statement:
++ Als je wilt, kunt je drie apostrofs gebruiken ` ''' ` in plaats van één, waardoor je meerdere regels tekst kunt afdrukken met één ` print ` instructie:
     
     ![schermafdruk](images/me-dog-triple-quote.png)

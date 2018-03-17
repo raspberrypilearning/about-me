@@ -6,13 +6,13 @@ Laten we iets leukers printen dan alleen tekst: ASCII-kunst! ASCII-kunst (uitges
     
     ![screenshot](images/me-dog.png)
 
-The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
+De poten van de hond zijn gemaakt met behulp van het sluisteken ` | ` (Engels: pipe) die je kunt typen door op <kbd> Shift + \ te drukken </kbd> op de meeste UK/US toetsenborden.
 
-+ If you click **Run**, you'll see that there's a bug in your new code.
++ Als je op ** Run **klikt zul je zien dat er een fout in je nieuwe code zit.
     
     ![screenshot](images/me-dog-bug.png)
     
-    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
+    Dat komt omdat er in de tekst een apostrof ` ' ` zit, waardoor Python denkt dat dit het einde van de tekst is!
     
     ![screenshot](images/me-dog-quote.png)
 

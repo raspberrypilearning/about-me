@@ -1,6 +1,6 @@
 ## Het jaar 2025
 
-U kunt ook berekeningen maken en nummers afdrukken. Laten we eens kijken hoe oud je bent in het jaar 2025!
+Je kunt ook berekeningen maken en getallen afdrukken. Laten we eens kijken hoe oud je bent in het jaar 2025!
 
 + Om te berekenen hoe oud je bent in het jaar 2025, moet je jouw geboortejaar van 2025 aftrekken.
     
@@ -8,13 +8,13 @@ U kunt ook berekeningen maken en nummers afdrukken. Laten we eens kijken hoe oud
     
     ![schermafdruk](images/me-calc.png)
     
-    Je ziet dat er geen aanhalingstekens om cijfers hoeven te staan. (Je moet het nummer ` 2006 ` veranderen als je in een ander jaar bent geboren.)
+    Je ziet dat er geen aanhalingstekens om getallen hoeven te staan. (Je moet het getal ` 2006 ` veranderen als je in een ander jaar bent geboren.)
 
 + Klik op ** Run ** en het programma zou je leeftijd in het jaar 2025 moeten laten zien.
     
     ![schermafdruk](images/me-calc-run.png)
 
-+ Je kunt het programma verbeteren door met ` invoer () ` de gebruiker zijn / haar leeftijd te vragen en die op te slaan in een ** variabele ** met de naam ` geboren `.
++ Je kunt het programma verbeteren door met ` input () ` de gebruiker zijn / haar leeftijd te vragen en die op te slaan in een ** variabele ** met de naam ` geboren `.
     
     ![schermafdruk](images/me-input.png)
 
@@ -30,6 +30,6 @@ U kunt ook berekeningen maken en nummers afdrukken. Laten we eens kijken hoe oud
     
     ![schermafdruk](images/me-result-variable.png)
 
-+ Tenslotte kan het programma gemakkelijker te begrijpen worden gemaakt, door er een handig bericht aan toe te voegen.
++ Tenslotte kun je het programma begrijpelijker maken door er een tekstje aan toe te voegen.
     
     ![schermafdruk](images/me-message.png)

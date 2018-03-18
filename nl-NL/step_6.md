@@ -1,6 +1,6 @@
-\--- uitdaging \---
+\--- challenge \---
 
-## Uitdaging: over jezelf
+## Challenge: over jezelf
 
 Schrijf een Python-programma om iets over jezelf te vertellen met behulp van tekst en ASCII-kunst. Je kunt afbeeldingen maken van je hobby's, vrienden of wat je maar wilt!
 
@@ -8,6 +8,6 @@ Schrijf een Python-programma om iets over jezelf te vertellen met behulp van tek
 
 Hier is een voorbeeld:
 
-![schermafdruk](images/me-about.png)
+![screenshot](images/me-about.png)
 
-\--- /uitdaging \---
+\--- /challenge \---

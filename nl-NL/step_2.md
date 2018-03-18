@@ -1,4 +1,4 @@
-## Wat je nodig hebt
+## Wat heb je nodig
 
 ### Hardware
 
@@ -6,4 +6,4 @@
 
 ### Software
 
-Dit project kan worden voltooid in een webbrowser met behulp van [ trinket.io ](https://trinket.io) {: Target = "_ blank"}
+Dit project kan in een webbrowser worden voltooid met behulp van [ trinket.io ](https://trinket.io) {: Target = "_ blank"}

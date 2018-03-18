@@ -22,4 +22,4 @@ Ik woon in Glasgow
 geboren = input('In welk jaar ben je geboren?')
 geboren = int(geboren)
 leeftijd = 2025 - geboren
-print('In 2025 ben je', leeftijd, 'jaar!')
+print('In \'25 ben je', leeftijd, 'jaar!')

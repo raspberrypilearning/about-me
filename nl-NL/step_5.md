@@ -16,7 +16,7 @@ De poten van de hond zijn gemaakt met behulp van het sluisteken ` | ` (Engels: p
     
     ![schermafdruk](images/me-dog-quote.png)
 
-+ Om dit te herstellen zet je een schuine streep ` \ ` voor de apostrof in het woord ` here' s `. Dit vertelt Python dat de apostrof deel uitmaakt van de tekst.
++ Om dit te herstellen zet je een schuine streep ` \ ` voor de apostrof die voor de letter ` t ` staat. Dit vertelt Python dat de apostrof deel uitmaakt van de tekst.
     
     ![schermafdruk](images/me-dog-bug-fix.png)
 

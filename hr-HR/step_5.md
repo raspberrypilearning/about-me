@@ -20,6 +20,6 @@ Noge psa možeš napraviti koristeći znak `|`. Ispiši ga koristeći tipke <kbd
     
     ![screenshot](images/me-dog-bug-fix.png)
 
-+ If you prefer, you can use three apostrophe `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
++ Ako želiš, možeš koristiti i tri znaka navodnika `'''` umjesto jednog pa ćeš moći ispisati više linija teksta sa samo jednom `print` naredbom:
     
     ![screenshot](images/me-dog-triple-quote.png)

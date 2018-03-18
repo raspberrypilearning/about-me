@@ -1,8 +1,8 @@
 ## Introductie
 
-In dit project leer je een Python-programma te schrijven waarin je mensen alles over je vertelt.
+In dit project leer je een Python-programma schrijven waarin je alles over je jezelf vertelt.
 
-### Wat je gaat maken
+### Wat ga je maken
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a1f663ae0d?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -10,13 +10,13 @@ In dit project leer je een Python-programma te schrijven waarin je mensen alles 
   <img src="images/me-final.png">
 </div>
 
-### Wat je gaat leren
+### Wat ga je leren
 
 Dit project behandelt elementen uit de volgende onderdelen van het [ Raspberry Pi Digital Making Curriculum ](http://rpf.io/curriculum)"}:
 
 + [ Gebruik eenvoudige programmeerconstructies om eenvoudige programma's te maken ](https://www.raspberrypi.org/curriculum/programming/creator) {:target="_ blank"}
 
-### Aanvullende informatie voor docenten
+### Aanvullende informatie voor clubleiders
 
 Als je dit project wilt afdrukken, gebruik dan de [ printvriendelijke versie ](https://projects.raspberrypi.org/en/projects/about-me/print) {:target="_ blank"}.
 

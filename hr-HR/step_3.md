@@ -20,14 +20,14 @@ Ako pogriješiš, dobit ćeš poruku o grešci koja će ti reći u čemu je prob
     
     ![screenshot](images/me-syntax.png)
 
-+ Add the quote or bracket back in, and click **Run** to make sure your project works again.
++ Izmijeni znak navodnika ili oblu zagradu, a zatim klikni na **Run** kako bi provjerio da li tvoj program opet ispravno radi.
 
-**You don't need a Trinket account to save your projects!**
+**Ne trebaš imati korisnički račun na Trinketu kako bi spremao svoje projekte!**
 
-If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+Ako nemaš Trinket korisnički račun, klikni na strelicu koja pokazuje prema dolje i zatim klikni na **Link**. Dobit ćeš poveznicu koju možeš spremiti i otvoriti kasnije. Ovo napravi svaki put kada izmijeniš svoj program zato što će se i poveznica promijeniti!
 
 ![screenshot](images/me-link.png)
 
-If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
+Ako imaš Trinket korisnički račun, možeš kliknuti na **Remix** kako bi spremio svoju kopiju programa.
 
 ![screenshot](images/me-remix.png)

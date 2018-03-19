@@ -1,0 +1,33 @@
+---
+hero_image: images / about-me.png
+theme: オレンジ
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+curriculum: クリエイター、デザイン-0、プログラミング-1、phys-comp-0、製造-0、コミュニティ-0
+title: 私について
+description: Pythonプログラミング言語を使用してテキストから画像を作成する
+original_url: https://codeclubprojects.org/en-GB/python/about-me
+interests: ''
+technologies: パイソン
+site_areas: コーデッククラブ、パイソン
+steps:
+  - 
+    title: 前書き
+  - 
+    title: あなたが必要とするもの
+  - 
+    title: 挨拶
+  - 
+    title: 課題：あなたの心には何がありますか？
+  - 
+    title: ASCIIアート
+  - 
+    title: 課題：あなた自身について
+  - 
+    title: 2025年
+  - 
+    title: 課題：犬の年齢
+  - 
+    title: 課題：テキストの計算

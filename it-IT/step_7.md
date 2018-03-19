@@ -1,6 +1,6 @@
 ## Nel 2025
 
-In questo programma, puoi anche fare dei calcoli e stampare dei numeri. Scopriamo quanti anni avrai nel 2025!
+You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
 
 + Per calcolare quanti anni avrai nel 2025, devi sottrarre il tuo anno di nascita da 2025.
     
@@ -8,7 +8,7 @@ In questo programma, puoi anche fare dei calcoli e stampare dei numeri. Scopriam
     
     ![screenshot](images/me-calc.png)
     
-    Se noti, non c'è bisogno di inserire i numeri tra le virgolette. (Dovrai però cambiare il numero `2006` se il tuo anno di nascita è diverso.)
+    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
 
 + Fai click su **Run**. Il programma dovrebbe stampare quanti anni avrai nel 2025.
     
@@ -18,11 +18,11 @@ In questo programma, puoi anche fare dei calcoli e stampare dei numeri. Scopriam
     
     ![screenshot](images/me-input.png)
 
-+ Esegui il tuo programma e poi immetti l'anno in cui sei nato. Hai ricevuto un messaggio di errore?
++ Run your program and then enter the year you were born. Did you get another error messgae?
     
     Questo perché tutto quello che viene digitato nel tuo programma è un **testo**, e questo testo va convertito in un **numero**.
     
-    Puoi utilizzare `int()` per convertire il testo in un **integer**. Un "integer" è un numero intero.
+    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
     
     ![screenshot](images/me-input-test.png)
 

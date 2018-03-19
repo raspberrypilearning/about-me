@@ -5,7 +5,8 @@ Wykonując ten projekt nauczysz się, jak napisać w języku Python program, kt�
 ### Co stworzysz
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/bc30a19577" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+  <iframe src="https://trinket.io/embed/python/a1f663ae0d?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  </iframe>
   <img src="images/me-final.png">
 </div>
 
@@ -17,6 +18,6 @@ Ten projekt pokrywa elementy z następujących wątków z [Raspberry Pi Digital 
 
 ### Dodatkowe informacje dla nauczycieli
 
-Jeśli chcesz wydrukować ten projekt użyj [wersji do druku](https://projects.raspberrypi.org/en/projects/about-me/print){:target="_blank"}.
+Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.raspberrypi.org/en/projects/about-me/print){:target="_blank"}.
 
-Skorzystaj z odnośnika w stopce, aby uzyskać dostęp do repozytorium kodu tego projektu w serwisie GitHub, które zawiera wszystkie zasoby (włącznie z przykładem gotowego projektu) w folderze 'pl/zasoby'.
+Skorzystaj z odnośnika w stopce, aby uzyskać dostęp do repozytorium kodu tego projektu w serwisie GitHub. Repozytorium to zawiera wszystkie zasoby (w tym przykład gotowego projektu) w folderze 'pl-PL/resources'.

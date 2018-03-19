@@ -1,4 +1,4 @@
---- challenge ---
+\--- challenge \---
 
 ## Wyzwanie: twój wiek w psich latach
 
@@ -8,4 +8,4 @@ Napisz program, który zapyta użytkownika o jego wiek, a następnie powie mu, i
 
 W programowaniu symbol **mnożenia** to znak `*`, który zazwyczaj można wpisać, naciskając klawisze <kbd>Shift + 8</kbd> na klawiaturze.
 
---- /challenge ---
+\--- /challenge \---

@@ -1,8 +1,8 @@
 ## Rok 2025
 
-Możesz także wykonywać obliczenia i wyświetlać liczby. Sprawdźmy, ile będziesz mieć lat w 2025 roku!
+Możesz też wykonywać obliczenia i wyświetlać liczby. Sprawdźmy, ile będziesz mieć lat w 2025 roku!
 
-+ Aby obliczyć, ile będziesz mieć lat w 2025 roku, musisz od 2025 odjąć swój rok urodzenia.
++ Aby obliczyć, ile będziesz miał lat w 2025 roku, musisz od 2025 odjąć swój rok urodzenia.
     
     Dodaj ten kod do swojego programu:
     
@@ -20,7 +20,7 @@ Możesz także wykonywać obliczenia i wyświetlać liczby. Sprawdźmy, ile będ
 
 + Uruchm program, a następnie wpisz swój rok urodzenia. Pojawił się kolejny komunikat o błędzie?
     
-    Dzieje się tak dlatego, że wszystko, co wpisujesz w swoim programie, to **tekst** i musi zostać przekonwertowany na **liczbę**.
+    Dzieje się tak dlatego, że wszystko, co wpisujesz w swoim programie, to **tekst**, który musi zostać przekonwertowany na **liczbę**.
     
     Możesz użyć `int()`, aby przekonwertować tekst na **liczbę całkowitą** (ang. *integer*). 
     
@@ -30,6 +30,6 @@ Możesz także wykonywać obliczenia i wyświetlać liczby. Sprawdźmy, ile będ
     
     ![screenshot](images/me-result-variable.png)
 
-+ Wreszcie możesz sprawić, że program będzie bardziej zrozumiały dodając odpowiedni komunikat.
++ Możesz też sprawić, że program będzie bardziej zrozumiały, dodając odpowiedni komunikat.
     
     ![screenshot](images/me-message.png)

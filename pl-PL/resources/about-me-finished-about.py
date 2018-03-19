@@ -22,4 +22,4 @@ Mieszkam w Poznaniu.
 rokUrodzenia = input('W którym roku się urodziłeś?')
 rokUrodzenia = int(rokUrodzenia)
 wiek = 2025 - rokUrodzenia
-print('W 2025 roku będziesz mieć', wiek, 'lat!')
+print('W 2025 roku będziesz miał', wiek, 'lat!')

@@ -1,35 +1,35 @@
 ## El año 2025
 
-También puedes hacer cálculos e imprimir números. ¡Averigüemos qué edad tendrás en el año 2025!
+También podrás realizar cálculos e imprimir números. ¡Comprobemos qué edad tendrás en el año 2025!
 
-+ Para calcular la edad que tendrás en el año 2025, debes restar el año en que naciste a partir de 2025.
++ Para calcular los años que tendrás en el año 2025 necesitas restar a 2025 el año en el que naciste.
     
     Añade este código a tu programa:
     
     ![screenshot](images/me-calc.png)
     
-    Aviso que no es necesario poner comillas alrededor de los números. (Necesitarás cambiar el número `2006` si naciste en un año diferente.)
+    Ten en cuenta que no necesitas poner comillas en los números. (Deberás cambiar el número `2006` si naciste en otro año.)
 
-+ Haga clic en **Run**, y tu programa debe imprimir tu edad en el año 2025.
++ Haz clic en **Run** y tu programa imprimirá la edad que tendrás en el año 2025.
     
     ![screenshot](images/me-calc-run.png)
 
-+ Puedes mejorar tu programa usando `input()` para preguntarle al usuario su edad y almacenarla en una **variable** llamado `naciste`.
++ Podrás mejorar tu programa usando `input()` para preguntar al usuario su edad y almacenarla en una **variable** denominada `naciste`.
     
     ![screenshot](images/me-input.png)
 
-+ Ejecute tu programa y luego ingrese el año en que naciste. ¿Recibiste otro mensaje de error?
++ Ejecuta tu programa y, a continuación, introduce el año en el que naciste. ¿Has recibido otro mensaje de error?
     
-    Eso es porque todo lo que se escribe en tu programa es **texto** y necesita ser convertido a un **número**.
+    Esto se debe a que todo lo escrito en tu programa es **texto** y necesita ser convertido a **números**.
     
-    Puedes usar `int()` para convertir el texto a un **entero**. Un entero es un número entero.
+    Usa `int()` para convertir el texto a un **entero**. Un entero es un número sin decimales.
     
     ![screenshot](images/me-input-test.png)
 
-+ También puedes crear otra variable para almacenar su cálculo e imprimirlo en su lugar.
++ También podrás crear otra variable para almacenar tus cálculos e imprimirlos.
     
     ![screenshot](images/me-result-variable.png)
 
-+ Finalmente, puedes hacer que tu programa sea más fácil de comprender al añadir de un mensaje útil.
++ Por último, podrás facilitar la comprensión de tu programa añadiendo un mensaje de ayuda.
     
     ![screenshot](images/me-message.png)

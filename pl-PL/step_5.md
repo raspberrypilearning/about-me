@@ -16,7 +16,7 @@ Nogi psa są wykonane przy użyciu tzw. znaku potoku `|`, który możesz wpisać
     
     ![screenshot](images/me-dog-quote.png)
 
-+ Aby to naprawić, umieść po prostu lewy ukośnik `\` przed apostrofem, czyli ogonem psa. Dzięki temu Python wie, że ten apostrof to część tekstu.
++ Aby to naprawić, umieść lewy ukośnik `\` przed apostrofem, czyli ogonem psa. Dzięki temu Python wie, że ten apostrof to część tekstu.
     
     ![screenshot](images/me-dog-bug-fix.png)
 

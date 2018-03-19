@@ -8,7 +8,7 @@ Zacznijmy od napisania jakiegoś tekstu.
     
     ![screenshot](images/me-hi.png)
     
-    Linia `#!/bin/python3` mówi po prostu edytorowi Trinket, że używamy języka Python 3 (najnowszej wersji).
+    Linia `#!/bin/python3` informuje edytor Trinket, że używamy języka Python 3 (najnowszej wersji).
 
 + Kliknij **Run** a zobaczysz, że polecenie `print()` wyświetla wszystko, co jest zapisane pomiędzy apostrofami `''`.
     
@@ -16,7 +16,7 @@ Zacznijmy od napisania jakiegoś tekstu.
 
 Jeśli popełnisz błąd, otrzymasz komunikat w języku angielskim o błędzie z informacją, co poszło nie tak!
 
-+ Spróbuj! Usuń ostatni apostrof `'` albo nawias zamykający `)` (albo oba) i zobacz co się stanie.
++ Spróbuj! Usuń ostatni apostrof `'` albo nawias zamykający `)` (albo oba) i zobacz, co się stanie.
     
     ![screenshot](images/me-syntax.png)
 
@@ -24,7 +24,7 @@ Jeśli popełnisz błąd, otrzymasz komunikat w języku angielskim o błędzie z
 
 **Nie potrzebujesz konta w Trinket, aby zapisać swoje projekty!**
 
-Jeśli nie masz konta Trinket, kliknij strzałkę w dół, a następnie kliknij **Link**. Zobaczysz link, który możesz zapisać, wchodząc na ten adres później możesz wrócić do swojego projektu. Będziesz musiał to zrobić za każdym razem, gdy wprowadzisz zmiany, ponieważ link będzie się zmieniał!
+Jeśli nie masz konta Trinket, kliknij strzałkę w dół, a następnie kliknij **Link**. Zobaczysz link, który możesz zapisać i użyć później, aby wrócić do swojego projektu. Musisz to robić za każdym razem, gdy wprowadzisz zmiany, ponieważ link będzie się zmieniał!
 
 ![screenshot](images/me-link.png)
 

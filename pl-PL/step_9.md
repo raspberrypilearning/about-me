@@ -1,4 +1,4 @@
-\--- challenge \---
+--- challenge ---
 
 ## Wyzwanie: obliczanie tekstu
 
@@ -12,4 +12,4 @@ Możesz wymyślić jakieś własne słowa? Możesz tworzyć nawet własne wzory!
 
 ![screenshot](images/me-patterns.png)
 
-\--- /challenge \---
+--- /challenge ---

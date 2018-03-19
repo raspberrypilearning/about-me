@@ -1,4 +1,4 @@
-\--- challenge \---
+--- challenge ---
 
 ## Wyzwanie: o czym myślisz?
 
@@ -6,4 +6,4 @@ Zmień kod, który właśnie napisałeś, aby wyświetlić coś ciekawszego o To
 
 ![screenshot](images/me-mind.png)
 
-\--- /challenge \---
+--- /challenge ---

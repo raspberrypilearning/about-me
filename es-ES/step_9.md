@@ -2,13 +2,13 @@
 
 ## Reto: calcular texto
 
-¡¿Sabías que también puedes calcular el texto?!
+¡¿Sabías que también puedes calcular texto?!
 
-¿Qué imprime el siguiente programa en la pantalla? Vea si puedes adivinarlo correctamente antes de ejecutar el programa.
+¿Qué imprimirá el siguiente programa en la pantalla? Intenta adivinar la respuesta correcta antes de ejecutar el programa.
 
 ![screenshot](images/me-text-calc.png)
 
-¿Puedes inventar tus propias palabras? ¡Incluso podrías hacer tus propios patrones!
+¿Eres capaz de inventarte palabras? ¡Puedes incluso crear tus propios patrones!
 
 ![screenshot](images/me-patterns.png)
 

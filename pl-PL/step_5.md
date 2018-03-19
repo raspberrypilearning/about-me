@@ -6,7 +6,7 @@ Wyświetlmy coś znacznie fajniejszego niż tekst: ASCII art! ASCII art (wymawia
     
     ![screenshot](images/me-dog.png)
 
-Nogi psa są wykonane przy użyciu tzw. znaku potoku `|`, który możesz wpisać naciskając <kbd>Shift + \</kbd> na większości polskich klawiatur.
+Nogi psa są wykonane przy użyciu tzw. znaku potoku `|`, który możesz wpisać naciskając <kbd>Shift + <\kbd> na większości polskich klawiatur.
 
 + Kiedy klikniesz przycisk **Run** zobaczysz, że w twoim nowym kodzie jest błąd.
     

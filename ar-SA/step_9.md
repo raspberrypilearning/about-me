@@ -4,11 +4,11 @@
 
 هل تعلم أنه يمكنك أيضًا حساب النص؟!
 
-ماذا يطبع البرنامج التالي على الشاشة؟ دعنا نرى ما إذا كان يمكنك التخمين بشكل صحيح قبل تشغيل البرنامج.
+What will the following program print to the screen? See if you can guess it correctly before running the program.
 
 ![screenshot](images/me-text-calc.png)
 
-هل يمكنك تكوين أي كلمات من عندك؟ يمكنك حتى صياغة أنماطك الخاصة!
+Can you make up any words of your own? You could even make your own patterns!
 
 ![screenshot](images/me-patterns.png)
 

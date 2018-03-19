@@ -13,21 +13,12 @@ interests: ''
 technologies: python
 site_areas: codeclub, python
 steps:
-  - 
-    title: Wprowadzenie
-  - 
-    title: Czego będziesz potrzebować
-  - 
-    title: Mówimy "cześć"
-  - 
-    title: 'Wyzwanie: o czym myślisz?'
-  - 
-    title: ASCII art
-  - 
-    title: 'Wyzwanie: o sobie'
-  - 
-    title: Rok 2025
-  - 
-    title: 'Wyzwanie: twój wiek w psich latach'
-  - 
-    title: 'Wyzwanie: obliczanie tekstu'
+  - title: Wprowadzenie
+  - title: Czego będziesz potrzebować
+  - title: Mówimy "cześć"
+  - title: 'Wyzwanie: o czym myślisz?'
+  - title: ASCII art
+  - title: 'Wyzwanie: o sobie'
+  - title: Rok 2025
+  - title: 'Wyzwanie: twój wiek w psich latach'
+  - title: 'Wyzwanie: obliczanie tekstu'

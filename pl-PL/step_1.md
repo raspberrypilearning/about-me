@@ -5,8 +5,7 @@ Wykonując ten projekt nauczysz się, jak napisać w języku Python program, kt�
 ### Co stworzysz
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/a1f663ae0d?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
+  <iframe src="https://trinket.io/embed/python/bc30a19577" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
   <img src="images/me-final.png">
 </div>
 

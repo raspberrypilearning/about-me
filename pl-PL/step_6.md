@@ -1,4 +1,4 @@
-\--- challenge \---
+--- challenge ---
 
 ## Wyzwanie: o sobie
 
@@ -10,4 +10,4 @@ Oto przykład:
 
 ![screenshot](images/me-about.png)
 
-\--- /challenge \---
+--- /challenge ---

@@ -2,10 +2,10 @@
 
 ## Reto: tu edad en años de perro
 
-¡Escribe un programa para preguntarle al usuario su edad y luego cuéntales su edad en años de perro! Puedes calcular la edad de una persona en años de perro multiplicando su edad por 7.
+Escribe un programa que pregunte al usuario su edad y, a continuación, ¡le diga su edad en años caninos! Puedes calcular la edad de una persona en años caninos multiplicándola por 7.
 
 ![screenshot](images/me-dog-years.png)
 
-En la programación, el símbolo para la **multiplicación** es el carácter `*`, que generalmente puede escribir presionando las teclas <kbd>Shift + 8</kbd> en el teclado.
+En programación, el símbolo de **multiplicación** es `*`, que puedes encontrar en la parte derecha del teclado.
 
 \--- /challenge \---

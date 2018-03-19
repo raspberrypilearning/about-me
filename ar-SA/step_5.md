@@ -1,6 +1,6 @@
 ## رسم ASCII
 
-هيا بنا نطبع شيئًا أكثر متعة من النصوص¦ رسم ASCII! رسم ASCII (تنطق ‘أسكي’) هو رسم يقوم بإنشاء صور من نصوص.
+Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
 
 + دعونا نضيف بعض الرسوم إلى البرنامج - مثل صورة كلب!
     
@@ -16,7 +16,7 @@
     
     ![screenshot](images/me-dog-quote.png)
 
-+ لإصلاح هذا الأمر، ضع فقط شرطة مائلة للخلف \ قبل علامة الاقتباس في كلمة here's. فهذا يخبر Python أن علامة الاقتباس هي جزء من النص.
++ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
     
     ![screenshot](images/me-dog-bug-fix.png)
 

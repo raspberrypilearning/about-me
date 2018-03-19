@@ -1,6 +1,6 @@
 ## عام 2025
 
-يمكنك أيضًا القيام بالعمليات الحسابية وطباعة الأرقام. دعنا نكتشف كم سيكون عمرك بحلول عام 2025!
+You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
 
 + لحساب كم سيكون عمرك في عام 2025، تحتاج إلى طرح العام الذي ولدت فيه من 2025.
     
@@ -8,7 +8,7 @@
     
     ![screenshot](images/me-calc.png)
     
-    لاحظ أنك لا تحتاج إلى وضع علاماتي اقتباس حول الأرقام. (ستحتاج إلى تغيير الرقم `2006` إذا كنت قد ولدت في عام أخر).
+    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
 
 + انقر فوق **Run** وسيطبع برنامجك عمرك في عام 2025.
     
@@ -18,11 +18,11 @@
     
     ![screenshot](images/me-input.png)
 
-+ قم بتشغيل البرنامج الخاص بك ثم أدخل العام الذي ولدت فيه. هل تلقيت رسالة خطأ أخرى؟
++ Run your program and then enter the year you were born. Did you get another error messgae?
     
     حسنًا، ذلك لأن أي شيء كتب في برنامجك هو نص، ويحتاج إلى تحويله إلى رقم.
     
-    يمكنك استخدام `int()` لتحويل النص إلى عدد صحيح (“العدد الصحيح” يعني “رقم صحيح”).
+    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
     
     ![screenshot](images/me-input-test.png)
 

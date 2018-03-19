@@ -16,7 +16,7 @@ Cominciamo a scrivere del testo.
 
 Se hai commesso un errore, riceverai un messaggio di errore che ti farà sapere cosa è andato storto!
 
-+ Fai una prova! Cancella la virgoletta alla fine `'` o la parentesi alla fine `)` (o entrambe) e prova a vedere cosa succede.
++ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
     
     ![screenshot](images/me-syntax.png)
 

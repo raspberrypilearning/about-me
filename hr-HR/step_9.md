@@ -2,7 +2,7 @@
 
 ## Izazov: izračunaj tekst
 
-Jeste li znali da možete izračunati i tekst?!
+Jesi li znao da možeš izračunati i tekst?!
 
 Što će sljedeći program ispisati na ekran? Pokušaj točno odgovoriti prije nego li pokreneš program.
 

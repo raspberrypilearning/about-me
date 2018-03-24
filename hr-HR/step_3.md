@@ -16,11 +16,11 @@ Započnimo sa upisivanjem nekog teksta.
 
 Ako pogriješiš, dobit ćeš poruku o grešci koja će ti reći u čemu je problem!
 
-+ Pokušaj! Izbriši posljednji navodnik `'` ili oblu zagradu `)` (ili oboje) i pogledaj što će se dogoditi.
++ Pokušaj! Izbriši posljednji navodnik `'` ili posljednju zagradu `)` (ili oboje) i pogledaj što će se dogoditi.
     
     ![screenshot](images/me-syntax.png)
 
-+ Izmijeni znak navodnika ili oblu zagradu, a zatim klikni na **Run** kako bi provjerio da li tvoj program opet ispravno radi.
++ Ponovno upiši znak navodnika ili zagradu, a zatim klikni na **Run** kako bi provjerio da li tvoj program opet ispravno radi.
 
 **Ne trebaš imati korisnički račun na Trinketu kako bi spremao svoje projekte!**
 

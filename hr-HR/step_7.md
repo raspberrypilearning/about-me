@@ -14,22 +14,22 @@ Možeš i računati i ispisivati brojeve. Saznajmo koliko godina ćeš imati 202
     
     ![screenshot](images/me-calc-run.png)
 
-+ You could improve your program by using `input()` to ask the user their age and store it in a **variable** called `born`.
++ Možeš poboljšati svoj program koristeći naredbu `input()` kako bi pitao korisnika koliko ima godina. Odgovor spremi u **varijablu** `rodjen`.
     
     ![screenshot](images/me-input.png)
 
-+ Run your program and then enter the year you were born. Did you get another error messgae?
++ Pokreni program i unesi godinu svog rođenja. Jesi li opet dobio poruku o grešci?
     
-    That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
+    To je zato jer je sve što uneseš u svoj program **tekst** i treba ga pretvoriti u **broj**.
     
-    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
+    Možeš koristiti naredbu `int()` da bi promijenio tekst u oblik **integer**. Integer je cijeli broj.
     
     ![screenshot](images/me-input-test.png)
 
-+ You can also create another variable to store your calculation, and print that instead.
++ Možeš i dodati novu varijablu za spremanje svog izračuna, a zatim nju ispisati.
     
     ![screenshot](images/me-result-variable.png)
 
-+ Finally, you can make your program easier to understand by adding a helpful message.
++ Konačno, svoj program možeš učiniti razumljivijim za korisnike, sa par jednostavnih dodatnih poruka.
     
     ![screenshot](images/me-message.png)

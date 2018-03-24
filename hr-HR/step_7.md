@@ -1,16 +1,16 @@
 ## 2025. godina
 
-You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
+Možeš i računati i ispisivati brojeve. Saznajmo koliko godina ćeš imati 2025. godine!
 
-+ To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
++ Da bi izračunao koliko godina ćeš imati 2025. godine, moraš oduzeti godinu svog rođenja od 2025.
     
-    Add this code to your program:
+    Dodaj ovaj kôd svom programu:
     
     ![screenshot](images/me-calc.png)
     
-    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
+    Primijetit ćeš da se brojevi ne pišu unutar znakova navodnika. (Promijeni broj `2006` ako si rođen neke druge godine.)
 
-+ Click **Run**, and your program should print your age in the year 2025.
++ Klikni na **Run** i tvoj program bi trebao ispisati koliko ćeš imati godina 2025. godine.
     
     ![screenshot](images/me-calc-run.png)
 

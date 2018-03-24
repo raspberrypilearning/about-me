@@ -1,6 +1,6 @@
 ## Introductie
 
-In dit project leer je een Python-programma schrijven waarin je alles over je jezelf vertelt.
+In dit project leer je een Python-programma te schrijven waarin je alles over jezelf vertelt.
 
 ### Wat ga je maken
 

@@ -6,7 +6,7 @@ Laten we iets leukers printen dan alleen tekst: ASCII-kunst! ASCII-kunst (uitges
     
     ![screenshot](images/me-dog.png)
 
-De poten van de hond zijn gemaakt met behulp van het sluis teken ` | ` (Engels: pipe) die je kunt typen door op <kbd> Shift + \ te drukken </kbd>.
+De poten van de hond zijn gemaakt met behulp van het sluisteken ` | ` (Engels: pipe) die je kunt typen door op <kbd> Shift + \</kbd> te drukken.
 
 + Als je op ** Run **klikt zul je zien dat er een fout in je nieuwe code zit.
     

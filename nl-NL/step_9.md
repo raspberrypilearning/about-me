@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: rekenen met tekst
+## Uitdaging: rekenen met tekst
 
 Wist je dat je ook met tekst kunt rekenen?
 

@@ -1,11 +1,11 @@
-\--- challenge \---
+\--- завдання \---
 
-## Challenge: your age in dog years
+## Виклик: ваш вік у собачих літах
 
-Write a program to ask the user their age, and then tell them their age in dog years! You can calculate a person’s age in dog years by multiplying their age by 7.
+Напишіть програму, щоб поставити користувачеві свій вік, а потім сказати їм свій вік у роки собак! Ви можете розрахувати вік людини в роки собак, помноживши їх вік на 7.
 
-![screenshot](images/me-dog-years.png)
+![скріншот](images/me-dog-years.png)
 
-In programming, the symbol for **multiplication** is the `*` character, which you can usually type by pressing <kbd>Shift + 8</kbd> on the keyboard.
+У програмуванні символ **множення** є символом `*` , який зазвичай можна ввести, натиснувши <kbd>Shift + 8</kbd> на клавіатурі.
 
-\--- /challenge \---
+\--- / виклик \---

@@ -1,25 +1,25 @@
-## ASCII art
+## Arte ASCII
 
-Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
+Vamos imprimir algo muito mais divertido do que texto: arte ASCII! A arte ASCII (pronuncia-se '*ask-e*') está criando **imagens fora do texto**.
 
-+ Let's add some art to your program — a picture of a dog!
++ Vamos adicionar um pouco de arte ao seu programa - uma foto de um cachorro!
     
-    ![screenshot](images/me-dog.png)
+    ![captura de tela](images/me-dog.png)
 
-The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
+As pernas do cachorro são feitas usando o personagem pipe `|` que você pode digitar pressionando <kbd>Shift + \ </kbd> na maioria dos teclados do Reino Unido / EUA em inglês.
 
-+ If you click **Run**, you'll see that there's a bug in your new code.
++ Se você clicar em **Run**, verá que há um bug no seu novo código.
     
-    ![screenshot](images/me-dog-bug.png)
+    ![captura de tela](images/me-dog-bug.png)
     
-    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
+    Isso porque seu texto contém um apóstrofo `'`, que o Python considera o fim do texto!
     
-    ![screenshot](images/me-dog-quote.png)
+    ![captura de tela](images/me-dog-quote.png)
 
-+ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
++ Para corrigir isso, basta colocar uma barra invertida `` antes do apóstrofo na palavra `aqui`. Isso informa ao Python que o apóstrofo é parte do texto.
     
-    ![screenshot](images/me-dog-bug-fix.png)
+    ![captura de tela](images/me-dog-bug-fix.png)
 
-+ If you prefer, you can use three apostrophe `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
++ Se preferir, você pode usar três apóstrofos `'' '` em vez de um, o que permite imprimir várias linhas de texto com uma instrução `print`:
     
-    ![screenshot](images/me-dog-triple-quote.png)
+    ![captura de tela](images/me-dog-triple-quote.png)

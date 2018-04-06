@@ -4,14 +4,18 @@ duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: creator, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: À propos de moi
 description: Écris et crée des images à propos de toi
 original_url: https://projects.raspberrypi.org/en/projects/about-me
 interests: ''
 technologies: python
-site_areas: codeclub, python
-steps:
+site_areas: projects
+hardware: ''
+software: python
+version: 3
+last_tested: 2017-01-01
+steps: 
 - title: Dire Bonjour
 - title: "Défi: Qu'est-ce qui te passe par la tête?"
 - title: Art ASCII

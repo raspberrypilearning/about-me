@@ -1,33 +1,33 @@
-## Saying hello
+## Nói xin chào
 
-Let's start by writing some text.
+Hãy bắt đầu bằng cách viết một vài câu.
 
-+ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Mở một mẫu Python trống: <a href="http://jumpto.cc/python-new" target="_blank"> jumpto.cc/python-new </a>.
 
-+ Type the following into the window that appears:
++ Nhập thông tin sau vào cửa sổ xuất hiện:
     
-    ![screenshot](images/me-hi.png)
+    ![ảnh chụp màn hình](images/me-hi.png)
     
-    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
+    Dòng ` #! / Bin / python3 ` nói với Trinket rằng chúng ta đang sử dụng Python 3 (phiên bản mới nhất).
 
-+ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
++ Nhấp vào **Run**, và bạn sẽ thấy rằng `print()` thực hiện lệnh in tất cả mọi thứ trong dấu ngoặc kép `''`.
     
-    ![screenshot](images/me-hi-test.png)
+    ![ảnh chụp màn hình](images/me-hi-test.png)
 
-If you've made a mistake, you'll get an error message telling you what went wrong instead!
+Nếu bạn làm sai, bạn sẽ nhận được một thông báo lỗi cho bạn biết bạn sai ở đâu!
 
-+ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
++ Thử nào! Xóa dấu kết thúc `'` hoặc dấu kết thúc `)` (hoặc cả 2) và xem những gì xảy ra.
     
-    ![screenshot](images/me-syntax.png)
+    ![ảnh chụp màn hình](images/me-syntax.png)
 
-+ Add the quote or bracket back in, and click **Run** to make sure your project works again.
++ Thêm dấu trở lại và nhấp vào **Run** để xem nó hoạt động trở lại.
 
-**You don't need a Trinket account to save your projects!**
+**Bạn không cần tài khoản Trinket để lưu dự án của bạn!**
 
-If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+Nếu bạn không có tài khoản Trinket, hãy nhấp vào mũi tên xuống và nhấp vào **Link**. Điều này sẽ cung cấp cho bạn một liên kết mà bạn có thể lưu lại và vào lại sau. Bạn sẽ cần phải làm điều này mỗi khi bạn thực hiện thay đổi, vì liên kết sẽ thay đổi!
 
-![screenshot](images/me-link.png)
+![ảnh chụp màn hình](images/me-link.png)
 
-If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
+Nếu bạn có tài khoản Trinket, bạn có thể nhấp vào **Remix** để tạo bản sao của riêng bạn.
 
-![screenshot](images/me-remix.png)
+![ảnh chụp màn hình](images/me-remix.png)

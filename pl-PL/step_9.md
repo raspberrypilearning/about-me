@@ -15,7 +15,7 @@ Możesz wymyślić jakieś własne słowa? Możesz nawet tworzyć własne wzory!
 --- /challenge ---
 
 
-## Tłumaczenie wykonane przez wolontariuszy
+### Tłumaczenie wykonane przez wolontariuszy
 
 Projekt został przetłumaczony przez **Wojtek Zieliński**.
 

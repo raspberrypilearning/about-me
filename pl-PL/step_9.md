@@ -8,7 +8,7 @@ Co poniższy program wyświetli na ekranie? Spróbuj zgadnąć zanim uruchomisz 
 
 ![screenshot](images/me-text-calc.png)
 
-Możesz wymyślić jakieś własne słowa? Możesz nawet tworzyć własne wzory!
+Potrafisz wymyślić jakieś własne słowa? Możesz nawet tworzyć własne wzory!
 
 ![screenshot](images/me-patterns.png)
 

@@ -1,0 +1,23 @@
+hero_image: images/about-me.png
+theme: orange
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+curriculum: creator, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: मेरे बारे में
+description: टेक्स्ट में से चित्रों का निर्माण करने के लिए पाइथन प्रोग्रामिंग लैंग्वेज का उपयोग करें
+original_url: https://codeclubprojects.org/en-GB/python/about-me
+interests: ''
+technologies: python
+site_areas: codeclub, python
+steps:
+- title: भूमिका
+- title: आपको किस चीज़ की आवश्यकता होगी
+- title: हैलो कह रहे हैं
+- title: "चुनौती: आपके मन में क्या है?"
+- title: ASCII आर्ट
+- title: "चुनौती: आपके बारे में"
+- title: वर्ष 2025
+- title: “चुनौती: कुत्ते की आयु के अनुसार आपकी आयु”
+- title: “चुनौती: टेक्स्ट की गणना करें”

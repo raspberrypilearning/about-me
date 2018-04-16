@@ -8,9 +8,9 @@ Laten we beginnen met het schrijven van wat tekst.
     
     ![screenshot](images/me-hi.png)
     
-    De regel ` #! / Bin / python3 ` vertelt Trinket dat we Python 3 gebruiken (de nieuwste versie).
+    De regel `#!/Bin/python3` vertelt Trinket dat we Python 3 gebruiken (de nieuwste versie).
 
-+ Klik op ** Run ** en je zou moeten zien dat de ` print () ` opdracht alles afdrukt wat tussen de aanhalingstekens ` '' ` staat.
++ Klik op **Run** en je zou moeten zien dat de `print()` opdracht alles afdrukt wat tussen de aanhalingstekens `''` staat.
     
     ![screenshot](images/me-hi-test.png)
 
@@ -20,14 +20,14 @@ Als je een fout hebt gemaakt, krijg je een foutmelding waarin staat wat er fout 
     
     ![screenshot](images/me-syntax.png)
 
-+ Voeg het aanhalingsteken of het haakje weer toe en klik op ** Run ** om ervoor te zorgen dat je project weer werkt.
++ Voeg het aanhalingsteken of het haakje weer toe en klik op **Run** om ervoor te zorgen dat je project weer werkt.
 
 **Je hebt geen Trinket-account nodig om je projecten op te slaan!**
 
-Als je geen Trinket-account hebt, klik dan op de pijl-omlaag en vervolgens op ** Link **. Hiermee krijg je een link die je kunt opslaan en later kunt openen. Je moet dit elke keer doen nadat er wijzigingen zijn aangebracht omdat de link verandert!
+Als je geen Trinket-account hebt, klik dan op de pijl-omlaag en vervolgens op **Link**. Hiermee krijg je een link die je kunt opslaan en later kunt openen. Je moet dit elke keer doen nadat er wijzigingen zijn aangebracht omdat de link verandert!
 
 ![screenshot](images/me-link.png)
 
-Als je een Trinket-account hebt, kun je op ** Remix ** klikken om je eigen exemplaar van de trinket op te slaan.
+Als je een Trinket-account hebt, kun je op **Remix** klikken om je eigen exemplaar van de trinket op te slaan.
 
 ![screenshot](images/me-remix.png)

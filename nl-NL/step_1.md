@@ -5,8 +5,7 @@ In dit project leer je een Python-programma te schrijven waarin je alles over je
 ### Wat je gaat maken
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/d6abb9c030?outputOnly=true" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
+  <iframe src="https://trinket.io/embed/python/d6abb9c030?outputOnly=true" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
   <img src="images/me-final.png">
 </div>
 

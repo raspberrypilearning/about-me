@@ -1,4 +1,4 @@
-\--- challenge \---
+--- challenge ---
 
 ## Uitdaging: je leeftijd in hondenjaren
 
@@ -8,4 +8,4 @@ Schrijf een programma die de gebruiker vraagt naar zijn of haar leeftijd en geef
 
 Bij het programmeren is het symbool voor ** vermenigvuldiging ** het ` * ` teken dat je meestal krijgt door <kbd> Shift + 8 </kbd> te typen.
 
-\--- /challenge \---
+--- /challenge ---

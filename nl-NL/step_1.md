@@ -12,7 +12,7 @@ In dit project leer je een Python-programma te schrijven waarin je alles over je
 
 ### Wat je gaat leren
 
-Dit project behandelt elementen uit de volgende onderdelen van het [ Raspberry Pi Digital Making Curriculum ](http://rpf.io/curriculum)"}:
+Dit project behandelt elementen uit de volgende onderdelen van het [ Raspberry Pi Digital Making Curriculum ](http://rpf.io/curriculum){:target="_blank"}:
 
 + [ Gebruik eenvoudige programmeerconstructies om eenvoudige programma's te maken ](https://www.raspberrypi.org/curriculum/programming/creator) {:target="_ blank"}
 

@@ -15,7 +15,7 @@ Kun je zelf woorden bedenken? Je kunt zelfs je eigen patronen maken!
 --- /challenge ---
 
 
-**\*\*\*
+\*\*\*
 
 ## Door de community geleverde vertaling
 

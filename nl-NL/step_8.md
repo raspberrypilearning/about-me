@@ -6,6 +6,6 @@ Schrijf een programma die de gebruiker vraagt naar zijn of haar leeftijd en geef
 
 ![screenshot](images/me-dog-years.png)
 
-Bij het programmeren is het symbool voor ** vermenigvuldiging ** het ` * ` teken dat je meestal krijgt door <kbd> Shift + 8 </kbd> te typen.
+Bij het programmeren is het symbool voor **vermenigvuldiging** het `*` teken dat je meestal krijgt door `Shift + 8` te typen.
 
 --- /challenge ---

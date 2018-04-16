@@ -20,7 +20,7 @@ Je kunt ook berekeningen maken en getallen afdrukken. Laten we eens kijken hoe o
 
 + Run het programma en voer je geboortejaar in. Heb je nog een foutmelding gekregen?
     
-    Dat komt omdat alles wat je in je programma typt **tekst** is. En dat moet worden omgezet naar een **getal **.
+    Dat komt omdat alles wat je in je programma typt **tekst** is. En dat moet worden omgezet naar een **getal**.
     
     Je kunt `int() gebruiken` om de tekst om te zetten naar een **integer**. Een integer is een geheel getal.
     

@@ -15,9 +15,9 @@ Kun je zelf woorden bedenken? Je kunt zelfs je eigen patronen maken!
 --- /challenge ---
 
 
-\*\*\*
+***
 
-## Door de community geleverde vertaling
+### Door de community geleverde vertaling
 
 Dit project werd vertaald door **Henny van Ham** en gecontroleerd door **Cor Groot**.
 

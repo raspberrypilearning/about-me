@@ -4,6 +4,6 @@
 
 ![screenshot](images/me-dog-years.png)
 
-在编程中，__乘法__的符号为 `*` 字符，通常你可以按下键盘上的 <kbd>Shift + 8</kbd> 打出该字符。
+在编程中， __乘法__ 的符号为 `*` 字符，通常你可以按下键盘上的 <kbd>Shift + 8</kbd> 打出该字符。
 
 --- /challenge ---

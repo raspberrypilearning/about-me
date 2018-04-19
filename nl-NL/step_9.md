@@ -13,8 +13,6 @@ Kun je zelf woorden bedenken? Je kunt zelfs je eigen patronen maken!
 ![screenshot](images/me-patterns.png)
 
 --- /challenge ---
-
-
 ***
 
 ### Door de community geleverde vertaling

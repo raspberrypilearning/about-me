@@ -11,12 +11,12 @@ Wykonując ten projekt nauczysz się, jak napisać w języku Python program, kt�
 
 ### Czego się nauczysz
 
-Ten projekt pokrywa elementy z następujących wątków z [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Projekt ten obejmuje następujące elementy [Cyfrowego programu nauczania Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Użycie podstawowych konstrukcji programistycznych do tworzenia prostych programów](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
 ### Dodatkowe informacje dla nauczycieli
 
-Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.raspberrypi.org/en/projects/about-me/print){:target="_blank"}.
+Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.raspberrypi.org/pl-PL/projects/about-me/print){:target="_blank"}.
 
 Skorzystaj z odnośnika w stopce, aby uzyskać dostęp do repozytorium kodu tego projektu w serwisie GitHub. Repozytorium to zawiera wszystkie zasoby (w tym przykład gotowego projektu) w folderze 'pl-PL/resources'.

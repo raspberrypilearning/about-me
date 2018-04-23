@@ -11,7 +11,7 @@ Wykonując ten projekt nauczysz się, jak napisać w języku Python program, kt�
 
 ### Czego się nauczysz
 
-Projekt ten obejmuje elementy następujące elementy [Cyfrowego programu nauczania Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+Projekt ten obejmuje następujące elementy [Cyfrowego programu nauczania Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Użycie podstawowych konstrukcji programistycznych do tworzenia prostych programów](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 

@@ -5,7 +5,7 @@ A través de este proyecto, aprenderás a escribir un programa Python contando c
 ### Lo que crearás
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/8638d150aa" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/python/8638d150aa" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/me-final.png">
 </div>

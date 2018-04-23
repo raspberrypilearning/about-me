@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Reto: calcular texto
+## Desafío: calcular texto
 
 ¡¿Sabías que también puedes calcular texto?!
 

@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Reto: sobre ti
+## Desafío: sobre ti
 
 Escribe un programa Python contando cosas sobre ti usando texto y arte ASCII. ¡Puedes crear imágenes de tus aficiones, amigos o cualquier otra cosa que prefieras!
 

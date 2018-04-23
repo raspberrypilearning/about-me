@@ -1,40 +1,13 @@
-## El año 2025
+--- challenge ---
 
-También podrás realizar cálculos e imprimir números. Comprobemos que edad tendrás en el año 2025.
+## Reto: sobre ti
 
-+ Para calcular los años que tendrás en el año 2025 necesitas restar a 2025 el año en el que naciste.
+Escribe un programa Python contando cosas sobre ti usando texto y arte ASCII. ¡Puedes crear imágenes de tus aficiones, amigos o cualquier otra cosa que prefieras!
 
-    Añade este código a tu programa:
+**No te olvides de que el código que escribas en Trinket es público. ¡No compartas ningún tipo de información personal como, por ejemplo, tu nombre o dirección!**
 
-    ![screenshot](images/me-calc.png)
+Aquí tienes un ejemplo:
 
-    Ten en cuenta que no necesitas poner comillas en los números.
+![screenshot](images/me-about.png)
 
-    (Deberás cambiar el número `2006` si naciste en otro año).
-
-+ Haz clic en 'run' y tu programa imprimirá la edad que tendrás en el año 2025.
-
-    ![screenshot](images/me-calc-run.png)
-
-+ Podrás mejorar tu programa usando `input()` para preguntar al usuario su edad y almacenarla en una __variable__ denominada `born`.
-
-    ![screenshot](images/me-input.png)
-
-+ Ejecuta tu programa y, a continuación, introduce el año en el que naciste. ¿Has recibido otro mensaje de error?
-
-    Esto se debe a que todo lo escrito en tu programa es __texto__ y necesita ser convertido a __números__.
-
-    Usa `int()` para convertir el texto en un  __número entero__.
-
-    ![screenshot](images/me-input-test.png)
-
-+ También podrás crear otra variable para almacenar tus cálculos e imprimirlos.
-
-    ![screenshot](images/me-result-variable.png)
-
-+ Por último, podrás facilitar la comprensión de tu programa añadiendo un mensaje práctico.
-
-    ![screenshot](images/me-message.png)
-
-
-
+--- /challenge ---

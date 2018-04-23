@@ -1,3 +1,4 @@
+---
 hero_image: images/about-me.png
 theme: orange
 duration: 2
@@ -6,8 +7,8 @@ ingredient: false
 copyedit: true
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: Sobre mi
-description: Escribe y crea imágenes sobre ti
-original_url: https://projects.raspberrypi.org/en/projects/about-me
+description: Utiliza el lenguaje de programación Python para crear imágenes a partir de caracteres de texto
+original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
 technologies: python
 site_areas: projects
@@ -15,12 +16,13 @@ hardware: ''
 software: python
 version: 3
 last_tested: 2017-01-01
-steps: 
-- title: Introducción
-- title: Saludar
-- title: "Reto: ¿En qué estás pensando?"
-- title: Arte ASCII
-- title: "Reto: Sobre ti"
-- title: El año 2025
-- title: "Reto: Tu edad en años caninos"
-- title: "Reto: Calcular texto"
+steps:
+  - title: Introducción
+  - title: Lo que necesitarás
+  - title: Decir hola
+  - title: 'Reto: ¿en qué estás pensando?'
+  - title: Arte ASCII
+  - title: 'Reto: sobre ti'
+  -  title: El año 2025
+  - title: 'Reto: tu edad en años de perro'
+  - title: 'Reto: calcular texto'

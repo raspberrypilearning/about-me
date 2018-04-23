@@ -1,13 +1,11 @@
 --- challenge ---
-## Reto: Calcular texto 
-¿Sabías que también puedes calcular texto?
 
-¿Qué imprimirá el siguiente programa en la pantalla? Intenta adivinar la respuesta correcta antes de ejecutar el programa.
+## Reto: tu edad en años de perro
 
-![screenshot](images/me-text-calc.png)
+Escribe un programa que pregunte al usuario su edad y, a continuación, ¡le diga su edad en años caninos! Puedes calcular la edad de una persona en años caninos multiplicándola por 7.
 
-¿Eres capaz de inventarte palabras? ¡Puedes incluso crear tus propios patrones!
+![screenshot](images/me-dog-years.png)
 
-![screenshot](images/me-patterns.png)
+En programación, el símbolo de **multiplicación** es `*`, que puedes encontrar en la parte derecha del teclado.
 
 --- /challenge ---

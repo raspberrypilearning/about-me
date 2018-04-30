@@ -2,14 +2,14 @@
 
 ## Desafio: calcular o texto
 
-Você sabia que você também pode calcular o texto?
+Sabias que também podes calcular o texto?!
 
-O que o programa a seguir imprimirá na tela? Veja se você consegue adivinhá-lo corretamente antes de executar o programa.
+O que irá o programa a seguir imprimir no ecrã? Vê consegues adivinhar corretamente antes de executar o programa.
 
-![captura de tela](images/me-text-calc.png)
+![captura de ecrã](images/me-text-calc.png)
 
-Você consegue inventar suas próprias palavras? Você pode até criar seus próprios padrões!
+Consegues inventar as tuas próprias palavras? Podes até criar os teus próprios padrões!
 
-![captura de tela](images/me-patterns.png)
+![captura de ecrã](images/me-patterns.png)
 
 \--- / desafio \---

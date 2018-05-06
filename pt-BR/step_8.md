@@ -1,11 +1,11 @@
-\--- challenge \---
+\--- desafio \---
 
-## Challenge: your age in dog years
+## Desafio: sua idade em anos de cachorro
 
-Write a program to ask the user their age, and then tell them their age in dog years! You can calculate a person’s age in dog years by multiplying their age by 7.
+Escreva um programa para perguntar ao usuário sua idade e, em seguida, diga a ele sua idade em anos de cachorro! Você pode calcular a idade de uma pessoa em anos de cachorro multiplicando sua idade por 7.
 
-![screenshot](images/me-dog-years.png)
+![captura de tela](images/me-dog-years.png)
 
-In programming, the symbol for **multiplication** is the `*` character, which you can usually type by pressing <kbd>Shift + 8</kbd> on the keyboard.
+Na programação, o símbolo para a multiplicação ** ** é o ` * ` caractere, que você normalmente pode digitar pressionando <kbd> Shift + 8 </kbd> no teclado.
 
-\--- /challenge \---
+\--- / desafio \---

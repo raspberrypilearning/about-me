@@ -4,11 +4,11 @@
 
 Sapevi che puoi anche calcolare un testo?!
 
-What will the following program print to the screen? See if you can guess it correctly before running the program.
+Cosa comparirà sullo schermo eseguendo questo programma? Vediamo se riesci ad indovinarlo prima di eseguire il programma.
 
 ![screenshot](images/me-text-calc.png)
 
-Can you make up any words of your own? You could even make your own patterns!
+Sapresti creare parole tutte tue? Potresti anche inventare disegni tutti tuoi!
 
 ![screenshot](images/me-patterns.png)
 

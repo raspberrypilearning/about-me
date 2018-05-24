@@ -1,6 +1,6 @@
 ## Disegni ASCII
 
-Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
+Proviamo a stampare qualcosa di molto più interessante che un semplice testo: i disegni ASCII! I disegni ASCII (pronuncia: '*ask-i*) sono delle **immagini create usando caratteri di testo**.
 
 + Aggiungiamo un bel disegno al tuo programma: aggiungiamo l'immagine di un cane!
     
@@ -16,7 +16,7 @@ Per realizzare le zampe del cane, utilizza la barra verticale `|`, che puoi digi
     
     ![screenshot](images/me-dog-quote.png)
 
-+ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
++ Per risolvere questo problema, basta inserire una barra rovesciata `` prima dell'apostrofo nella parola `l'immagine`. Questo dice a Python che l'apostrofo è parte del testo.
     
     ![screenshot](images/me-dog-bug-fix.png)
 

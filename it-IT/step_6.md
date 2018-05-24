@@ -2,9 +2,9 @@
 
 ## Sfida: Mi presento
 
-Write a Python program to tell others about yourself using text and ASCII art. You can create images of your hobbies, friends, or anything you like!
+Crea un programma Python per parlare agli altri di te usando del testo e i disegni ASCII. Puoi creare immagini dei tuoi hobby, dei tuoi amici o di qualsiasi cosa che ti piace!
 
-**Remember that the code you write in Trinket is public. Don't share any personal information like your full name or address!**
+**Ricorda che i codici che scrivi in ​​Trinket sono pubblici. Non condividere nessuna informazione personale come il tuo nome e cognome o il tuo indirizzo!**
 
 Ecco un esempio:
 

@@ -24,14 +24,14 @@ steps:
   - 
     title: Dizer olá
   - 
-    title: 'Desafio: o que você tem em mente?'
+    title: "Desafio: o que você tem em mente?"
   - 
     title: Arte ASCII
   - 
-    title: 'Desafio: sobre você'
+    title: "Desafio: sobre você"
   - 
     title: O ano de 2025
   - 
-    title: 'Desafio: sua idade em anos de cão'
+    title: "Desafio: sua idade em anos de cão"
   - 
-    title: 'Desafio: calcular o texto'
+    title: "Desafio: calcular o texto"

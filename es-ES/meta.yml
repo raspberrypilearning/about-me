@@ -24,14 +24,14 @@ steps:
   - 
     title: Decir hola
   - 
-    title: 'Reto: ¿en qué estás pensando?'
+    title: "Reto: ¿en qué estás pensando?"
   - 
     title: Arte ASCII
   - 
-    title: 'Reto: sobre ti'
+    title: "Reto: sobre ti"
   - 
     title: El año 2025
   - 
-    title: 'Reto: tu edad en años de perro'
+    title: "Reto: tu edad en años de perro"
   - 
-    title: 'Reto: calcular texto'
+    title: "Reto: calcular texto"

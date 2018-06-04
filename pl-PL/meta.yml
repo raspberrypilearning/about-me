@@ -24,14 +24,14 @@ steps:
   - 
     title: Mówimy "cześć"
   - 
-    title: 'Wyzwanie: o czym myślisz?'
+    title: "Wyzwanie: o czym myślisz?"
   - 
     title: ASCII art
   - 
-    title: 'Wyzwanie: o sobie'
+    title: "Wyzwanie: o sobie"
   - 
     title: Rok 2025
   - 
-    title: 'Wyzwanie: twój wiek w psich latach'
+    title: "Wyzwanie: twój wiek w psich latach"
   - 
-    title: 'Wyzwanie: obliczanie tekstu'
+    title: "Wyzwanie: obliczanie tekstu"

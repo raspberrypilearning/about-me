@@ -24,14 +24,14 @@ steps:
   - 
     title: Art ASCII
   - 
-    title: 'Défi: À propos de toi'
+    title: "Défi: À propos de toi"
   - 
     title: L'an 2025
   - 
-    title: 'Défi: Ton âge en années de chien'
+    title: "Défi: Ton âge en années de chien"
   - 
     title: 'Défi: calculer du text'
   - 
-    title: 'Challenge: your age in dog years'
+    title: "Challenge: your age in dog years"
   - 
-    title: 'Challenge: calculating text'
+    title: "Challenge: calculating text"

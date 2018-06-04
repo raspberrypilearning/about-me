@@ -24,14 +24,14 @@ steps:
   - 
     title: 'Aufgabe: An was denkst du?'
   - 
-    title: ASCII Bild
+    title: "ASCII Bild"
   - 
     title: 'Aufgabe: Über Dich'
   - 
-    title: Das Jahr 2025
+    title: "Das Jahr 2025"
   - 
     title: 'Aufgabe: Alter in Hundejahren'
   - 
-    title: 'Aufgabe: Text berechnen'
+    title: "Aufgabe: Text berechnen"
   - 
-    title: 'Challenge: Einen Text berechnen'
+    title: "Challenge: Einen Text berechnen"

@@ -24,14 +24,14 @@ steps:
   - 
     title: Saying hello
   - 
-    title: 'Challenge: what''s on your mind?'
+    title: "Challenge: what's on your mind?"
   - 
     title: ASCII art
   - 
-    title: 'Challenge: about yourself'
+    title: "Challenge: about yourself"
   - 
     title: The year 2025
   - 
-    title: 'Challenge: your age in dog years'
+    title: "Challenge: your age in dog years"
   - 
-    title: 'Challenge: calculating text'
+    title: "Challenge: calculating text"

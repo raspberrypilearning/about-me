@@ -2,8 +2,8 @@
 
 ### Обладнання
 
-+ Комп'ютер, який має доступ до [trinket.io](https://trinket.io)(: target = "_ blank") веб-сайт
++ Комп'ютер, який має доступ до веб-сайту [trinket.io](https://trinket.io){: target = "_ blank"}
 
 ### Програмне забезпечення
 
-Цей проект можна виконати в веб-переглядачі, використовуючи [trinket.io](https://trinket.io)(: target = "_ blank")
+Цей проект можна виконати в веб-переглядачі, використовуючи [trinket.io](https://trinket.io){: target = "_ blank"}

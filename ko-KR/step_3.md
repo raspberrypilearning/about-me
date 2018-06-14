@@ -16,15 +16,15 @@
 
 만약 실수를 했다면, 무엇이 잘못되었는지 알려주는 에러 메세지를 볼 수 있습니다.
 
-+ 한번 시도해 보세요! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
++ 한번 시도해 보세요! 닫히는 쪽의 따옴표 `'` 를 삭제하거나 닫는 괄호 `)` (또는 둘 다) 를 삭제하고 무슨 일이 일어나는 지 보세요.
     
     ![screenshot](images/me-syntax.png)
 
-+ Add the quote or bracket back in, and click **Run** to make sure your project works again.
++ 지웠던 따옴표나 괄호를 다시 써 주시고, **실행**을 클릭해서 당신의 프로젝트가 다시 작동하는지 확인 해 보세요.
 
-**You don't need a Trinket account to save your projects!**
+**프로젝트를 저장하기 위해 Trinket 계정이 필요하지 않습니다!**
 
-If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+Trinket 계정이 없다면 아래쪽 화살표를 클릭 한 다음 **링크**를 클릭하십시오. 그러면 프로젝트를 저장 후 나중에 다시 볼 수 있는 링크가 제공됩니다. You'll need to do this every time you make changes, as the link will change!
 
 ![screenshot](images/me-link.png)
 

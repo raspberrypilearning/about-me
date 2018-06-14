@@ -8,7 +8,7 @@
     
     ![screenshot](images/me-hi.png)
     
-    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
+    `#!/bin/python3` 이라고 쓰여진 줄은 우리가 Python 3 (최신 버전) 을 사용하고 있다고 Trinket에게 알려줍니다.
 
 + **실행**을 클릭하면, `print()`명령이 따옴표`''`사이의 모든 것을 출력하는 것을 볼 수 있습니다.
     
@@ -24,10 +24,10 @@
 
 **프로젝트를 저장하기 위해 Trinket 계정이 필요하지 않습니다!**
 
-Trinket 계정이 없다면 아래쪽 화살표를 클릭 한 다음 **링크**를 클릭하십시오. 그러면 프로젝트를 저장 후 나중에 다시 볼 수 있는 링크가 제공됩니다. You'll need to do this every time you make changes, as the link will change!
+Trinket 계정이 없다면 아래쪽 화살표를 클릭 한 다음 **링크**를 클릭하십시오. 그러면 프로젝트를 저장 후 나중에 다시 볼 수 있는 링크가 제공됩니다. 변경사항이 생길 때 마다 링크를 클릭해서 새로운 링크를 만들 수 있습니다.
 
 ![screenshot](images/me-link.png)
 
-If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
+Trinket 계정이 있다면, **Remix**를 클릭해서 복사본을 Trinket에 저장할 수 있습니다.
 
 ![screenshot](images/me-remix.png)

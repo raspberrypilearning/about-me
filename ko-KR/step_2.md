@@ -2,7 +2,7 @@
 
 ### 하드웨어
 
-+ [ trinket.io웹 사이트에 액세스 할 수있는 컴퓨터](https://trinket.io) {: target = "_ blank"}
++ [trinket.io](https://trinket.io)에 액세스 할 수있는 컴퓨터 {: target = "_ blank"}
 
 ### 소프트웨어
 

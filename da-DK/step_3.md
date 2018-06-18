@@ -1,30 +1,30 @@
-## Saying hello
+## Sig hej
 
-Let's start by writing some text.
+Lad os begynde med at skrive lidt tekst.
 
-+ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Åbn den tomme Python template: <a href="http://jumpto.cc/python-new" target="_blank"> jumpto.cc/python-new </a>.
 
-+ Type the following into the window that appears:
++ Indtast følgende i vinduet, der vises:
     
     ![screenshot](images/me-hi.png)
     
-    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
+    Linjen ` #! / Bin / python3 ` fortæller bare Trinket at vi bruger Python 3 (den nyeste version).
 
-+ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
++ Klik på ** Kør **, og du skal se, at ` print () ` kommando udskriver alt mellem citatmærkerne ` '' `.
     
     ![screenshot](images/me-hi-test.png)
 
-If you've made a mistake, you'll get an error message telling you what went wrong instead!
+Hvis du har lavet en fejl, får du en fejlmeddelelse, der fortæller dig, hvad der gik galt i stedet!
 
-+ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
++ Prøv det! Slet slutteksten ` ' ` eller lukkebøjlen `) ` (eller begge) og se hvad der sker.
     
     ![screenshot](images/me-syntax.png)
 
-+ Add the quote or bracket back in, and click **Run** to make sure your project works again.
++ Tilføj citatet eller beslaget igen, og klik på ** Kør ** for at sikre, at dit projekt fungerer igen.
 
-**You don't need a Trinket account to save your projects!**
+**Du har ikke brug for en Trinket-konto for at gemme dine projekter!**
 
-If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+Hvis du ikke har en Trinket-konto, skal du klikke på pil ned og derefter klikke på ** Link **. Dette vil give dig et link, som du kan gemme og komme tilbage til senere. Du skal gøre dette hver gang du foretager ændringer, da linket vil ændre sig!
 
 ![screenshot](images/me-link.png)
 

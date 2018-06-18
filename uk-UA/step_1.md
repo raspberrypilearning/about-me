@@ -2,7 +2,7 @@
 
 У цьому проекті ви дізнаєтеся, як написати програму Python, яка розповість людям про вас.
 
-### Що ти зробиш
+### Що ви будете робити
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a1f663ae0d?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -10,7 +10,7 @@
   <img src="images/me-final.png">
 </div>
 
-### Що ти навчишся
+### Що ви дізнаєтесь
 
 Цей проект охоплює елементи з наступних напрямків навчальної програми [Raspberry Pi Digital Making](http://rpf.io/curriculum)(: target = "_ blank"):
 

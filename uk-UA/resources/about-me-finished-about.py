@@ -3,12 +3,12 @@
 print('Hi, I can code in Python!')
 
 print('''
-My favourite animals are sheep
+Мої улюблені тварини - вівці
 
  o-###-
    | |   #
 
-I live in Glasgow
+Я живу в Глазго
 
    _|_
   |   |

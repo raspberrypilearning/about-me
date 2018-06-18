@@ -28,6 +28,6 @@ Hvis du ikke har en Trinket-konto, skal du klikke på pil ned og derefter klikke
 
 ![screenshot](images/me-link.png)
 
-If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
+Hvis du har en Trinket-konto, kan du klikke på ** Remix ** for at gemme din egen kopi af trinket.
 
-![screenshot](images/me-remix.png)
+![screenshots](images/me-remix.png)

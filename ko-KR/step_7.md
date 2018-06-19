@@ -1,6 +1,6 @@
-## The year 2025
+## 2025 년
 
-You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
+You can also do calculations and print numbers. 2025년에 몇살이 될지 한번 알아보죠!
 
 + To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
     

@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: your age in dog years
+## 도전과제: 개 나이로 치면 몇살?
 
 Write a program to ask the user their age, and then tell them their age in dog years! You can calculate a person’s age in dog years by multiplying their age by 7.
 

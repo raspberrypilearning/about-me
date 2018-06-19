@@ -16,10 +16,10 @@
     
     ![screenshot](images/me-dog-quote.png)
 
-+ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
++ 이걸 해결하기 위해서는 역슬래시 ``를 `here's`구문에 있는 작은따옴표 앞에 넣어 줍니다. 이렇게 하면 파이썬에게 작은따옴표가 문자열의 일부라고 알려 줄 수 있습니다.
     
     ![screenshot](images/me-dog-bug-fix.png)
 
-+ If you prefer, you can use three apostrophe `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
++ 원하는 경우에는, 한개의 작은따옴표 대신, 세개의 작은따옴표`'''`를 사용할 수 있습니다. 이렇게 하면 하나의 `print` 구문으로 여러줄의 문자열을 출력 할 수 있습니다.
     
     ![screenshot](images/me-dog-triple-quote.png)

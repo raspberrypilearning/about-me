@@ -1,12 +1,12 @@
 ## ASCII art
 
-Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
+단순한 문자열보다 훨씬 더 재밌는것을 표현 해 봐요: 바로 ASCII 아트 입니다! ASCII 아트 (*아스키*라고 발음합니다) 는 **문자열로 나타내는 그림**을 만드는 것입니다.
 
-+ Let's add some art to your program — a picture of a dog!
++ 프로그램에 그림을 추가 해 봅시다 - 강아지 그림을 말이죠!
     
     ![screenshot](images/me-dog.png)
 
-The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
+강아지의 다리는 키보드에서 <kbd>Shift + \</kbd>를 눌러서 입력할 수 있는 파이프 캐릭터 `|`로 만들어집니다.
 
 + If you click **Run**, you'll see that there's a bug in your new code.
     

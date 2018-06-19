@@ -8,7 +8,7 @@
 
 ![screenshot](images/me-text-calc.png)
 
-Can you make up any words of your own? 자신만의 패턴을 만들수도 있습니다!
+자신만의 단어들을 만들어 볼 수 있나요? 자신만의 패턴을 만들수도 있습니다!
 
 ![screenshot](images/me-patterns.png)
 

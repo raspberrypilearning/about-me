@@ -8,11 +8,11 @@
 
 강아지의 다리는 키보드에서 <kbd>Shift + \</kbd>를 눌러서 입력할 수 있는 파이프 캐릭터 `|`로 만들어집니다.
 
-+ If you click **Run**, you'll see that there's a bug in your new code.
++ **실행**을 클릭하면, 새 코드에 버그가 있는것을 확인 할 수 있습니다.
     
     ![screenshot](images/me-dog-bug.png)
     
-    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
+    이유는 당신의 문자열에 작은따옴표 `'`가 있기 때문이에요. 파이썬은 이것을 문자열의 끝이라고 생각합니다!
     
     ![screenshot](images/me-dog-quote.png)
 

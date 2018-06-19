@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: About me
-description: Use the Python programming language to create pictures out of text
+title: 关于我
+description: 用Python编程语言创建字符图片
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
 technologies: python
@@ -18,15 +18,15 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: 简介
   - 
-    title: What you will need
+    title: 你需要哪些准备
   - 
-    title: Saying hello
+    title: 打个招呼吧
   - 
-    title: "Challenge: what's on your mind?"
+    title: "挑战: 你在想什么?"
   - 
-    title: ASCII art
+    title: ASCII字符画
   - 
     title: "Challenge: about yourself"
   - 

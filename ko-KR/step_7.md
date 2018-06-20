@@ -1,35 +1,35 @@
 ## 2025 년
 
-You can also do calculations and print numbers. 2025년에 몇살이 될지 한번 알아보죠!
+계산을 하고 숫자를 출력할수도 있습니다. 2025년에 몇살이 될지 한번 알아보죠!
 
-+ To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
++ 2025년에 당신이 몇살이 될지를 계산하려면, 2025에서 태어난 해의 숫자를 빼면 됩니다.
     
-    Add this code to your program:
+    다음 코드를 당신의 프로그램에 추가 해 보세요:
     
     ![screenshot](images/me-calc.png)
     
-    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
+    숫자들을 따옴표로 묶을 필요는 없습니다. ( 만약 `2006`년에 태어나지 않았다면 숫자를 바꿔야 합니다. )
 
-+ Click **Run**, and your program should print your age in the year 2025.
++ **실행**을 클릭하면, 당신의 프로그램은 2025년에 당신이 몇살이 될지 출력 해 줘야 합니다.
     
     ![screenshot](images/me-calc-run.png)
 
-+ You could improve your program by using `input()` to ask the user their age and store it in a **variable** called `born`.
++ `input()`을 사용 해 사람들에게 나이를 묻고 그 나이를 `born`이라는 **변수**에 저장하는 방식으로 프로그램을 좀 더 멋지게 바꿀수도 있습니다.
     
     ![screenshot](images/me-input.png)
 
-+ Run your program and then enter the year you were born. Did you get another error messgae?
++ 프로그램을 실행하고 당신이 태어난 해를 입력 해 보세요. 다른 오류 메세지가 나오나요?
     
-    That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
+    왜냐면 입력 된 내용은 **문자열**로 처리되기 때문입니다. 이걸 **숫자**로 바꿔야 합니다.
     
-    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
+    `int()`구문을 사용해서 문자열을 **정수**로 바꿀 수 있습니다. 정수(integer)는 자연수를 뜻합니다.
     
     ![screenshot](images/me-input-test.png)
 
-+ You can also create another variable to store your calculation, and print that instead.
++ 당신의 계산 결과를 저장할 새로운 변수를 만들고, 그 변수를 출력할 수도 있습니다.
     
     ![screenshot](images/me-result-variable.png)
 
-+ Finally, you can make your program easier to understand by adding a helpful message.
++ 마지막으로, 도움이 될 만한 메세지를 추가해서 프로그램을 이해하기 쉽게 만들 수 있습니다.
     
     ![screenshot](images/me-message.png)

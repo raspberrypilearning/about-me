@@ -6,7 +6,7 @@
 
 **Trinket에 작성한 코드는 공개된다는 사실을 기억하세요. 주소나 이름같은 개인 정보는 공유하지 마세요!**
 
-Here’s an example:
+여기에 예제가 있습니다:
 
 ![screenshot](images/me-about.png)
 

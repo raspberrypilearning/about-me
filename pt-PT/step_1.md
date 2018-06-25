@@ -1,8 +1,8 @@
 ## Introdução
 
-Neste projeto, você aprenderá a escrever um programa em Python informando as pessoas sobre você.
+Neste projeto, vais aprender a escrever um programa em Python informando os outros sobre ti.
 
-### O que você vai fazer
+### O que vais fazer
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a1f663ae0d?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -10,11 +10,11 @@ Neste projeto, você aprenderá a escrever um programa em Python informando as p
   <img src="images/me-final.png">
 </div>
 
-### O que você aprenderá
+### O que vais aprender
 
-Este projeto abrange elementos das seguintes vertentes do [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){: target = "_ blank"}:
+Este projeto abrange elementos das seguintes vertentes do [Currículo Raspberry Pi Digital Making](http://rpf.io/curriculum){: target = "_ blank"}:
 
-+ [Use construções básicas de programação para criar programas simples](https://www.raspberrypi.org/curriculum/programming/creator){: target = "_ blank"}
++ [Usar construções básicas de programação para criar programas simples](https://www.raspberrypi.org/curriculum/programming/creator){: target = "_ blank"}
 
 ### Informações adicionais para educadores
 

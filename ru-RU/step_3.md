@@ -1,33 +1,33 @@
-## Saying hello
+## Поздороваться
 
-Let's start by writing some text.
+Начнем с написания текста.
 
-+ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Откройте пустой треугольник шаблона Python: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Type the following into the window that appears:
++ В появившемся окне введите следующее:
     
-    ![screenshot](images/me-hi.png)
+    ![Скриншот](images/me-hi.png)
     
-    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
+    Строка `#! / Bin / python3` просто сообщает Trinket, что мы используем Python 3 (последняя версия).
 
-+ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
++ Нажмите **Выполнить**, и вы увидите, что команда `print ()` печатает все между кавычками `''`.
     
-    ![screenshot](images/me-hi-test.png)
+    ![Скриншот](images/me-hi-test.png)
 
-If you've made a mistake, you'll get an error message telling you what went wrong instead!
+Если вы допустили ошибку, вы получите сообщение об ошибке, сообщающее вам, что пошло не так!
 
-+ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
++ Попробуй! Удалите конечную цитату `'` или закрывающую скобку `)` (или оба) и посмотрите, что произойдет.
     
-    ![screenshot](images/me-syntax.png)
+    ![Скриншот](images/me-syntax.png)
 
-+ Add the quote or bracket back in, and click **Run** to make sure your project works again.
++ Добавьте цитату или скобку и нажмите **Запустить** чтобы убедиться, что ваш проект работает снова.
 
-**You don't need a Trinket account to save your projects!**
+**Вам не нужна учетная запись Trinket для сохранения ваших проектов!**
 
-If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+Если у вас нет учетной записи Trinket, нажмите стрелку вниз, а затем нажмите **Ссылка**. Это даст вам ссылку, которую вы можете сохранить и вернуться к ней позже. Вам нужно будет делать это каждый раз, когда вы вносите изменения, поскольку ссылка изменится!
 
-![screenshot](images/me-link.png)
+![Скриншот](images/me-link.png)
 
-If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
+Если у вас есть учетная запись Trinket, вы можете нажать **Remix** чтобы сохранить свою собственную копию безделушки.
 
-![screenshot](images/me-remix.png)
+![Скриншот](images/me-remix.png)

@@ -1,8 +1,8 @@
-## Introduction
+## Bevezetés
 
-In this project you will learn how to write a Python program telling people all about you.
+Ebben a projektben megtanulhatod, hogyan kell írni egy Python programot, amely az embereket rólatok szólítja.
 
-### What you will make
+### Mit fogsz csinálni?
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a1f663ae0d?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -10,14 +10,14 @@ In this project you will learn how to write a Python program telling people all 
   <img src="images/me-final.png">
 </div>
 
-### What you will learn
+### Amit megtanulsz
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Ez a projekt a [Raspberry Pi Digitális készítési tanterv](http://rpf.io/curriculum){: target = "_ blank":
 
-+ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [egyszerű programozási konstrukciókat egyszerű programok létrehozásához](https://www.raspberrypi.org/curriculum/programming/creator){: target = "_ blank"}
 
-### Additional information for educators
+### További információk az oktatók számára
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/about-me/print){:target="_blank"}.
+Ha ki kell nyomtatnia ezt a projektet, kérjük, használja a [nyomtatóbarát](https://projects.raspberrypi.org/en/projects/about-me/print)verziót {: target = "_ blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Használja a láblécben lévő linket a GitHub tárhely eléréséhez ehhez a projekthez, amely tartalmazza az "en / resources" mappában található összes erőforrást (beleértve egy befejezett példát is).

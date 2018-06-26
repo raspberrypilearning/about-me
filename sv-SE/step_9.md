@@ -1,15 +1,15 @@
-\--- challenge \---
+\--- utmaning \---
 
-## Challenge: calculating text
+## Utmaning: Beräkning av text
 
-Did you know that you can also calculate text?!
+Visste du att du också kan beräkna text ?!
 
-What will the following program print to the screen? See if you can guess it correctly before running the program.
+Vad kommer följande program att skrivas ut på skärmen? Se om du kan gissa det korrekt innan du kör programmet.
 
-![screenshot](images/me-text-calc.png)
+![skärmdump](images/me-text-calc.png)
 
-Can you make up any words of your own? You could even make your own patterns!
+Kan du skapa egna ord? Du kan till och med göra egna mönster!
 
-![screenshot](images/me-patterns.png)
+![skärmdump](images/me-patterns.png)
 
-\--- /challenge \---
+\--- /utmaning \---

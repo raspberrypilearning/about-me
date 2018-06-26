@@ -1,25 +1,25 @@
-## ASCII art
+## ASCII művészet
 
-Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
+Nyissunk valami sokkal szórakoztatóbb szöveget, mint a szöveg: ASCII art! ASCII art ("*ask-e*") **képet alkot a szövegből**.
 
-+ Let's add some art to your program — a picture of a dog!
++ Adjunk hozzá egy kis művészt a programhoz - egy kutya képét!
     
     ![screenshot](images/me-dog.png)
 
-The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
+A kutya lába a `| cső karakterrel készül` amely beírhatja megnyomásával <kbd>Shift + \ </kbd> A legtöbb brit / amerikai angol billentyűzetet.
 
-+ If you click **Run**, you'll see that there's a bug in your new code.
++ Ha a ****futtatásra kattint, látni fogja, hogy van egy hiba az új kódban.
     
     ![screenshot](images/me-dog-bug.png)
     
-    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
+    Ez azért van, mert a szöveged `'`apostropétt tartalmaz, melyet Python a szöveg vége!
     
     ![screenshot](images/me-dog-quote.png)
 
-+ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
++ Ezt kijavítani, csak egy `3_1_321 visszafordulót állítson be, mielőtt az apostropé a <code>itt`. Ez azt mondja Pythonnak, hogy az apostrófa a szöveg része.
     
     ![screenshot](images/me-dog-bug-fix.png)
 
-+ If you prefer, you can use three apostrophe `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
++ Ha úgy tetszik, használhat három helyett `'' '` apostrofot, amely lehetővé teszi több szövegsor nyomtatását egy `print` utasítással:
     
     ![screenshot](images/me-dog-triple-quote.png)

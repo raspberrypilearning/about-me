@@ -1,9 +1,9 @@
-\--- challenge \---
+\--- вызов \---
 
-## Challenge: What's on your mind?
+## Задача: что у вас на уме?
 
-Change the code you just wrote to print something more interesting about you!
+Измените код, который вы только что написали, чтобы напечатать что-то более интересное о вас!
 
-![screenshot](images/me-mind.png)
+![Скриншот](images/me-mind.png)
 
-\--- /challenge \---
+\--- /вызов \---

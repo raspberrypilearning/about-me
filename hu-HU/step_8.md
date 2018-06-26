@@ -1,11 +1,11 @@
-\--- challenge \---
+\--- kihívás \---
 
-## Challenge: your age in dog years
+## Kihívás: az életkor a kutyaévekben
 
-Write a program to ask the user their age, and then tell them their age in dog years! You can calculate a person’s age in dog years by multiplying their age by 7.
+Írj egy programot, amely megkérdezi a felhasználó életkorát, majd elmondja nekik a korukat a kutyaévekben! A kutyaévekben kiszámíthatod az életkorát úgy, hogy korszakodat megszorozzuk 7-re.
 
 ![screenshot](images/me-dog-years.png)
 
-In programming, the symbol for **multiplication** is the `*` character, which you can usually type by pressing <kbd>Shift + 8</kbd> on the keyboard.
+A programozásnál a **szorzás** szimbóluma `*` karakter, amelyet általában a billentyűzeten a <kbd>Shift + 8</kbd> gomb megnyomásával írhatunk be.
 
-\--- /challenge \---
+\--- / kihívás \---

@@ -1,33 +1,33 @@
-## Saying hello
+## Säger hej
 
-Let's start by writing some text.
+Låt oss börja med att skriva lite text.
 
-+ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Öppna den tomma Python-mallens trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Type the following into the window that appears:
++ Skriv följande i fönstret som visas:
     
-    ![screenshot](images/me-hi.png)
+    ![skärmdump](images/me-hi.png)
     
-    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
+    Linjen `#! / Bin / python3` berättar bara för Trinket att vi använder Python 3 (den senaste versionen).
 
-+ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
++ Klicka på **Kör**, och du bör se att kommandot `print ()` skriver ut allt mellan citattecken `''`.
     
-    ![screenshot](images/me-hi-test.png)
+    ![skärmdump](images/me-hi-test.png)
 
-If you've made a mistake, you'll get an error message telling you what went wrong instead!
+Om du har gjort ett misstag får du ett felmeddelande som berättar vad som gick fel i stället!
 
-+ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
++ Försök! Ta bort slutnotet `'` eller stängningsfästet `)` (eller båda) och se vad som händer.
     
-    ![screenshot](images/me-syntax.png)
+    ![skärmdump](images/me-syntax.png)
 
-+ Add the quote or bracket back in, and click **Run** to make sure your project works again.
++ Lägg till citat eller fäste tillbaka och klicka på **Kör** att se till att ditt projekt fungerar igen.
 
-**You don't need a Trinket account to save your projects!**
+**Du behöver inte ett Trinket-konto för att spara dina projekt!**
 
-If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+Om du inte har ett Trinket-konto klickar du på nedåtpilen och klickar sedan på **Länk**. Detta ger dig en länk som du kan spara och komma tillbaka till senare. Du måste göra detta varje gång du gör ändringar, eftersom länken kommer att förändras!
 
-![screenshot](images/me-link.png)
+![skärmdump](images/me-link.png)
 
-If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
+Om du har ett Trinket-konto kan du klicka på **Remix** att spara din egen kopia av trinket.
 
-![screenshot](images/me-remix.png)
+![skärmdump](images/me-remix.png)

@@ -1,35 +1,35 @@
-## The year 2025
+## A 2025-ös év
 
-You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
+Számításokat és nyomtatási számokat is elvégezhet. Ismerd meg, mennyi idős lesz 2025-ben!
 
-+ To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
++ Annak kiszámításához, hogy mennyi idős lesz a 2025-ös év, akkor el kell vonnia az évet, amikor született 2025-től.
     
-    Add this code to your program:
+    Adja hozzá ezt a kódot a programhoz:
     
     ![screenshot](images/me-calc.png)
     
-    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
+    Vegye figyelembe, hogy nem kell idézőjeleket tenni a számok köré. (Meg kell változtatnod a `2006` számot, ha egy másik évben született.)
 
-+ Click **Run**, and your program should print your age in the year 2025.
++ Kattintson a ****futtatásra, és a programnak 2025-ben nyomtatnia kell az életkorát.
     
     ![screenshot](images/me-calc-run.png)
 
-+ You could improve your program by using `input()` to ask the user their age and store it in a **variable** called `born`.
++ Javíthatja a programot a `bemenet ()` hogy megkérdezze a felhasználó életkorát, és tárolja egy **változó** nevű `született`.
     
     ![screenshot](images/me-input.png)
 
-+ Run your program and then enter the year you were born. Did you get another error messgae?
++ Futtassa a programot, majd adja meg az évet, amikor született. Kaptál még egy hibaüzenetet?
     
-    That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
+    Ennek oka, hogy bármit írtak be a program **szöveg**, és meg kell átalakítani a **számú**.
     
-    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
+    Használhatja `int ()` átalakítani a szöveget egy **egész**. Egy egész szám egy egész szám.
     
     ![screenshot](images/me-input-test.png)
 
-+ You can also create another variable to store your calculation, and print that instead.
++ Más változót is létrehozhat a számítás tárolásához, és kinyomtathatja.
     
     ![screenshot](images/me-result-variable.png)
 
-+ Finally, you can make your program easier to understand by adding a helpful message.
++ Végül könnyebben meg tudod érteni a programodat egy hasznos üzenet hozzáadásával.
     
     ![screenshot](images/me-message.png)

@@ -24,7 +24,7 @@ Si tu as fait une erreur, tu recevras un message d'erreur t'indiquant ce qui n'a
 
 **Tu n'as pas besoin d'un compte Trinket pour sauvegarder tes projets!**
 
-If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+Si vous ne dispose pas d'un compte Trinket, clique sur la flèche vers le bas, puis sur ** Lien ** . Cela te donnera un lien que tu pourras sauvegarder pour revenir plus tard. You'll need to do this every time you make changes, as the link will change!
 
 ![screenshot](images/me-link.png)
 

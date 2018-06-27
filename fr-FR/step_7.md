@@ -1,6 +1,6 @@
-## The year 2025
+## L'année 2025
 
-You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
+Tu peux également faire des calculs et imprimer des numéros. Let's find out how old you'll be in the year 2025!
 
 + To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
     

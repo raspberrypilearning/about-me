@@ -6,7 +6,7 @@ Commençons par écrire du texte.
 
 + Tape le texte suivant dans la fenêtre qui apparaît:
     
-    ![screenshot](images/me-hi.png)
+    ![capture d'écran](images/me-hi.png)
     
     La ligne ` #! / Bin / python3 ` précise juste à Trinket que nous utilisons Python 3 (la version la plus récente).
 
@@ -24,10 +24,10 @@ Si tu as fait une erreur, tu recevras un message d'erreur t'indiquant ce qui n'a
 
 **Tu n'as pas besoin d'un compte Trinket pour sauvegarder tes projets!**
 
-Si vous ne dispose pas d'un compte Trinket, clique sur la flèche vers le bas, puis sur ** Lien ** . Cela te donnera un lien que tu pourras sauvegarder pour revenir plus tard. You'll need to do this every time you make changes, as the link will change!
+Si vous ne dispose pas d'un compte Trinket, clique sur la flèche vers le bas, puis sur ** Lien ** . Cela te donnera un lien que tu pourras sauvegarder pour revenir plus tard. Tu devras le faire chaque fois que tu fais des modifications car le lien changera!
 
-![screenshot](images/me-link.png)
+![capture d'écran](images/me-link.png)
 
-If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
+Si tu as un compte Trinket, tu pourras cliquer sur ** Remix ** pour enregistrer ta propre copie.
 
-![screenshot](images/me-remix.png)
+![capture d'écran](images/me-remix.png)

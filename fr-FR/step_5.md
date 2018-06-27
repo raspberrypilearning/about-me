@@ -1,4 +1,4 @@
-## ASCII art
+## Art ASCII
 
 Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
 

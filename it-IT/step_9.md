@@ -8,7 +8,7 @@ Cosa comparirà sullo schermo eseguendo questo programma? Vediamo se riesci ad i
 
 ![screenshot](images/me-text-calc.png)
 
-Sapresti creare parole tutte tue? Potresti anche inventare disegni tutti tuoi!
+Sapresti creare parole tutte tue? Puoi anche inventare disegni tutti tuoi!
 
 ![screenshot](images/me-patterns.png)
 

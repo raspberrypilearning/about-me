@@ -22,4 +22,4 @@ print('''
 born = input('В каком году вы родились?')
 born = int(born)
 age = 2025 - born
-print('In the year 2025 you\'ll be', age, 'years old!')
+print('В 2025\'м году вам будет ', age, ' лет!')

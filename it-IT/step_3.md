@@ -1,6 +1,6 @@
 ## Diciamo ciao
 
-Cominciamo a scrivere del testo.
+Iniziamo scrivendo del testo.
 
 + Apri un modello vuoto di Python su Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
@@ -10,13 +10,13 @@ Cominciamo a scrivere del testo.
     
     La riga `#!/bin/python3` dice a Trinket che stiamo usando Python 3 (l'ultima versione di Python).
 
-+ Fai click su **Run**. Vedrai che il comando `print()` "stampa" (cioè fa visualizzare) sulla pagina tutto il testo contenuto tra le virgolette `''`.
++ Fai click su **Run**. Vedrai che il comando `print()` visualizza sulla pagina tutto il testo contenuto tra le virgolette `''`.
     
     ![screenshot](images/me-hi-test.png)
 
 Se hai commesso un errore, riceverai un messaggio di errore che ti farà sapere cosa è andato storto!
 
-+ Fai una prova! Cancella la virgoletta alla fine `'` o la parentesi alla fine `)` (o entrambe) e prova a vedere cosa succede.
++ Fai una prova! Cancella la virgoletta alla fine della citazione `'` o la parentesi alla fine `)` (o entrambe) e prova a vedere cosa succede.
     
     ![screenshot](images/me-syntax.png)
 

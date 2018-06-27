@@ -1,8 +1,8 @@
 ## Введение
 
-В этом проекте вы узнаете, как написать программу Python, рассказывающую людям о вас.
+В этом проекте вы научитесь писать программу на Python, которая рассказывает людям о вас.
 
-### Что вы сделаете
+### Что вам нужно сделать
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a1f663ae0d?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -10,7 +10,7 @@
   <img src="images/me-final.png">
 </div>
 
-### Что вы узнаете
+### Чему вы научитесь
 
 Этот проект включает в себя элементы из следующих строк [Curriculum](http://rpf.io/curriculum)(: target = "_ blank"}:
 

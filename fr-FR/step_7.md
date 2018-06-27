@@ -1,14 +1,14 @@
 ## L'année 2025
 
-Tu peux également faire des calculs et imprimer des numéros. Let's find out how old you'll be in the year 2025!
+Tu peux également faire des calculs et imprimer des numéros. Voyons voir quel âge tu auras en 2025!
 
-+ To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
++ Pour calculer ton âge en 2025, tu devras soustraire l'année de naissance à 2025.
     
-    Add this code to your program:
+    Ajoutez ce code à ton programme:
     
     ![screenshot](images/me-calc.png)
     
-    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
+    Note que tu n'as pas besoin de placer des guillemets autour des nombres. (Tu devras changer le numéro ` 2006 ` si tu es né une autre année)
 
 + Click **Run**, and your program should print your age in the year 2025.
     

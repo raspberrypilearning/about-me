@@ -1,6 +1,6 @@
 ---
-hero_image: Изображения / о-me.png
-theme: оранжевый
+hero_image: images/about-me.png
+theme: orange
 duration: 2
 listed: true
 ingredient: false
@@ -10,28 +10,28 @@ title: Обо мне
 description: Используйте язык программирования Python для создания изображений из текста
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
-technologies: питон
-site_areas: проектов
+technologies: python
+site_areas: projects
 hardware: ''
-software: питон
+software: python
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
     title: Введение
   - 
-    title: Что тебе понадобится
+    title: Что вам понадобится
   - 
-    title: Поздороваться
+    title: Сказать привет
   - 
-    title: "Задача: что у вас на уме?"
+    title: "Задание: написать о чем вы думаете"
   - 
     title: Искусство ASCII
   - 
-    title: "Задача: о себе"
+    title: "Задание: о себе"
   - 
-    title: 2025 год
+    title: 2025-ый год
   - 
-    title: "Задача: ваш возраст в собачьих годах"
+    title: "Задание: ваш возраст в системе отсчета собачьих годов"
   - 
-    title: "Задача: расчет текста"
+    title: "Задание: арифметика текста"

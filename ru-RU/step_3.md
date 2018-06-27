@@ -1,8 +1,8 @@
-## Поздороваться
+## Сказать привет
 
 Начнем с написания текста.
 
-+ Откройте пустой треугольник шаблона Python: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Откройте пустой trinket (файл) c шаблоном Python: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
 + В появившемся окне введите следующее:
     

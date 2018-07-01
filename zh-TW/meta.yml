@@ -1,17 +1,17 @@
 ---
-hero_image: 圖片/關於我. png
+hero_image: images/about-me.png
 theme: 橘色
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+curriculum: 創作者，設計-0，寫程式-1，物理-電腦-0，製造-0，社團-0
 title: 關於我
 description: 使用 Python 程式設計語言在文字中創建圖片
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
 technologies: python
-site_areas: projects
+site_areas: 專案
 hardware: ''
 software: python
 version: 3

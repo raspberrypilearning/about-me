@@ -2,8 +2,8 @@
 
 ### ハードウェア
 
-+ [trinket.io](https://trinket.io){：target = "_ blank"}ウェブサイトにアクセスできるコンピュータ
++ [trinket.io](https://trinket.io)ウェブサイトにアクセスできるコンピュータ
 
 ### ソフトウェア
 
-このプロジェクトは、Webブラウザで [trinket.io](https://trinket.io){：target = "_ blank"}を使用して完成させることができます。
+このプロジェクトは、Webブラウザで [trinket.io](https://trinket.io)を使用して完成させることができます。

@@ -9,16 +9,17 @@
 犬の足は、パイプ文字 `| 123_7_2_321 Shift + \ </kbd> を押して入力できます。ほとんどの英国/米国英語キーボードで入力できます。</p>
 
 <ul>
-<li><p><strong>Run</strong>をクリックすると犬のASCIIアートが表示されます。</p>
+<li><p>以下のコードを入力してください：</p>
 
 <p><img src="images/me-dog-bug.png" alt="スクリーンショット" /></p>
 
-<p> </p>
+<p>　</p>
 
 <p><img src="images/me-dog-quote.png" alt="スクリーンショット" /></p></li>
-<li><p>   </p>
+<li><p> <code>Run`をクリックすると犬のASCIIアートが表示されます。 
 
-<p><img src="images/me-dog-bug-fix.png" alt="スクリーンショット" /></p></li>
-<li><p>必要に応じて、3つのアポストロフィ <code>'''` を1つではなく使用して、1つの `print` ステートメントで複数行のテキストを表示することができます。
+![スクリーンショット](images/me-dog-bug-fix.png)</li> 
 
-![スクリーンショット](images/me-dog-triple-quote.png)</li> </ul>
++ 必要に応じて、3つのアポストロフィ `'''` を1つではなく使用して、1つの `print` ステートメントで複数行のテキストを表示することができます。
+    
+    ![スクリーンショット](images/me-dog-triple-quote.png)</ul>

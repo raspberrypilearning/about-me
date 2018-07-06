@@ -1,6 +1,6 @@
 #!/bin/python3
 
-print(u'こんにちは、私はPythonでコード化できます！')
+print(u'こんにちは、私はPythonでコードをかけます！')
 
 print(u'''
 私の一番好きな動物は羊です

@@ -9,18 +9,16 @@
 犬の足は、パイプ文字 `| 123_7_2_321 Shift + \ </kbd> を押して入力できます。ほとんどの英国/米国英語キーボードで入力できます。</p>
 
 <ul>
-<li><p><strong>Run</strong>をクリックすると、新しいコードにバグがあることがわかります。</p>
+<li><p><strong>Run</strong>をクリックすると犬のASCIIアートが表示されます。</p>
 
 <p><img src="images/me-dog-bug.png" alt="スクリーンショット" /></p>
 
-<p>これは、テキストにアポストロフィ <code>'`が含まれているためです。これはPythonがテキストの終わりと考えるものです！
+<p> </p>
 
-![スクリーンショット](images/me-dog-quote.png)</li> 
+<p><img src="images/me-dog-quote.png" alt="スクリーンショット" /></p></li>
+<li><p>   </p>
 
-+ これを修正するには、アポストロフィの前にバックスラッシュ `` を入れてください。 これは、アポストロフィがテキストの一部であることをPythonに伝えます。
-    
-    ![スクリーンショット](images/me-dog-bug-fix.png)
+<p><img src="images/me-dog-bug-fix.png" alt="スクリーンショット" /></p></li>
+<li><p>必要に応じて、3つのアポストロフィ <code>'''` を1つではなく使用して、1つの `print` ステートメントで複数行のテキストを表示することができます。
 
-+ 必要に応じて、3つのアポストロフィ `'''` を1つではなく使用して、1つの `print` ステートメントで複数行のテキストを表示することができます。
-    
-    ![スクリーンショット](images/me-dog-triple-quote.png)</ul>
+![スクリーンショット](images/me-dog-triple-quote.png)</li> </ul>

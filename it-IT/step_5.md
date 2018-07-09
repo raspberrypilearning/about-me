@@ -6,7 +6,7 @@ Proviamo a stampare qualcosa di molto più interessante che un semplice testo: i
     
     ![screenshot](images/me-dog.png)
 
-Per realizzare le zampe del cane, utilizza la barra verticale `|`, che puoi digitare premendo <kbd>Shift + \ </kbd> (questo tasto si trova a sinistra sulla tua tastiera).
+Per realizzare le zampe del cane, utilizza la barra verticale `|`, che puoi digitare premendo <kbd>Shift + \ </kbd> (questo tasto si trova in alto a sinistra sulla tua tastiera).
 
 + Se fai click su **Run**, vedrai che c'è un problema con il tuo nuovo codice.
     

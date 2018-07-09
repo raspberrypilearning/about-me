@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: What's on your mind?
+## Provocare: La ce te gândești?
 
-Change the code you just wrote to print something more interesting about you!
+Modificați codul pe care tocmai l-ați scris pentru a tipări ceva mai interesant despre dvs!
 
-![screenshot](images/me-mind.png)
+![captură de ecran](images/me-mind.png)
 
 \--- /challenge \---

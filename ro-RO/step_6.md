@@ -6,8 +6,8 @@ Write a Python program to tell others about yourself using text and ASCII art. Y
 
 **Remember that the code you write in Trinket is public. Don't share any personal information like your full name or address!**
 
-Here’s an example:
+Iată un exemplu:
 
-![screenshot](images/me-about.png)
+![captură de ecran](images/me-about.png)
 
 \--- /challenge \---

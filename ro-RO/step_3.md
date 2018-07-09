@@ -1,14 +1,14 @@
-## Saying hello
+## Cum să spui, Salut
 
-Let's start by writing some text.
+Să începem prin scrierea unui text.
 
-+ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Deschide-ți un nou șablon Python: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Type the following into the window that appears:
++ Introduceți următoarele în fereastra care apare:
     
     ![screenshot](images/me-hi.png)
     
-    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
+    Linia `#!/bin/python3` spune lui Trinket că folosim limbajul Python 3 (ultima versiune).
 
 + Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
     

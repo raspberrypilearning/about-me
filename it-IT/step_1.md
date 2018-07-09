@@ -18,6 +18,6 @@ Questo progetto include elementi tratti dalle seguenti componenti del [Digital M
 
 ### Ulteriori informazioni per gli educatori
 
-Se hai bisogno di stampare questo progetto, clicca su [Versione stampabile](https://projects.raspberrypi.org/en/projects/about-me/print){:target = "_ blank"}.
+Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/en/projects/about-me/print){:target = "_ blank"}.
 
 Cliccare il link a piè di pagina per accedere alla repository di GitHub relativa a questo progetto, che contiene tutte le risorse necessarie (incluso un esempio di progetto completo) nella cartella 'en/resources'.

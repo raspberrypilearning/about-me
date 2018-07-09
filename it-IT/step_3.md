@@ -10,7 +10,7 @@ Iniziamo scrivendo del testo.
     
     La riga `#!/bin/python3` dice a Trinket che stiamo usando Python 3 (l'ultima versione di Python).
 
-+ Fai click su **Run**. Vedrai che il comando `print()` visualizza sulla pagina tutto il testo contenuto tra le virgolette `''`.
++ Fai click su **Run**. Vedrai che il comando `print()` "stampa" (cioè fa visualizzare) sulla pagina tutto il testo contenuto tra le virgolette `''`.
     
     ![screenshot](images/me-hi-test.png)
 

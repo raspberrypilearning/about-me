@@ -6,10 +6,10 @@
 
 Ce va afișa următorul program pe ecran? Vedeți dacă puteți ghici înainte de a rula programul.
 
-![screenshot](images/me-text-calc.png)
+![captură de ecran](images/me-text-calc.png)
 
-Can you make up any words of your own? You could even make your own patterns!
+Poți inventa cuvinte noi? Ai putea face chiar şi propriile modele!
 
-![screenshot](images/me-patterns.png)
+![captură de ecran](images/me-patterns.png)
 
 \--- /challenge \---

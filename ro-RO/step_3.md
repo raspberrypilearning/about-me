@@ -10,13 +10,13 @@ Să începem prin scrierea unui text.
     
     Linia `#!/bin/python3` spune lui Trinket că folosim limbajul Python 3 (ultima versiune).
 
-+ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
++ Apăsați pe **Run**, si ar tebui să vedeți cum comanda `print()` tipărește tot ceea ce este între punctele de referință`''`.
     
     ![screenshot](images/me-hi-test.png)
 
-If you've made a mistake, you'll get an error message telling you what went wrong instead!
+Dacă ați făcut o greșeală, veți primi un mesaj de eroare care vă spune unde s-a greșit!
 
-+ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
++ Încercați! Ștergeți rândurile `'` sau parantezele de închidere `)` (ori ambele) să vedeți ce se întâmplă.
     
     ![screenshot](images/me-syntax.png)
 

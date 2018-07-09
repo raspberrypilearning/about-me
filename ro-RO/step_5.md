@@ -1,8 +1,8 @@
 ## ASCII art
 
-Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
+Haideți să tipărim ceva mai distractiv decât textul: ASCII art! ASCII art (pronunțat '*ask-e*') creează **pictures out of text**.
 
-+ Let's add some art to your program — a picture of a dog!
++ Să adăugăm elemente artistice la programul tău - o imagine a unui câine!
     
     ![screenshot](images/me-dog.png)
 

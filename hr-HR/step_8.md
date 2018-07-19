@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Izazov: koliko imaš psećih godina?
+## Izazov: Koliko imaš psećih godina?
 
 Napiši program koji korisnika pita da unese svoje godine, a zatim mu ispiše njegove pseće godine! Kako bi izračunao koliko osoba ima psećih godina, pomnoži njihove godine sa 7.
 

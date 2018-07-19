@@ -1,40 +1,13 @@
-## L'anno 2025
+--- challenge ---
 
-Puoi anche fare calcoli e stampare numeri. Vediamo quanti anni avrai nel 2025.
+## Sfida: Mi presento
 
-+ Per calcolare la tua età nell'anno 2025, devi sottrarre il tuo anno di nascita da 2025.
+Crea un programma Python per parlare agli altri di te usando del testo e i disegni ASCII. Puoi creare immagini dei tuoi hobby, dei tuoi amici o di qualsiasi cosa che ti piace!
 
-    Aggiungi questo codice al tuo programma:
+**Ricorda che i codici che scrivi in ​​Trinket sono pubblici. Non condividere nessuna informazione personale come il tuo nome e cognome o il tuo indirizzo!**
 
-    ![screenshot](images/me-calc.png)
+Ecco un esempio:
 
-    Hai visto che non devi racchiudere i numeri tra virgolette?
+![screenshot](images/me-about.png)
 
-    (Ricorda che devi cambiare il numero 2006 se il tuo anno di nascita è diverso)
-
-+ Fai clic su "run" e il programma dovrebbe stampare la tua età nell'anno 2025.
-
-    ![screenshot](images/me-calc-run.png)
-
-+ Puoi anche migliorare il tuo programma usando l'istruzione `input()` per chiedere all'utilizzatore la sua età e memorizzarla in una __variabile__ con il nome "born".
-
-    ![screenshot](images/me-input.png)
-
-+ Esegui il programma ed immetti il tuo anno di nascita. È apparso un messaggio di errore?
-
-    Questo è perché tutto quello che viene digitato nel programma è __testo__, ma in questo caso deve essere convertito in __numero__.
-
-    Puoi usare `int()` per convertire il testo in __integer__ (la parola "integer" significa "numero intero").
-
-    ![screenshot](images/me-input-test.png)
-
-+ Puoi anche creare un'altra variabile in cui memorizzare il tuo calcolo e stampare quella invece.
-
-    ![screenshot](images/me-result-variable.png)
-
-+ Infine, puoi rendere il programma più facile da capire aggiungendo un messaggio di spiegazioni.
-
-    ![screenshot](images/me-message.png)
-
-
-
+--- /challenge ---

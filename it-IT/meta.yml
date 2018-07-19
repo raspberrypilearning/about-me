@@ -1,3 +1,4 @@
+---
 hero_image: images/about-me.png
 theme: orange
 duration: 2
@@ -5,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Chi sono
-description: Scrivi e crea immagini su di te.
+title: Mi presento
+description: Usa il linguaggio di programmazione Python per creare delle immagini a partire da un testo
 original_url: https://projects.raspberrypi.org/en/projects/about-me
 interests: ''
 technologies: python
@@ -15,12 +16,13 @@ hardware: ''
 software: python
 version: 3
 last_tested: 2017-01-01
-steps: 
-- title: Introduzione
-- title: Diciamo Ciao!
-- title: "Sfida: A cosa stai pensando?"
-- title: Disegni ASCII
-- title: "Sfida: Chi sei"
-- title: L'anno 2025
-- title: "Sfida: La tua età in anni canini"
-- title: "Sfida: Calcolare testo"
+steps:
+  - title: Introduzione
+  - title: Requisiti
+  - title: Diciamo ciao
+  - title: "Sfida: A cosa stai pensando?"
+  - title: Disegni ASCII
+  - title: "Sfida: Mi presento"
+  - title: Nel 2025
+  - title: "Sfida: La tua età in anni canini"
+  - title: "Sfida: Calcolare un testo"

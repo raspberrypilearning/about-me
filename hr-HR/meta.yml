@@ -1,0 +1,28 @@
+---
+hero_image: images/about-me.png
+theme: orange
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: O meni
+description: Koristi programski jezik Python za kreiranje slika iz teksta
+original_url: https://codeclubprojects.org/en-GB/python/about-me
+interests: ''
+technologies: python
+site_areas: projects
+hardware: ''
+software: python
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: Uvod
+  - title: Trebat ćeš
+  - title: Reci bok
+  - title: "Izazov: Što ti je na umu?"
+  - title: ASCII umjetnost
+  - title: "Izazov: O tebi"
+  - title: 2025. godina
+  - title: "Izazov: Koliko imaš psećih godina?"
+  - title: "Izazov: Izračunaj tekst"

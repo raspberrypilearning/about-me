@@ -1,13 +1,11 @@
 --- challenge ---
-## Sfida: Calcolare testo
-Lo sapevi che puoi anche calcolare del testo?!
 
-Cosa scrive sullo schermo questo programma? Prova a indovinare prima di eseguire il programma.
+## Sfida: La tua età in anni canini
 
-![screenshot](images/me-text-calc.png)
+Crea un programma per chiedere agli utenti la loro età, e poi dirgli la loro età in anni canini! Puoi calcolare l'età di una persona in anni canini moltiplicando la loro età per 7.
 
-Sei capace a inventare delle parole tutte tue? Puoi creare anche dei motivi artistici!
+![screenshot](images/me-dog-years.png)
 
-![screenshot](images/me-patterns.png)
+In programmazione, il simbolo della **moltiplicazione** è l'asterisco `*`, che puoi digitare premendo <kbd>Shift + +</kbd> (il segno + si trova sulla tua tastiera accanto al tasto Invio).
 
 --- /challenge ---

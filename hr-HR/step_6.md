@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Izazov: o tebi
+## Izazov: O tebi
 
 Napiši program u Pythonu kojim ćeš drugima reći nešto o sebi. Koristi tekst i ASCII umjetnost. Možeš napraviti slike svojih hobija, prijatelja ili čega god želiš!
 

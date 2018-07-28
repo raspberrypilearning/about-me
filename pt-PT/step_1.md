@@ -1,6 +1,6 @@
 ## Introdução
 
-Neste projeto, vais aprender a escrever um programa em Python informando os outros sobre ti.
+Neste projeto, vais aprender a escrever um programa em Python contando oos outros tudo sobre ti.
 
 ### O que vais fazer
 

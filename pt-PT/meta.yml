@@ -5,8 +5,8 @@ duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 1, design-0, programação-1, phys-comp-0, fabricação-0, comunidade-0
-title: Acerca de mim
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: Sobre mim
 description: Use a linguagem de programação Python para criar imagens fora do texto
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''

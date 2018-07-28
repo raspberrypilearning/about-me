@@ -6,7 +6,7 @@ print('''
 Os meus animais preferidos são as ovelhas
 
  o-###-
-   | | #
+   | |   #
 
 Eu vivo na Guarda
 

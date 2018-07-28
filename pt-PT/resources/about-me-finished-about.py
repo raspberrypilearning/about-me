@@ -17,9 +17,9 @@ Eu vivo na Guarda
   | # | # |
  _ | ___ | _ # __ | _
 
-'' ')
+''')
 
 nascido = input('Em que ano nasceste?')
 nascido = int(nascido)
 idade = 2025 - nascido
-print('No ano de 2025 tu\'vais fazer', idade, 'anos de idade!')
+print('No ano de 2025 tu vais fazer', idade, 'anos de idade!')

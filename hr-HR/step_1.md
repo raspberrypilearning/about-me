@@ -12,7 +12,7 @@ U ovom projektu naučit ćeš kako napisati program u Pythonu kojim ćeš drugim
 
 ### Naučit ćeš
 
-Ovaj projekt pokriva elemente iz sljedećih dijelova kurikuluma [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Ovaj projekt pokriva elemente iz sljedećih dijelova nastavnoga plana i programa [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Korištenje osnova programiranja za izradu jednostavnih programa](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 

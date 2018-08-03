@@ -20,4 +20,4 @@
 
 আপনি যদি এই প্রজেক্টটি প্রিন্ট করতে চান তবে [printer-friendly version](https://projects.raspberrypi.org/en/projects/about-me/print) ব্যবহার করুন {: target = "_ blank"}।
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+এই প্রজেক্টের জন্য ফুটারের লিংক ব্যাবহার করে GitHub এর 'en/resources' এই ফোল্ডার থেকে সকল resources (এমনকি কোন শেষ হওয়া প্রজেক্টের উদাহরণসহ) সংগ্রহ করতে পারবেন।

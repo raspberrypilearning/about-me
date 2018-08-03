@@ -6,4 +6,4 @@
 
 ### সফটওয়্যার
 
-This project can be completed in a web browser using [trinket.io](https://trinket.io){:target="_blank"}
+এই প্রজেক্টটি এই [trinket.io](https://trinket.io){:target="_blank"} এই ওয়েব ব্রাউজ করে সম্পন্ন করা যাবে।

@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: izračunaj tekst
+## Izazov: izračunaj tekst
 
 Jesi li znao da možeš izračunati i tekst?!
 

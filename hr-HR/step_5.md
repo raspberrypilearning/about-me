@@ -1,6 +1,6 @@
 ## ASCII umjetnost
 
-Ispišimo nešto zabavnije od teksta: ASCII umjetnostt! ASCII umjetnost (izgovara se'*ask-i*') stvara **slike od teksta**.
+Ispišimo nešto zabavnije od teksta: ASCII umjetnost! ASCII umjetnost (izgovara se'*ask-i*') stvara **slike od teksta**.
 
 + Dodajmo malo umjetnosti tvom programu — sliku psa!
     

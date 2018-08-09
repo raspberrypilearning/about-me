@@ -14,7 +14,7 @@ Možeš i računati i ispisivati brojeve. Saznajmo koliko godina ćeš imati 202
     
     ![screenshot](images/me-calc-run.png)
 
-+ Možeš poboljšati svoj program koristeći naredbu `input()` kako bi pitao korisnika koliko ima godina. Odgovor spremi u **varijablu** `rodjen`.
++ Možeš poboljšati svoj program koristeći naredbu `input()` kako bi pitao korisnika koliko ima godina. Odgovor je spremljen u **varijablu** `rodjen`.
     
     ![screenshot](images/me-input.png)
 

@@ -1,19 +1,19 @@
 ---
-hero_image: εικόνες / about-me.png
-theme: πορτοκάλι
+hero_image: images/about-me.png
+theme: πορτοκαλί
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, σχεδιασμός-0, προγραμματισμός-1, phys-comp-0, κατασκευή-0, κοινότητα-0
 title: Σχετικά με μένα
-description: Χρησιμοποιήστε τη γλώσσα προγραμματισμού Python για να δημιουργήσετε εικόνες εκτός κειμένου
+description: Χρησιμοποιήστε τη γλώσσα προγραμματισμού Python για προσομοιώσεις εικόνες με την χρήση γραμμάτων
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
-technologies: Πύθων
+technologies: python
 site_areas: έργα
 hardware: ''
-software: Πύθων
+software: python
 version: 3
 last_tested: 2017-01-01
 steps:
@@ -22,16 +22,16 @@ steps:
   - 
     title: Τι θα χρειαστείτε
   - 
-    title: Λεω γεια
+    title: Καλωσορίζω
   - 
-    title: "Πρόκληση: τι σκέφτεστε;"
+    title: "Πρόκληση: Τι σκέφτεστε;"
   - 
-    title: ASCII τέχνη
+    title: τέχνη ASCII
   - 
-    title: "Πρόκληση: για τον εαυτό σας"
+    title: "Πρόκληση: Για τον εαυτό σας"
   - 
     title: Το έτος 2025
   - 
-    title: "Πρόκληση: η ηλικία σας στα σκυλιά χρόνια"
+    title: "Πρόκληση: Η ηλικία σας στα σκυλιά χρόνια"
   - 
-    title: "Πρόκληση: υπολογισμός κειμένου"
+    title: "Πρόκληση: Υπολογισμός κειμένου"

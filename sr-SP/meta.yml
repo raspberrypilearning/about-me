@@ -7,7 +7,7 @@ ingredient: false
 copyedit: true
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: О мени
-description: Use the Python programming language to create pictures out of text
+description: Искористите програмски језик Python за креирање слика од текста
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
 technologies: python
@@ -18,20 +18,20 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Увод
   - 
-    title: What you will need
+    title: Шта је потребно
   - 
-    title: Saying hello
+    title: Реци здраво
   - 
-    title: "Challenge: what's on your mind?"
+    title: "Изазов: шта ти је на уму?"
   - 
     title: ASCII art
   - 
-    title: "Challenge: about yourself"
+    title: "Изазов: О теби"
   - 
-    title: The year 2025
+    title: 2025. година
   - 
-    title: "Challenge: your age in dog years"
+    title: "Изазов: твоја старост у псећим годинама"
   - 
-    title: "Challenge: calculating text"
+    title: "Изазов: рачунање текста"

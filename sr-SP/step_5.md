@@ -1,6 +1,6 @@
-## ASCII art
+## АSCII уметност
 
-Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
+Хајде на испишемо нешто много занимљивије од текста: ASCII уметност! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
 
 + Let's add some art to your program — a picture of a dog!
     

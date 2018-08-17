@@ -1,22 +1,22 @@
 ## АSCII уметност
 
-Хајде на испишемо нешто много занимљивије од текста: ASCII уметност! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
+Хајде на испишемо нешто много занимљивије од текста: ASCII уметност! ASCII уметност (чита се '*аски*') представља креирање **слика само од текста**.
 
-+ Let's add some art to your program — a picture of a dog!
++ Хајде да додамо мало уметности у програм - слику пса!
     
     ![screenshot](images/me-dog.png)
 
-The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
+Ноге пса можеш направити користећи усправну црту`|` коју такође можеш добити притискањем <kbd>Shift + \</kbd> на већини енглеских тастатура.
 
-+ If you click **Run**, you'll see that there's a bug in your new code.
++ Ако притиснеш **Run**, видећеш да постоји грешка у твом коду.
     
     ![screenshot](images/me-dog-bug.png)
     
-    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
+    То је зато што текст садржи наводник `'`, због којег Python мисли да је дошао до краја текста!
     
     ![screenshot](images/me-dog-quote.png)
 
-+ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
++ Како би ово исправио стави косу црту `` пре апострофа у речи `Pogle'`. This tells Python that the apostrophe is part of the text.
     
     ![screenshot](images/me-dog-bug-fix.png)
 

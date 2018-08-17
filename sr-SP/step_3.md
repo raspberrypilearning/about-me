@@ -1,14 +1,14 @@
-## Saying hello
+## Реци здраво
 
-Let's start by writing some text.
+Хајде да почнемо писањем текста.
 
-+ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Отвори празан Python предлог <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Type the following into the window that appears:
++ У прозор који се појавио упиши следеће:
     
     ![screenshot](images/me-hi.png)
     
-    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
+    Линија `#!/bin/python3` само говори Trinket-у да користимо Python 3 (последњу верзију).
 
 + Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
     

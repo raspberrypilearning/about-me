@@ -14,10 +14,10 @@
 
 Овај пројекат покрива елементе из следећих делова наставног плана и програма [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [Коришћење основа програмирања за креирање простих програма](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-### Additional information for educators
+### Додатне информације за наставнике
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/about-me/print){:target="_blank"}.
+Уколико желите да одштампате овај пројекат, молимо Вас користите [верзију за штампање](https://projects.raspberrypi.org/en/projects/about-me/print){:target="_blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Искористите линк у подножју да приступите GitHub репозиторијуму који садржи овај пројекат, који садржи све потребне ресурсе (укључујући и пример завршеног пројекта) у фолдеру 'en/resources'.

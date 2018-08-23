@@ -19,7 +19,7 @@ print('''
 
 ''')
 
-born = int('Ποιά χρονία γεννήθηκες;')
+born = input('Ποιά χρονία γεννήθηκες;')
 born = int(born)
 age = 2025 - born
-print('In the year 2025 you\'ll be', age, 'years old!')
+print('Το έτος 2025 θα είσαι', age, 'χρονών!')

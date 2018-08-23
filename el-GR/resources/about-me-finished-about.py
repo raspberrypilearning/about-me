@@ -1,14 +1,14 @@
 #!/bin/python3
 
-print('Hi, I can code in Python!')
+print('Γεία σας, μπορώ και προγραμματίζω σε Python!')
 
 print('''
-My favourite animals are sheep
+Τα αγαπημένα μου ζώα είναι τα πρόβατα
 
  o-###-
-   | |   #
+   | | #
 
-I live in Glasgow
+Ζω στην Αθήνα
 
    _|_
   |   |
@@ -19,7 +19,7 @@ I live in Glasgow
 
 ''')
 
-born = input('What year were you born?')
+born = int('Ποιά χρονία γεννήθηκες;')
 born = int(born)
 age = 2025 - born
 print('In the year 2025 you\'ll be', age, 'years old!')

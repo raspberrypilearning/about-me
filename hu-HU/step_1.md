@@ -1,6 +1,6 @@
 ## Bevezetés
 
-Ebben a projektben megtanulhatod, hogyan kell írni egy Python programot, amely az embereket rólatok szólítja.
+Ebben a projektben megtanulhatod, hogyan kell írni egy Python programot, amely bemutat az embereknek.
 
 ### Mit fogsz csinálni?
 
@@ -10,11 +10,11 @@ Ebben a projektben megtanulhatod, hogyan kell írni egy Python programot, amely 
   <img src="images/me-final.png">
 </div>
 
-### Amit megtanulsz
+### Amit meg fogsz tanulni
 
-Ez a projekt a [Raspberry Pi Digitális készítési tanterv](http://rpf.io/curriculum){: target = "_ blank":
+Ez a projekt a [Raspberry Pi Digitális Alkotási Tananyag ](http://rpf.io/curriculum){:target="_blank"} alábbi részeinek elemeit fedi le:
 
-+ [egyszerű programozási konstrukciókat egyszerű programok létrehozásához](https://www.raspberrypi.org/curriculum/programming/creator){: target = "_ blank"}
++ [Alapvető programozási szerkezetek használata egyszerű programok létehozására](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
 ### További információk az oktatók számára
 

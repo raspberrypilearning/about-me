@@ -2,8 +2,8 @@
 
 ## Kihívás: Mi a véleményed?
 
-Módosítsa az éppen írt kódot, hogy valami érdekesebb dolgot nyomtasson rád!
+Módosítsd az éppen írt kódot, hogy valami érdekesebb dolgot írjon ki rólad!
 
-![screenshot](images/me-mind.png)
+![képernyőkép](images/me-mind.png)
 
-\--- / kihívás \---
+\--- /kihívás \---

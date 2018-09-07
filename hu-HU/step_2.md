@@ -6,4 +6,4 @@
 
 ### Szoftver
 
-Ez a projekt egy webböngészőben végezhető el [trinket.io](https://trinket.io){: target = "_ blank"}
+Ez a projekt elvégezhető egy webböngészőben [trinket.io](https://trinket.io){: target = "_ blank"}

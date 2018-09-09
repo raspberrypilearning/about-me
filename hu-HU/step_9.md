@@ -4,12 +4,12 @@
 
 Tudta, hogy szöveg kiszámításához is ?!
 
-Mi fog megjelenni a következő program a képernyőn? Nézze meg, hogy a program futtatása előtt pontosan kitalálhatja.
+Mit fog megjeleníteni a következő program a képernyőn? Lássuk, hogy ki tudod-e találni a program futtatása előtt.
 
 ![screenshot](images/me-text-calc.png)
 
-Tudsz pótolni a saját szavadat? Még a saját mintáit is elkészítheted!
+Tudsz pótolni a saját szavadat? Még a saját mintáid is elkészítheted!
 
 ![screenshot](images/me-patterns.png)
 
-\--- / kihívás \---
+\--- /kihívás \---

@@ -1,32 +1,32 @@
 ## A 2025-ös év
 
-Számításokat és nyomtatási számokat is elvégezhet. Ismerd meg, mennyi idős lesz 2025-ben!
+Számításokat és számkiíratásokat is elvégezhetsz. Nézzük meg hány éves leszel 2025-ben!
 
-+ Annak kiszámításához, hogy mennyi idős lesz a 2025-ös év, akkor el kell vonnia az évet, amikor született 2025-től.
++ Annak kiszámításához, hogy mennyi idős leszel 2025-ben, ki kell vonnod a születési éved 2025-ből.
     
-    Adja hozzá ezt a kódot a programhoz:
+    Add hozzá ezt a kódot a programhoz:
     
     ![screenshot](images/me-calc.png)
     
-    Vegye figyelembe, hogy nem kell idézőjeleket tenni a számok köré. (Meg kell változtatnod a `2006` számot, ha egy másik évben született.)
+    Vedd figyelembe, hogy nem kell idézőjeleket tenni a számok köré. (Meg kell változtatnod a `2006` számot, ha másik évben született.)
 
-+ Kattintson a ****futtatásra, és a programnak 2025-ben nyomtatnia kell az életkorát.
++ Kattints a **futtatásra**, és a programnak nyomtatnia kell az életkorod 2025-ben.
     
     ![screenshot](images/me-calc-run.png)
 
-+ Javíthatja a programot a `bemenet ()` hogy megkérdezze a felhasználó életkorát, és tárolja egy **változó** nevű `született`.
++ Javíthatsz a programon az `input()` használatával hogy megkérdezze a felhasználó életkorát, és tárolja el egy `szuletesiev` nevű **változóban**.
     
     ![screenshot](images/me-input.png)
 
-+ Futtassa a programot, majd adja meg az évet, amikor született. Kaptál még egy hibaüzenetet?
++ Futtasd a programot, majd add meg az évet, amikor születettél. Kaptál még egy hibaüzenetet?
     
-    Ennek oka, hogy bármit írtak be a program **szöveg**, és meg kell átalakítani a **számú**.
+    Ennek oka, hogy bármit írtak be a programba az **szöveg**, amit még kell átalakítani a **számmá**.
     
-    Használhatja `int ()` átalakítani a szöveget egy **egész**. Egy egész szám egy egész szám.
+    Használhatja `int ()` átalakítani a szöveget egy **egész**. Az integer egy egész szám.
     
     ![screenshot](images/me-input-test.png)
 
-+ Más változót is létrehozhat a számítás tárolásához, és kinyomtathatja.
++ Más változót is létrehozhatsz a számítás tárolásához, és kinyomtathatod azt.
     
     ![screenshot](images/me-result-variable.png)
 

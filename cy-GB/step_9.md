@@ -1,5 +1,5 @@
 --- challenge ---
-## Her: Cyfrifo testun
+## Her: cyfrifo testun
 Oeddet ti'n gwybod bod hefyd modd cyfrif testun?!
 
 Beth fyddai'r rhaglen canlynol yn printio ar y sgrin? Ceisia ddyfalu yn gywir cyn rhedeg y rhaglen. 

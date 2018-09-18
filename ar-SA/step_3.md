@@ -2,7 +2,7 @@
 
 لنبدأ من خلال كتابة بعض النصوص.
 
-+ افتح حاوية نموذج بيثون الفارغة: <a href="http://jumpto.cc/python-new" target="_blank"> jumpto.cc/python-new </a>.
++ افتح trinket يحتوي على قالب Python فارغ:<a href="http://jumpto.cc/python-new" target="_blank"> jumpto.cc/python-new</a>.
 
 + اكتب ما يلي في النافذة التي يتم عرضها:
     

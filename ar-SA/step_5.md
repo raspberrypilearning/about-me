@@ -4,22 +4,22 @@
 
 + دعونا نضيف بعض الرسوم إلى البرنامج - مثل صورة كلب!
     
-    ![screenshot](images/me-dog.png)
+    ![لقطة الشاشة](images/me-dog.png)
 
 يمكن صنع أقدام الكلب باستخدام الحرف` | `الذي يمكنك كتابته بالضغط على <kbd>Shift + \ </kbd>على معظم لوحات المفاتيح الإنجليزية UK/US.
 
-+ إذا نقرت على ‘run’، فسترى أن هناك خطأ في التعليمات البرمجية الجديدة.
++ إذا نقرت فوق **Run**، فسترى أن هناك خطأ في تعليمتك البرمجية الجديدة.
     
-    ![screenshot](images/me-dog-bug.png)
+    ![لقطة الشاشة](images/me-dog-bug.png)
     
-    هذا لأن النص يحتوي على علامة اقتباس، يعتقد Python أنها تعني نهاية النص!
+    هذا لأن النص يحتوي على علامة فاصلة عليا` '`، يعتقد Python أنها نهاية النص!
     
-    ![screenshot](images/me-dog-quote.png)
+    ![لقطة الشاشة](images/me-dog-quote.png)
 
-+ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
++ لإصلاح هذا الأمر، ضع فقط شرطة مائلة للخلف `` قبل علامة الفاصلة العليا في كلمة `here's`. فهذا يخبر Python أن علامة الفاصلة العليا هي جزء من النص.
     
-    ![screenshot](images/me-dog-bug-fix.png)
+    ![لقطة الشاشة](images/me-dog-bug-fix.png)
 
-+ يمكنك استخدام 3 علامات اقتباس ''' بدلًا من استخدام علامة اقتباس واحدة، إذا كنت تفضل ذلك، لطباعة أسطر متعددة من النص بعبارة print واحدة:
++ يمكنك استخدام ثلاث فاصلات عليا `'''` بدلًا من استخدام واحدة، إذا كنت تفضل ذلك، لطباعة أسطر متعددة من النص بعبارة `print` واحدة:
     
-    ![screenshot](images/me-dog-triple-quote.png)
+    ![لقطة الشاشة](images/me-dog-triple-quote.png)

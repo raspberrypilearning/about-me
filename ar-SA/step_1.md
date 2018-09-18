@@ -2,7 +2,7 @@
 
 ستتعلم في هذا المشروع كيفية كتابة برنامج Python لتخبر الناس كل شيء عنك.
 
-### ما سوف تجعل
+### ما الذي ستصنعه
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a1f663ae0d?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -10,9 +10,9 @@
   <img src="images/me-final.png">
 </div>
 
-### ما سوف تتعلم
+### ما الذي ستتعلمه
 
-ويغطي هذا المشروع عناصر من السلاسل التالية من [ منهج التوت الرقمية بي التوت](http://rpf.io/curriculum){:target="_blank"}:
+يتناول هذا المشروع عناصر من [الصفوف التالية من المناهج الرقمية الخاصة بـ Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
 + [ استخدام البرمجة الأساسية يبني لإنشاء برامج بسيطة ](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 

@@ -1,6 +1,6 @@
 ## عام 2025
 
-You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
+يمكنك أيضًا القيام بالعمليات الحسابية وطباعة الأرقام. دعنا نكتشف كم سيكون عمرك بحلول عام 2025!
 
 + لحساب كم سيكون عمرك في عام 2025، تحتاج إلى طرح العام الذي ولدت فيه من 2025.
     
@@ -8,9 +8,9 @@ You can also do calculations and print numbers. Let's find out how old you'll be
     
     ![screenshot](images/me-calc.png)
     
-    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
+    لاحظ أنك لا تحتاج إلى وضع علاماتي اقتباس حول الأرقام. (ستحتاج إلى تغيير الرقم `2006` إذا كنت قد ولدت في عام أخر.)
 
-+ انقر فوق **Run** وسيطبع برنامجك عمرك في عام 2025.
++ انقر فوق **Run** وسيطبع برنامجك طباعة عمرك في عام 2025.
     
     ![screenshot](images/me-calc-run.png)
 

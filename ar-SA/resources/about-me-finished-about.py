@@ -19,7 +19,7 @@ print('''
 
 ''')
 
-born = input('What year were you born?')
+born = input(' في أي عام ولدت؟')
 born = int(born)
 age = 2025 - born
-print('In the year 2025 you\'ll be', age, 'years old!')
+print('في عام 2025 سيصبح عمري', age, 'سنه!')

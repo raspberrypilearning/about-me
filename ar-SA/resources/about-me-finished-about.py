@@ -1,14 +1,14 @@
 #!/bin/python3
 
-print('Hi, I can code in Python!')
+print('مرحبا، أنا أستطيع البرمجة باستخدام الـ Python!')
 
 print('''
-My favourite animals are sheep
+حيواني المفضل هي الأغنام
 
  o-###-
    | |   #
 
-I live in Glasgow
+أنا أسكن في غلاسكو
 
    _|_
   |   |

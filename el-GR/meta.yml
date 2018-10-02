@@ -1,37 +1,37 @@
 ---
 hero_image: images/about-me.png
-theme: πορτοκαλί
+theme: orange
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 1, σχεδιασμός-0, προγραμματισμός-1, phys-comp-0, κατασκευή-0, κοινότητα-0
-title: Σχετικά με μένα
-description: Χρησιμοποιήστε τη γλώσσα προγραμματισμού Python για προσομοιώσεις εικόνες με την χρήση γραμμάτων
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: About me
+description: Use the Python programming language to create pictures out of text
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
 technologies: python
-site_areas: έργα
+site_areas: projects
 hardware: ''
 software: python
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Εισαγωγή
+    title: Introduction
   - 
-    title: Τι θα χρειαστείτε
+    title: What you will need
   - 
-    title: Καλωσορίζω
+    title: Saying hello
   - 
-    title: "Πρόκληση: Τι σκέφτεστε;"
+    title: "Challenge: what's on your mind?"
   - 
-    title: τέχνη ASCII
+    title: ASCII art
   - 
-    title: "Πρόκληση: Για τον εαυτό σας"
+    title: "Challenge: about yourself"
   - 
-    title: Το έτος 2025
+    title: The year 2025
   - 
-    title: "Πρόκληση: Η ηλικία σας στα σκυλιά χρόνια"
+    title: "Challenge: your age in dog years"
   - 
-    title: "Πρόκληση: Υπολογισμός κειμένου"
+    title: "Challenge: calculating text"

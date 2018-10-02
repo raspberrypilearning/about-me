@@ -1,33 +1,33 @@
-## Καλωσορίζω
+## Saying hello
 
-Ας αρχίσουμε γράφοντας κάποιο κείμενο.
+Let's start by writing some text.
 
-+ Ανοίξτε το κενό trinket πρότυπο Python: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Πληκτρολογήστε τα ακόλουθα στο παράθυρο που εμφανίζεται:
++ Type the following into the window that appears:
     
     ![screenshot](images/me-hi.png)
     
-    Η γραμμή `#! / Bin / python3` λέει απλά στο Trinket ότι χρησιμοποιούμε Python 3 (την τελευταία έκδοση).
+    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
 
-+ Κάντε κλικ στο **Run**, και θα δείτε ότι η εντολη `print ()` εκτυπώνει τα πάντα ανάμεσα στα εισαγωγικά `«»`.
++ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
     
     ![screenshot](images/me-hi-test.png)
 
-Αν έχετε κάνει κάποιο λάθος, θα λάβετε ένα μήνυμα σφάλματος που σας λέει τι συνέβη.
+If you've made a mistake, you'll get an error message telling you what went wrong instead!
 
-+ Δοκίμασέ το! Διαγράψτε την τελική παράθεση `'` ή το στήριγμα κλεισίματος `)` (ή και τα δύο) και δείτε τι συμβαίνει.
++ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
     
     ![screenshot](images/me-syntax.png)
 
-+ Προσθέστε ξανά την παράθεση ή το βραχίονα και κάντε κλικ στο **Εκτέλεση** για να βεβαιωθείτε ότι το έργο σας λειτουργεί ξανά.
++ Add the quote or bracket back in, and click **Run** to make sure your project works again.
 
-**Δεν χρειάζεστε λογαριασμό Trinket για να αποθηκεύσετε τα έργα σας!**
+**You don't need a Trinket account to save your projects!**
 
-Εάν δεν διαθέτετε λογαριασμό Trinket, κάντε κλικ στο κάτω βέλος και, στη συνέχεια, κάντε κλικ στο στοιχείο **Σύνδεση**. Αυτό θα σας δώσει έναν σύνδεσμο που μπορείτε να αποθηκεύσετε και να επιστρέψετε αργότερα. Θα πρέπει να το κάνετε αυτό κάθε φορά που κάνετε αλλαγές, καθώς ο σύνδεσμος θα αλλάξει!
+If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
 
 ![screenshot](images/me-link.png)
 
-Αν έχετε λογαριασμό Trinket, μπορείτε να κάνετε κλικ στο **Remix** για να αποθηκεύσετε το δικό σας αντίγραφο του μπιχλιμπίδιου.
+If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
 
 ![screenshot](images/me-remix.png)

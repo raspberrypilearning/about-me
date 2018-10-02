@@ -1,13 +1,13 @@
-\--- kihívás \---
+\--- challenge \---
 
-## Kihívás: magadról
+## Challenge: about yourself
 
-Írj egy Python programot ami bemutat másoknak, szöveget és az ASCII művészetet használva. Képeket készíthetsz hobbidról, barátaidról vagy bármi másról, amik tetszenek!
+Write a Python program to tell others about yourself using text and ASCII art. You can create images of your hobbies, friends, or anything you like!
 
-**Ne feledd, hogy a Trinket-ben írt kód nyilvános. Ne ossz meg olyan személyes adatokat, mint a teljes neved vagy címed!**
+**Remember that the code you write in Trinket is public. Don't share any personal information like your full name or address!**
 
-Íme egy példa:
+Here’s an example:
 
-![képernyőkép](images/me-about.png)
+![screenshot](images/me-about.png)
 
-\--- /kihívás \---
+\--- /challenge \---

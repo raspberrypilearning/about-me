@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Πρόκληση: Τι σκέφτεστε;
+## Challenge: What's on your mind?
 
-Αλλάξτε τον κώδικα που μόλις γράψατε για να τυπώσετε κάτι πιο ενδιαφέρον για εσάς!
+Change the code you just wrote to print something more interesting about you!
 
 ![screenshot](images/me-mind.png)
 

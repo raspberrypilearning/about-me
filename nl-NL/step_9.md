@@ -1,14 +1,14 @@
 \--- challenge \---
 
-## Uitdaging: rekenen met tekst
+## Challenge: calculating text
 
-Wist je dat je ook met tekst kunt rekenen?
+Did you know that you can also calculate text?!
 
-Wat zal het volgende programma op het scherm laten zien? Kijk of je het kunt raden voordat je het programma start.
+What will the following program print to the screen? See if you can guess it correctly before running the program.
 
 ![screenshot](images/me-text-calc.png)
 
-Kun je zelf woorden bedenken? Je kunt zelfs je eigen patronen maken!
+Can you make up any words of your own? You could even make your own patterns!
 
 ![screenshot](images/me-patterns.png)
 

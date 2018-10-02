@@ -1,8 +1,8 @@
-## Введение
+## Introduction
 
-В этом проекте вы научитесь писать программу на Python, которая рассказывает людям о вас.
+In this project you will learn how to write a Python program telling people all about you.
 
-### Что вам нужно сделать
+### What you will make
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a1f663ae0d?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -10,14 +10,14 @@
   <img src="images/me-final.png">
 </div>
 
-### Чему вы научитесь
+### What you will learn
 
-Этот проект включает в себя элементы из [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum)(: target = "_ blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Используйте базовые конструкции программирования для создания простых программ](https://www.raspberrypi.org/curriculum/programming/creator){: target = "_ blank"}
++ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-### Дополнительная информация для преподавателей
+### Additional information for educators
 
-Если вам нужно распечатать страницу данного проекта, то используйте [версию для печати](https://projects.raspberrypi.org/en/projects/about-me/print){: TARGET = «_blank»}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/about-me/print){:target="_blank"}.
 
-Используйте ссылку в нижнем колонтитуле (в самом низу сайта) для доступа к репозиторию GitHub для этого проекта, который содержит все ресурсы (включая пример завершенного проекта) в папке «en / resources».
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.

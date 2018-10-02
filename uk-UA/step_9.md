@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Завдання: обчислення тексту
+## Challenge: calculating text
 
-Ви знали, що ви також можете розрахувати текст ?!
+Did you know that you can also calculate text?!
 
-Що наступна програма буде друкувати на екрані? Подивіться, чи правильно вгадаєте ви це перед запуском програми.
+What will the following program print to the screen? See if you can guess it correctly before running the program.
 
-![знімок екрану](images/me-text-calc.png)
+![screenshot](images/me-text-calc.png)
 
-Ви можете скласти будь-які ваші слова? Ви навіть можете створити свої власні моделі!
+Can you make up any words of your own? You could even make your own patterns!
 
-![знімок екрану](images/me-patterns.png)
+![screenshot](images/me-patterns.png)
 
 \--- /challenge \---

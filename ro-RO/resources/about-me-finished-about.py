@@ -1,14 +1,14 @@
 #!/bin/python3
 
-print('Bună, pot programa în Python!')
+print('Hi, I can code in Python!')
 
 print('''
-Animalele mele preferate sunt oile
+My favourite animals are sheep
 
  o-###-
    | |   #
 
-Locuiesc în Glasgow
+I live in Glasgow
 
    _|_
   |   |
@@ -19,7 +19,7 @@ Locuiesc în Glasgow
 
 ''')
 
-born = input('În ce an te-ai născut?')
+born = input('What year were you born?')
 born = int(born)
 age = 2025 - born
-print('În anul 2025 vei avea\', age, 'ani')
+print('In the year 2025 you\'ll be', age, 'years old!')

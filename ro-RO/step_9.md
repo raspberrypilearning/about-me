@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Provocare: calculul textului
+## Challenge: calculating text
 
-Știați că puteți calcula și textul?!
+Did you know that you can also calculate text?!
 
-Ce va afișa următorul program pe ecran? Vedeți dacă puteți ghici înainte de a rula programul.
+What will the following program print to the screen? See if you can guess it correctly before running the program.
 
-![captură de ecran](images/me-text-calc.png)
+![screenshot](images/me-text-calc.png)
 
-Poți inventa cuvinte noi? Ai putea face chiar şi propriile modele!
+Can you make up any words of your own? You could even make your own patterns!
 
-![captură de ecran](images/me-patterns.png)
+![screenshot](images/me-patterns.png)
 
 \--- /challenge \---

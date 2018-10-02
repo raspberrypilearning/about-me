@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## 도전과제: 어떤 생각을 하고 있나요?
+## Challenge: What's on your mind?
 
-방금 작성한 코드를 변경해서 당신에 대한 흥미로운 이야기들을 나타내 보세요!
+Change the code you just wrote to print something more interesting about you!
 
 ![screenshot](images/me-mind.png)
 

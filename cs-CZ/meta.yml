@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: O mně
-description: Použij programovací jazyk Python a vytvářej obrázky z textu
+title: About me
+description: Use the Python programming language to create pictures out of text
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
 technologies: python
@@ -18,20 +18,20 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Úvod
+    title: Introduction
   - 
-    title: Co budeš potřebovat
+    title: What you will need
   - 
-    title: Řekni ahoj
+    title: Saying hello
   - 
-    title: "Výzva: na co myslíš?"
+    title: "Challenge: what's on your mind?"
   - 
-    title: ASCII grafika
+    title: ASCII art
   - 
-    title: "Výzva: o sobě"
+    title: "Challenge: about yourself"
   - 
-    title: V roce 2025
+    title: The year 2025
   - 
-    title: "Výzva: psí věk"
+    title: "Challenge: your age in dog years"
   - 
-    title: "Výzva: počítání s textem"
+    title: "Challenge: calculating text"

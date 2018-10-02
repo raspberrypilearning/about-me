@@ -1,37 +1,37 @@
 ---
-hero_image: images / about-me.png
-theme: narancs
+hero_image: images/about-me.png
+theme: orange
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 1, design-0, programozás-1, phys-comp-0, gyártás-0, community-0
-title: Rólam
-description: Használja a Python programnyelvét szövegek létrehozásához
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: About me
+description: Use the Python programming language to create pictures out of text
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
-technologies: piton
-site_areas: projektek
+technologies: python
+site_areas: projects
 hardware: ''
-software: piton
+software: python
 version: 3
-last_tested: 2017/01/01
+last_tested: 2017-01-01
 steps:
   - 
-    title: Bevezetés
+    title: Introduction
   - 
-    title: Amire szükséged lesz
+    title: What you will need
   - 
-    title: Köszönni
+    title: Saying hello
   - 
-    title: "Kihívás: mi a véleményed?"
+    title: "Challenge: what's on your mind?"
   - 
-    title: ASCII művészet
+    title: ASCII art
   - 
-    title: "Kihívás: magadról"
+    title: "Challenge: about yourself"
   - 
-    title: A 2025-ös év
+    title: The year 2025
   - 
-    title: "Kihívás: az életkor a kutyaévekben"
+    title: "Challenge: your age in dog years"
   - 
-    title: "Kihívás: a szöveg kiszámítása"
+    title: "Challenge: calculating text"

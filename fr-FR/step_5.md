@@ -1,25 +1,25 @@
-## Art ASCII
+## ASCII art
 
-Let’s print something much more fun than text: ASCII art! L'Art ASCII (prononcé '* ask-i * ') crée ** des images à partir de texte ** .
+Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
 
-+ Ajoutons un peu d'art à ton programme - une photo d'un chien!
++ Let's add some art to your program — a picture of a dog!
     
     ![screenshot](images/me-dog.png)
 
-Les jambes du chien sont fabriqués à partir du caractère barre verticale `|` que tu peux saisir en appuyant sur <kbd>Shift + \</kbd> sur la plupart des claviers anglais ou américains.
+The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
 
-+ Si tu cliques sur ** Exécuter ** , tu verras qu'il y a un bug dans ton nouveau code.
++ If you click **Run**, you'll see that there's a bug in your new code.
     
     ![screenshot](images/me-dog-bug.png)
     
-    C'est parce que ton texte contient une apostrophe ` ' ` que Python pense que c'est la fin du texte!
+    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
     
     ![screenshot](images/me-dog-quote.png)
 
-+ Pour corriger cela, il suffit de mettre une barre oblique inverse ` \ ` avant l'apostrophe dans le mot ` ici ` . Cela indique à Python que l'apostrophe fait partie du texte.
++ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
     
     ![screenshot](images/me-dog-bug-fix.png)
 
-+ Si tu préfères, tu peux utiliser trois apostrophes ` '' ' ` au lieu d'un, ce qui te permet d'imprimer plusieurs lignes de texte avec une seule commande ` print `:
++ If you prefer, you can use three apostrophe `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
     
     ![screenshot](images/me-dog-triple-quote.png)

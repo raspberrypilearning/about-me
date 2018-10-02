@@ -1,9 +1,9 @@
-## 必要なもの
+## What you will need
 
-### ハードウェア
+### Hardware
 
-+ [trinket.io](https://trinket.io)ウェブサイトにアクセスできるコンピュータ
++ A computer capable of accessing the [trinket.io](https://trinket.io){:target="_blank"} website
 
-### ソフトウェア
+### Software
 
-このプロジェクトは、Webブラウザで [trinket.io](https://trinket.io)を使用して完成させることができます。
+This project can be completed in a web browser using [trinket.io](https://trinket.io){:target="_blank"}

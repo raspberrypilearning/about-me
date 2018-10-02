@@ -1,9 +1,9 @@
-\--- Défi\---
+\--- challenge \---
 
-## Défi: À quoi penses-tu?
+## Challenge: What's on your mind?
 
-Change le code que tu viens d'écrire pour imprimer quelque chose de plus intéressant à ton sujet!
+Change the code you just wrote to print something more interesting about you!
 
-![capture d'écran](images/me-mind.png)
+![screenshot](images/me-mind.png)
 
-\--- /défi \---
+\--- /challenge \---

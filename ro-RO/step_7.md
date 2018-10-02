@@ -1,35 +1,35 @@
-## Anul 2025
+## The year 2025
 
-De asemenea, puteți face anumite calcule și afișa numere pe ecran. Haideti sa aflam câți ani vei avea în anul 2025!
+You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
 
-+ Pentru a calcula câti ani veți avea în anul 2025, aveţi nevoie pentru a scădea anul în care te-ai născut, din 2025.
++ To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
     
-    Adăugați acest cod la program:
+    Add this code to your program:
     
-    ![captură de ecran](images/me-calc.png)
+    ![screenshot](images/me-calc.png)
     
-    Observați că nu este necesar să introduceți alte caractere în jurul numerelor. (Va trebui să schimbați numărul `2006` dacă v-ați născut într-un alt an.)
+    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
 
-+ Faceți clic pe **Run**, și programul va afișa vârsta dvs. din anul 2025.
++ Click **Run**, and your program should print your age in the year 2025.
     
-    ![captură de ecran](images/me-calc-run.png)
+    ![screenshot](images/me-calc-run.png)
 
-+ Puteți îmbunătăți programul folosind `input()` care va întreba vârsta utilizatorului și o va stoca în **variable** numită `born`.
++ You could improve your program by using `input()` to ask the user their age and store it in a **variable** called `born`.
     
-    ![captură de ecran](images/me-input.png)
+    ![screenshot](images/me-input.png)
 
-+ Rulați programul și apoi introduceți anul în care v-ați născut. Ați primit alt mesaj de eroare?
++ Run your program and then enter the year you were born. Did you get another error messgae?
     
-    Asta, pentru că, orice tipăriți în program este de tipul **text**, și va trebui convertit intr-un **number**.
+    That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
     
-    Puteți folosi `int()` pentru a converti un text intr-un **integer**. Un întreg este un număr întreg.
+    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
     
-    ![captură de ecran](images/me-input-test.png)
+    ![screenshot](images/me-input-test.png)
 
-+ De asemenea, puteți crea o altă variabilă pentru a stoca calculul dvs. și pentru a o afișa.
++ You can also create another variable to store your calculation, and print that instead.
     
-    ![captură de ecran](images/me-result-variable.png)
+    ![screenshot](images/me-result-variable.png)
 
-+ În cele din urmă, puteți face programul dvs. mai ușor de înțeles prin adăugarea unui mesaj util.
++ Finally, you can make your program easier to understand by adding a helpful message.
     
-    ![captură de ecran](images/me-message.png)
+    ![screenshot](images/me-message.png)

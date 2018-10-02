@@ -1,8 +1,8 @@
-## はじめに
+## Introduction
 
-このプロジェクトでは、あなたのすべてのことを伝えるPythonプログラムを書く方法を学びます。
+In this project you will learn how to write a Python program telling people all about you.
 
-### あなたが作るもの
+### What you will make
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a1f663ae0d?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -10,14 +10,14 @@
   <img src="images/me-final.png">
 </div>
 
-### あなたが学ぶもの
+### What you will learn
 
-このプロジェクトは、[Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum)の次の要素から構成されています。
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [基本的なプログラミング構造を使用して簡単なプログラムを作成する](https://www.raspberrypi.org/curriculum/programming/creator)
++ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-### 教育者のための追加情報
+### Additional information for educators
 
-このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/about-me/print)を使用してください。
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/about-me/print){:target="_blank"}.
 
-フッターのリンクを使用して、このプロジェクトのGitHubリポジトリにアクセスします。このリポジトリには、 'en / resources'フォルダ内のすべてのリソース（完成プロジェクトの例を含む）が含まれています。
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.

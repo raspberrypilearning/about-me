@@ -1,14 +1,14 @@
 #!/bin/python3
 
-print('Helló, tudok Pythonban programozni!')
+print('Hi, I can code in Python!')
 
 print('''
-A bárányok a kedvenc állataim
+My favourite animals are sheep
 
  o-###-
    | |   #
 
-Glasgowban élek
+I live in Glasgow
 
    _|_
   |   |
@@ -19,7 +19,7 @@ Glasgowban élek
 
 ''')
 
-szuletesiev = input('Melyik évben születtél?')
-szuletesiev = int(szuletesiev)
-kor = 2025 - szuletesiev
-print('2025-ben ', kor,' éves leszel')
+born = input('What year were you born?')
+born = int(born)
+age = 2025 - born
+print('In the year 2025 you\'ll be', age, 'years old!')

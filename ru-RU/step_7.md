@@ -1,35 +1,35 @@
-## 2025 год
+## The year 2025
 
-Вы также можете выполнять вычисления и печатать цифры. Давайте узнаем, сколько вам лет в 2025 году!
+You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
 
-+ Чтобы рассчитать, сколько лет вы будете в 2025 году, вам нужно вычесть год, который вы родили с 2025 года.
++ To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
     
-    Добавьте этот код в свою программу:
+    Add this code to your program:
     
-    ![Скриншот](images/me-calc.png)
+    ![screenshot](images/me-calc.png)
     
-    Обратите внимание, что вам не нужно ставить кавычки вокруг чисел. (Вам нужно будет изменить номер `2006` если вы родились в другом году.)
+    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
 
-+ Нажмите **Запустить**, и ваша программа должна напечатать ваш возраст в 2025 году.
++ Click **Run**, and your program should print your age in the year 2025.
     
-    ![Скриншот](images/me-calc-run.png)
+    ![screenshot](images/me-calc-run.png)
 
-+ Вы можете улучшить свою программу, используя `input ()` чтобы задать пользователю возраст и сохранить его в **переменных** получивших `родившихся`.
++ You could improve your program by using `input()` to ask the user their age and store it in a **variable** called `born`.
     
-    ![Скриншот](images/me-input.png)
+    ![screenshot](images/me-input.png)
 
-+ Запустите свою программу, а затем введите год, в который вы родились. Вы получили еще одну ошибку messgae?
++ Run your program and then enter the year you were born. Did you get another error messgae?
     
-    Это потому, что все, что вводится в вашу программу, равно **текста**, и его нужно преобразовать в **номер**.
+    That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
     
-    Вы можете использовать `int ()` для преобразования текста в **целое число**. Целое число - целое число.
+    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
     
-    ![Скриншот](images/me-input-test.png)
+    ![screenshot](images/me-input-test.png)
 
-+ Вы также можете создать другую переменную для хранения ваших вычислений и напечатать это вместо этого.
++ You can also create another variable to store your calculation, and print that instead.
     
-    ![Скриншот](images/me-result-variable.png)
+    ![screenshot](images/me-result-variable.png)
 
-+ Наконец, вы можете сделать вашу программу более понятной, добавив полезное сообщение.
++ Finally, you can make your program easier to understand by adding a helpful message.
     
-    ![Скриншот](images/me-message.png)
+    ![screenshot](images/me-message.png)

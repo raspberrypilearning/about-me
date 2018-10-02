@@ -1,15 +1,15 @@
-\--- вызов \---
+\--- challenge \---
 
-## Задача: расчет текста
+## Challenge: calculating text
 
-Знаете ли вы, что вы также можете рассчитать текст ?!
+Did you know that you can also calculate text?!
 
-Что будет выводить следующая программа на экран? Посмотрите, можете ли вы правильно догадаться об этом, прежде чем запускать программу.
+What will the following program print to the screen? See if you can guess it correctly before running the program.
 
-![Скриншот](images/me-text-calc.png)
+![screenshot](images/me-text-calc.png)
 
-Можете ли вы составить какие-либо слова? Вы даже можете создавать свои собственные шаблоны!
+Can you make up any words of your own? You could even make your own patterns!
 
-![Скриншот](images/me-patterns.png)
+![screenshot](images/me-patterns.png)
 
-\--- /вызов \---
+\--- /challenge \---

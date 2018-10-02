@@ -1,25 +1,25 @@
-## ASCII kunst
+## ASCII art
 
-Lad os udskrive noget meget mere sjovt end tekst: ASCII kunst! ASCII kunst (udtalt '* ask-e * ') skaber ** billeder uden for tekst **.
+Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
 
-+ Lad os tilføje noget kunst til dit program - et billede af en hund!
++ Let's add some art to your program — a picture of a dog!
     
     ![screenshot](images/me-dog.png)
 
-Hundens ben laves ved hjælp af rørkarakteren ` | ` som du kan skrive ved at trykke på <kbd> Shift + \ </kbd> på de fleste britiske / amerikanske engelske tastaturer.
+The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
 
-+ Hvis du klikker på ** Kør **, vil du se, at der er en fejl i din nye kode.
++ If you click **Run**, you'll see that there's a bug in your new code.
     
     ![screenshot](images/me-dog-bug.png)
     
-    Det skyldes, at din tekst indeholder et apostrof ` ' ` , som Python mener er slutningen af ​​teksten!
+    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
     
     ![screenshot](images/me-dog-quote.png)
 
-+ For at rette op på dette skal du blot sætte en tilbageslag ` \ ` før apostrof i ordet ` here´s `. Dette fortæller Python, at apostrof er en del af teksten.
++ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
     
     ![screenshot](images/me-dog-bug-fix.png)
 
-+ Hvis du foretrækker det, kan du bruge tre apostrof ` ''' ` i stedet for en, som giver dig mulighed for at udskrive flere tekstlinjer med en ` print ` udmelding:
++ If you prefer, you can use three apostrophe `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
     
-    ![screenshots](images/me-dog-triple-quote.png)
+    ![screenshot](images/me-dog-triple-quote.png)

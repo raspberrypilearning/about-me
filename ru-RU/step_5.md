@@ -1,25 +1,25 @@
-## Искусство ASCII
+## ASCII art
 
-Давайте напечатаем что-то гораздо интереснее текста: ASCII art! Искусство ASCII (произносится «*ask-e*») создает **изображения из текста**.
+Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
 
-+ Давайте добавим немного искусства в вашу программу - изображение собаки!
++ Let's add some art to your program — a picture of a dog!
     
-    ![Скриншот](images/me-dog.png)
+    ![screenshot](images/me-dog.png)
 
-Ножки собаки сделаны с использованием символа трубы `|` которую вы можете ввести, нажав <kbd>Shift + \ </kbd> на большинстве клавиатур Великобритании / США.
+The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
 
-+ Если вы нажмете **Run**, вы увидите, что в вашем новом коде есть ошибка.
++ If you click **Run**, you'll see that there's a bug in your new code.
     
-    ![Скриншот](images/me-dog-bug.png)
+    ![screenshot](images/me-dog-bug.png)
     
-    Это потому, что ваш текст содержит апостроф `'`, который, по мнению Python, является концом текста!
+    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
     
-    ![Скриншот](images/me-dog-quote.png)
+    ![screenshot](images/me-dog-quote.png)
 
-+ Чтобы исправить это, просто поставьте обратную косую черту `3_1_321 перед апострофом в слове <code>здесь`. Это говорит Python, что апостроф является частью текста.
++ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
     
-    ![Скриншот](images/me-dog-bug-fix.png)
+    ![screenshot](images/me-dog-bug-fix.png)
 
-+ Если вы предпочитаете, вы можете использовать три апострофа `'' '` вместо одного, что позволяет печатать несколько строк текста с одним заявлением `печати`:
++ If you prefer, you can use three apostrophe `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
     
-    ![Скриншот](images/me-dog-triple-quote.png)
+    ![screenshot](images/me-dog-triple-quote.png)

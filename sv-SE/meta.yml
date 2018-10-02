@@ -1,37 +1,37 @@
 ---
-hero_image: images / about-me.png
+hero_image: images/about-me.png
 theme: orange
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 1, design-0, programmering-1, phys-comp-0, tillverkning-0, community-0
-title: Om mig
-description: Använd Python programmeringsspråk för att skapa bilder ur text
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: About me
+description: Use the Python programming language to create pictures out of text
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
-technologies: pytonorm
-site_areas: projekt
+technologies: python
+site_areas: projects
 hardware: ''
-software: pytonorm
+software: python
 version: 3
-last_tested: 2017/01/01
+last_tested: 2017-01-01
 steps:
   - 
-    title: Introduktion
+    title: Introduction
   - 
-    title: Vad du kommer att behöva
+    title: What you will need
   - 
-    title: Säger hej
+    title: Saying hello
   - 
-    title: "Utmaning: Vad tänker du på?"
+    title: "Challenge: what's on your mind?"
   - 
     title: ASCII art
   - 
-    title: "Utmaning: om dig själv"
+    title: "Challenge: about yourself"
   - 
-    title: Året 2025
+    title: The year 2025
   - 
-    title: "Utmaning: Din ålder i hundår"
+    title: "Challenge: your age in dog years"
   - 
-    title: "Utmaning: Beräkning av text"
+    title: "Challenge: calculating text"

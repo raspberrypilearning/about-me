@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Provocare: despre tine
+## Challenge: about yourself
 
-Scrieți un program Python pentru a le spune celorlalți despre tine, folosind textul și ASCII art. Puteți crea imagini cu hobby-urile, prietenii sau orice doriți!
+Write a Python program to tell others about yourself using text and ASCII art. You can create images of your hobbies, friends, or anything you like!
 
-**Nu uitați, că codul pe care îl scrieți în Trinket este public. Nu distribuiți informații personale cum ar fi numele dvs. complet sau adresa!**
+**Remember that the code you write in Trinket is public. Don't share any personal information like your full name or address!**
 
-Iată un exemplu:
+Here’s an example:
 
-![captură de ecran](images/me-about.png)
+![screenshot](images/me-about.png)
 
 \--- /challenge \---

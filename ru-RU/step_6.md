@@ -1,13 +1,13 @@
-\--- вызов \---
+\--- challenge \---
 
-## Задача: о себе
+## Challenge: about yourself
 
-Напишите программу Python, чтобы рассказать другим о себе, используя текст и искусство ASCII. Вы можете создавать изображения своих хобби, друзей или всего, что вам нравится!
+Write a Python program to tell others about yourself using text and ASCII art. You can create images of your hobbies, friends, or anything you like!
 
-**Помните, что код, который вы пишете в Trinket, является общедоступным. Не сообщайте личную информацию, как ваше полное имя или адрес!**
+**Remember that the code you write in Trinket is public. Don't share any personal information like your full name or address!**
 
-Вот пример:
+Here’s an example:
 
-![Скриншот](images/me-about.png)
+![screenshot](images/me-about.png)
 
-\--- /вызов \---
+\--- /challenge \---

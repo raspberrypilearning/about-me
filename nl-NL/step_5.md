@@ -1,25 +1,25 @@
-## ASCII-kunst
+## ASCII art
 
-Laten we iets leukers printen dan alleen tekst: ASCII-kunst! ASCII-kunst (uitgesproken als '* ask-ie * ') is het maken van ** afbeeldingen van tekst **.
+Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
 
-+ Voeg wat kunst toe aan je programma - een afbeelding van een hond!
++ Let's add some art to your program — a picture of a dog!
     
     ![screenshot](images/me-dog.png)
 
-De poten van de hond zijn gemaakt met behulp van het sluisteken ` | ` (Engels: pipe) die je kunt typen door op <kbd> Shift + \</kbd> te drukken.
+The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
 
-+ Als je op ** Run **klikt zul je zien dat er een fout in je nieuwe code zit.
++ If you click **Run**, you'll see that there's a bug in your new code.
     
     ![screenshot](images/me-dog-bug.png)
     
-    Dat komt omdat er in de tekst een apostrof ` ' ` zit, waardoor Python denkt dat dit het einde van de tekst is!
+    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
     
     ![screenshot](images/me-dog-quote.png)
 
-+ Om dit te herstellen zet je een schuine streep ` \ ` voor de apostrof die voor de letter ` t ` staat. Dit vertelt Python dat de apostrof deel uitmaakt van de tekst.
++ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
     
     ![screenshot](images/me-dog-bug-fix.png)
 
-+ Als je wilt, kunt je drie apostrofs gebruiken ` ''' ` in plaats van één, waardoor je meerdere regels tekst kunt afdrukken met één ` print ` instructie:
++ If you prefer, you can use three apostrophe `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
     
     ![screenshot](images/me-dog-triple-quote.png)

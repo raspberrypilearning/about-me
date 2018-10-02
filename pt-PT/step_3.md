@@ -1,33 +1,33 @@
-## Dizer olá
+## Saying hello
 
-Vamos começar escrevendo algum texto.
+Let's start by writing some text.
 
-+ Abra o trinket de modelo Python em branco: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Digite o seguinte na janela que aparece:
++ Type the following into the window that appears:
     
-    ![captura de tela](images/me-hi.png)
+    ![screenshot](images/me-hi.png)
     
-    A linha `#! / Bin / python3` apenas diz ao Trinket que estamos usando o Python 3 (a última versão).
+    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
 
-+ Clique em **Run**, e você verá que o comando `print ()` imprime tudo entre as marcas de aspas `''`.
++ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
     
-    ![captura de tela](images/me-hi-test.png)
+    ![screenshot](images/me-hi-test.png)
 
-Se você cometeu um erro, receberá uma mensagem de erro informando o que aconteceu de errado!
+If you've made a mistake, you'll get an error message telling you what went wrong instead!
 
-+ Tente! Exclua a cotação final `'` ou o colchete de fechamento `)` (ou ambos) e veja o que acontece.
++ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
     
-    ![captura de tela](images/me-syntax.png)
+    ![screenshot](images/me-syntax.png)
 
-+ Adicione a citação ou o bracket de volta e clique em **Execute** para garantir que seu projeto funcione novamente.
++ Add the quote or bracket back in, and click **Run** to make sure your project works again.
 
-**Você não precisa de uma conta Trinket para salvar seus projetos!**
+**You don't need a Trinket account to save your projects!**
 
-Se você não tiver uma conta do Trinket, clique na seta para baixo e, em seguida, clique em **Link**. Isso lhe dará um link que você pode salvar e voltar mais tarde. Você precisará fazer isso toda vez que fizer mudanças, pois o link mudará!
+If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
 
-![captura de tela](images/me-link.png)
+![screenshot](images/me-link.png)
 
-Se você tem uma conta Trinket, você pode clicar **Remix** para salvar sua própria cópia do trinket.
+If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
 
-![captura de tela](images/me-remix.png)
+![screenshot](images/me-remix.png)

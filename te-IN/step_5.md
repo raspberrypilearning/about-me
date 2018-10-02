@@ -1,24 +1,25 @@
-## ASCII కళ
+## ASCII art
 
-ASCII కళ: టెక్స్ట్ కంటే చాలా సరదాగా ఏదో ప్రింట్ లెట్! ASCII కళ ('*గో-ఇ*' ఉచ్ఛారణ) **చిత్రాలను టెక్స్ట్**నుండి సృష్టించింది.
+Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
 
-+ మీ ప్రోగ్రామ్కు కొంత కళను జోడించం - ఒక కుక్క చిత్రాన్ని!
++ Let's add some art to your program — a picture of a dog!
     
-    ![స్క్రీన్](images/me-dog.png)
+    ![screenshot](images/me-dog.png)
 
-కుక్క కాళ్లు పైపు పాత్ర `ఉపయోగించి తయారు చేస్తారు` మీరు చాలా UK / US ఆంగ్ల కీబోర్డులలో <kbd>Shift + \ </kbd> నొక్కడం ద్వారా టైప్ చేయవచ్చు.
+The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
 
-+ మీరు **రన్**క్లిక్ చేస్తే, మీ కొత్త కోడ్లో బగ్ ఉన్నట్లు మీరు చూస్తారు.
++ If you click **Run**, you'll see that there's a bug in your new code.
     
-    ![స్క్రీన్](images/me-dog-bug.png)
+    ![screenshot](images/me-dog-bug.png)
     
-    మీ టెక్స్ట్ ఒక అపాస్ట్రఫీ `'`కలిగి ఉన్నందువల్ల, ఇది పైథాన్ వచనం ముగింపు అని ఆలోచించేది!
+    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
     
-    ![స్క్రీన్](images/me-dog-quote.png)
+    ![screenshot](images/me-dog-quote.png)
 
-+ దీన్ని పరిష్కరించడానికి, ఇక్కడ `యొక్క`వ పదానికి ` అశ్వికదళానికి ముందు బ్యాక్సాష్ <code>3_1_321 ఉంచండి. ఇది పైథాన్కు అపోఫ్ట్రఫీ టెక్స్ట్లో భాగం అని చెబుతుంది.</p>
-
-<p><img src="images/me-dog-bug-fix.png" alt="స్క్రీన్" /></p></li>
-<li><p>మీకు కావాలంటే, మీరు ఉపయోగించవచ్చు మూడు అపోస్ట్రోప్ <code>'' '` బదులుగా మీరు ఒక తో టెక్స్ట్ యొక్క బహుళ పంక్తులు ప్రింట్ అనుమతిస్తుంది ఒక, `ముద్రణ` ప్రకటన:
++ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
     
-    ![స్క్రీన్](images/me-dog-triple-quote.png)
+    ![screenshot](images/me-dog-bug-fix.png)
+
++ If you prefer, you can use three apostrophe `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
+    
+    ![screenshot](images/me-dog-triple-quote.png)

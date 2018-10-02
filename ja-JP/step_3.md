@@ -1,33 +1,33 @@
-## 挨拶
+## Saying hello
 
-テキストを書くことから始めましょう。
+Let's start by writing some text.
 
-+ 空白のPythonテンプレートを開きます。 <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>。
++ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ 表示されるウィンドウに次のように入力します。
++ Type the following into the window that appears:
     
-    ![スクリーンショット](images/me-hi.png)
+    ![screenshot](images/me-hi.png)
     
-    `＃！/ bin / python3` 行は、私たちがPython 3（最新バージョン）を使用していることをTrinketに伝えるだけです。
+    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
 
-+ **Run**をクリックすると、 `print（）` コマンドが、引用符 `'' `の間のすべてを出力することがわかります。日本語を表示するためには''の前にuをたす必要があります。忘れるとバグが発生します。
++ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
     
-    ![スクリーンショット](images/me-hi-test.png)
+    ![screenshot](images/me-hi-test.png)
 
-間違えた場合は、何が間違っているかを伝えるエラーメッセージが表示されます。
+If you've made a mistake, you'll get an error message telling you what went wrong instead!
 
-+ それを試してみてください！ 最後の引用符 （`'`） またはブラケット`）` を削除してください （またはその両方）。何が起きるかを確認してください。
++ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
     
-    ![スクリーンショット](images/me-syntax.png)
+    ![screenshot](images/me-syntax.png)
 
-+ 見積もりまたはブラケットを再度追加し、**Run** をクリックして 、プロジェクトが再び機能することを確認します。
++ Add the quote or bracket back in, and click **Run** to make sure your project works again.
 
-**あなたのプロジェクトを保存するためにTrinketアカウントは必要ありません！**
+**You don't need a Trinket account to save your projects!**
 
-小銭入れ口座を持っていない場合は、下矢印をクリックして、 **リンク**をクリックしてください。 これにより、保存して後で戻ってくることができるリンクが得られます。 リンクが変更されるため、変更するたびにこれを行う必要があります。
+If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
 
-![スクリーンショット](images/me-link.png)
+![screenshot](images/me-link.png)
 
-あなたがTrinketアカウントを持っている場合は、 **Remix** をクリックして、自分の小品のコピーを保存できます。
+If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
 
-![スクリーンショット](images/me-remix.png)
+![screenshot](images/me-remix.png)

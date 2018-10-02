@@ -1,14 +1,14 @@
 #!/bin/python3
 
-print(u'こんにちは、私はPythonでコードをかけます！')
+print('Hi, I can code in Python!')
 
-print(u'''
-私の一番好きな動物は羊です
+print('''
+My favourite animals are sheep
 
  o-###-
    | |   #
 
-私はグラスゴーに住んでいます
+I live in Glasgow
 
    _|_
   |   |
@@ -19,7 +19,7 @@ print(u'''
 
 ''')
 
-born = input(u'何年生まれですか?')
+born = input('What year were you born?')
 born = int(born)
 age = 2025 - born
-print(u'2025年になると君の年齢は', age, '歳！')
+print('In the year 2025 you\'ll be', age, 'years old!')

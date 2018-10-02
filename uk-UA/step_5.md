@@ -1,25 +1,25 @@
 ## ASCII art
 
-Назвемо щось набагато веселіше, ніж текст: ASCII art! ASCII art (вимовляється як '*ask-e*') створює **фотографії з тексту**.
+Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
 
-+ Давайте додамо мистецтво до вашої програми - фотографію собаки!
++ Let's add some art to your program — a picture of a dog!
     
-    ![знімок екрану](images/me-dog.png)
+    ![screenshot](images/me-dog.png)
 
-Лапи собак виконані за допомогою символу трубка `|`, яку ви можете ввести, натиснувши <kbd>Shift + \ </kbd> на більшості англійських клавіатур.
+The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
 
-+ Якщо ви натиснете **Виконати**, ви побачите, що у вашому новому коді є помилка.
++ If you click **Run**, you'll see that there's a bug in your new code.
     
-    ![знімок екрану](images/me-dog-bug.png)
+    ![screenshot](images/me-dog-bug.png)
     
-    Це тому, що ваш текст містить апостроф `'`, який, на думку Python, є кінцем тексту!
+    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
     
-    ![знімок екрану](images/me-dog-quote.png)
+    ![screenshot](images/me-dog-quote.png)
 
-+ Щоб це виправити, просто поставте зворотну риску `` перед апострофом у слові `тут`. Це говорить Phyton, що апостроф є частиною тексту.
++ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
     
-    ![знімок екрану](images/me-dog-bug-fix.png)
+    ![screenshot](images/me-dog-bug-fix.png)
 
-+ Якщо ви віддаєте перевагу, ви можете використовувати три апострофа `'' '` замість одного, що дозволяє друкувати кілька рядків тексту за допомогою одного `друку` оператора:
++ If you prefer, you can use three apostrophe `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
     
-    ![знімок екрану](images/me-dog-triple-quote.png)
+    ![screenshot](images/me-dog-triple-quote.png)

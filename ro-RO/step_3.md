@@ -1,33 +1,33 @@
-## Cum să spui, Salut
+## Saying hello
 
-Să începem prin scrierea unui text.
+Let's start by writing some text.
 
-+ Deschide-ți un nou șablon Python: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Introduceți următoarele în fereastra care apare:
++ Type the following into the window that appears:
     
-    ![captură de ecran](images/me-hi.png)
+    ![screenshot](images/me-hi.png)
     
-    Linia `#!/bin/python3` spune lui Trinket că folosim limbajul Python 3 (ultima versiune).
+    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
 
-+ Apăsați pe **Run**, si ar tebui să vedeți cum comanda `print()` tipărește tot ceea ce este între punctele de referință`''`.
++ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
     
-    ![captură de ecran](images/me-hi-test.png)
+    ![screenshot](images/me-hi-test.png)
 
-Dacă ați făcut o greșeală, veți primi un mesaj de eroare care vă spune unde s-a greșit!
+If you've made a mistake, you'll get an error message telling you what went wrong instead!
 
-+ Încercați! Ștergeți elementel `'` sau parantezele de închidere `)` (ori ambele) să vedeți ce se întâmplă.
++ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
     
-    ![captură de ecran](images/me-syntax.png)
+    ![screenshot](images/me-syntax.png)
 
-+ Adaugați elementele inapoi și apăsați **Run** pentru a fii siguri ca proiectul dvs. funcționează din nou.
++ Add the quote or bracket back in, and click **Run** to make sure your project works again.
 
-**Nu aveți nevoie de un cont Trinket pentru a vă salva proiectele!**
+**You don't need a Trinket account to save your projects!**
 
-Dacă nu aveți un cont Trinket, faceți clic pe săgeata-jos si, mai apoi, pe **Link**. Acest lucru vă va oferi un link pe care îl puteți salva și reveni mai târziu. Va trebui să faceți acest lucru de fiecare dată când faceți modificări, deoarece link-ul se va schimba!
+If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
 
-![captură de ecran](images/me-link.png)
+![screenshot](images/me-link.png)
 
-Dacă aveți un cont Trinket, puteți face clic pe **Remix** pentru a vă salva propria copie a trinket-ului.
+If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
 
-![captură de ecran](images/me-remix.png)
+![screenshot](images/me-remix.png)

@@ -1,35 +1,35 @@
-## Het jaar 2025
+## The year 2025
 
-Je kunt ook berekeningen maken en getallen afdrukken. Laten we eens kijken hoe oud je bent in het jaar 2025!
+You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
 
-+ Om te berekenen hoe oud je bent in het jaar 2025, moet je jouw geboortejaar van 2025 aftrekken.
++ To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
     
-    Voeg deze code toe aan je programma:
+    Add this code to your program:
     
     ![screenshot](images/me-calc.png)
     
-    Je ziet dat er geen aanhalingstekens om getallen hoeven te staan. (Je moet het getal ` 2006 ` veranderen als je in een ander jaar bent geboren.)
+    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
 
-+ Klik op ** Run ** en het programma zou je leeftijd in het jaar 2025 moeten laten zien.
++ Click **Run**, and your program should print your age in the year 2025.
     
     ![screenshot](images/me-calc-run.png)
 
-+ Je kunt het programma verbeteren door met ` input () ` de gebruiker zijn / haar leeftijd te vragen en die op te slaan in een ** variabele ** met de naam ` geboren `.
++ You could improve your program by using `input()` to ask the user their age and store it in a **variable** called `born`.
     
     ![screenshot](images/me-input.png)
 
-+ Run het programma en voer je geboortejaar in. Heb je nog een foutmelding gekregen?
++ Run your program and then enter the year you were born. Did you get another error messgae?
     
-    Dat komt omdat alles wat je in je programma typt ** tekst ** is. En dat moet worden omgezet naar een ** getal **.
+    That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
     
-    Je kunt ` int () gebruiken ` om de tekst om te zetten naar een ** integer**. Een integer is een geheel getal.
+    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
     
     ![screenshot](images/me-input-test.png)
 
-+ Je kunt ook een andere variabele maken om de berekening op te slaan en die af te drukken.
++ You can also create another variable to store your calculation, and print that instead.
     
     ![screenshot](images/me-result-variable.png)
 
-+ Tenslotte kun je het programma begrijpelijker maken door er een beschrijving aan toe te voegen.
++ Finally, you can make your program easier to understand by adding a helpful message.
     
     ![screenshot](images/me-message.png)

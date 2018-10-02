@@ -1,8 +1,8 @@
-## Inleiding
+## Introduction
 
-In dit project leer je een Python-programma te schrijven waarin je alles over jezelf vertelt.
+In this project you will learn how to write a Python program telling people all about you.
 
-### Wat je gaat maken
+### What you will make
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a1f663ae0d?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -10,14 +10,14 @@ In dit project leer je een Python-programma te schrijven waarin je alles over je
   <img src="images/me-final.png">
 </div>
 
-### Wat je gaat leren
+### What you will learn
 
 Dit project behandelt elementen uit de volgende onderdelen van het [ Raspberry Pi Digital Making Curriculum ](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [ Gebruik eenvoudige programmeerconstructies om eenvoudige programma's te maken ](https://www.raspberrypi.org/curriculum/programming/creator) {:target="_ blank"}
++ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-### Aanvullende informatie voor docenten
+### Additional information for educators
 
-Als je dit project wilt afdrukken, gebruik dan de [ printvriendelijke versie ](https://projects.raspberrypi.org/en/projects/about-me/print) {:target="_ blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/about-me/print){:target="_blank"}.
 
-Gebruik de link in de voettekst voor toegang tot de GitHub opslagplaats voor dit project, met daarin alle bronnen (inclusief een voorbeeld van een voltooid project) in de map ' en/resources'.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.

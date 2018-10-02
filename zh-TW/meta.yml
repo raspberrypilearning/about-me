@@ -1,37 +1,37 @@
 ---
 hero_image: images/about-me.png
-theme: 橘色
+theme: orange
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 創作者，設計-0，寫程式-1，物理-電腦-0，製造-0，社團-0
-title: 關於我
-description: 使用 Python 程式設計語言在文字中創建圖片
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: About me
+description: Use the Python programming language to create pictures out of text
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
 technologies: python
-site_areas: 專案
+site_areas: projects
 hardware: ''
 software: python
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: 介紹
+    title: Introduction
   - 
-    title: 你將需要什麼
+    title: What you will need
   - 
-    title: 打招呼
+    title: Saying hello
   - 
-    title: "挑戰：你在想什麼？"
+    title: "Challenge: what's on your mind?"
   - 
-    title: ASCII藝術
+    title: ASCII art
   - 
-    title: "挑戰：關於你自己"
+    title: "Challenge: about yourself"
   - 
-    title: 2025年
+    title: The year 2025
   - 
-    title: "挑戰: 你的年齡在狗年"
+    title: "Challenge: your age in dog years"
   - 
-    title: "挑戰：計算文字"
+    title: "Challenge: calculating text"

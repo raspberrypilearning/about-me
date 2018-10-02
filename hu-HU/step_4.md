@@ -1,9 +1,9 @@
-\--- kihívás \---
+\--- challenge \---
 
-## Kihívás: Mi a véleményed?
+## Challenge: What's on your mind?
 
-Módosítsd az éppen írt kódot, hogy valami érdekesebb dolgot írjon ki rólad!
+Change the code you just wrote to print something more interesting about you!
 
-![képernyőkép](images/me-mind.png)
+![screenshot](images/me-mind.png)
 
-\--- /kihívás \---
+\--- /challenge \---

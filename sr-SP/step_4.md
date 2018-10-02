@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Изазов: Шта ти је на уму?
+## Challenge: What's on your mind?
 
-Промени код који си написао како би исписао нешто што ти се чини интересантним!
+Change the code you just wrote to print something more interesting about you!
 
-![слика екрана](images/me-mind.png)
+![screenshot](images/me-mind.png)
 
 \--- /challenge \---

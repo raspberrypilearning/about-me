@@ -1,35 +1,35 @@
-## 2025年
+## The year 2025
 
-計算や数値も表示できます。 2025年に何歳になるのかを見てみましょう！
+You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
 
-+ あなたが2025年になる年齢を計算するには、あなたが2025年から生まれた年を引く必要があります。
++ To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
     
-    このコードをプログラムに追加します：
+    Add this code to your program:
     
-    ![スクリーンショット](images/me-calc.png)
+    ![screenshot](images/me-calc.png)
     
-    数字の周りに引用符を付ける必要がないことに注意してください。 （別の年に生まれた場合は、 `2006` 部分の数字を変更する必要があります）。
+    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
 
-+ **Run**をクリックすると、プログラムは2025年の年齢を出力します。
++ Click **Run**, and your program should print your age in the year 2025.
     
-    ![スクリーンショット](images/me-calc-run.png)
+    ![screenshot](images/me-calc-run.png)
 
-+ `input（）` を使用してユーザーに年齢を問い合わせ、 **変数** （ `born`）に格納してプログラムを改善できます。
++ You could improve your program by using `input()` to ask the user their age and store it in a **variable** called `born`.
     
-    ![スクリーンショット](images/me-input.png)
+    ![screenshot](images/me-input.png)
 
-+ あなたのプログラムを実行し、あなたが生まれた年を入力してください。 別のエラーメッセージがありましたか？
++ Run your program and then enter the year you were born. Did you get another error messgae?
     
-    エラーが発生したのは、プログラムに入力されたものが **テキスト**であり、 **数値**に変換する必要があるためです。
+    That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
     
-    `int（）` を使用して、テキストを **整数値**に変換できます。 整数値とは0から順に一ずつ増すか減らすかすることによってできる数です。
+    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
     
-    ![スクリーンショット](images/me-input-test.png)
+    ![screenshot](images/me-input-test.png)
 
-+ また、計算を保存する別の変数を作成して代わりに表示することもできます。
++ You can also create another variable to store your calculation, and print that instead.
     
-    ![スクリーンショット](images/me-result-variable.png)
+    ![screenshot](images/me-result-variable.png)
 
-+ 最後に、役に立つメッセージを追加することで、プログラムを理解しやすくすることができます。
++ Finally, you can make your program easier to understand by adding a helpful message.
     
-    ![スクリーンショット](images/me-message.png)
+    ![screenshot](images/me-message.png)

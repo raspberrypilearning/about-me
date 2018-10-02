@@ -1,25 +1,25 @@
-#! / bin/python3
+#!/bin/python3
 
-print('Hoi, ik kan programmeren in Python!')
+print('Hi, I can code in Python!')
 
 print('''
-Schapen zijn mijn favoriete dieren
+My favourite animals are sheep
 
-  o-###-
-       | | #
+ o-###-
+   | |   #
 
-Ik woon in Glasgow
+I live in Glasgow
 
    _|_
-  | |
-  |# |____
-  | | |
-  | #| # |
+  |   |
+  |#  |____
+  |   |    |
+  |  #|  # |
  _|___|_#__|_
 
 ''')
 
-geboren = input('In welk jaar ben je geboren?')
-geboren = int(geboren)
-leeftijd = 2025 - geboren
-print('In \'25 ben je', leeftijd, 'jaar!')
+born = input('What year were you born?')
+born = int(born)
+age = 2025 - born
+print('In the year 2025 you\'ll be', age, 'years old!')

@@ -1,35 +1,35 @@
-## A 2025-ös év
+## The year 2025
 
-Számításokat és számkiíratásokat is elvégezhetsz. Nézzük meg hány éves leszel 2025-ben!
+You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
 
-+ Annak kiszámításához, hogy mennyi idős leszel 2025-ben, ki kell vonnod a születési éved 2025-ből.
++ To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
     
-    Add hozzá ezt a kódot a programhoz:
+    Add this code to your program:
     
-    ![képernyőkép](images/me-calc.png)
+    ![screenshot](images/me-calc.png)
     
-    Vedd figyelembe, hogy nem kell idézőjeleket tenni a számok köré. (Meg kell változtatnod a `2006` számot, ha másik évben született.)
+    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
 
-+ Kattints a **futtatásra**, és a programnak nyomtatnia kell az életkorod 2025-ben.
++ Click **Run**, and your program should print your age in the year 2025.
     
-    ![képernyőkép](images/me-calc-run.png)
+    ![screenshot](images/me-calc-run.png)
 
-+ Javíthatsz a programon az `input()` használatával hogy megkérdezze a felhasználó életkorát, és tárolja el egy `szuletesiev` nevű **változóban**.
++ You could improve your program by using `input()` to ask the user their age and store it in a **variable** called `born`.
     
-    ![képernyőkép](images/me-input.png)
+    ![screenshot](images/me-input.png)
 
-+ Futtasd a programot, majd add meg az évet, amikor születettél. Kaptál még egy hibaüzenetet?
++ Run your program and then enter the year you were born. Did you get another error messgae?
     
-    Ennek oka, hogy bármit írtak be a programba az **szöveg**, amit még kell átalakítani a **számmá**.
+    That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
     
-    Használhatja `int ()` átalakítani a szöveget egy **egész**. Az integer egy egész szám.
+    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
     
-    ![képernyőkép](images/me-input-test.png)
+    ![screenshot](images/me-input-test.png)
 
-+ Más változót is létrehozhatsz a számítás tárolásához, és kinyomtathatod azt.
++ You can also create another variable to store your calculation, and print that instead.
     
-    ![képernyőkép](images/me-result-variable.png)
+    ![screenshot](images/me-result-variable.png)
 
-+ Végül könnyebben meg tudod értetni a programod egy hasznos üzenet hozzáadásával.
++ Finally, you can make your program easier to understand by adding a helpful message.
     
-    ![képernyőkép](images/me-message.png)
+    ![screenshot](images/me-message.png)

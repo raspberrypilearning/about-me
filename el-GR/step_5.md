@@ -1,25 +1,25 @@
-## τέχνη ASCII
+## ASCII art
 
-Ας εκτυπώσουμε κάτι πολύ πιο διασκεδαστικό από το κείμενο: ASCII art! Η τέχνη ASCII (προφέρεται '*ask-e*') δημιουργεί **εικόνες από το κείμενο**.
+Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
 
-+ Ας προσθέσουμε κάποια τέχνη στο πρόγραμμά σας - μια εικόνα ενός σκύλου!
++ Let's add some art to your program — a picture of a dog!
     
     ![screenshot](images/me-dog.png)
 
-Τα πόδια του σκύλου κατασκευάζονται χρησιμοποιώντας τον χαρακτήρα σωλήνα `|` που μπορείτε να πληκτρολογήσετε πιέζοντας <kbd>Shift + \ </kbd> στα περισσότερα πληκτρολόγια Αγγλίας / ΗΠΑ.
+The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
 
-+ Αν κάνετε κλικ στο **Run**, θα δείτε ότι υπάρχει ένα σφάλμα το νέο σας κωδικό.
++ If you click **Run**, you'll see that there's a bug in your new code.
     
     ![screenshot](images/me-dog-bug.png)
     
-    Αυτό συμβαίνει επειδή το κείμενό σας περιέχει ένα απόστροφο `'`, το οποίο η Python θεωρεί ότι είναι το τέλος του κειμένου!
+    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
     
     ![screenshot](images/me-dog-quote.png)
 
-+ Για να το διορθώσετε, απλώς βάλτε μια ανάστροφη κάθετο `` πριν από την απόστροφο στη λέξη `here's`. Αυτό λέει στην Python ότι το απόστροφο είναι μέρος του κειμένου.
++ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
     
     ![screenshot](images/me-dog-bug-fix.png)
 
-+ Αν προτιμάτε, μπορείτε να χρησιμοποιήσετε τρία απόσπασμα `'''` αντί για ένα, το οποίο σας επιτρέπει να εκτυπώνετε πολλές γραμμές κειμένου με μία δήλωση `εκτύπωσης`:
++ If you prefer, you can use three apostrophe `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
     
     ![screenshot](images/me-dog-triple-quote.png)

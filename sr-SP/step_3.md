@@ -1,33 +1,33 @@
-## Реци здраво
+## Saying hello
 
-Хајде да почнемо писањем текста.
+Let's start by writing some text.
 
-+ Отвори празан Python предлог <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ У прозор који се појавио упиши следеће:
++ Type the following into the window that appears:
     
-    ![слика екрана](images/me-hi.png)
+    ![screenshot](images/me-hi.png)
     
-    Линија `#!/bin/python3` само говори Trinket-у да користимо Python 3 (последњу верзију).
+    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
 
-+ Кликни на **Run** i videćeš kako `print()` наредба исисује све између наводника`"`.
++ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
     
-    ![слика екрана](images/me-hi-test.png)
+    ![screenshot](images/me-hi-test.png)
 
-Ако си направио грешку, добићеш поруку грешке која ће ти рећи у чему је проблем!
+If you've made a mistake, you'll get an error message telling you what went wrong instead!
 
-+ Покушај! Обриши наводник`'` или затварајућу заграду `)` (или оба) и види шта ће се десити.
++ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
     
-    ![слика екрана](images/me-syntax.png)
+    ![screenshot](images/me-syntax.png)
 
-+ Врати наводник и заграду и кликни на **Run** да би био проверио да ли твој програм опет ради.
++ Add the quote or bracket back in, and click **Run** to make sure your project works again.
 
-**Не треба ти Trinket налог како би сачувао своје пројекте!**
+**You don't need a Trinket account to save your projects!**
 
-Ако немаш Trinket налог кликни на стрелицу која показује на доле, а затим кликни на **линк**. Ово ће ти дати линк који можеш да сачуваш и касније се вратиш. Мораћеш ово да урадиш сваки пут када нешто промениш, зато што ће се и линк порменити!
+If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
 
-![слика екрана](images/me-link.png)
+![screenshot](images/me-link.png)
 
-Ако имаш Trinket налог, можеш кликнути на **Remix** како би сачувао своју копију програма.
+If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
 
-![слика екрана](images/me-remix.png)
+![screenshot](images/me-remix.png)

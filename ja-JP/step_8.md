@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## チャレンジ：犬の年齢
+## Challenge: your age in dog years
 
-ユーザーに自分の年齢を尋ねるプログラムを書いてから、犬の年齢を教えてください！ あなたは犬の年齢に7歳を掛けて犬の年齢を計算することができます。
+Write a program to ask the user their age, and then tell them their age in dog years! You can calculate a person’s age in dog years by multiplying their age by 7.
 
-![スクリーンショット](images/me-dog-years.png)
+![screenshot](images/me-dog-years.png)
 
-プログラミングでは、 **掛け算の記号** を `*` で表します。通常、キーボードの <kbd>Shift + 8</kbd> を押すと入力できます。
+In programming, the symbol for **multiplication** is the `*` character, which you can usually type by pressing <kbd>Shift + 8</kbd> on the keyboard.
 
 \--- /challenge \---

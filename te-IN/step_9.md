@@ -1,15 +1,15 @@
-\--- సవాలు \---
+\--- challenge \---
 
-## ఛాలెంజ్: టెక్స్ట్ లెక్కిస్తోంది
+## Challenge: calculating text
 
-మీరు టెక్స్ట్ను కూడా లెక్కించవచ్చని మీకు తెలుసా ?!
+Did you know that you can also calculate text?!
 
-ఈ కింది ప్రోగ్రామ్ తెరపై ఏమి ముద్రిస్తుంది? మీరు ప్రోగ్రామ్ను అమలు చేయడానికి ముందు సరిగ్గా ఊహించగలరని చూడండి.
+What will the following program print to the screen? See if you can guess it correctly before running the program.
 
-![స్క్రీన్](images/me-text-calc.png)
+![screenshot](images/me-text-calc.png)
 
-మీరు మీ స్వంత పదాలను తయారు చేయగలరా? మీరు కూడా మీ సొంత నమూనాలను తయారు చేయవచ్చు!
+Can you make up any words of your own? You could even make your own patterns!
 
-![స్క్రీన్](images/me-patterns.png)
+![screenshot](images/me-patterns.png)
 
-\--- / సవాలు \---
+\--- /challenge \---

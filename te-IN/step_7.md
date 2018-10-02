@@ -1,35 +1,35 @@
-## సంవత్సరం 2025
+## The year 2025
 
-మీరు లెక్కలు మరియు ముద్రణ సంఖ్యలను కూడా చేయవచ్చు. మీరు 2025 సంవత్సరంలో ఎంత వయస్సు ఉంటుందో తెలుసుకోండి!
+You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
 
-+ మీరు 2025 సంవత్సరంలో ఎంత వయస్సు ఉంటుందో లెక్కించడానికి, మీరు 2025 నుండి పుట్టిన సంవత్సరాన్ని ఉపసంహరించుకోవాలి.
++ To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
     
-    మీ ప్రోగ్రామ్కు ఈ కోడ్ను జోడించండి:
+    Add this code to your program:
     
-    ![స్క్రీన్](images/me-calc.png)
+    ![screenshot](images/me-calc.png)
     
-    మీరు సంఖ్యలు చుట్టూ కోట్స్ ఉంచవలసిన అవసరం లేదు గమనించండి. (మీరు సంఖ్య మార్చడానికి అవసరం `2006` మీరు వేరే సంవత్సరంలో జన్మించారు.)
+    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
 
-+ క్లిక్ **రన్**, మరియు మీ ప్రోగ్రామ్ సంవత్సరం 2025 లో మీ వయస్సు ముద్రించాలా ఉండాలి.
++ Click **Run**, and your program should print your age in the year 2025.
     
-    ![స్క్రీన్](images/me-calc-run.png)
+    ![screenshot](images/me-calc-run.png)
 
-+ మీరు ఉపయోగించి మీ ప్రోగ్రామ్ మెరుగు కాలేదు `ఇన్పుట్ ()` యూజర్ వారి వయసు అడగండి మరియు ఒక నిల్వ **వేరియబుల్** అనే `జన్మించిన`.
++ You could improve your program by using `input()` to ask the user their age and store it in a **variable** called `born`.
     
-    ![స్క్రీన్](images/me-input.png)
+    ![screenshot](images/me-input.png)
 
-+ మీ కార్యక్రమాన్ని అమలు చేసి, మీరు పుట్టిన సంవత్సరాన్ని నమోదు చేయండి. మీరు మరొక దోష సందేశాన్ని పొందారా?
++ Run your program and then enter the year you were born. Did you get another error messgae?
     
-    ఎందుకంటే మీ ప్రోగ్రామ్లో టైప్ చేసిన ఏదైనా **టెక్స్ట్**మరియు ఇది **సంఖ్య**గా మార్చబడాలి.
+    That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
     
-    మీరు **పూర్ణాంకం**కు టెక్స్ట్ని మార్చడానికి `int ()` ను ఉపయోగించవచ్చు. పూర్ణాంకం మొత్తం సంఖ్య.
+    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
     
-    ![స్క్రీన్](images/me-input-test.png)
+    ![screenshot](images/me-input-test.png)
 
-+ మీ గణనను నిల్వ చేయడానికి మీరు వేరొక వేరియబుల్ని కూడా సృష్టించవచ్చు మరియు దానికి బదులుగా ప్రింట్ చేయవచ్చు.
++ You can also create another variable to store your calculation, and print that instead.
     
-    ![స్క్రీన్](images/me-result-variable.png)
+    ![screenshot](images/me-result-variable.png)
 
-+ చివరగా, ఒక ఉపయోగకరమైన సందేశాన్ని జోడించడం ద్వారా మీ ప్రోగ్రామ్ను సులభంగా అర్థం చేసుకోవచ్చు.
++ Finally, you can make your program easier to understand by adding a helpful message.
     
-    ![స్క్రీన్](images/me-message.png)
+    ![screenshot](images/me-message.png)

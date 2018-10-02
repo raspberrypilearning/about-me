@@ -6,9 +6,9 @@ listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: A propos de moi
-description: Écris et crée des images à propos de toi
-original_url: https://projects.raspberrypi.org/en/projects/about-me
+title: About me
+description: Use the Python programming language to create pictures out of text
+original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
 technologies: python
 site_areas: projects
@@ -18,20 +18,20 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Dire Bonjour
+    title: Introduction
   - 
-    title: 'Défi: Qu''est-ce qui te passe par la tête?'
+    title: What you will need
   - 
-    title: Art ASCII
+    title: Saying hello
   - 
-    title: "Défi: À propos de toi"
+    title: "Challenge: what's on your mind?"
   - 
-    title: L'an 2025
+    title: ASCII art
   - 
-    title: "Défi: Ton âge en années de chien"
+    title: "Challenge: about yourself"
   - 
-    title: 'Défi: calculer du text'
+    title: The year 2025
   - 
-    title: "Défi: Ton âge en années de chien"
+    title: "Challenge: your age in dog years"
   - 
-    title: "Défi : calcul de texte"
+    title: "Challenge: calculating text"

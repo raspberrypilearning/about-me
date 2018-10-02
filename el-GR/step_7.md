@@ -1,35 +1,35 @@
-## Το έτος 2025
+## The year 2025
 
-Μπορείτε επίσης να κάνετε υπολογισμούς και να εκτυπώσετε αριθμούς. Ας μάθουμε πόσο χρονών θα είστε στο έτος 2025!
+You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
 
-+ Για να υπολογίσετε πόσο χρονών θα είστε το έτος 2025, θα πρέπει να αφαιρέσετε το έτος που γεννηθήκατε από το 2025.
++ To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
     
-    Προσθέστε αυτόν τον κώδικα στο πρόγραμμα σας:
+    Add this code to your program:
     
     ![screenshot](images/me-calc.png)
     
-    Παρατηρήστε ότι δεν χρειάζεται να βάλετε εισαγωγικά γύρω από τους αριθμούς. (Θα χρειαστεί να αλλάξετε τον αριθμό `2006` εάν γεννηθήκατε σε διαφορετικό έτος.)
+    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
 
-+ Κάντε κλικ στο **Run**, και το πρόγραμμά σας θα πρέπει να εκτυπώσετε την ηλικία σας κατά το έτος 2025.
++ Click **Run**, and your program should print your age in the year 2025.
     
     ![screenshot](images/me-calc-run.png)
 
-+ Θα μπορούσαν να βελτιώσουν το πρόγραμμά σας με τη χρήση `input()` για να ζητήσει από το χρήστη την ηλικία τους και να το αποθηκεύσετε σε μια **μεταβλητή** που ονομάζεται `born`.
++ You could improve your program by using `input()` to ask the user their age and store it in a **variable** called `born`.
     
     ![screenshot](images/me-input.png)
 
-+ Εκτελέστε το πρόγραμμά σας και μετά εισάγετε το έτος που γεννηθήκατε. Λάβατε άλλο μήνυμα λάθους;
++ Run your program and then enter the year you were born. Did you get another error messgae?
     
-    Αυτό συμβαίνει επειδή οτι πληκτρολογήσατε στο πρόγραμμά σας είναι **κείμενο**και πρέπει να μετατραπεί σε **αριθμό**.
+    That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
     
-    Μπορείτε να χρησιμοποιήσετε `int ()` για να μετατρέψετε το κείμενο σε **ακέραιο αριθμό**. Ο interger είναι ένας ακέραιος αριθμός.
+    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
     
     ![screenshot](images/me-input-test.png)
 
-+ Μπορείτε επίσης να δημιουργήσετε μια άλλη μεταβλητή για να αποθηκεύσετε τον υπολογισμό σας και να την εκτυπώσετε.
++ You can also create another variable to store your calculation, and print that instead.
     
     ![screenshot](images/me-result-variable.png)
 
-+ Τέλος, μπορείτε να καταστήσετε το πρόγραμμά σας πιο κατανοητό προσθέτοντας ένα χρήσιμο μήνυμα.
++ Finally, you can make your program easier to understand by adding a helpful message.
     
     ![screenshot](images/me-message.png)

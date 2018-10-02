@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Uitdaging: waar denk je aan?
+## Challenge: What's on your mind?
 
-Verander de code die je zojuist hebt geschreven om iets anders over jezelf weer te geven!
+Change the code you just wrote to print something more interesting about you!
 
 ![screenshot](images/me-mind.png)
 

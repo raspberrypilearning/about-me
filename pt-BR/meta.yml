@@ -1,13 +1,13 @@
 ---
-hero_image: images / about-me.png
+hero_image: images/about-me.png
 theme: orange
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Sobre mim
-description: Use a linguagem de programação Python para criar imagens fora do texto
+title: About me
+description: Use the Python programming language to create pictures out of text
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
 technologies: python
@@ -18,20 +18,20 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introdução
+    title: Introduction
   - 
-    title: O que você precisará
+    title: What you will need
   - 
-    title: Dizer olá
+    title: Saying hello
   - 
-    title: "Desafio: o que você tem em mente?"
+    title: "Challenge: what's on your mind?"
   - 
-    title: Arte ASCII
+    title: ASCII art
   - 
-    title: "Desafio: sobre você"
+    title: "Challenge: about yourself"
   - 
-    title: O ano de 2025
+    title: The year 2025
   - 
-    title: "Desafio: sua idade em anos de cão"
+    title: "Challenge: your age in dog years"
   - 
-    title: "Desafio: calcular o texto"
+    title: "Challenge: calculating text"

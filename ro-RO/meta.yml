@@ -6,32 +6,32 @@ listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Despre mine
-description: Utilizați limbajul de programare Python pentru a crea imagini prin scrierea unui text
+title: About me
+description: Use the Python programming language to create pictures out of text
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
 technologies: python
-site_areas: proiecte
+site_areas: projects
 hardware: ''
 software: python
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introducere
+    title: Introduction
   - 
-    title: Ce vei avea nevoie
+    title: What you will need
   - 
-    title: Cum să spui, Salut
+    title: Saying hello
   - 
-    title: "Provocare: la ce te gândești?"
+    title: "Challenge: what's on your mind?"
   - 
     title: ASCII art
   - 
-    title: "Provocare: despre tine"
+    title: "Challenge: about yourself"
   - 
-    title: Anul 2025
+    title: The year 2025
   - 
-    title: "Provocare: vârsta ta relativ la vârsta câinelui"
+    title: "Challenge: your age in dog years"
   - 
-    title: "Provocare: calculul textului"
+    title: "Challenge: calculating text"

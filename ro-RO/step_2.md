@@ -1,9 +1,9 @@
-## Ce veți avea nevoie
+## What you will need
 
-### Dispozitive
+### Hardware
 
-+ Un calculator capabil să acceseze site-ul[trinket.io](https://trinket.io){:target="_blank"}
++ A computer capable of accessing the [trinket.io](https://trinket.io){:target="_blank"} website
 
-### Programe
+### Software
 
-Acest proiect poate fi completat într-un browser web folosind[trinket.io](https://trinket.io){:target="_blank"}
+This project can be completed in a web browser using [trinket.io](https://trinket.io){:target="_blank"}

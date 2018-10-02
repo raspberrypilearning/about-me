@@ -1,33 +1,33 @@
-## 打招呼
+## Saying hello
 
-我們先寫一些文字。
+Let's start by writing some text.
 
-+ 打開空白的Python模板飾品： <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc / python- new</a>。
++ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ 在出現的窗口中鍵入以下內容：
++ Type the following into the window that appears:
     
-    ![截圖](images/me-hi.png)
+    ![screenshot](images/me-hi.png)
     
-    `＃！/ bin / python3` 行告訴Trinket我們正在使用Python 3（最新版本）。
+    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
 
-+ 單擊 **運行**，您應該看到 `print（）` 命令打印引號 `“`之間的所有內容。
++ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
     
-    ![截圖](images/me-hi-test.png)
+    ![screenshot](images/me-hi-test.png)
 
-如果你犯了一個錯誤，你會得到一個錯誤信息告訴你什麼出了問題！
+If you've made a mistake, you'll get an error message telling you what went wrong instead!
 
-+ 嘗試一下！ 刪除結束報價 `'` 或右括號 `）` （或兩者），看看會發生什麼。
++ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
     
-    ![截圖](images/me-syntax.png)
+    ![screenshot](images/me-syntax.png)
 
-+ 重新添加報價或支架，然後單擊 **運行** 以確保您的項目再次運行。
++ Add the quote or bracket back in, and click **Run** to make sure your project works again.
 
-**你不需要一個飾品賬戶來保存你的項目！**
+**You don't need a Trinket account to save your projects!**
 
-如果您沒有飾品帳戶，請點擊向下箭頭，然後點擊 **鏈接**。 這會給你一個鏈接，你可以保存並返回到以後。 每次進行更改時都需要執行此操作，因為鏈接將會更改！
+If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
 
-![截圖](images/me-link.png)
+![screenshot](images/me-link.png)
 
-如果您有飾品帳戶，則可以單擊 **混合** 以保存您自己的飾品副本。
+If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
 
-![截圖](images/me-remix.png)
+![screenshot](images/me-remix.png)

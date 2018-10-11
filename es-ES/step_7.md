@@ -18,7 +18,7 @@ También podrás realizar cálculos e imprimir números. ¡Comprobemos qué edad
     
     ![screenshot](images/me-input.png)
 
-+ Ejecuta tu programa y, a continuación, introduce el año en el que naciste. ¿Has recibido otro mensaje de error?
++ Ejecuta tu programa y, a continuación, introduce el año en el que naciste. Did you get another error message?
     
     Esto se debe a que todo lo escrito en tu programa es **texto** y necesita ser convertido a **números**.
     

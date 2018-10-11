@@ -20,6 +20,6 @@
     
     ![لقطة الشاشة](images/me-dog-bug-fix.png)
 
-+ يمكنك استخدام ثلاث فاصلات عليا `'''` بدلًا من استخدام واحدة، إذا كنت تفضل ذلك، لطباعة أسطر متعددة من النص بعبارة `print` واحدة:
++ If you prefer, you can use three apostrophes `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
     
     ![لقطة الشاشة](images/me-dog-triple-quote.png)

@@ -18,7 +18,7 @@ You can also do calculations and print numbers. Let's find out how old you'll be
 
     ![screenshot](images/me-input.png)
 
-+ Run your program and then enter the year you were born. Did you get another error messgae?
++ Run your program and then enter the year you were born. Did you get another error message?
 
     That's because anything typed into your program is __text__, and it needs to be converted to a __number__.
 

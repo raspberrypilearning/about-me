@@ -18,7 +18,7 @@ In questo programma, puoi anche fare dei calcoli e stampare dei numeri. Scopriam
     
     ![screenshot](images/me-input.png)
 
-+ Esegui il tuo programma e poi immetti l'anno in cui sei nato. Hai ricevuto un messaggio di errore?
++ Esegui il tuo programma e poi immetti l'anno in cui sei nato. Did you get another error message?
     
     Questo succede perché tutto quello che viene digitato nel tuo programma è un **testo**, e questo testo va convertito in un **numero**.
     

@@ -20,6 +20,6 @@ The dog's legs are made using the pipe character `|` which you can type by press
 
     ![screenshot](images/me-dog-bug-fix.png)
 
-+ If you prefer, you can use three apostrophe `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
++ If you prefer, you can use three apostrophes `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
 
     ![screenshot](images/me-dog-triple-quote.png)

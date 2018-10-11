@@ -18,7 +18,7 @@ Možeš i računati i ispisivati brojeve. Saznajmo koliko godina ćeš imati 202
     
     ![screenshot](images/me-input.png)
 
-+ Pokreni program i unesi godinu svog rođenja. Jesi li opet dobio poruku o grešci?
++ Pokreni program i unesi godinu svog rođenja. Did you get another error message?
     
     To je zato jer je sve što uneseš u svoj program **tekst** i treba ga pretvoriti u **broj**.
     

@@ -20,6 +20,6 @@ Nogi psa są wykonane przy użyciu tzw. znaku potoku `|`, który możesz wpisać
     
     ![screenshot](images/me-dog-bug-fix.png)
 
-+ Jeśli wolisz, możesz użyć trzech apostrofów `'''` zamiast jednego. Pozwala to na wyświetlenie wielu linii tekstu przy użyciu jednego polecenia `print`:
++ If you prefer, you can use three apostrophes `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
     
     ![screenshot](images/me-dog-triple-quote.png)

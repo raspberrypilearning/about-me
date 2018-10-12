@@ -1,22 +1,22 @@
-## Saying hello
+## Καλωσόρισμα
 
-Let's start by writing some text.
+Ας αρχίσουμε γράφοντας κάποιο κείμενο.
 
-+ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Άνοιξε το κενό πρότυπο Python Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Type the following into the window that appears:
++ Πληκτρολόγησε τα ακόλουθα στο παράθυρο που εμφανίζεται:
     
     ![screenshot](images/me-hi.png)
     
-    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
+    Η γραμμή `#!/Bin/python3` λέει απλά στο Trinket ότι χρησιμοποιούμε την Python 3 (τελευταία έκδοση).
 
-+ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
++ Κάνε κλικ στο **Run**, και θα δεις ότι η εντολή `print()` εμφανίζει ότι υπάρχει ανάμεσα στα εισαγωγικά `''`.
     
     ![screenshot](images/me-hi-test.png)
 
-If you've made a mistake, you'll get an error message telling you what went wrong instead!
+Αν έχεις κάνει κάποιο λάθος, θα λάβεις ένα μήνυμα σφάλματος που λέει τι συνέβη!
 
-+ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
++ Δοκίμασέ το! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
     
     ![screenshot](images/me-syntax.png)
 

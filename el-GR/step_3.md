@@ -16,18 +16,18 @@
 
 Αν έχεις κάνει κάποιο λάθος, θα λάβεις ένα μήνυμα σφάλματος που λέει τι συνέβη!
 
-+ Δοκίμασέ το! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
++ Δοκίμασέ το! Διέγραψε την τελική απόστροφο `'` ή τη δεξιά παρένθεση `)` (ή και τα δύο) και δες τι συμβαίνει.
     
     ![screenshot](images/me-syntax.png)
 
-+ Add the quote or bracket back in, and click **Run** to make sure your project works again.
++ Πρόσθεσε ξανά την απόστροφο ή την παρένθεση και κάνε κλικ στο **Run** για να βεβαιωθείς ότι το έργο σου λειτουργεί ξανά.
 
-**You don't need a Trinket account to save your projects!**
+**Δεν χρειάζεσαι λογαριασμό Trinket για να αποθηκεύσεις τα έργα σου!**
 
-If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+Εάν δεν διαθέτεις λογαριασμό Trinket, κάνε κλικ στο κάτω βέλος και, στη συνέχεια, κάνε κλικ στην επιλογή **Link**. Αυτό θα σου δώσει έναν σύνδεσμο που μπορείς να αποθηκεύσεις και να επιστρέψεις αργότερα. Θα πρέπει να το κάνεις αυτό κάθε φορά που κάνεις αλλαγές, καθώς ο σύνδεσμος θα αλλάζει!
 
 ![screenshot](images/me-link.png)
 
-If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
+Αν έχεις λογαριασμό Trinket, μπορείς να κάνεις κλικ στο **Remix** για να αποθηκεύσεις το δικό σου αντίγραφο του Trinket.
 
 ![screenshot](images/me-remix.png)

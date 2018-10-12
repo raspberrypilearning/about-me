@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: About me
-description: Use the Python programming language to create pictures out of text
+title: Σχετικά με μένα
+description: Χρησιμοποίησε τη γλώσσα προγραμματισμού Python για να δημιουργήσεις εικόνες με την χρήση κειμένου
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
 technologies: python
@@ -18,20 +18,20 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Εισαγωγή
   - 
-    title: What you will need
+    title: Τι θα χρειαστείς
   - 
-    title: Saying hello
+    title: Καλωσορίζω
   - 
-    title: "Challenge: what's on your mind?"
+    title: "Πρόκληση: Τι σκέφτεσαι;"
   - 
-    title: ASCII art
+    title: τέχνη ASCII
   - 
-    title: "Challenge: about yourself"
+    title: "Πρόκληση: Για τον εαυτό σου"
   - 
-    title: The year 2025
+    title: Το έτος 2025
   - 
-    title: "Challenge: your age in dog years"
+    title: "Πρόκληση: Η αντίστοιχη ηλικία ενός σκύλου"
   - 
     title: "Challenge: calculating text"

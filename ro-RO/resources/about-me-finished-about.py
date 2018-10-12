@@ -8,18 +8,18 @@ Animalele mele preferate sunt oile
  o-###-
    | |   #
 
-I live in Glasgow
+Locuiesc în Glasgow
 
    _|_
   |   |
   |#  |____
-  |   |    |
-  |  #|  # |
+  | | |
+  | #| # |
  _|___|_#__|_
 
 ''')
 
-born = input('What year were you born?')
+born = input('În ce an te-ai născut?')
 born = int(born)
 age = 2025 - born
 print('In the year 2025 you\'ll be', age, 'years old!')

@@ -8,7 +8,7 @@ Let’s print something much more fun than text: ASCII art! ASCII art (pronounce
 
 The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
 
-+ If you click **Run**, you'll see that there's a bug in your new code.
++ Αν κάνετε κλικ στο **Run**, θα δείτε ότι υπάρχει ένα σφάλμα στο νέο σας κώδικα.
     
     ![screenshot](images/me-dog-bug.png)
     

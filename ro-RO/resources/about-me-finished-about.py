@@ -6,12 +6,12 @@ print('''
 Animalele mele preferate sunt oile
 
  o-###-
-   | |   #
+   | | #
 
 Locuiesc în Glasgow
 
    _|_
-  |   |
+  | |
   |#  |____
   | | |
   | #| # |
@@ -22,4 +22,4 @@ Locuiesc în Glasgow
 born = input('În ce an te-ai născut?')
 born = int(born)
 age = 2025 - born
-print('In the year 2025 you\'ll be', age, 'years old!')
+print('În anul 2025 vei avea\', age, 'ani')

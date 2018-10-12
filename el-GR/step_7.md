@@ -22,7 +22,7 @@ You can also do calculations and print numbers. Let's find out how old you'll be
     
     That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
     
-    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
+    You can use `int()` to convert the text to an **integer**. Ο integer είναι ένας ακέραιος αριθμός.
     
     ![screenshot](images/me-input-test.png)
 

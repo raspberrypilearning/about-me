@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: your age in dog years
+## Πρόκληση: Η ηλικία σου σε ηλικία σκύλου
 
-Write a program to ask the user their age, and then tell them their age in dog years! You can calculate a person’s age in dog years by multiplying their age by 7.
+Γράψε ένα πρόγραμμα που ρωτά τον χρήστη την ηλικία του, και στη συνέχεια να του εμφανίζει την ηλικία του στην αντίστοιχη ηλικία σκύλου! Μπορείς να υπολογίσεις την ηλικία ενός ατόμου σε χρόνια σκύλων πολλαπλασιάζοντας την ηλικία του με 7.
 
 ![screenshot](images/me-dog-years.png)
 
-In programming, the symbol for **multiplication** is the `*` character, which you can usually type by pressing <kbd>Shift + 8</kbd> on the keyboard.
+Στον προγραμματισμό, το σύμβολο **πολλαπλασιασμού** είναι το σύμβολο `*`, το οποίο συνήθως μπορείς να πληκτρολογήσεις πατώντας <kbd>Shift + 8</kbd>.
 
 \--- /challenge \---

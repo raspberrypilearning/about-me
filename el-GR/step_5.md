@@ -1,8 +1,8 @@
-## ASCII art
+## Τέχνη ASCII
 
-Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
+Ας εκτυπώσουμε κάτι πολύ πιο διασκεδαστικό από το κείμενο: Τέχνη ASCII! Η τέχνη ASCII (προφέρεται '*άσκι*') δημιουργεί **εικόνες από κείμενο**.
 
-+ Let's add some art to your program — a picture of a dog!
++ Ας προσθέσουμε τέχνη στο πρόγραμμά σου - μια εικόνα ενός σκύλου!
     
     ![screenshot](images/me-dog.png)
 

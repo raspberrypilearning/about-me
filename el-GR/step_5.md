@@ -6,20 +6,20 @@
     
     ![screenshot](images/me-dog.png)
 
-The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
+Τα πόδια του σκύλου φτιάχνονται χρησιμοποιώντας τον χαρακτήρα σωλήνα `|` που μπορείς να πληκτρολογήσεις πιέζοντας <kbd>Shift + \ </kbd> στα περισσότερα πληκτρολόγια Αγγλίας/ΗΠΑ.
 
-+ Αν κάνετε κλικ στο **Run**, θα δείτε ότι υπάρχει ένα σφάλμα στο νέο σας κώδικα.
++ Αν κάνεις κλικ στο **Run**, θα δεις ότι υπάρχει ένα σφάλμα στο νέο σου κώδικα.
     
     ![screenshot](images/me-dog-bug.png)
     
-    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
+    Αυτό συμβαίνει επειδή το κείμενό σου περιέχει μία απόστροφο `'`, την οποία η Python θεωρεί ότι είναι το τέλος του κειμένου!
     
     ![screenshot](images/me-dog-quote.png)
 
-+ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
++ Για να το διορθώσεις, απλώς βάλε μια ανάστροφη κάθετο `` πριν από την απόστροφο στη λέξη `here's`. Αυτό λέει στην Python ότι η απόστροφος είναι μέρος του κειμένου.
     
     ![screenshot](images/me-dog-bug-fix.png)
 
-+ If you prefer, you can use three apostrophes `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
++ Αν προτιμάς, μπορείς να χρησιμοποιήσεις τρεις αποστρόφους `'''` αντί για μία, κάτι που σου επιτρέπει να εμφανίσεις πολλές γραμμές κειμένου με μία εντολή `print`:
     
     ![screenshot](images/me-dog-triple-quote.png)

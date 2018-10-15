@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: about yourself
+## Πρόκληση: Για τον εαυτό σου
 
-Write a Python program to tell others about yourself using text and ASCII art. You can create images of your hobbies, friends, or anything you like!
+Γράψε ένα πρόγραμμα Python για να συστηθείς στον κόσμο χρησιμοποιώντας κείμενο και ASCII τέχνη. Μπορείς να δημιουργήσεις εικόνες από τα χόμπι, τους φίλους σου ή οτιδήποτε άλλο σας αρέσει!
 
-**Remember that the code you write in Trinket is public. Don't share any personal information like your full name or address!**
+**Θυμήσου ότι ο κώδικας που γράφεις στο Trinket είναι δημόσιος. Μην μοιράζεσαι προσωπικά στοιχεία όπως το πλήρες όνομα ή τη διεύθυνσή σου!**
 
-Here’s an example:
+Ακολουθεί ένα παράδειγμα:
 
 ![screenshot](images/me-about.png)
 

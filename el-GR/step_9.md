@@ -1,14 +1,14 @@
 \--- challenge \---
 
-## Challenge: calculating text
+## Πρόκληση: Υπολογισμός κειμένου
 
-Did you know that you can also calculate text?!
+Γνώριζες ότι μπορείς επίσης να υπολογίσεις κείμενο;
 
-What will the following program print to the screen? See if you can guess it correctly before running the program.
+Τι θα εμφανίσει το επόμενο πρόγραμμα στην οθόνη; Δες εάν μπορείς να μαντέψεις σωστά πριν εκτελέσεις το πρόγραμμα.
 
 ![screenshot](images/me-text-calc.png)
 
-Can you make up any words of your own? You could even make your own patterns!
+Μπορείς να δημιουργήσεις οποιεσδήποτε δικές σου λέξεις; Θα μπορούσες ακόμη να φτιάξεις τα δικά σου σχέδια!
 
 ![screenshot](images/me-patterns.png)
 

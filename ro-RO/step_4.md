@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: What's on your mind?
+## Provocare: La ce te gândești?
 
 Change the code you just wrote to print something more interesting about you!
 

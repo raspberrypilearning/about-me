@@ -1,10 +1,10 @@
 ## Saying hello
 
-Let's start by writing some text.
+Să începem prin scrierea unui text.
 
 + Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Type the following into the window that appears:
++ Introduceți următoarele în fereastra care apare:
     
     ![screenshot](images/me-hi.png)
     
@@ -14,7 +14,7 @@ Let's start by writing some text.
     
     ![screenshot](images/me-hi-test.png)
 
-If you've made a mistake, you'll get an error message telling you what went wrong instead!
+Dacă ați făcut o greșeală, veți primi un mesaj de eroare care vă spune unde s-a greșit!
 
 + Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
     
@@ -22,9 +22,9 @@ If you've made a mistake, you'll get an error message telling you what went wron
 
 + Add the quote or bracket back in, and click **Run** to make sure your project works again.
 
-**You don't need a Trinket account to save your projects!**
+**Nu aveți nevoie de un cont Trinket pentru a vă salva proiectele!**
 
-If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. Va trebui să faceți acest lucru de fiecare dată când faceți modificări, deoarece link-ul se va schimba!
 
 ![screenshot](images/me-link.png)
 

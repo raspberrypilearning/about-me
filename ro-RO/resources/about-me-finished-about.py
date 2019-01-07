@@ -19,7 +19,7 @@ Locuiesc în Glasgow
 
 ''')
 
-born = input('În ce an te-ai născut?')
-born = int(born)
-age = 2025 - born
-print('În anul 2025 vei avea', age, 'de ani!')
+anulNasterii = input('În ce an te-ai născut?')
+anulNasterii = int(anulNasterii)
+varsta = 2025 - anulNasterii
+print('În anul 2025 vei avea', varsta, 'de ani!')

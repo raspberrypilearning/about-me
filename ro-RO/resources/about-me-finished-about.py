@@ -22,4 +22,4 @@ Locuiesc în Glasgow
 born = input('În ce an te-ai născut?')
 born = int(born)
 age = 2025 - born
-print('În anul 2025 vei avea\', age, 'ani')
+print('În anul 2025 vei avea', age, 'de ani!')

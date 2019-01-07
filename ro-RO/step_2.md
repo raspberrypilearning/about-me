@@ -2,7 +2,7 @@
 
 ### Hardware
 
-+ A computer capable of accessing the [trinket.io](https://trinket.io){:target="_blank"} website
++ Un calculator capabil să acceseze site-ul[trinket.io](https://trinket.io){:target="_blank"}
 
 ### Software
 

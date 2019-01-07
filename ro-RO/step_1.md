@@ -1,4 +1,4 @@
-## Introduction
+## Introducere
 
 In this project you will learn how to write a Python program telling people all about you.
 

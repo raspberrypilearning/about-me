@@ -2,9 +2,9 @@
 
 ## Challenge: calculating text
 
-Did you know that you can also calculate text?!
+Știați că puteți calcula și textul?!
 
-What will the following program print to the screen? See if you can guess it correctly before running the program.
+Ce va afișa următorul program pe ecran? Vedeți dacă puteți ghici înainte de a rula programul.
 
 ![screenshot](images/me-text-calc.png)
 

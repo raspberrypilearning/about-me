@@ -1,10 +1,10 @@
-## The year 2025
+## Anul 2025
 
-You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
+De asemenea, puteți face anumite calcule și afișa numere pe ecran. Let's find out how old you'll be in the year 2025!
 
 + To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
     
-    Add this code to your program:
+    Adăugați acest cod la program:
     
     ![screenshot](images/me-calc.png)
     
@@ -18,7 +18,7 @@ You can also do calculations and print numbers. Let's find out how old you'll be
     
     ![screenshot](images/me-input.png)
 
-+ Run your program and then enter the year you were born. Did you get another error message?
++ Rulați programul și apoi introduceți anul în care v-ați născut. Ați primit alt mesaj de eroare?
     
     That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
     

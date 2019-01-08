@@ -16,7 +16,7 @@ Să începem prin scrierea unui text.
 
 Dacă ați făcut o greșeală, veți primi un mesaj de eroare care vă spune unde s-a greșit!
 
-+ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
++ Încercați! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
     
     ![screenshot](images/me-syntax.png)
 

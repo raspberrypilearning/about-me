@@ -8,6 +8,6 @@ Scrieți un program Python pentru a le spune celorlalți despre voi, folosind te
 
 Iată un exemplu:
 
-![screenshot](images/me-about.png)
+![captură de ecran](images/me-about.png)
 
 \--- /challenge \---

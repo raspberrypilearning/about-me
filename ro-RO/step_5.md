@@ -1,6 +1,6 @@
 ## Artă ASCII
 
-Haideți să tipărim ceva mai distractiv decât text: artă ASCII! Arta ASCII (pronunțat '*ask-e*') creează **imagini din text**.
+Haideți să tipărim ceva mai distractiv decât text: artă ASCII! Arta ASCII (pronunțat '*ask-i*') creează **imagini din text**.
 
 + Să adăugăm elemente artistice la programul tău - o imagine a unui câine!
     

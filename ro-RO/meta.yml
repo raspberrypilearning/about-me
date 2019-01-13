@@ -20,7 +20,7 @@ steps:
   - 
     title: Introducere
   - 
-    title: What you will need
+    title: De ce veți avea nevoie
   - 
     title: Saying hello
   - 
@@ -34,4 +34,4 @@ steps:
   - 
     title: "Challenge: your age in dog years"
   - 
-    title: "Challenge: calculating text"
+    title: "Provocare: calculul textului"

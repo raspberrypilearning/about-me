@@ -6,4 +6,4 @@
 
 ### Software
 
-This project can be completed in a web browser using [trinket.io](https://trinket.io){:target="_blank"}
+Acest proiect poate fi făcut într-un browser web folosind[trinket.io](https://trinket.io){:target="_blank"}

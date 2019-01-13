@@ -1,6 +1,6 @@
 ## Introducere
 
-In this project you will learn how to write a Python program telling people all about you.
+În acest proiect veți învăța cum să scrieți un program Python, care spune oamenilor totul despre tine.
 
 ### Ce veți face
 

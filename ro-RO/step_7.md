@@ -8,7 +8,7 @@ De asemenea, puteți face anumite calcule și afișa numere pe ecran. Haideți s
     
     ![captură de ecran](images/me-calc.png)
     
-    Notice that you don't need to put quotes around numbers. (Va trebui să schimbați numărul `2006` dacă v-ați născut în alt an.)
+    Observați că nu este nevoie să adaugați apostrofuri în jurul numerelor. (Va trebui să schimbați numărul `2006` dacă v-ați născut în alt an.)
 
 + Dați click pe **Run**, și programul ar trebui să afișeze vârsta voastră din anul 2025.
     

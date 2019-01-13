@@ -6,6 +6,6 @@ Scrieți un program pentru a întreba vârsta utilizatorului și apoi afișați 
 
 ![captură de ecran](images/me-dog-years.png)
 
-In programming, the symbol for **multiplication** is the `*` character, which you can usually type by pressing <kbd>Shift + 8</kbd> on the keyboard.
+În programare, simbolul pentru **înmulțire** este caracterul `*` pe care îl tastați folosind combinația de taste <kbd>Shift + 8</kbd> de pe tastatură.
 
 \--- /challenge \---

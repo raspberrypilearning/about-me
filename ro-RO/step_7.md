@@ -2,7 +2,7 @@
 
 De asemenea, puteți face anumite calcule și afișa numere pe ecran. Haideți sa aflăm câți ani veți avea în anul 2025!
 
-+ To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
++ Pentru a calcula câți ani veți avea în anul 2025, va fi nevoie să scădeți anul în care v-ați născut din 2025.
     
     Adăugați acest cod la program:
     
@@ -26,10 +26,10 @@ De asemenea, puteți face anumite calcule și afișa numere pe ecran. Haideți s
     
     ![captură de ecran](images/me-input-test.png)
 
-+ You can also create another variable to store your calculation, and print that instead.
++ De asemenea, puteți crea o altă variabilă pentru a stoca calculul vostru și pentru a o afișa.
     
     ![captură de ecran](images/me-result-variable.png)
 
-+ Finally, you can make your program easier to understand by adding a helpful message.
++ În cele din urmă, puteți face programul vostru mai ușor de înțeles prin adăugarea unui mesaj util.
     
     ![captură de ecran](images/me-message.png)

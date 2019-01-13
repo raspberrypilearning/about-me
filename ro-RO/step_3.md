@@ -24,7 +24,7 @@ Dacă ați făcut o greșeală, veți primi un mesaj de eroare care vă spune un
 
 **Nu aveți nevoie de un cont Trinket pentru a vă salva proiectele!**
 
-Dacă nu aveți un cont Trinket, dați click pe săgeată-jos și, mai apoi, pe **Link**. This will give you a link that you can save and come back to later. Va trebui să faceți acest lucru de fiecare dată când faceți modificări, deoarece link-ul se va schimba!
+Dacă nu aveți un cont Trinket, dați click pe săgeată-jos și, mai apoi, pe **Link**. Acest lucru vă va oferi un link pe care îl puteți salva și la care puteți reveni mai târziu. Va trebui să faceți acest lucru de fiecare dată când faceți modificări, deoarece link-ul se va schimba!
 
 ![captură de ecran](images/me-link.png)
 

@@ -1,4 +1,4 @@
-## Saying hello
+## Cum să spui salut
 
 Să începem prin scrierea unui text.
 
@@ -10,17 +10,17 @@ Să începem prin scrierea unui text.
     
     The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
 
-+ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
++ Apăsați pe **Run**, și ar trebui să vedeți cum comanda `print()` tipărește tot ceea ce este între apostrofuri`''`.
     
     ![captură de ecran](images/me-hi-test.png)
 
 Dacă ați făcut o greșeală, veți primi un mesaj de eroare care vă spune unde s-a greșit!
 
-+ Încercați! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
++ Încercați! Ștergeți apostroful de la sfârșit `'` sau paranteza de închidere `)` (ori ambele) și vedeți ce se întâmplă.
     
     ![captură de ecran](images/me-syntax.png)
 
-+ Add the quote or bracket back in, and click **Run** to make sure your project works again.
++ Adaugați apostroful sau paranteza înapoi și apăsați **Run** pentru a fi siguri ca proiectul vostru funcționează din nou.
 
 **Nu aveți nevoie de un cont Trinket pentru a vă salva proiectele!**
 

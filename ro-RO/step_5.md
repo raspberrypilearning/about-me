@@ -1,6 +1,6 @@
 ## Artă ASCII
 
-Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
+Haideți să tipărim ceva mai distractiv decât text: artă ASCII! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
 
 + Să adăugăm elemente artistice la programul tău - o imagine a unui câine!
     
@@ -8,7 +8,7 @@ Let’s print something much more fun than text: ASCII art! ASCII art (pronounce
 
 The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
 
-+ If you click **Run**, you'll see that there's a bug in your new code.
++ Dacă dați click pe **Run**, veți vedea că există o eroare în codul vostru.
     
     ![screenshot](images/me-dog-bug.png)
     

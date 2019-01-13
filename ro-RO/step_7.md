@@ -6,17 +6,17 @@ De asemenea, puteți face anumite calcule și afișa numere pe ecran. Haideți s
     
     Adăugați acest cod la program:
     
-    ![screenshot](images/me-calc.png)
+    ![captură de ecran](images/me-calc.png)
     
     Notice that you don't need to put quotes around numbers. (Va trebui să schimbați numărul `2006` dacă v-ați născut în alt an.)
 
-+ Click **Run**, and your program should print your age in the year 2025.
++ Dați click pe **Run**, și programul ar trebui să afișeze vârsta voastră din anul 2025.
     
-    ![screenshot](images/me-calc-run.png)
+    ![captură de ecran](images/me-calc-run.png)
 
 + You could improve your program by using `input()` to ask the user their age and store it in a **variable** called `born`.
     
-    ![screenshot](images/me-input.png)
+    ![captură de ecran](images/me-input.png)
 
 + Rulați programul și apoi introduceți anul în care v-ați născut. Ați primit alt mesaj de eroare?
     
@@ -24,12 +24,12 @@ De asemenea, puteți face anumite calcule și afișa numere pe ecran. Haideți s
     
     You can use `int()` to convert the text to an **integer**. An integer is a whole number.
     
-    ![screenshot](images/me-input-test.png)
+    ![captură de ecran](images/me-input-test.png)
 
 + You can also create another variable to store your calculation, and print that instead.
     
-    ![screenshot](images/me-result-variable.png)
+    ![captură de ecran](images/me-result-variable.png)
 
 + Finally, you can make your program easier to understand by adding a helpful message.
     
-    ![screenshot](images/me-message.png)
+    ![captură de ecran](images/me-message.png)

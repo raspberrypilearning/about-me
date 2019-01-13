@@ -20,6 +20,6 @@ The dog's legs are made using the pipe character `|` which you can type by press
     
     ![captură de ecran](images/me-dog-bug-fix.png)
 
-+ If you prefer, you can use three apostrophes `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
++ Dacă vreți, puteți folosi trei apostrofuri `‘’’` în loc de unul, ceea ce vă permite să printați mai multe linii de text cu o singură comandă `print`:
     
     ![captură de ecran](images/me-dog-triple-quote.png)

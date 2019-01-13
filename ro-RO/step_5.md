@@ -6,7 +6,7 @@ Haideți să tipărim ceva mai distractiv decât text: artă ASCII! ASCII art (p
     
     ![captură de ecran](images/me-dog.png)
 
-The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
+Picioarele câinelui sunt realizate folosind caracterul bară verticală `|` pe care îl puteți tasta apăsând <kbd>Shift + \ </kbd> de pe majoritatea tastaturilor.
 
 + Dacă dați click pe **Run**, veți vedea că există o eroare în codul vostru.
     
@@ -20,6 +20,6 @@ The dog's legs are made using the pipe character `|` which you can type by press
     
     ![captură de ecran](images/me-dog-bug-fix.png)
 
-+ Dacă vreți, puteți folosi trei apostrofuri `‘’’` în loc de unul, ceea ce vă permite să printați mai multe linii de text cu o singură comandă `print`:
++ Dacă vreți, puteți folosi trei apostrofuri `‘’’` în loc de unul, ceea ce vă permite să tipăriți mai multe linii de text cu o singură comandă `print`:
     
     ![captură de ecran](images/me-dog-triple-quote.png)

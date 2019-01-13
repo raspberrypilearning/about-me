@@ -1,6 +1,6 @@
 ## Anul 2025
 
-De asemenea, puteți face anumite calcule și afișa numere pe ecran. Let's find out how old you'll be in the year 2025!
+De asemenea, puteți face anumite calcule și afișa numere pe ecran. Haideți sa aflăm câți ani veți avea în anul 2025!
 
 + To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
     
@@ -8,7 +8,7 @@ De asemenea, puteți face anumite calcule și afișa numere pe ecran. Let's find
     
     ![screenshot](images/me-calc.png)
     
-    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
+    Notice that you don't need to put quotes around numbers. (Va trebui să schimbați numărul `2006` dacă v-ați născut în alt an.)
 
 + Click **Run**, and your program should print your age in the year 2025.
     

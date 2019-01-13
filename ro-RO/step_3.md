@@ -8,7 +8,7 @@ Să începem prin scrierea unui text.
     
     ![captură de ecran](images/me-hi.png)
     
-    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
+    Linia `#!/bin/python3` doar îi spune lui Trinket că folosim limbajul Python 3 (ultima versiune).
 
 + Apăsați pe **Run**, și ar trebui să vedeți cum comanda `print()` tipărește tot ceea ce este între apostrofuri`''`.
     
@@ -28,6 +28,6 @@ If you don't have a Trinket account, click the down arrow and then click **Link*
 
 ![captură de ecran](images/me-link.png)
 
-If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
+Dacă aveți un cont Trinket, puteți da click pe **Remix** pentru a vă salva propria copie a trinket-ului.
 
 ![captură de ecran](images/me-remix.png)

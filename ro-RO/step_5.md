@@ -8,7 +8,7 @@ Haideți să tipărim ceva mai distractiv decât text: artă ASCII! Arta ASCII (
 
 Picioarele câinelui sunt realizate folosind caracterul bară verticală `|` pe care îl puteți tasta apăsând <kbd>Shift + \ </kbd> de pe majoritatea tastaturilor.
 
-+ Dacă dați click pe **Run**, veți vedea că există o eroare în codul vostru.
++ Dați click pe **Run**, pentru a rula programul.
     
     ![captură de ecran](images/me-dog-bug.png)
     

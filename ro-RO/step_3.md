@@ -2,7 +2,7 @@
 
 Să începem prin scrierea unui text.
 
-+ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Deschideți un șablon nou Python: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
 + Introduceți următoarele în fereastra care apare:
     
@@ -24,7 +24,7 @@ Dacă ați făcut o greșeală, veți primi un mesaj de eroare care vă spune un
 
 **Nu aveți nevoie de un cont Trinket pentru a vă salva proiectele!**
 
-If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. Va trebui să faceți acest lucru de fiecare dată când faceți modificări, deoarece link-ul se va schimba!
+Dacă nu aveți un cont Trinket, dați click pe săgeată-jos și, mai apoi, pe **Link**. This will give you a link that you can save and come back to later. Va trebui să faceți acest lucru de fiecare dată când faceți modificări, deoarece link-ul se va schimba!
 
 ![captură de ecran](images/me-link.png)
 

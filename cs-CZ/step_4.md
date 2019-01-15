@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: What's on your mind?
+## Výzva: na co myslíš?
 
-Change the code you just wrote to print something more interesting about you!
+Změň právě napsaný kód tak, aby vytiskl něco zajímavého o tobě!
 
 ![screenshot](images/me-mind.png)
 

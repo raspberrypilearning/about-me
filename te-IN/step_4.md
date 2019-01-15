@@ -1,9 +1,9 @@
-\--- challenge \---
+\--- సవాలు \---
 
-## Challenge: What's on your mind?
+## ఛాలెంజ్: మీ మనసులో ఏముంది?
 
-Change the code you just wrote to print something more interesting about you!
+మీ గురించి మరింత ఆసక్తికరంగా ప్రింట్ చేయడానికి మీరు వ్రాసిన కోడ్ను మార్చండి!
 
-![screenshot](images/me-mind.png)
+![స్క్రీన్](images/me-mind.png)
 
-\--- /challenge \---
+\--- / సవాలు \---

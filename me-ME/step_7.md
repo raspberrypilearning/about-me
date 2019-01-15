@@ -1,35 +1,35 @@
-## The year 2025
+## 2025. godina
 
-You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
+Možeš i da računaš i ispisuješ brojeve. Saznajmo koliko godina ćeš imati 2025. godine!
 
-+ To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
++ Da bi izračunao/izračunala koliko godina ćeš imati 2025. godine, treba da oduzmeš godinu svog rođenja od 2025.
     
-    Add this code to your program:
+    Dodaj ovaj kôd u svoj program:
     
     ![screenshot](images/me-calc.png)
     
-    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
+    Imaj u vidu da brojeve ne treba da stavljaš između navodnika. (Treba da promijeniš broj `2006` ako si rođen/rođena neke druge godine.)
 
-+ Click **Run**, and your program should print your age in the year 2025.
++ Klikni na **Run** i trebalo bi da tvoj program ispiše koliko godina ćeš imati 2025. godine.
     
     ![screenshot](images/me-calc-run.png)
 
-+ You could improve your program by using `input()` to ask the user their age and store it in a **variable** called `born`.
++ Svoj program možeš poboljšati tako što ćeš koristiti `input()` da pitaš korisnika koliko ima godina i sačuvaš odgovor u **promjenljivoj** pod nazivom `rođen`.
     
     ![screenshot](images/me-input.png)
 
-+ Run your program and then enter the year you were born. Did you get another error message?
++ Pokreni program i unesi godinu svog rođenja. Da li si dobio/dobila još jednu poruku o grešci?
     
-    That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
+    To se desilo zbog toga što je sve što upišeš u svoj program **tekst** koji treba pretvoriti u **broj**.
     
-    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
+    Možeš da koristiš `int()` da pretvoriš tekst u **integer**. 'Integer' je cijeli broj.
     
     ![screenshot](images/me-input-test.png)
 
-+ You can also create another variable to store your calculation, and print that instead.
++ Možeš i da kreiraš novu promjenljivu za čuvanje svog rezultata, a zatim da nju ispišeš.
     
     ![screenshot](images/me-result-variable.png)
 
-+ Finally, you can make your program easier to understand by adding a helpful message.
++ Na kraju, možeš napraviti da tvoj program bude razumljiviji tako što ćeš dodati korisnu poruku.
     
     ![screenshot](images/me-message.png)

@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Challenge: calculating text
+## Haaste: laskutoimituksia tekstillä
 
-Did you know that you can also calculate text?!
+Tiesitkö, että voit myös tehdä laskutoimituksia tekstillä?!
 
-What will the following program print to the screen? See if you can guess it correctly before running the program.
+Mitä seuraava ohjelma tulostaa näyttöön? Katso, arvaatko oikein ennen ohjelman suorittamista.
 
-![screenshot](images/me-text-calc.png)
+![kuvakaappaus](images/me-text-calc.png)
 
-Can you make up any words of your own? You could even make your own patterns!
+Voitko muodostaa omia sanoja? Voit jopa tehdä omia kuvioita!
 
-![screenshot](images/me-patterns.png)
+![kuvakaappaus](images/me-patterns.png)
 
 \--- /challenge \---

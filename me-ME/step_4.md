@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: What's on your mind?
+## Izazov: Šta ti je na umu?
 
-Change the code you just wrote to print something more interesting about you!
+Izmijeni kôd koji si upravo napisao/napisala tako da ispiše nešto zanimljivo o tebi!
 
 ![screenshot](images/me-mind.png)
 

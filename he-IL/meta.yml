@@ -1,37 +1,37 @@
 ---
 hero_image: images/about-me.png
-theme: orange
+theme: כָּתוֹם
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: About me
-description: Use the Python programming language to create pictures out of text
+title: פרטים אודותי
+description: השתמש בפיתון כדי ליצור תמונות מתוך טקסט
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
-technologies: python
-site_areas: projects
+technologies: פיתון
+site_areas: פרויקטים
 hardware: ''
-software: python
+software: פיתון
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: הקדמה
   - 
-    title: What you will need
+    title: מה נדרש
   - 
-    title: Saying hello
+    title: אמור שלום
   - 
-    title: "Challenge: what's on your mind?"
+    title: "האתגר: על מה אתה חושב?"
   - 
-    title: ASCII art
+    title: אמנות ASCII
   - 
-    title: "Challenge: about yourself"
+    title: "האתגר: על עצמך"
   - 
-    title: The year 2025
+    title: שנת 2025
   - 
-    title: "Challenge: your age in dog years"
+    title: "האתגר: חשב את הגיל שלך בשנים של כלב"
   - 
-    title: "Challenge: calculating text"
+    title: "אתגר: חישוב טקסט"

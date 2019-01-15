@@ -1,33 +1,33 @@
-## Saying hello
+## Hallo zeggen
 
-Let's start by writing some text.
+Laten we beginnen met het schrijven van wat tekst.
 
-+ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Open het nieuwe Python-sjabloon in Trinket: <a href="http://jumpto.cc/python-new" target="_blank"> jumpto.cc/python-new </a>.
 
-+ Type the following into the window that appears:
++ Typ het volgende in het venster dat verschijnt:
     
     ![screenshot](images/me-hi.png)
     
-    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
+    De regel ` #! / Bin / python3 ` vertelt Trinket dat we Python 3 gebruiken (de nieuwste versie).
 
-+ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
++ Klik op ** Run ** en je zou moeten zien dat de ` print () ` opdracht alles afdrukt wat tussen de aanhalingstekens ` '' ` staat.
     
     ![screenshot](images/me-hi-test.png)
 
-If you've made a mistake, you'll get an error message telling you what went wrong instead!
+Als je een fout hebt gemaakt, krijg je een foutmelding waarin staat wat er fout is gegaan!
 
-+ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
++ Probeer het! Verwijder het laatste aanhalingsteken `'` of het sluithaakje `)` (of allebei) en kijk wat er gebeurt.
     
     ![screenshot](images/me-syntax.png)
 
-+ Add the quote or bracket back in, and click **Run** to make sure your project works again.
++ Voeg het aanhalingsteken of het haakje weer toe en klik op ** Run ** om ervoor te zorgen dat je project weer werkt.
 
-**You don't need a Trinket account to save your projects!**
+**Je hebt geen Trinket-account nodig om je projecten op te slaan!**
 
-If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+Als je geen Trinket-account hebt, klik dan op de pijl-omlaag en vervolgens op ** Link **. Hiermee krijg je een link die je kunt opslaan en later kunt openen. Je moet dit elke keer doen nadat er wijzigingen zijn aangebracht omdat de link verandert!
 
 ![screenshot](images/me-link.png)
 
-If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
+Als je een Trinket-account hebt, kun je op ** Remix ** klikken om je eigen exemplaar van de trinket op te slaan.
 
 ![screenshot](images/me-remix.png)

@@ -5,33 +5,33 @@ duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: About me
-description: Use the Python programming language to create pictures out of text
+curriculum: creator, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: 关于本人
+description: 利用 Python 编程语言，用文本创建图片
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
 technologies: python
-site_areas: projects
+site_areas: codeclub, python
 hardware: ''
 software: python
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: 介绍
   - 
-    title: What you will need
+    title: 你将需要什么
   - 
-    title: Saying hello
+    title: 说你好
   - 
-    title: "Challenge: what's on your mind?"
+    title: "“挑战：你在想什么?”"
   - 
-    title: ASCII art
+    title: ASCII 艺术
   - 
-    title: "Challenge: about yourself"
+    title: "“挑战：关于你自己”"
   - 
-    title: The year 2025
+    title: 2025 年
   - 
-    title: "Challenge: your age in dog years"
+    title: "“挑战：狗年你多大了”"
   - 
-    title: "Challenge: calculating text"
+    title: "“挑战：计算文本”"

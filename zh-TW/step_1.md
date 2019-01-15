@@ -1,8 +1,8 @@
-## Introduction
+## 介紹
 
-In this project you will learn how to write a Python program telling people all about you.
+在這個專案中, 你將學習如何編寫一個 Python 程式, 告訴人們關於你的一切。
 
-### What you will make
+### 你會做什麼
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a1f663ae0d?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -10,14 +10,14 @@ In this project you will learn how to write a Python program telling people all 
   <img src="images/me-final.png">
 </div>
 
-### What you will learn
+### 你會學到什麼
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+此項目涵蓋 [Raspberry Pi數字化課程](http://rpf.io/curriculum){：target =“_ blank”}的下列部分：
 
-+ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [使用基本的編程結構來創建簡單的程序](https://www.raspberrypi.org/curriculum/programming/creator){：target =“_ blank”}
 
-### Additional information for educators
+### 給教育工作者的額外資訊
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/about-me/print){:target="_blank"}.
+如果需要列印此專案, 請使用 [ 印表機友好版本 ](https://projects.raspberrypi.org/en/projects/about-me/print) {: 目標 = "_blank"}。
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+使用頁腳中的連結可以訪問此專案的 GitHub 存儲庫, 該資料庫包含 "en/資源" 資料夾中的所有資源 (包括示例已完成專案)。

@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: What's on your mind?
+## Haaste: Mitä on mielessäsi?
 
-Change the code you just wrote to print something more interesting about you!
+Muuta kirjoittamaasi koodia tulostaaksesi jotain kiinnostavampaa itsestäsi!
 
-![screenshot](images/me-mind.png)
+![ruutukaappaus](images/me-mind.png)
 
 \--- /challenge \---

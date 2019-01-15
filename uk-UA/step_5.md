@@ -1,25 +1,25 @@
 ## ASCII art
 
-Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
+Назвемо щось набагато веселіше, ніж текст: ASCII art! ASCII art (вимовляється як '*ask-e*') створює **фотографії з тексту**.
 
-+ Let's add some art to your program — a picture of a dog!
++ Давайте додамо мистецтво до вашої програми - фотографію собаки!
     
-    ![screenshot](images/me-dog.png)
+    ![знімок екрану](images/me-dog.png)
 
-The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
+Лапи собак виконані за допомогою символу трубка `|`, яку ви можете ввести, натиснувши <kbd>Shift + \ </kbd> на більшості англійських клавіатур.
 
-+ If you click **Run**, you'll see that there's a bug in your new code.
++ Якщо ви натиснете **Виконати**, ви побачите, що у вашому новому коді є помилка.
     
-    ![screenshot](images/me-dog-bug.png)
+    ![знімок екрану](images/me-dog-bug.png)
     
-    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
+    Це тому, що ваш текст містить апостроф `'`, який, на думку Python, є кінцем тексту!
     
-    ![screenshot](images/me-dog-quote.png)
+    ![знімок екрану](images/me-dog-quote.png)
 
-+ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
++ Щоб це виправити, просто поставте зворотну риску `` перед апострофом у слові `тут`. Це говорить Phyton, що апостроф є частиною тексту.
     
-    ![screenshot](images/me-dog-bug-fix.png)
+    ![знімок екрану](images/me-dog-bug-fix.png)
 
 + If you prefer, you can use three apostrophes `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
     
-    ![screenshot](images/me-dog-triple-quote.png)
+    ![знімок екрану](images/me-dog-triple-quote.png)

@@ -1,33 +1,33 @@
-## Saying hello
+## Dire bonjour
 
-Let's start by writing some text.
+Commençons par écrire du texte.
 
-+ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Ouvre le modèle de Trinket Python vierge : <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Type the following into the window that appears:
++ Tape le texte suivant dans la fenêtre qui apparaît:
     
-    ![screenshot](images/me-hi.png)
+    ![capture d'écran](images/me-hi.png)
     
-    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
+    La ligne ` #! / Bin / python3 ` précise juste à Trinket que nous utilisons Python 3 (la version la plus récente).
 
-+ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
++ Clique sur ** Exécuter ** , et tu devrais voir que la commande ` print () ` imprime tout ce qui est entre les guillemets ` '' ` .
     
     ![screenshot](images/me-hi-test.png)
 
-If you've made a mistake, you'll get an error message telling you what went wrong instead!
+Si tu as fait une erreur, tu recevras un message d'erreur t'indiquant ce qui n'a pas marché !
 
-+ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
++ Essaye! Supprime l'apostrophe de fin ` ' ` ou la parenthèse de fermeture `) ` (ou les deux) pour voir ce qui se passe.
     
     ![screenshot](images/me-syntax.png)
 
-+ Add the quote or bracket back in, and click **Run** to make sure your project works again.
++ Ajoute l'apostrophe ou le crochet à nouveau et clique sur ** Exécuter ** pour t'assurer que ton projet fonctionne à nouveau.
 
-**You don't need a Trinket account to save your projects!**
+**Tu n'as pas besoin d'un compte Trinket pour sauvegarder tes projets!**
 
-If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+Si vous ne dispose pas d'un compte Trinket, clique sur la flèche vers le bas, puis sur ** Lien ** . Cela te donnera un lien que tu pourras sauvegarder pour revenir plus tard. Tu devras le faire chaque fois que tu fais des modifications car le lien changera!
 
-![screenshot](images/me-link.png)
+![capture d'écran](images/me-link.png)
 
-If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
+Si tu as un compte Trinket, tu pourras cliquer sur ** Remix ** pour enregistrer ta propre copie.
 
-![screenshot](images/me-remix.png)
+![capture d'écran](images/me-remix.png)

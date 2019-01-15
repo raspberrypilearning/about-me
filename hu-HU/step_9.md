@@ -1,15 +1,15 @@
-\--- challenge \---
+\--- kihívás \---
 
-## Challenge: calculating text
+## Kihívás: a szöveg kiszámítása
 
-Did you know that you can also calculate text?!
+Tudta, hogy szöveg kiszámításához is ?!
 
-What will the following program print to the screen? See if you can guess it correctly before running the program.
+Mit fog megjeleníteni a következő program a képernyőn? Lássuk, hogy ki tudod-e találni a program futtatása előtt.
 
-![screenshot](images/me-text-calc.png)
+![képernyőkép](images/me-text-calc.png)
 
-Can you make up any words of your own? You could even make your own patterns!
+Ki tudod fejezni saját szavaiddal? Még a saját mintáid is elkészítheted!
 
-![screenshot](images/me-patterns.png)
+![képernyőkép](images/me-patterns.png)
 
-\--- /challenge \---
+\--- /kihívás \---

@@ -1,25 +1,25 @@
-## ASCII art
+## ASCII -konst
 
-Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
+Låt oss skriva ut något mycket roligare än text: ASCII -konst! ASCII -konst (uttalad "*ask-ii*") skapar **bilder ur text**.
 
-+ Let's add some art to your program — a picture of a dog!
++ Låt oss lägga till lite konst i ditt program - en bild av en hund!
     
-    ![screenshot](images/me-dog.png)
+    ![skärmdump](images/me-dog.png)
 
-The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
+Hundens ben är gjorda med streckkaraktären `|` som du kan skriva genom att trycka på <kbd>Shift + \ </kbd> på de flesta brittiska/amerikanska tangentbord.
 
-+ If you click **Run**, you'll see that there's a bug in your new code.
++ Om du klickar på **Kör**, ser du att det finns ett fel i din nya kod.
     
-    ![screenshot](images/me-dog-bug.png)
+    ![skärmdump](images/me-dog-bug.png)
     
-    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
+    Det beror på att texten innehåller en apostrof `'`, som Python tycker är slutet på texten!
     
-    ![screenshot](images/me-dog-quote.png)
+    ![skärmdump](images/me-dog-quote.png)
 
-+ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
++ Lös problemet genom att bara sätta ett omvänt snedstreck `` innan apostrofen i ordet `här är`. Detta berättar Python att apostrof är en del av texten.
     
-    ![screenshot](images/me-dog-bug-fix.png)
+    ![skärmdump](images/me-dog-bug-fix.png)
 
 + If you prefer, you can use three apostrophes `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
     
-    ![screenshot](images/me-dog-triple-quote.png)
+    ![skärmdump](images/me-dog-triple-quote.png)

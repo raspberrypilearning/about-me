@@ -1,25 +1,25 @@
-## ASCII art
+## ASCII umjetnost
 
-Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
+Ispišimo nešto mnogo zabavnije od teksta: ASCII umjetnost! ASCII umjetnost (izgovara se '*aski*') stvara **slike od teksta**.
 
-+ Let's add some art to your program — a picture of a dog!
++ Dodajmo malo umjetnosti u tvoj program — sliku psa!
     
     ![screenshot](images/me-dog.png)
 
-The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
+Noge psa prave se pomoću vertikalne crte `|` koju možeš da upišeš tako što ćeš pritisnuti <kbd>Shift + \ </kbd>.
 
-+ If you click **Run**, you'll see that there's a bug in your new code.
++ Ako klikneš na **Run**, vidjećeš da postoji greška u tvom novom kôdu.
     
     ![screenshot](images/me-dog-bug.png)
     
-    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
+    To je zato što tvoj tekst sadrži apostrof `'` za koji Python misli da je kraj teksta!
     
     ![screenshot](images/me-dog-quote.png)
 
-+ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
++ Da to popraviš, samo dodaj obrnutu kosu crtu `` prije apostrofa koji predstavlja rep psa `'`. Tako će Python znati da je apostrof dio teksta.
     
     ![screenshot](images/me-dog-bug-fix.png)
 
-+ If you prefer, you can use three apostrophes `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
++ Ako želiš, možeš da upotrijebiš tri apostrofa `'''` umjesto jednog, pa ćeš moći da ispišeš više redova teksta sa samo jednom `print` naredbom:
     
     ![screenshot](images/me-dog-triple-quote.png)

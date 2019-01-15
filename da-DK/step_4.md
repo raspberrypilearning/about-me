@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: What's on your mind?
+## Udfordring: Hvad har du i tankerne?
 
-Change the code you just wrote to print something more interesting about you!
+Skift koden du lige skrev for at udskrive noget mere interessant om dig!
 
-![screenshot](images/me-mind.png)
+![screenshots](images/me-mind.png)
 
 \--- /challenge \---

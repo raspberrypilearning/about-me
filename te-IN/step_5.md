@@ -1,25 +1,24 @@
-## ASCII art
+## ASCII కళ
 
-Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
+ASCII కళ: టెక్స్ట్ కంటే చాలా సరదాగా ఏదో ప్రింట్ లెట్! ASCII కళ ('*గో-ఇ*' ఉచ్ఛారణ) **చిత్రాలను టెక్స్ట్**నుండి సృష్టించింది.
 
-+ Let's add some art to your program — a picture of a dog!
++ మీ ప్రోగ్రామ్కు కొంత కళను జోడించం - ఒక కుక్క చిత్రాన్ని!
     
-    ![screenshot](images/me-dog.png)
+    ![స్క్రీన్](images/me-dog.png)
 
-The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
+కుక్క కాళ్లు పైపు పాత్ర `ఉపయోగించి తయారు చేస్తారు` మీరు చాలా UK / US ఆంగ్ల కీబోర్డులలో <kbd>Shift + \ </kbd> నొక్కడం ద్వారా టైప్ చేయవచ్చు.
 
-+ If you click **Run**, you'll see that there's a bug in your new code.
++ మీరు **రన్**క్లిక్ చేస్తే, మీ కొత్త కోడ్లో బగ్ ఉన్నట్లు మీరు చూస్తారు.
     
-    ![screenshot](images/me-dog-bug.png)
+    ![స్క్రీన్](images/me-dog-bug.png)
     
-    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
+    మీ టెక్స్ట్ ఒక అపాస్ట్రఫీ `'`కలిగి ఉన్నందువల్ల, ఇది పైథాన్ వచనం ముగింపు అని ఆలోచించేది!
     
-    ![screenshot](images/me-dog-quote.png)
+    ![స్క్రీన్](images/me-dog-quote.png)
 
-+ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
-    
-    ![screenshot](images/me-dog-bug-fix.png)
++ దీన్ని పరిష్కరించడానికి, ఇక్కడ `యొక్క`వ పదానికి ` అశ్వికదళానికి ముందు బ్యాక్సాష్ <code>3_1_321 ఉంచండి. ఇది పైథాన్కు అపోఫ్ట్రఫీ టెక్స్ట్లో భాగం అని చెబుతుంది.</p>
 
-+ If you prefer, you can use three apostrophes `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
+<p><img src="images/me-dog-bug-fix.png" alt="స్క్రీన్" /></p></li>
+<li><p>If you prefer, you can use three apostrophes <code>'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
     
-    ![screenshot](images/me-dog-triple-quote.png)
+    ![స్క్రీన్](images/me-dog-triple-quote.png)

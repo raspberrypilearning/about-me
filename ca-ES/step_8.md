@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: your age in dog years
+## Repte: La teva edat en anys de gos
 
-Write a program to ask the user their age, and then tell them their age in dog years! You can calculate a person’s age in dog years by multiplying their age by 7.
+Escriu un programa per preguntar a l'usuari la seva edat, i després digue'ls-hi la seva edat en any de gos! Pots calcular l'edat d'una persona en anys de gos multiplicant la seva edat per 7.
 
 ![screenshot](images/me-dog-years.png)
 
-In programming, the symbol for **multiplication** is the `*` character, which you can usually type by pressing <kbd>Shift + 8</kbd> on the keyboard.
+En programació, el símbol per **multiplicació** és el caràcter `*`, que el pots fer prément la tecla <kbd>Shift + "+"</kbd>.
 
 \--- /challenge \---

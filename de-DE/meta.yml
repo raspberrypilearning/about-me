@@ -1,16 +1,16 @@
 ---
-hero_image: images/about-me.png
+hero_image: Bilder/über-mich.png
 theme: orange
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: About me
-description: Use the Python programming language to create pictures out of text
-original_url: https://codeclubprojects.org/en-GB/python/about-me
+title: Über Mich
+description: Schreibe über dich und erstelle Bilder von dir
+original_url: https://projects.raspberrypi.org/en/projects/about-me
 interests: ''
-technologies: python
+technologies: Python
 site_areas: projects
 hardware: ''
 software: python
@@ -18,20 +18,20 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Einführung
   - 
-    title: What you will need
+    title: Hallo sagen
   - 
-    title: Saying hello
+    title: 'Aufgabe: An was denkst du?'
   - 
-    title: "Challenge: what's on your mind?"
+    title: "ASCII Bild"
   - 
-    title: ASCII art
+    title: 'Aufgabe: Über Dich'
   - 
-    title: "Challenge: about yourself"
+    title: "Das Jahr 2025"
   - 
-    title: The year 2025
+    title: 'Aufgabe: Alter in Hundejahren'
   - 
-    title: "Challenge: your age in dog years"
+    title: "Aufgabe: Text berechnen"
   - 
-    title: "Challenge: calculating text"
+    title: "Challenge: Einen Text berechnen"

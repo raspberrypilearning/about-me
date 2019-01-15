@@ -1,9 +1,9 @@
-## What you will need
+## Mitä tarvitset
 
-### Hardware
+### Laitteisto
 
-+ A computer capable of accessing the [trinket.io](https://trinket.io){:target="_blank"} website
++ Tietokone, jolla pystyy käyttämään [trinket.io](https://trinket.io){: target = "_ blank"} verkkosivustoa
 
-### Software
+### Ohjelmisto
 
-This project can be completed in a web browser using [trinket.io](https://trinket.io){:target="_blank"}
+Tämä projekti voidaan suorittaa verkkoselaimella [trinket.io](https://trinket.io){:target="_ blank"} -verkkosivustoa

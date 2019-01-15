@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: About me
-description: Use the Python programming language to create pictures out of text
+title: 나에 대해서
+description: Python 프로그래밍 언어를 사용하여 문자열로 그림을 그려봅니다.
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
 technologies: python
@@ -18,20 +18,20 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: 들어가며
   - 
-    title: What you will need
+    title: 준비물
   - 
-    title: Saying hello
+    title: 안녕하세요, 라고 말해보기
   - 
-    title: "Challenge: what's on your mind?"
+    title: "도전과제: 어떤 생각을 하고 있나요?"
   - 
-    title: ASCII art
+    title: ASCII 아트
   - 
-    title: "Challenge: about yourself"
+    title: "도전과제: 자신에 대해"
   - 
-    title: The year 2025
+    title: 2025 년
   - 
-    title: "Challenge: your age in dog years"
+    title: "도전과제: 개 나이로 치면 몇살?"
   - 
-    title: "Challenge: calculating text"
+    title: "도전과제: 문자열 계산"

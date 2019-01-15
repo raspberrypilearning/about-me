@@ -1,33 +1,33 @@
-## Saying hello
+## Řekni ahoj
 
-Let's start by writing some text.
+Začni psaním nějakého textu.
 
-+ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Otevři prázdnou šablonu programu v Pythonu na Trinketu: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Type the following into the window that appears:
++ Do zobrazeného okna zadej následující:
     
     ![screenshot](images/me-hi.png)
     
-    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
+    Řádek `#!/Bin/python3` říká Trinketu, že chceš používat Python 3 (nejnovější verze).
 
-+ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
++ Klikni na **Run**(Spustit), a měl bys vidět, jak příkaz `print()` vytiskne vše mezi uvozovkami `''`.
     
     ![screenshot](images/me-hi-test.png)
 
-If you've made a mistake, you'll get an error message telling you what went wrong instead!
+Pokud uděláš chybu, zobrazí se chybové hlášení, které říká, co přesně se stalo!
 
-+ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
++ Zkus to! Odstraň uvozovky na konci ` ' ` nebo uzavírací závorku `) ` (nebo obojí) a uvidíš, co se stane.
     
     ![screenshot](images/me-syntax.png)
 
-+ Add the quote or bracket back in, and click **Run** to make sure your project works again.
++ Vráť zpět uvozovky nebo závorku a klikni na znovu **Run**. Tím se ujistíš, že program opět pracuje.
 
-**You don't need a Trinket account to save your projects!**
+**Pro ukládání projektů na Trinketu vlastní účet nepotřebuješ!**
 
-If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+Pokud účet na Trinketu nemáš, klikni na šipku dolů a pak na odkaz **Link**. Tím získáš odkaz, který si můžeš uložit a pozdeji se k němu vrátit. Musíš to udělat pokaždé, když provedeš změny, protože odkaz se v takovém okamžiku změní!
 
 ![screenshot](images/me-link.png)
 
-If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
+Pokud máš účet na Trinketu, můžeš kliknout na tlačítko **Remix** uložit si vlastní kopii skriptu.
 
 ![screenshot](images/me-remix.png)

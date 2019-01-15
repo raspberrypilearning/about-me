@@ -1,8 +1,8 @@
-## Introduction
+## Вступ
 
-In this project you will learn how to write a Python program telling people all about you.
+У цьому проекті ви дізнаєтеся, як написати програму Python, яка розповість людям про вас.
 
-### What you will make
+### Що ви будете робити
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a1f663ae0d?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -10,14 +10,14 @@ In this project you will learn how to write a Python program telling people all 
   <img src="images/me-final.png">
 </div>
 
-### What you will learn
+### Що ви дізнаєтесь
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Цей проект охоплює елементи з наступних напрямків навчальної програми [Raspberry Pi Digital Making](http://rpf.io/curriculum)(: target = "_ blank"):
 
-+ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [Використовуйте базові конструкторські програми для створення простих програм](https://www.raspberrypi.org/curriculum/programming/creator)(: target = "_ blank")
 
-### Additional information for educators
+### Додаткова інформація для вихователів
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/about-me/print){:target="_blank"}.
+Якщо вам потрібно надрукувати цей проект, скористайтеся [версія для друку](https://projects.raspberrypi.org/en/projects/about-me/print)(: target = "_ blank").
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Скористайтеся посиланням у нижньому колонтитулі, щоб отримати доступ до сховища GitHub для даного проекту, який містить усі ресурси (включаючи приклад готового проекту) в папці en / resources.

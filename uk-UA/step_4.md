@@ -1,9 +1,9 @@
-\--- challenge \---
+\--- завдання \---
 
-## Challenge: What's on your mind?
+## Виклик: що у вас на увазі?
 
-Change the code you just wrote to print something more interesting about you!
+Змініть код, який ви щойно написали, щоб надрукувати щось більш цікаве про вас!
 
-![screenshot](images/me-mind.png)
+![скріншот](images/me-mind.png)
 
-\--- /challenge \---
+\--- / виклик \---

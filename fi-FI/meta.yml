@@ -1,37 +1,37 @@
 ---
 hero_image: images/about-me.png
-theme: orange
+theme: oranssi
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: About me
-description: Use the Python programming language to create pictures out of text
+curriculum: 1, design-0, ohjelmointi-1, phys-comp-0, valmistus-0, yhteisö-0
+title: Minusta
+description: Python-ohjelmointikielellä voit luoda kuvia tekstistä
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
 technologies: python
-site_areas: projects
+site_areas: projektit
 hardware: ''
 software: python
 version: 3
-last_tested: 2017-01-01
+last_tested: 01.1.2017
 steps:
   - 
-    title: Introduction
+    title: Johdanto
   - 
-    title: What you will need
+    title: Mitä tarvitset
   - 
-    title: Saying hello
+    title: Tervehtiä
   - 
-    title: "Challenge: what's on your mind?"
+    title: "Haaste: mitä on mielessäsi?"
   - 
-    title: ASCII art
+    title: ASCII-taide
   - 
-    title: "Challenge: about yourself"
+    title: "Haaste: kerro itsestäsi"
   - 
-    title: The year 2025
+    title: Vuosi 2025
   - 
-    title: "Challenge: your age in dog years"
+    title: "Haaste: ikäsi koiran vuosissa"
   - 
-    title: "Challenge: calculating text"
+    title: "Haaste: tekstin laskeminen"

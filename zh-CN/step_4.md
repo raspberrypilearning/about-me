@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: What's on your mind?
+## 挑战：说出你的想法
 
-Change the code you just wrote to print something more interesting about you!
+编辑你刚刚完成的程序，添加更多有关你的个人信息吧！
 
-![screenshot](images/me-mind.png)
+![截图](images/me-mind.png)
 
 \--- /challenge \---

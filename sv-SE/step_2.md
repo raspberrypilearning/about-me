@@ -1,9 +1,9 @@
-## What you will need
+## Vad du kommer att behöva
 
-### Hardware
+### Maskinvara
 
-+ A computer capable of accessing the [trinket.io](https://trinket.io){:target="_blank"} website
++ En dator som kan komma åt [trinket.io](https://trinket.io){:target = "_ blank"} webbplatsen
 
-### Software
+### Programvara
 
-This project can be completed in a web browser using [trinket.io](https://trinket.io){:target="_blank"}
+Detta projekt kan slutföras i en webbläsare med [trinket.io](https://trinket.io){:target = "_ blank"}

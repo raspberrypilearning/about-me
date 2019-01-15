@@ -1,33 +1,33 @@
-## Saying hello
+## 问候
 
-Let's start by writing some text.
+让我们先从打字开始。
 
-+ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ 单击链接<a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>，打开空白的Python编码页面。
 
-+ Type the following into the window that appears:
++ 在窗口键入以下内容：
     
-    ![screenshot](images/me-hi.png)
+    ![截图](images/me-hi.png)
     
-    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
+    首行的`#!/bin/python3`只是为了告知Trinket我们使用的是最新版本的Python编程系统（Python 3）。
 
-+ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
++ 单击**运行** ，运行结果会显示` print()`命令中打印引号`''` 之间的所有内容。
     
-    ![screenshot](images/me-hi-test.png)
+    ![截图](images/me-hi-test.png)
 
-If you've made a mistake, you'll get an error message telling you what went wrong instead!
+如编程出现错误，屏幕上会显示错误信息，告诉你到底出了什么问题！
 
-+ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
++ 试一下 删除后引号`‘`或者闭括号`)`（或者两者一起删除），运行程序，看看会发生什么。
     
-    ![screenshot](images/me-syntax.png)
+    ![截图](images/me-syntax.png)
 
-+ Add the quote or bracket back in, and click **Run** to make sure your project works again.
++ 重新添加引号或括号，然后单击**运行**，确保项目能够再次运作。
 
-**You don't need a Trinket account to save your projects!**
+**您不必注册Trinket帐户来保存项目！**
 
-If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+如果您没有Trinket帐户，请单击向下箭头，然后单击**链接** 。 页面会显示此项目的链接。你可以先保存，并在稍后继续编辑你的项目。 每次进行项目编辑都会导致链接的更改，因此不要忘记更新保存的链接！
 
-![screenshot](images/me-link.png)
+![截图](images/me-link.png)
 
-If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
+如果您注册了Trinket帐户，可以单击** Remix **保存自己的编程文件副本。
 
-![screenshot](images/me-remix.png)
+![截图](images/me-remix.png)

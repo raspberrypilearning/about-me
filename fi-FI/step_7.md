@@ -1,35 +1,35 @@
-## The year 2025
+## Vuosi 2025
 
-You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
+Voit myös tehdä laskutoimituksia ja tulostaa numeroita. Selvitetään, kuinka vanha olet vuonna 2025!
 
-+ To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
++ Jotta voit laskea, kuinka vanha olet vuonna 2025, sinun on vähennettävä syntymävuotesi luvusta 2025.
     
-    Add this code to your program:
+    Lisää tämä koodi ohjelmaasi:
     
-    ![screenshot](images/me-calc.png)
+    ![kuvakaappaus](images/me-calc.png)
     
-    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
+    Huomaa, että et tarvitse lainausmerkkejä numeroiden ympärille. (Sinun on muutettava numero `2006` jos olet syntynyt eri vuonna.)
 
-+ Click **Run**, and your program should print your age in the year 2025.
++ Napsauta **Suorita**, ja ohjelman pitäisi tulostaa ikäsi vuonna 2025.
     
-    ![screenshot](images/me-calc-run.png)
+    ![kuvakaappaus](images/me-calc-run.png)
 
-+ You could improve your program by using `input()` to ask the user their age and store it in a **variable** called `born`.
++ Voit parantaa ohjelmasi käyttämällä `syöttöä ()` pyytämään käyttäjältä hänen ikänsä ja tallentamaan sen **muuttujaan** nimeltä `syntynyt`.
     
-    ![screenshot](images/me-input.png)
+    ![kuvakaappaus](images/me-input.png)
 
-+ Run your program and then enter the year you were born. Did you get another error message?
++ Suorita ohjelma ja kirjoita sitten syntymävuotesi. Saitko toisen virheilmoituksen?
     
-    That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
+    Tämä johtuu siitä, että mikä tahansa ohjelmalle kirjoitettu on **tekstiä** ja se on muutettava **numeroksi**.
     
-    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
+    Voit käyttää `int()` muuttaakses tekstin **kokonaisluvuksi**. Kokonaisluku on luku ilman desimaaleja.
     
-    ![screenshot](images/me-input-test.png)
+    ![kuvakaappaus](images/me-input-test.png)
 
-+ You can also create another variable to store your calculation, and print that instead.
++ Voit myös luoda uuden muuttujan tallentaaksesi laskutoimituksesi tuloksen ja tulostaa sen.
     
-    ![screenshot](images/me-result-variable.png)
+    ![kuvakaappaus](images/me-result-variable.png)
 
-+ Finally, you can make your program easier to understand by adding a helpful message.
++ Voit myös helpottaa ohjelman ymmärtämistä lisäämällä hyödyllisen viestin.
     
-    ![screenshot](images/me-message.png)
+    ![kuvakaappaus](images/me-message.png)

@@ -1,33 +1,33 @@
-## Saying hello
+## 안녕하세요, 라고 말해보기
 
-Let's start by writing some text.
+먼저 글자를 쓰는것으로 시작 해 봅시다.
 
-+ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ 빈 파이썬 템플릿을 엽니다. <a href="http://jumpto.cc/python-new" target="_blank"> jumpto.cc/python-new </a>
 
-+ Type the following into the window that appears:
++ 나타나는 창에 다음을 입력 해 보세요.
     
-    ![screenshot](images/me-hi.png)
+    ![스크린샷](images/me-hi.png)
     
-    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
+    `#!/bin/python3` 이라고 쓰여진 줄은 우리가 Python 3 (최신 버전) 을 사용하고 있다고 Trinket에게 알려줍니다.
 
-+ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
++ **실행**을 클릭하면, `print()`명령이 따옴표`''`사이의 모든 것을 출력하는 것을 볼 수 있습니다.
     
-    ![screenshot](images/me-hi-test.png)
+    ![스크린샷](images/me-hi-test.png)
 
-If you've made a mistake, you'll get an error message telling you what went wrong instead!
+만약 실수를 했다면, 무엇이 잘못되었는지 알려주는 에러 메세지를 볼 수 있습니다.
 
-+ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
++ 한번 시도해 보세요! 닫히는 쪽의 따옴표 `'` 를 삭제하거나 닫는 괄호 `)` (또는 둘 다) 를 삭제하고 무슨 일이 일어나는 지 보세요.
     
-    ![screenshot](images/me-syntax.png)
+    ![스크린샷](images/me-syntax.png)
 
-+ Add the quote or bracket back in, and click **Run** to make sure your project works again.
++ 지웠던 따옴표나 괄호를 다시 써 주시고, **실행**을 클릭해서 당신의 프로젝트가 다시 작동하는지 확인 해 보세요.
 
-**You don't need a Trinket account to save your projects!**
+**프로젝트를 저장하기 위해 Trinket 계정이 필요하지 않습니다!**
 
-If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+Trinket 계정이 없다면 아래쪽 화살표를 클릭 한 다음 **링크**를 클릭하십시오. 그러면 프로젝트를 저장 후 나중에 다시 볼 수 있는 링크가 제공됩니다. 변경사항이 생길 때 마다 링크를 클릭해서 새로운 링크를 만들 수 있습니다.
 
-![screenshot](images/me-link.png)
+![스크린샷](images/me-link.png)
 
-If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
+Trinket 계정이 있다면, **Remix**를 클릭해서 복사본을 Trinket에 저장할 수 있습니다.
 
-![screenshot](images/me-remix.png)
+![스크린샷](images/me-remix.png)

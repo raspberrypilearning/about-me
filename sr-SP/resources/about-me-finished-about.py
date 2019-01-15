@@ -1,14 +1,14 @@
 #!/bin/python3
 
-print('Hi, I can code in Python!')
+print('Zdravo, ja programiram u Python-u!')
 
 print('''
-My favourite animals are sheep
+Moje omiljene zivotinje su ovce
 
  o-###-
    | |   #
 
-I live in Glasgow
+Zivim u Novom Sadu
 
    _|_
   |   |
@@ -19,7 +19,7 @@ I live in Glasgow
 
 ''')
 
-born = input('What year were you born?')
-born = int(born)
-age = 2025 - born
-print('In the year 2025 you\'ll be', age, 'years old!')
+rodjen = input('Koje si godine rodjen/a?')
+rodjen= int(rodjen)
+godine= 2025 - rodjen
+print('2025. godine ces imati', godine, 'godina!')

@@ -1,15 +1,15 @@
-\--- challenge \---
+\---挑戰\---
 
-## Challenge: calculating text
+## 挑戰：計算文字
 
-Did you know that you can also calculate text?!
+你知道嗎，你也可以計算文字？！
 
-What will the following program print to the screen? See if you can guess it correctly before running the program.
+以下程序將在屏幕上打印什麼？ 在運行程序之前，看看你能否正確猜測它。
 
-![screenshot](images/me-text-calc.png)
+![截圖](images/me-text-calc.png)
 
-Can you make up any words of your own? You could even make your own patterns!
+你可以編寫你自己的任何文字嗎？ 你甚至可以製作自己的圖案！
 
-![screenshot](images/me-patterns.png)
+![截圖](images/me-patterns.png)
 
-\--- /challenge \---
+\--- /挑戰\---

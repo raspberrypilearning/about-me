@@ -8,15 +8,15 @@ Haideți să tipărim ceva mai distractiv decât text: artă ASCII! Arta ASCII (
 
 Picioarele câinelui sunt realizate folosind caracterul bară verticală `|` pe care îl puteți tasta apăsând <kbd>Shift + \ </kbd> de pe majoritatea tastaturilor.
 
-+ If you click **Run**, you'll see that there's a bug in your new code.
++ Dacă dați click pe **Run**, veți vedea că există o eroare în codul vostru.
     
     ![captură de ecran](images/me-dog-bug.png)
     
-    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
+    Asta pentru că textul tău conține caracterul `'`, pe care Python îl interpretează ca fiind sfarșitul textului!
     
     ![captură de ecran](images/me-dog-quote.png)
 
-+ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
++ Pentru a repara greșeala, puneți caracterul `` înainte de apostrof, în interiorul cuvântului`here's`. Acest lucru îi spune lui Python că apostroful face parte din text.
     
     ![captură de ecran](images/me-dog-bug-fix.png)
 

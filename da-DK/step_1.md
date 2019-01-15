@@ -1,8 +1,8 @@
 ## Introduction
 
-In this project you will learn how to write a Python program telling people all about you.
+I dette projekt lærer du, hvordan du skriver et Python-program, der fortæller folk alt om dig.
 
-### What you will make
+### Hvad du vil lave
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a1f663ae0d?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -10,14 +10,14 @@ In this project you will learn how to write a Python program telling people all 
   <img src="images/me-final.png">
 </div>
 
-### What you will learn
+### Hvad du vil lære
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-### Additional information for educators
+### Yderligere oplysninger til undervisere
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/about-me/print){:target="_blank"}.
+Hvis du har brug for at udskrive dette projekt, skal du bruge den [ printervenlige version ](https://projects.raspberrypi.org/en/projects/about-me/print) {: Target = "_ blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Brug linket i fonteren for at få adgang til GitHub-depotet for dette projekt, som indeholder alle ressourcer (inklusive et eksempel på et færdigt projekt) i mappen 'en / ressourcer'.

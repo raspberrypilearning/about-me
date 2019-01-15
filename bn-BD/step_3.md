@@ -1,14 +1,14 @@
-## Saying hello
+## হ্যালো বল
 
-Let's start by writing some text.
+কিছু টেক্সট লিখে শুরু করা যাক।
 
-+ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ <a href="http://jumpto.cc/python-new" target="_blank"> jumpto.cc/python-new </a> এই লিংক ব্যাবহার করে একটি ব্লাঙ্ক পাইথন টেমপ্লেট খুলুন।
 
-+ Type the following into the window that appears:
++ প্রদর্শিত উইন্ডোতে নিম্নলিখিত কোড টাইপ করুন:
     
     ![screenshot](images/me-hi.png)
     
-    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
+    `#!/bin/python3` এই লাইন দ্বারা Trinket কে বলা হচ্ছে যে আমরা Python 3 (সর্বশেষ ভার্শন) ব্যাবহার করছি।
 
 + Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
     

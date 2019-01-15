@@ -1,11 +1,11 @@
-\--- challenge \---
+\--- సవాలు \---
 
-## Challenge: your age in dog years
+## ఛాలెంజ్: కుక్క సంవత్సరాలలో మీ వయస్సు
 
-Write a program to ask the user their age, and then tell them their age in dog years! You can calculate a person’s age in dog years by multiplying their age by 7.
+వినియోగదారుని వయస్సును అడగడానికి ప్రోగ్రామ్ను వ్రాసి, కుక్క వయస్సులో వారి వయస్సు వారికి తెలియజేయండి! మీరు 7 సంవత్సరాల వయస్సుని గుణించడం ద్వారా కుక్కల వయస్సులో ఒక వ్యక్తి వయస్సును లెక్కించవచ్చు.
 
-![screenshot](images/me-dog-years.png)
+![స్క్రీన్](images/me-dog-years.png)
 
-In programming, the symbol for **multiplication** is the `*` character, which you can usually type by pressing <kbd>Shift + 8</kbd> on the keyboard.
+కార్యక్రమంలో, **గుణకారం** కోసం గుర్తు `*` అక్షరం, ఇది మీరు సాధారణంగా కీబోర్డ్ మీద <kbd>Shift + 8</kbd> ను నొక్కడం ద్వారా టైప్ చేయవచ్చు.
 
-\--- /challenge \---
+\--- / సవాలు \---

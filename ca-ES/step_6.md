@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: about yourself
+## Repte: Sobre mi
 
-Write a Python program to tell others about yourself using text and ASCII art. You can create images of your hobbies, friends, or anything you like!
+Escriu un programa amb Python per parlar sobre tu utilitzant text is art ASCII. Pots crear imatges de les teves aficions, amics, o qualsevol cosa que t'agradi!
 
-**Remember that the code you write in Trinket is public. Don't share any personal information like your full name or address!**
+**Recorda que el codi que escrius a Trinket és públic. No comparteixis cap informació personal com ara el teu nom complet o addreça!**
 
-Here’s an example:
+Aquí tens un exemple:
 
 ![screenshot](images/me-about.png)
 

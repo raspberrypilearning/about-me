@@ -1,13 +1,13 @@
-\--- challenge \---
+\---挑戰\---
 
-## Challenge: about yourself
+## 挑戰：關於你自己
 
-Write a Python program to tell others about yourself using text and ASCII art. You can create images of your hobbies, friends, or anything you like!
+編寫一個Python程序，使用文本和ASCII藝術來告訴其他人。 你可以創建你的愛好，朋友或任何你喜歡的圖片！
 
-**Remember that the code you write in Trinket is public. Don't share any personal information like your full name or address!**
+**請記住，您在Trinket中編寫的代碼是公開的。 不要分享您的全名或地址等個人信息！**
 
-Here’s an example:
+這是一個例子：
 
-![screenshot](images/me-about.png)
+![截圖](images/me-about.png)
 
-\--- /challenge \---
+\--- /挑戰\---

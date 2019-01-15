@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: What's on your mind?
+## Repte: Què tens en ment?
 
-Change the code you just wrote to print something more interesting about you!
+Canvia el codi que acabes d'escriure per imprimir més coses interessants sobre tu!
 
 ![screenshot](images/me-mind.png)
 

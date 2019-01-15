@@ -1,9 +1,9 @@
-\--- challenge \---
+\--- thử thách \---
 
-## Challenge: What's on your mind?
+## Thử thách: Bạn đang nghĩ gì?
 
-Change the code you just wrote to print something more interesting about you!
+Thay đổi code bạn vừa viết để in điều gì đó thú vị hơn về bạn!
 
-![screenshot](images/me-mind.png)
+![ảnh chụp màn hình](images/me-mind.png)
 
-\--- /challenge \---
+\--- /thử thách \---

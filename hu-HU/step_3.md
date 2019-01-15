@@ -1,33 +1,33 @@
-## Saying hello
+## Köszönni
 
-Let's start by writing some text.
+Kezdjük azzal, hogy néhány szöveget írunk.
 
-+ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Nyissa meg az üres Python sablon cédulát: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Type the following into the window that appears:
++ Írd be a következőt a megjelenő ablakba:
     
-    ![screenshot](images/me-hi.png)
+    ![képernyőkép](images/me-hi.png)
     
-    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
+    A `#! / Bin / python3` csak azt mondja a Trinketnek, hogy a Python 3-at (a legújabb verzió) használjuk.
 
-+ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
++ Kattints a ****futtatásra, és látni fogod, hogy a `print ()` parancs mindent kinyomtat az `''` aposztrófok között.
     
-    ![screenshot](images/me-hi-test.png)
+    ![képernyőkép](images/me-hi-test.png)
 
-If you've made a mistake, you'll get an error message telling you what went wrong instead!
+Ha hibáztál, egy hibaüzenet jelenik meg, amely megmondja, mit rontottál el!
 
-+ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
++ Próbáld ki! Töröld ki az aposztrófot `'` vagy a zárójelet `)` (vagy mindkettőt), és nézd meg, mi történik.
     
-    ![screenshot](images/me-syntax.png)
+    ![képernyőkép](images/me-syntax.png)
 
-+ Add the quote or bracket back in, and click **Run** to make sure your project works again.
++ Add hozzá aposztrófot vagy zárójelet, és kattints a **** Futtatásra, hogy meggyőződj arról, hogy a projekt újra működik.
 
-**You don't need a Trinket account to save your projects!**
+**Nem kell Trinket fiók, hogy elmentsd a projekteket!**
 
-If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+Ha nincs Trinket-fiókod, kattints a lefelé mutató nyílra, majd kattints a **Link**-re. Ez egy olyan linket ad, amelyet elmenthetsz és később visszatérhetsz. Ezt mindig meg kell tenned ha változtatsz, mert a link is változni fog!
 
-![screenshot](images/me-link.png)
+![képernyőkép](images/me-link.png)
 
-If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
+Ha van Trinket-fiókod, akkor kattints a **Remix**-re, hogy elmentsd a Trinketed.
 
-![screenshot](images/me-remix.png)
+![képernyőkép](images/me-remix.png)

@@ -1,22 +1,22 @@
-## ASCII art
+## ASCII-kunst
 
-Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
+Laten we iets leukers printen dan alleen tekst: ASCII-kunst! ASCII-kunst (uitgesproken als '* ask-ie * ') is het maken van ** afbeeldingen van tekst **.
 
-+ Let's add some art to your program — a picture of a dog!
++ Voeg wat kunst toe aan je programma - een afbeelding van een hond!
     
     ![screenshot](images/me-dog.png)
 
-The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
+De poten van de hond zijn gemaakt met behulp van het sluisteken ` | ` (Engels: pipe) die je kunt typen door op <kbd> Shift + \</kbd> te drukken.
 
-+ If you click **Run**, you'll see that there's a bug in your new code.
++ Als je op ** Run **klikt zul je zien dat er een fout in je nieuwe code zit.
     
     ![screenshot](images/me-dog-bug.png)
     
-    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
+    Dat komt omdat er in de tekst een apostrof ` ' ` zit, waardoor Python denkt dat dit het einde van de tekst is!
     
     ![screenshot](images/me-dog-quote.png)
 
-+ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
++ Om dit te herstellen zet je een schuine streep ` \ ` voor de apostrof die voor de letter ` t ` staat. Dit vertelt Python dat de apostrof deel uitmaakt van de tekst.
     
     ![screenshot](images/me-dog-bug-fix.png)
 

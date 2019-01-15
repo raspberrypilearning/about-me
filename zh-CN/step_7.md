@@ -1,35 +1,35 @@
-## The year 2025
+## 在2025这一年...
 
-You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
+您还可以进行计算或输入数字。 让我们来算算你在2025年会是几岁吧！
 
-+ To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
++ 要算出你在2025年的岁数，你得用2025减去你的出生年份。
     
-    Add this code to your program:
+    将此代码添加到程序中：
     
-    ![screenshot](images/me-calc.png)
+    ![截图](images/me-calc.png)
     
-    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
+    请注意不需要在数字周围加上引号。 如果你并非出生于`2006`年，请将这个数字改成你对应的出生年份。
 
-+ Click **Run**, and your program should print your age in the year 2025.
++ 单击**运行**，程序会自动显示你在2025年的相应岁数。
     
-    ![screenshot](images/me-calc-run.png)
+    ![截图](images/me-calc-run.png)
 
-+ You could improve your program by using `input()` to ask the user their age and store it in a **variable** called `born`.
++ 使用`input()`改进程序，询问用户的出生年份并储存在变量`born`里。
     
-    ![screenshot](images/me-input.png)
+    ![截图](images/me-input.png)
 
-+ Run your program and then enter the year you were born. Did you get another error message?
++ 运行程序，输入你的出生年份。 Did you get another error message?
     
-    That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
+    因为你在程序中输入的任何内容都是**文本**，你需要把出生年份改成**数字**。
     
-    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
+    你可以用`int()`命令将文本转化为**整数**。 整数是指一个完整、没有小数点部分的数字。
     
-    ![screenshot](images/me-input-test.png)
+    ![截图](images/me-input-test.png)
 
-+ You can also create another variable to store your calculation, and print that instead.
++ 你可以创建另一个变量来存储并输出计算结果。
     
-    ![screenshot](images/me-result-variable.png)
+    ![截图](images/me-result-variable.png)
 
-+ Finally, you can make your program easier to understand by adding a helpful message.
++ 最后，您可以通过添加信息，帮助您的程序更加便于理解。
     
-    ![screenshot](images/me-message.png)
+    ![截图](images/me-message.png)

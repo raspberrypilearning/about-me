@@ -1,35 +1,35 @@
-## The year 2025
+## 2025 рік
 
-You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
+Ви також можете робити розрахунки та роздруковувати номери. Давайте дізнаємося, скільки років вам буде в 2025 році!
 
-+ To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
++ Щоб підрахувати, скільки років ви будете мати в 2025 році, вам потрібно відняти рік, коли ви народилися від 2025.
     
-    Add this code to your program:
+    Додайте цей код до своєї програми:
     
-    ![screenshot](images/me-calc.png)
+    ![знімок екрану](images/me-calc.png)
     
-    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
+    Зверніть увагу, що вам не потрібно вводити лапки навколо цифр. (Вам потрібно буде змінити номер `2006` , якщо ви народилися в інший рік.)
 
-+ Click **Run**, and your program should print your age in the year 2025.
++ Натисніть **Запустити**, і ваша програма має показати ваш вік у 2025 році.
     
-    ![screenshot](images/me-calc-run.png)
+    ![знімок екрану](images/me-calc-run.png)
 
-+ You could improve your program by using `input()` to ask the user their age and store it in a **variable** called `born`.
++ Ви можете покращити свою програму, використовуючи `input ()`, щоб взнати вік користувача та зберегти його в **змінній** називається `born`.
     
-    ![screenshot](images/me-input.png)
+    ![знімок екрану](images/me-input.png)
 
-+ Run your program and then enter the year you were born. Did you get another error message?
++ Запустіть свою програму, а потім введіть рік народження. Did you get another error message?
     
-    That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
+    Це тому, що щось набране вашою програмою, є **текст**, і його потрібно перетворити на **число**.
     
-    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
+    Ви можете використовувати `int ()` , щоб перетворити текст у **ціле число**. Ціле число.
     
-    ![screenshot](images/me-input-test.png)
+    ![знімок екрану](images/me-input-test.png)
 
-+ You can also create another variable to store your calculation, and print that instead.
++ Ви також можете створити ще одну змінну, щоб зберегти свій розрахунок, а потім надрукувати його.
     
-    ![screenshot](images/me-result-variable.png)
+    ![знімок екрану](images/me-result-variable.png)
 
-+ Finally, you can make your program easier to understand by adding a helpful message.
++ Нарешті, ви можете зробити свою програму більш зрозумілою, додавши корисне повідомлення.
     
-    ![screenshot](images/me-message.png)
+    ![знімок екрану](images/me-message.png)

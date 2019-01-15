@@ -1,14 +1,14 @@
 #!/bin/python3
 
-print('Hi, I can code in Python!')
+print('안녕, 난 파이썬으로 코딩할 수 있어!')
 
 print('''
-My favourite animals are sheep
+내가 가장 좋아하는 동물은 양이야.
 
  o-###-
    | |   #
 
-I live in Glasgow
+난 글래스고에 살고 있어.
 
    _|_
   |   |
@@ -19,7 +19,7 @@ I live in Glasgow
 
 ''')
 
-born = input('What year were you born?')
+born = input('어느 해에 태어났니?')
 born = int(born)
 age = 2025 - born
-print('In the year 2025 you\'ll be', age, 'years old!')
+print('2025년에\'너는', age, '살일거야!')

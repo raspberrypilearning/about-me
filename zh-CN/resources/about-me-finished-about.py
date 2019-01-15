@@ -1,25 +1,25 @@
 #!/bin/python3
 
-print('Hi, I can code in Python!')
+print('嗨，我可以用Python编写代码啦！')
 
 print('''
-My favourite animals are sheep
+我最喜欢的动物是绵羊
 
  o-###-
    | |   #
 
-I live in Glasgow
+我住在格拉斯哥
 
    _|_
   |   |
-  |#  |____
-  |   |    |
-  |  #|  # |
+  |# |____
+  | | |
+  | #| # |
  _|___|_#__|_
 
 ''')
 
-born = input('What year were you born?')
+born = input('你是哪一年出生的？')
 born = int(born)
 age = 2025 - born
-print('In the year 2025 you\'ll be', age, 'years old!')
+print('在2025年你将年满', age, '了！')

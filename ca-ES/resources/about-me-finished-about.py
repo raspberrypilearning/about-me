@@ -1,25 +1,25 @@
 #!/bin/python3
 
-print('Hi, I can code in Python!')
+print('Hola, puc programa amb Python!')
 
 print('''
-My favourite animals are sheep
+Els meus animals preferits són les ovelles
 
  o-###-
    | |   #
 
-I live in Glasgow
+Visc a Barcelona
 
    _|_
-  |   |
-  |#  |____
-  |   |    |
-  |  #|  # |
+  | |
+  |# |____
+  | | |
+  | #| # |
  _|___|_#__|_
 
 ''')
 
-born = input('What year were you born?')
-born = int(born)
-age = 2025 - born
-print('In the year 2025 you\'ll be', age, 'years old!')
+nascut = input('Quin any vas néixer?')
+nascut = int(nascut)
+edat = 2025 - nascut
+print('L'any 2025 tindràs', edat, 'anys!')

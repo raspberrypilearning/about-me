@@ -1,37 +1,37 @@
 ---
-hero_image: images/about-me.png
-theme: orange
+hero_image: చిత్రాలు / గురించి-me.png
+theme: నారింజ
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: About me
-description: Use the Python programming language to create pictures out of text
+curriculum: 1, డిజైన్ -0, ప్రోగ్రామింగ్ -1, ఫిజిక్స్- comp-0, తయారీ-0, కమ్యూనిటీ 0
+title: నా గురించి
+description: వచనం యొక్క చిత్రాలను రూపొందించడానికి పైథాన్ ప్రోగ్రామింగ్ లాంగ్వేజ్ ఉపయోగించండి
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
-technologies: python
-site_areas: projects
+technologies: పైథాన్
+site_areas: ప్రాజెక్టులు
 hardware: ''
-software: python
+software: పైథాన్
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: పరిచయం
   - 
-    title: What you will need
+    title: మీరు అవసరం ఏమిటి
   - 
-    title: Saying hello
+    title: హలో చెప్పడం
   - 
-    title: "Challenge: what's on your mind?"
+    title: "ఛాలెంజ్: మీ మనసులో ఏముంది?"
   - 
-    title: ASCII art
+    title: ASCII కళ
   - 
-    title: "Challenge: about yourself"
+    title: "ఛాలెంజ్: మీ గురించి"
   - 
-    title: The year 2025
+    title: సంవత్సరం 2025
   - 
-    title: "Challenge: your age in dog years"
+    title: "ఛాలెంజ్: కుక్క సంవత్సరాలలో మీ వయస్సు"
   - 
-    title: "Challenge: calculating text"
+    title: "ఛాలెంజ్: టెక్స్ట్ లెక్కిస్తోంది"

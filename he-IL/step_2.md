@@ -1,9 +1,9 @@
-## What you will need
+## מה נדרש
 
-### Hardware
+### חומרה
 
-+ A computer capable of accessing the [trinket.io](https://trinket.io){:target="_blank"} website
++ מחשב המסוגל לגשת אל [ trinket.io ](https://trinket.io)
 
-### Software
+### תוכנה
 
-This project can be completed in a web browser using [trinket.io](https://trinket.io){:target="_blank"}
+פרויקט זה ניתן להשלמה בדפדפן האינטרנט באמצעות [ trinket.io ](https://trinket.io)

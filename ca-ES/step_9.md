@@ -1,14 +1,14 @@
 \--- challenge \---
 
-## Challenge: calculating text
+## Repte: calcular text
 
-Did you know that you can also calculate text?!
+Sabies que també pots calcular text?!
 
-What will the following program print to the screen? See if you can guess it correctly before running the program.
+Què imprimirà a la pantalla el següent programa? Intenta deduir-ho correctament abans d'executar el programa.
 
 ![screenshot](images/me-text-calc.png)
 
-Can you make up any words of your own? You could even make your own patterns!
+Pots inventarte paraule noves? Fins i tot pots crear els teus propis patrons!
 
 ![screenshot](images/me-patterns.png)
 

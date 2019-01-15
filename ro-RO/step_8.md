@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: your age in dog years
+## Provocare: vârsta ta relativ la vârsta câinelui
 
 Scrieți un program pentru a întreba vârsta utilizatorului și apoi afișați vârsta lui convertită în anii câinilor! Puteți calcula vârsta unei persoane în anii câinilor prin înmulțirea vârstei cu 7 ani.
 

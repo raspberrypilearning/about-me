@@ -14,15 +14,15 @@ De asemenea, puteți face anumite calcule și afișa numere pe ecran. Haideți s
     
     ![captură de ecran](images/me-calc-run.png)
 
-+ You could improve your program by using `input()` to ask the user their age and store it in a **variable** called `born`.
++ Puteți îmbunătăți programul folosind `input()` care va întreba vârsta utilizatorului și o va stoca în **variable** numită `born`.
     
     ![captură de ecran](images/me-input.png)
 
 + Rulați programul și apoi introduceți anul în care v-ați născut. Ați primit alt mesaj de eroare?
     
-    That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
+    Asta, pentru că, orice tipăriți în program este de tipul **text**, și va trebui convertit intr-un **number**.
     
-    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
+    Puteți folosi `int()` pentru a converti un text intr-un **integer**. Un întreg este un număr întreg.
     
     ![captură de ecran](images/me-input-test.png)
 

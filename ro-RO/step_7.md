@@ -20,9 +20,9 @@ De asemenea, puteți face anumite calcule și afișa numere pe ecran. Haideți s
 
 + Rulați programul și apoi introduceți anul în care v-ați născut. Ați primit alt mesaj de eroare?
     
-    Asta, pentru că, orice tipăriți în program este de tipul **text**, și va trebui convertit intr-un **number**.
+    Asta, pentru că, orice tipăriți în program este de tipul **text**, și va trebui convertit într-un **număr**.
     
-    Puteți folosi `int()` pentru a converti un text intr-un **integer**. Un întreg este un număr întreg.
+    Puteți folosi `int()` pentru a converti un text într-un **integer**. Un integer este un număr întreg.
     
     ![captură de ecran](images/me-input-test.png)
 

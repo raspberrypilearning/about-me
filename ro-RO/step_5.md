@@ -12,7 +12,7 @@ Picioarele câinelui sunt realizate folosind caracterul bară verticală `|` pe 
     
     ![captură de ecran](images/me-dog-bug.png)
     
-    Asta pentru că textul tău conține caracterul `'`, pe care Python îl interpretează ca fiind sfarșitul textului!
+    Asta pentru că textul vostru conține caracterul `'`, pe care Python îl interpretează ca fiind sfârșitul textului!
     
     ![captură de ecran](images/me-dog-quote.png)
 

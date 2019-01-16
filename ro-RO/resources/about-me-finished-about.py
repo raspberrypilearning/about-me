@@ -11,10 +11,10 @@ Animalele mele preferate sunt oile
 Locuiesc în Glasgow
 
    _|_
-  | |
+  |   |
   |#  |____
-  | | |
-  | #| # |
+  |   |    |
+  |  #|  # |
  _|___|_#__|_
 
 ''')

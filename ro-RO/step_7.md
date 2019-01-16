@@ -14,7 +14,7 @@ De asemenea, puteți face anumite calcule și afișa numere pe ecran. Haideți s
     
     ![captură de ecran](images/me-calc-run.png)
 
-+ Puteți îmbunătăți programul folosind `input()` care va întreba vârsta utilizatorului și o va stoca în **variable** numită `born`.
++ Puteți îmbunătăți programul folosind `input()` pentru a întreba utilizatorul în ce an s-a născut; apoi puteți stoca informația într-o **variabilă** numită `anulNasterii`.
     
     ![captură de ecran](images/me-input.png)
 

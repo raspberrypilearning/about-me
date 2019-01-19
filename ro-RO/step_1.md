@@ -20,4 +20,4 @@ Acest proiect acoperă elemente din următoarele componente ale curriculum-ului 
 
 Dacă doriți să printați acest proiect, folosiți[versiunea printabilă](https://projects.raspberrypi.org/en/projects/about-me/print){:target="_blank"}.
 
-Utilizați link-ul din subsolul paginii pentru a accesa referința GitHub pentru acest proiect, care conține toate resursele (inclusiv un exemplu de proiect finalizat) în directorul ‘en / resources’.
+Utilizați link-ul din subsolul paginii pentru a accesa referința GitHub pentru acest proiect, care conține toate resursele (inclusiv un exemplu de proiect finalizat) în directorul ‘ro-RO/resources’.

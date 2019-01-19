@@ -1,4 +1,4 @@
-## Cum să spui salut
+## Cum să saluți
 
 Să începem prin scrierea unui text.
 

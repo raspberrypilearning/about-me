@@ -1,10 +1,10 @@
-## Говорячи привіт
+## Скажіть привіт
 
-Почнемо з написання деякого тексту.
+Почнемо з написання тексту.
 
-+ Відкрийте бланк шаблону Python: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Відкрийте пустий Python шаблон у Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Введіть наступне у вікно, яке з'явиться:
++ У вікні, яке з'явиться, введіть наступне:
     
     ![скріншот](images/me-hi.png)
     

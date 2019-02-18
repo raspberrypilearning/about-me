@@ -20,6 +20,6 @@
     
     ![знімок екрану](images/me-dog-bug-fix.png)
 
-+ If you prefer, you can use three apostrophes `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
++ За бажанням можна використовувати потрійні лапки `'''` замість одних, що дозволяє друкувати декілька рядків тексту за допомогою однієї команди `print`:
     
     ![знімок екрану](images/me-dog-triple-quote.png)

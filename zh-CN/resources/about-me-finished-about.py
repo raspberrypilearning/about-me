@@ -22,4 +22,4 @@ print('''
 born = input('你是哪一年出生的？')
 born = int(born)
 age = 2025 - born
-print('在2025年你将年满', age, '了！')
+print('在2025年你将年满', age, '岁了！')

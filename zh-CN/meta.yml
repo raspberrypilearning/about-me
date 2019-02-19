@@ -5,13 +5,13 @@ duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: creator, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: 关于本人
-description: 利用 Python 编程语言，用文本创建图片
-original_url: https://codeclubprojects.org/en-GB/python/about-me
+description: 用Python编程语言创建字符图片
+original_url: https://codeclubprojects.org/zh-CN/python/about-me
 interests: ''
 technologies: python
-site_areas: codeclub, python
+site_areas: 项目
 hardware: ''
 software: python
 version: 3
@@ -20,18 +20,18 @@ steps:
   - 
     title: 介绍
   - 
-    title: 你将需要什么
+    title: 你需要哪些准备
   - 
-    title: 说你好
+    title: 打个招呼吧
   - 
-    title: "“挑战：你在想什么?”"
+    title: "挑战: 你在想什么?"
   - 
-    title: ASCII 艺术
+    title: ASCII字符画
   - 
-    title: "“挑战：关于你自己”"
+    title: "挑战: 关于你自己"
   - 
-    title: 2025 年
+    title: 2025年
   - 
-    title: "“挑战：狗年你多大了”"
+    title: "挑战：把你的年龄转换为狗龄"
   - 
     title: "“挑战：计算文本”"

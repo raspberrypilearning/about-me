@@ -8,7 +8,7 @@
 
 A kutya lábát a `|` cső karakterrel készítjük, amelyet a <kbd>Shift + \ </kbd> gombok megnyomásával írhatunk be a legtöbb UK/US angol billentyűzeten vagy a <1>AltGr + w </1> gombok megnyomásával a magyar billentyűzeten.
 
-+ Ha a ****futtatásra kattint, látni fogja, hogy van egy hiba az új kódban.
++ Ha a **Run** parancsra kattintasz, látni fogod, hogy van egy hiba az új kódodban.
     
     ![képernyőkép](images/me-dog-bug.png)
     

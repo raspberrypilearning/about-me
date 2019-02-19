@@ -18,6 +18,6 @@ Ez a projekt a [Raspberry Pi Digitális Alkotás Tanterv](http://rpf.io/curricul
 
 ### További információk oktatóknak
 
-Ha ki szeretnéd nyomtatni ezt a projektet, kérjük, használd a [nyomtatóbarát verzió](https://projects.raspberrypi.org/en/projects/about-me/print) -t {: target = "_ blank"}.
+Ha ki szeretnéd nyomtatni ezt a projektet, kérjük, használd a [nyomtatóbarát verzió](https://projects.raspberrypi.org/en/projects/about-me/print) -t {:target="_ blank"}.
 
 Használd a láblécben lévő linket az ehhez a projekthez tartozó GitHub tárhely eléréséhez, amely az 'en/resources' mappában az összes segédanyagot (beleértve egy befejezett mintaprojektet is) tartalmazza.

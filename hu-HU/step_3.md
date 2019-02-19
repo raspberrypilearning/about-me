@@ -20,14 +20,14 @@ Ha hibáztál, egy hibaüzenet jelenik meg, ami megmondja, mit rontottál el!
     
     ![képernyőkép](images/me-syntax.png)
 
-+ Add hozzá aposztrófot vagy zárójelet, és kattints a **** Futtatásra, hogy meggyőződj arról, hogy a projekt újra működik.
++ Írd vissza az idézőjelet és/vagy a zárójelet, majd kattints a **Run** -ra, hogy meggyőződj arról, hogy a projekt újra működik.
 
-**Nem kell Trinket fiók, hogy elmentsd a projekteket!**
+**Nincs szükséged Trinket fiókra, hogy elmentsd a projektjeidet!**
 
-Ha nincs Trinket-fiókod, kattints a lefelé mutató nyílra, majd kattints a **Link**-re. Ez egy olyan linket ad, amelyet elmenthetsz és később visszatérhetsz. Ezt mindig meg kell tenned ha változtatsz, mert a link is változni fog!
+Ha nincs Trinket fiókod, kattints a lefelé mutató nyílra, majd kattints a **Link**-re. Egy olyan linket fogsz kapni, amit elmenthetsz és amivel később bármikor visszatérhetsz. Ezt minden változtatás után meg kell tenned, mert a link is meg fog változni!
 
 ![képernyőkép](images/me-link.png)
 
-Ha van Trinket-fiókod, akkor kattints a **Remix**-re, hogy elmentsd a Trinketed.
+Ha van Trinket fiókod, akkor kattints a **Remix**-re, hogy elmentsd a programodat.
 
 ![képernyőkép](images/me-remix.png)

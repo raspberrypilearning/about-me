@@ -10,21 +10,21 @@ title: Rólam
 description: Használja a Python programnyelvet szövegből képek létrehozásához
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
-technologies: piton
-site_areas: projektek
+technologies: python
+site_areas: projects
 hardware: ''
-software: piton
+software: python
 version: 3
-last_tested: 2017/01/01
+last_tested: 2017-01-01
 steps:
   - 
     title: Bevezetés
   - 
     title: Amire szükséged lesz
   - 
-    title: Köszönni
+    title: Üdvözlés
   - 
-    title: "Kihívás: mi a véleményed?"
+    title: "Kihívás: mit gondolsz?"
   - 
     title: ASCII művészet
   - 

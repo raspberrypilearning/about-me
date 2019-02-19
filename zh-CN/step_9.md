@@ -8,7 +8,7 @@
 
 ![截图](images/me-text-calc.png)
 
-你不仅能记录下自己的文字， 还能创造属于自己的图案！
+你能创建你自己的文本吗？ 还能创造属于自己的图案！
 
 ![截图](images/me-patterns.png)
 

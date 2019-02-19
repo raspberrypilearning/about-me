@@ -1,8 +1,8 @@
 ## Bevezetés
 
-Ebben a projektben megtanulhatod, hogyan kell írni egy Python programot, amely bemutat az embereknek.
+Ebben a projektben azt fogod megtanulni, hogy hogyan írj egy olyan Python programot, amiből minden megtudható rólad.
 
-### Mit fogsz csinálni?
+### Amit el fogsz készíteni
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a1f663ae0d?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>

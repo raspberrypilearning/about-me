@@ -6,20 +6,20 @@
     
     ![截图](images/me-dog.png)
 
-这只狗的腿用字符`|`代替，同时按<kbd>Shift 与 \ </kbd>键即可。
+这只狗的腿用字符`|`代替，要输入该字符，按<kbd>Shift + \ </kbd>键即可。
 
-+ 如果单击**运行**，屏幕上会显示代码里存在一个错误。
++ 如果单击**Run**，屏幕上会显示代码里存在一个错误。
     
     ![截图](images/me-dog-bug.png)
     
-    因为你的文本里包含一个撇号`'`，Python认为文本到此就结束了！
+    因为你的文本里包含一个单引号`'`，使Python认为文本到此就结束了！
     
     ![截图](images/me-dog-quote.png)
 
-+ 只要在象征狗尾巴的撇号前面加上一个反斜线``，这个问题就迎刃而解。 反斜线告诉Python撇号是文本内容的一部分。
++ 要解决这个问题，只需要在`here's`一词中的单引号前加上``即可。 反斜线告诉Python单引号是文本内容的一部分。
     
     ![截图](images/me-dog-bug-fix.png)
 
-+ If you prefer, you can use three apostrophes `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
++ 如果你愿意，你也可以使用一对连续三个单引号`'''`，这可以在一个`print`语句中输出多行文字。
     
     ![截图](images/me-dog-triple-quote.png)

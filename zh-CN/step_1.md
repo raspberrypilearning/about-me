@@ -12,9 +12,9 @@
 
 ### 学习具体目标
 
-本项目涵盖了[树莓派数字制作课程](http://rpf.io/curriculum)如下几方面内容{:target="_blank"}:
+本项目涵盖了[树莓派数字制作课程](http://rpf.io/curriculum){:target="_blank"}如下几方面内容:
 
-+ [利用基本编程结构创建简单程序](https://www.raspberrypi.org/curriculum/programming/creator)
++ [利用基本编程结构创建简单程序](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
 ### 教师附加信息
 

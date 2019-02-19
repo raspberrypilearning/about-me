@@ -1,8 +1,8 @@
-## Köszönni
+## Üdvözlés
 
-Kezdjük azzal, hogy néhány szöveget írunk.
+Kezdjük egy rövid szöveggel!
 
-+ Nyissa meg az üres Python sablon cédulát: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Nyisd meg az üres Python trinket sablont: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
 + Írd be a következőt a megjelenő ablakba:
     

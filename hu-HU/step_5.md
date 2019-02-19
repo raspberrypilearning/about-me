@@ -1,6 +1,6 @@
 ## ASCII művészet
 
-Írjunk ki valami sokkal szórakoztatóbb szöveget, mint a szöveg: ASCII art! ASCII art ("*eszkii-art*") **képet alkot a szövegből**.
+Írjunk ki valami sokkal szórakoztatóbbat, mint a szöveg: ez az ASCII művészet! ASCII art (ejtsd '*aszki*') **képet alkot a szövegből**.
 
 + Adjunk hozzá egy kis művészetet a programhoz - egy kutya képét!
     

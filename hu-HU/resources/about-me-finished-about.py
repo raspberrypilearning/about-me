@@ -3,7 +3,7 @@
 print('Helló, tudok Pythonban programozni!')
 
 print('''
-A bárányok a kedvenc állataim
+A kedvenc állataim a bárányok
 
  o-###-
    | |   #

@@ -8,15 +8,15 @@ Kezdjük egy rövid szöveggel!
     
     ![képernyőkép](images/me-hi.png)
     
-    A `#! / Bin / python3` csak azt mondja a Trinketnek, hogy a Python 3-at (a legújabb verzió) használjuk.
+    A `#!/bin/python3` csak azt mondja a Trinketnek, hogy a Python 3-at (a legújabb verzió) használjuk.
 
-+ Kattints a ****futtatásra, és látni fogod, hogy a `print ()` parancs mindent kinyomtat az `''` aposztrófok között.
++ Kattints a ****-ra, és látni fogod, hogy a `print ()` parancs mindent kinyomtat az `''` idézőjelek között.
     
     ![képernyőkép](images/me-hi-test.png)
 
-Ha hibáztál, egy hibaüzenet jelenik meg, amely megmondja, mit rontottál el!
+Ha hibáztál, egy hibaüzenet jelenik meg, ami megmondja, mit rontottál el!
 
-+ Próbáld ki! Töröld ki az aposztrófot `'` vagy a zárójelet `)` (vagy mindkettőt), és nézd meg, mi történik.
++ Próbáld ki! Töröld ki az idézőjelet `'` vagy a zárójelet `)` (vagy mindkettőt) a végéről, és nézd meg, mi történik.
     
     ![képernyőkép](images/me-syntax.png)
 

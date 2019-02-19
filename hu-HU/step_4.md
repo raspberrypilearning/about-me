@@ -2,8 +2,8 @@
 
 ## Kihívás: Mit gondolsz?
 
-Módosítsd az éppen írt kódot, hogy valami érdekesebb dolgot írjon ki rólad!
+Változtasd meg a kódot, amit az előbb írtál, hogy valami érdekesebbet írjon ki rólad!
 
 ![képernyőkép](images/me-mind.png)
 
-\--- /kihívás \---
+\--- /challenge \---

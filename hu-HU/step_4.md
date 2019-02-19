@@ -1,6 +1,6 @@
-\--- kihívás \---
+\--- challenge \---
 
-## Kihívás: Mi a véleményed?
+## Kihívás: Mit gondolsz?
 
 Módosítsd az éppen írt kódot, hogy valami érdekesebb dolgot írjon ki rólad!
 

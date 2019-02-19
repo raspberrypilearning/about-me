@@ -12,12 +12,12 @@ Ebben a projektben azt fogod megtanulni, hogy hogyan írj egy olyan Python progr
 
 ### Amit meg fogsz tanulni
 
-Ez a projekt a [Raspberry Pi Digitális Alkotási Tananyag ](http://rpf.io/curriculum){:target="_blank"} alábbi részeinek elemeit fedi le:
+Ez a projekt a [Raspberry Pi Digitális Alkotás Tanterv](http://rpf.io/curriculum) alábbi részeiből fed le elemeket: {:target="_blank"}:
 
-+ [Alapvető programozási szerkezetek használata egyszerű programok létehozására](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [Alapvető programozási szerkezetek használata egyszerű programok létrehozására](https://www.raspberrypi.org/curriculum/programming/creator) {:target="_blank"}
 
-### További információk az oktatók számára
+### További információk oktatóknak
 
-Ha ki kell nyomtatnia ezt a projektet, kérjük, használja a [nyomtatóbarát](https://projects.raspberrypi.org/en/projects/about-me/print)verziót {: target = "_ blank"}.
+Ha ki szeretnéd nyomtatni ezt a projektet, kérjük, használd a [nyomtatóbarát verzió](https://projects.raspberrypi.org/en/projects/about-me/print) -t {: target = "_ blank"}.
 
-Használja a láblécben lévő linket a GitHub tárhely eléréséhez ehhez a projekthez, amely tartalmazza az "en / resources" mappában található összes erőforrást (beleértve egy befejezett példát is).
+Használd a láblécben lévő linket az ehhez a projekthez tartozó GitHub tárhely eléréséhez, amely az 'en/resources' mappában az összes segédanyagot (beleértve egy befejezett mintaprojektet is) tartalmazza.

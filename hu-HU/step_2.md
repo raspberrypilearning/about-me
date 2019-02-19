@@ -2,8 +2,8 @@
 
 ### Hardver
 
-+ Olyan számítógép, amely hozzáférhet a [trinket.io](https://trinket.io){: target = "_ blank"} weboldalhoz
++ Egy olyan számítógép, amelyről hozzáférhető a [trinket.io](https://trinket.io){:target="_ blank"} weboldal
 
 ### Szoftver
 
-Ez a projekt elvégezhető egy webböngészőben [trinket.io](https://trinket.io){: target = "_ blank"}
+Ez a projekt megoldható egy webböngészőben, ezt az oldalt használva:[trinket.io](https://trinket.io){:target="_ blank"}

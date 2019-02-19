@@ -6,7 +6,7 @@
     
     ![képernyőkép](images/me-dog.png)
 
-A kutya lába a `| cső karakterrel készül` amely beírhatja megnyomásával <kbd>Shift + \ </kbd> A legtöbb brit / amerikai angol billentyűzetet.
+A kutya lábát a `|` cső karakterrel készítjük, amelyet a <kbd>Shift + \ </kbd> gombok megnyomásával írhatunk be a legtöbb UK/US angol billentyűzeten vagy a <1>AltGr + w </1> gombok megnyomásával a magyar billentyűzeten.
 
 + Ha a ****futtatásra kattint, látni fogja, hogy van egy hiba az új kódban.
     

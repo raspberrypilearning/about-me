@@ -22,4 +22,4 @@ Glasgowban élek
 szuletesiev = input('Melyik évben születtél?')
 szuletesiev = int(szuletesiev)
 kor = 2025 - szuletesiev
-print('2025-ben\', kor,' éves leszel')
+print('2025-ben\', kor, 'éves leszel!')

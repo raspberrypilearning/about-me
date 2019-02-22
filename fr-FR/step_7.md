@@ -30,6 +30,6 @@ Tu peux également faire des calculs et imprimer des numéros. Voyons voir quel 
     
     ![capture d'écran](images/me-result-variable.png)
 
-+ Finally, you can make your program easier to understand by adding a helpful message.
++ Enfin, tu peux rendre ton programme plus facile à comprendre en ajoutant un message utile.
     
-    ![screenshot](images/me-message.png)
+    ![capture d'écran](images/me-message.png)

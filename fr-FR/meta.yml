@@ -5,17 +5,17 @@ duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+curriculum: 1, design-0, programmation-1, phys-comp-0, fabrication-0, communauté-0
 title: A propos de moi
 description: Écris et crée des images à propos de toi
 original_url: https://projects.raspberrypi.org/en/projects/about-me
 interests: ''
 technologies: python
-site_areas: projects
+site_areas: projets
 hardware: ''
 software: python
 version: 3
-last_tested: 2017-01-01
+last_tested: 01-01-2017
 steps:
   - 
     title: Dire Bonjour

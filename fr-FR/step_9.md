@@ -10,6 +10,6 @@ What will the following program print to the screen? See if you can guess it cor
 
 Can you make up any words of your own? You could even make your own patterns!
 
-![screenshot](images/me-patterns.png)
+![capture d'écran](images/me-patterns.png)
 
 \--- /challenge \---

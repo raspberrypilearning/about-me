@@ -6,29 +6,29 @@ Tu peux également faire des calculs et imprimer des numéros. Voyons voir quel 
     
     Ajoutez ce code à ton programme:
     
-    ![screenshot](images/me-calc.png)
+    ![capture d'écran](images/me-calc.png)
     
     Note que tu n'as pas besoin de placer des guillemets autour des nombres. (Tu devras changer le numéro ` 2006 ` si tu es né une autre année)
 
-+ Click **Run**, and your program should print your age in the year 2025.
++ Clique sur **Run**, et ton programme devrait imprimer ton âge en 2025.
     
-    ![screenshot](images/me-calc-run.png)
+    ![capture d'écran](images/me-calc-run.png)
 
-+ You could improve your program by using `input()` to ask the user their age and store it in a **variable** called `born`.
++ Tu peut améliorer ton programme en utilisant `input()` pour demander à l'utilisateur son âge et le stocker dans une **variable** appelée `born`.
     
-    ![screenshot](images/me-input.png)
+    ![capture d'écran](images/me-input.png)
 
-+ Run your program and then enter the year you were born. Did you get another error message?
++ Exécutez ton programme et entre ensuite l’année où tu es né. As-tu reçu un autre message d’erreur ?
     
-    That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
+    C'est parce que tout ce qui est tapé dans ton programme est du **texte**, et il doit être converti en **nombres**.
     
-    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
+    Tu peux utiliser `int()` pour convertir le texte en un **entier**. Un entier est un nombre entier.
     
-    ![screenshot](images/me-input-test.png)
+    ![capture d'écran](images/me-input-test.png)
 
-+ You can also create another variable to store your calculation, and print that instead.
++ Tu peux également créer une autre variable pour stocker ton calcul et l'imprimer à la place.
     
-    ![screenshot](images/me-result-variable.png)
+    ![capture d'écran](images/me-result-variable.png)
 
 + Finally, you can make your program easier to understand by adding a helpful message.
     

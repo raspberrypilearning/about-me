@@ -1,6 +1,6 @@
 ## Art ASCII
 
-Let’s print something much more fun than text: ASCII art! L'Art ASCII (prononcé '* ask-i * ') crée ** des images à partir de texte ** .
+Imprimons quelque chose de bien plus amusant que du texte : l’art ASCII ! L'Art ASCII (prononcé '* ask-i * ') crée ** des images à partir de texte ** .
 
 + Ajoutons un peu d'art à ton programme - une photo d'un chien!
     
@@ -20,6 +20,6 @@ Les jambes du chien sont fabriqués à partir du caractère barre verticale `|` 
     
     ![screenshot](images/me-dog-bug-fix.png)
 
-+ If you prefer, you can use three apostrophes `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
++ Si tu préfères, tu peux utiliser trois apostrophes `'''` au lieu d'un, ce qui te permet d'imprimer plusieurs lignes de texte avec une seule commande `print` :
     
     ![screenshot](images/me-dog-triple-quote.png)

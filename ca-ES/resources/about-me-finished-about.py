@@ -1,6 +1,6 @@
 #!/bin/python3
 
-print('Hola, puc programa amb Python!')
+print('Hola, puc programar en Python!')
 
 print('''
 Els meus animals preferits són les ovelles
@@ -8,7 +8,7 @@ Els meus animals preferits són les ovelles
  o-###-
    | |   #
 
-Visc a Barcelona
+Visc a Glasgow
 
    _|_
   | |
@@ -22,4 +22,4 @@ Visc a Barcelona
 nascut = input('Quin any vas néixer?')
 nascut = int(nascut)
 edat = 2025 - nascut
-print('L'any 2025 tindràs', edat, 'anys!')
+print('L\'any 2025 tindràs', edat, 'anys!')

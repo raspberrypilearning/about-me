@@ -1,15 +1,15 @@
-\--- kihívás \---
+\--- challenge \---
 
-## Kihívás: a szöveg kiszámítása
+## Kihívás: számolás írásjelekkel
 
-Tudta, hogy szöveg kiszámításához is ?!
+Tudtad, hogy a szöveget is kiszámolhatod?!
 
-Mit fog megjeleníteni a következő program a képernyőn? Lássuk, hogy ki tudod-e találni a program futtatása előtt.
+Mit fog megjeleníteni a következő program a képernyőn? Lássuk, vajon ki tudod-e találni a választ a program futtatása előtt.
 
 ![képernyőkép](images/me-text-calc.png)
 
-Ki tudod fejezni saját szavaiddal? Még a saját mintáid is elkészítheted!
+Te is ki tudsz találni ilyen szavakat? Még a saját mintáidat is elkészítheted!
 
 ![képernyőkép](images/me-patterns.png)
 
-\--- /kihívás \---
+\--- /challenge \---

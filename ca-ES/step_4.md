@@ -2,8 +2,8 @@
 
 ## Repte: Què tens en ment?
 
-Canvia el codi que acabes d'escriure per imprimir més coses interessants sobre tu!
+Canvia el codi que acabes d'escriure per imprimir coses més interessants sobre tu!
 
-![screenshot](images/me-mind.png)
+![captura de pantalla](images/me-mind.png)
 
 \--- /challenge \---

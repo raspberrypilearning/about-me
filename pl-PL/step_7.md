@@ -18,7 +18,7 @@ Możesz też wykonywać obliczenia i wyświetlać liczby. Sprawdźmy, ile będzi
     
     ![screenshot](images/me-input.png)
 
-+ Uruchm program, a następnie wpisz swój rok urodzenia. Did you get another error message?
++ Uruchm program, a następnie wpisz swój rok urodzenia. Czy pojawił się kolejny komunikat o błędzie?
     
     Dzieje się tak dlatego, że wszystko, co wpisujesz w swoim programie, to **tekst**, który musi zostać przekonwertowany na **liczbę**.
     

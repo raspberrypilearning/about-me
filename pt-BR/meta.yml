@@ -1,5 +1,5 @@
 ---
-hero_image: images / about-me.png
+hero_image: images/about-me.png
 theme: orange
 duration: 2
 listed: true
@@ -15,12 +15,12 @@ site_areas: projects
 hardware: ''
 software: python
 version: 3
-last_tested: 2017-01-01
+last_tested: 01/01/2017
 steps:
   - 
     title: Introdução
   - 
-    title: O que você precisará
+    title: O que você vai precisar
   - 
     title: Dizer olá
   - 
@@ -32,6 +32,6 @@ steps:
   - 
     title: O ano de 2025
   - 
-    title: "Desafio: sua idade em anos de cão"
+    title: "Desafio: sua idade em anos de cachorro"
   - 
     title: "Desafio: calcular o texto"

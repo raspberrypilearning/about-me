@@ -5,7 +5,7 @@ duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+curriculum: 1, 디자인 -0, 프로그래밍 -1, phys-comp-0, 제조 -0, 커뮤니티 -0
 title: 나에 대해서
 description: Python 프로그래밍 언어를 사용하여 문자열로 그림을 그려봅니다.
 original_url: https://codeclubprojects.org/en-GB/python/about-me
@@ -18,7 +18,7 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: 들어가며
+    title: 소개
   - 
     title: 준비물
   - 

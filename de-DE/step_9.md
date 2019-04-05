@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: calculating text
+## Challenge: Einen Text berechnen
 
 Did you know that you can also calculate text?!
 
@@ -10,6 +10,6 @@ What will the following program print to the screen? See if you can guess it cor
 
 Can you make up any words of your own? You could even make your own patterns!
 
-![screenshot](images/me-patterns.png)
+![Screenshot](images/me-patterns.png)
 
-\--- /challenge \---
+Und ergänze den CSS-Code in <0>style.css</0>, um das Bild zu positionieren.

@@ -1,18 +1,18 @@
-## Saying hello
+## हैलो कह रहे हैं
 
 Let's start by writing some text.
 
 + Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Type the following into the window that appears:
++ दिखाई देने वाली विंडो में निम्न टाइप करें:
     
-    ![screenshot](images/me-hi.png)
+    ![स्क्रीनशॉट](images/me-hi.png)
     
     The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
 
 + Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
     
-    ![screenshot](images/me-hi-test.png)
+    ![स्क्रीनशॉट](images/me-hi-test.png)
 
 If you've made a mistake, you'll get an error message telling you what went wrong instead!
 
@@ -22,12 +22,12 @@ If you've made a mistake, you'll get an error message telling you what went wron
 
 + Add the quote or bracket back in, and click **Run** to make sure your project works again.
 
-**You don't need a Trinket account to save your projects!**
+**आपको अपने प्रोजेक्ट सहेजने के लिए Trinket खाते की आवश्यकता नहीं है!**
 
-If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+यदि आपके पास Trinket खाता नहीं है, तो नीचे के तीर पर क्लिक करें और फिर **Link** (लिंक) पर क्लिक करें। इससेआपको एक लिंक मिलेगा जिसे आप सहेज सकते हैं और बाद में वापस आ सकते हैं। हर बार जबआप परिवर्तन करेंगे, आपको ऐसा करने की आवश्यकता होगी, क्योंकि लिंक बदल जाएगा!
 
-![screenshot](images/me-link.png)
+![स्क्रीनशॉट](images/me-link.png)
 
-If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
+यदि आपके पास Trinket खाता है, तो आप Trinket की अपनी प्रति सहेजने के लिए **Remix** (रीमिक्स) पर क्लिक कर सकते हैं।
 
-![screenshot](images/me-remix.png)
+![स्क्रीनशॉट](images/me-remix.png)

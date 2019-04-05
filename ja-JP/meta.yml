@@ -1,5 +1,5 @@
 ---
-hero_image: images / about-me.png
+hero_image: images/about-me.png
 theme: オレンジ
 duration: 2
 listed: true
@@ -10,7 +10,7 @@ title: 私について
 description: Pythonプログラミング言語を使用してテキストから画像を作成する。
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
-technologies: パイソン
+technologies: python
 site_areas: projects
 hardware: ''
 software: python

@@ -6,7 +6,7 @@ Você também pode fazer cálculos e imprimir números. Vamos descobrir quantos 
     
     Adicione este código ao seu programa:
     
-    ![captura de tela](images/me-calc.png)
+    ![screenshot](images/me-calc.png)
     
     Observe que você não precisa colocar aspas nos números. (Você precisará alterar o número `2006` se você nasceu em um ano diferente.)
 
@@ -24,12 +24,12 @@ Você também pode fazer cálculos e imprimir números. Vamos descobrir quantos 
     
     Você pode usar `int ()` para converter o texto em um **inteiro**. Um inteiro é um número inteiro.
     
-    ![captura de tela](images/me-input-test.png)
+    ![screenshot](images/me-input-test.png)
 
 + Você também pode criar outra variável para armazenar seu cálculo e imprimi-la.
     
-    ![captura de tela](images/me-result-variable.png)
+    ![captura](images/me-result-variable.png)
 
 + Finalmente, você pode tornar seu programa mais fácil de entender, adicionando uma mensagem útil.
     
-    ![captura de tela](images/me-message.png)
+    ![screenshot](images/me-message.png)

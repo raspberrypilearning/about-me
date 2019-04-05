@@ -10,14 +10,14 @@ Neste projeto, você aprenderá a escrever um programa em Python informando as p
   <img src="images/me-final.png">
 </div>
 
-### O que você aprenderá
+### O que você vai aprender
 
-Este projeto abrange elementos das seguintes vertentes do [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){: target = "_ blank"}:
+Este projeto abrange elementos das seguintes vertentes do [Currículo de Fabricação Digital Raspberry Pi](http://rpf.io/curriculum){:target="_ blank"}:
 
-+ [Use construções básicas de programação para criar programas simples](https://www.raspberrypi.org/curriculum/programming/creator){: target = "_ blank"}
++ [Use construções básicas de programação para criar um programa simplea](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
 ### Informações adicionais para educadores
 
 Se você precisar imprimir este projeto, por favor, use a [versão para impressão](https://projects.raspberrypi.org/en/projects/about-me/print){: target = "_ blank"}.
 
-Use o link no rodapé para acessar o repositório do GitHub para este projeto, que contém todos os recursos (incluindo um exemplo de projeto concluído) na pasta 'en / resources'.
+Use o link no rodapé para acessar o repositório do GitHub para este projeto, que contém todos os recursos (incluindo um exemplo do projeto concluído) na pasta 'pt-BR / resources'.

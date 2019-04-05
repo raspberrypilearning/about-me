@@ -12,11 +12,11 @@
 
 ### Чому ви навчитесь
 
-Цей проект охоплює елементи з наступних напрямків навчального плану [Raspberry Pi Digital Making](http://rpf.io/curriculum){: target = "_ blank"}:
+Цей проект охоплює елементи з такими стандартами [Електронний навчальний план Raspberry Pi](http://rpf.io/curriculum) {:target="_blank"}:
 
-+ [Використовуйте базові програмні конструкції для створення простих програм ](https://www.raspberrypi.org/curriculum/programming/creator) {: target = "_ blank"}
++ [ Використайте основні конструкції програмування для створення простих програм ](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-### Додаткова інформація для керівників гуртка
+### Додаткова інформація для вчителів
 
 Якщо вам потрібно роздрукувати цей проект, будь ласка скористайтеся [ версією для друку ](https://projects.raspberrypi.org/en/projects/about-me/print) {: target = "_ blank"}.
 

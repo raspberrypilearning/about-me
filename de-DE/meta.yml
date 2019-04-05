@@ -18,9 +18,9 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Einführung
+    title: Einleitung
   - 
-    title: Hallo sagen
+    title: Was du brauchen wirst
   - 
     title: 'Aufgabe: An was denkst du?'
   - 

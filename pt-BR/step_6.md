@@ -8,6 +8,6 @@ Escreva um programa em Python para contar aos outros sobre você usando texto e 
 
 Aqui está um exemplo:
 
-![captura de tela](images/me-about.png)
+![screenshot](images/me-about.png)
 
 \--- / desafio \---

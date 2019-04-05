@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: about yourself
+## चुनौती: आपके बारे में
 
 Write a Python program to tell others about yourself using text and ASCII art. You can create images of your hobbies, friends, or anything you like!
 
@@ -8,6 +8,6 @@ Write a Python program to tell others about yourself using text and ASCII art. Y
 
 Here’s an example:
 
-![screenshot](images/me-about.png)
+![स्क्रीनशॉट](images/me-about.png)
 
 \--- /challenge \---

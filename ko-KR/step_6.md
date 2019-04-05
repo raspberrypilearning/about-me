@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- 도전 \---
 
 ## 도전과제: 자신에 대해
 
@@ -8,6 +8,6 @@
 
 여기에 예제가 있습니다:
 
-![스크린샷](images/me-about.png)
+![screenshot](images/me-about.png)
 
-\--- /challenge \---
+\--- /과제 \---

@@ -8,6 +8,6 @@ Pythonプログラムを書いて、テキストやASCIIアートを使って自
 
 ここに例があります：
 
-![スクリーンショット](images/me-about.png)
+![screenshot](images/me-about.png)
 
 \--- challenge \---

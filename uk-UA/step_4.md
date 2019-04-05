@@ -6,4 +6,4 @@
 
 ![знімок екрану](images/me-mind.png)
 
-\--- /challenge \---
+-- /challenge \---

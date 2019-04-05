@@ -1,4 +1,4 @@
-## Saying hello
+## Aufgabe: An was denkst du?
 
 Let's start by writing some text.
 
@@ -12,7 +12,7 @@ Let's start by writing some text.
 
 + Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
     
-    ![screenshot](images/me-hi-test.png)
+    ![Screenshot](images/me-hi-test.png)
 
 If you've made a mistake, you'll get an error message telling you what went wrong instead!
 
@@ -22,12 +22,12 @@ If you've made a mistake, you'll get an error message telling you what went wron
 
 + Add the quote or bracket back in, and click **Run** to make sure your project works again.
 
-**You don't need a Trinket account to save your projects!**
+**Du benötigst kein Trinket-Konto, um deine Projekte zu speichern!**
 
-If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+Wenn du kein Trinket-Konto hast, klicke auf den Pfeil hinunter und dann auf **Link**. Dadurch erhältst du einen Link, den du speichern und später wiederherstellen kannst. Das musst du jedes Mal tun, wenn du Änderungen vorgenommen hast, da sich der Link ändert!
 
-![screenshot](images/me-link.png)
+![Screenshot](images/me-link.png)
 
 If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
 
-![screenshot](images/me-remix.png)
+![Screenshot](images/me-remix.png)

@@ -10,17 +10,17 @@ title: About me
 description: Utiliza el lenguaje de programación Python para crear imágenes a partir de caracteres de texto
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
-technologies: python
-site_areas: projects
+technologies: pitón
+site_areas: proyectos
 hardware: ''
-software: python
+software: pitón
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Robot parlanchín
   - 
-    title: What you will need
+    title: Lo que necesitarás
   - 
     title: Saying hello
   - 

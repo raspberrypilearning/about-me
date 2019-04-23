@@ -18,7 +18,7 @@ Je kunt ook berekeningen maken en getallen afdrukken. Laten we eens kijken hoe o
     
     ![screenshot](images/me-input.png)
 
-+ Run het programma en voer je geboortejaar in. Did you get another error message?
++ Run het programma en voer je geboortejaar in. Heb je nog een foutmelding gekregen?
     
     Dat komt omdat alles wat je in je programma typt ** tekst ** is. En dat moet worden omgezet naar een ** getal **.
     

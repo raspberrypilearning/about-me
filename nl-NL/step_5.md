@@ -20,6 +20,6 @@ De poten van de hond zijn gemaakt met behulp van het sluisteken ` | ` (Engels: p
     
     ![screenshot](images/me-dog-bug-fix.png)
 
-+ If you prefer, you can use three apostrophes `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
++ Als je wilt, kunt je drie apostrofs gebruiken ` ''' ` in plaats van één, waardoor je meerdere regels tekst kunt tonen met één ` print ` instructie:
     
     ![screenshot](images/me-dog-triple-quote.png)

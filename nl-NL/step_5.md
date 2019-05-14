@@ -6,7 +6,7 @@ Laten we iets leukers printen dan alleen tekst: ASCII-kunst! ASCII-kunst (uitges
     
     ![screenshot](images/me-dog.png)
 
-De poten van de hond zijn gemaakt met behulp van het sluisteken `|` (Engels: pipe) die je kunt typen door op <kbd>Shift + \</kbd> te drukken.
+De poten van de hond zijn gemaakt met behulp van het sluisteken `|` die je kunt typen door op <kbd>Shift + \</kbd> te drukken.
 
 + Als je op **Run**klikt zul je zien dat er een fout in je nieuwe code zit.
     
@@ -20,6 +20,6 @@ De poten van de hond zijn gemaakt met behulp van het sluisteken `|` (Engels: pip
     
     ![screenshot](images/me-dog-bug-fix.png)
 
-+ Als je wilt, kunt je drie apostrofs gebruiken ` ''' ` in plaats van één, waardoor je meerdere regels tekst kunt tonen met één ` print ` instructie:
++ Als je wilt, kunt je drie apostrofs gebruiken `'''` in plaats van één, waardoor je meerdere regels tekst kunt tonen met één `print` instructie:
     
     ![screenshot](images/me-dog-triple-quote.png)

@@ -1,4 +1,4 @@
-#! / bin/python3
+#!/bin/python3
 
 print('Hoi, ik kan programmeren in Python!')
 

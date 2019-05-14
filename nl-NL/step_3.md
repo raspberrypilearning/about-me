@@ -2,13 +2,13 @@
 
 Laten we beginnen met het schrijven van wat tekst.
 
-+ Open het nieuwe Python-sjabloon in Trinket: <a href="http://jumpto.cc/python-new" target="_blank"> jumpto.cc/python-new </a>.
++ Open het nieuwe Python-sjabloon in Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
 + Typ het volgende in het venster dat verschijnt:
     
     ![screenshot](images/me-hi.png)
     
-    De regel ` #! / Bin / python3 ` vertelt Trinket dat we Python 3 gebruiken (de nieuwste versie).
+    De regel `#!/bin/python3` vertelt Trinket dat we Python 3 gebruiken (de nieuwste versie).
 
 + Klik op ** Run ** en je zou moeten zien dat de ` print () ` opdracht alles afdrukt wat tussen de aanhalingstekens ` '' ` staat.
     

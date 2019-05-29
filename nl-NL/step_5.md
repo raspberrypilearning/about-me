@@ -1,6 +1,6 @@
 ## ASCII-kunst
 
-Laten we iets leukers printen dan alleen tekst: ASCII-kunst! ASCII-kunst (uitgesproken als '*ask-ie* ') is het maken van **afbeeldingen van tekst**.
+Laten we iets leukers printen dan alleen tekst: ASCII-kunst! ASCII-kunst (uitgesproken als '*ask-ie*') is het maken van **afbeeldingen van tekst**.
 
 + Voeg wat kunst toe aan je programma - een afbeelding van een hond!
     

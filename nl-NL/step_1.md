@@ -18,6 +18,6 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 
 ### Aanvullende informatie voor docenten
 
-Als je dit project wilt afdrukken, gebruik dan de [ printvriendelijke versie ](https://projects.raspberrypi.org/en/projects/about-me/print) {:target="_ blank"}.
+Als je dit project wilt afdrukken, gebruik dan de [Printervriendelijke versie](https://projects.raspberrypi.org/en/projects/about-me/print){:target="_blank"}.
 
 Gebruik de link in de voettekst voor toegang tot de GitHub opslagplaats voor dit project, met daarin alle bronnen (inclusief een voorbeeld van een voltooid project) in de map ' en/resources'.

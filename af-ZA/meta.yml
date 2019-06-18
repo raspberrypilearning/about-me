@@ -1,37 +1,37 @@
 ---
-hero_image: images/about-me.png
-theme: orange
+hero_image: beelde / oor-me.png
+theme: oranje
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: About me
-description: Use the Python programming language to create pictures out of text
+curriculum: 1, ontwerp-0, programmering-1, fis-komp-0, vervaardiging-0, gemeenskap-0
+title: Oor my
+description: Gebruik die Python programmeertaal om prente uit teks te skep
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
 technologies: python
-site_areas: projects
+site_areas: projekte
 hardware: ''
 software: python
 version: 3
-last_tested: 2017-01-01
+last_tested: 2017/01/01
 steps:
   - 
-    title: Introduction
+    title: inleiding
   - 
-    title: What you will need
+    title: Wat jy benodig
   - 
-    title: Saying hello
+    title: Sê hallo
   - 
-    title: "Challenge: what's on your mind?"
+    title: "Uitdaging: wat dink jy?"
   - 
     title: ASCII art
   - 
-    title: "Challenge: about yourself"
+    title: "Uitdaging: oor jouself"
   - 
-    title: The year 2025
+    title: Die jaar 2025
   - 
-    title: "Challenge: your age in dog years"
+    title: "Uitdaging: jou ouderdom in hondjare"
   - 
-    title: "Challenge: calculating text"
+    title: "Uitdaging: berekening van teks"

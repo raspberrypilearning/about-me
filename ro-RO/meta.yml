@@ -1,0 +1,28 @@
+---
+hero_image: images/about-me.png
+theme: orange
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: Despre mine
+description: Utilizați limbajul de programare Python pentru a crea imagini prin scrierea unui text
+original_url: https://codeclubprojects.org/en-GB/python/about-me
+interests: ''
+technologies: python
+site_areas: projects
+hardware: ''
+software: python
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: Introducere
+  - title: De ce veți avea nevoie
+  - title: Cum să saluți
+  - title: "Provocare: la ce te gândești?"
+  - title: Artă ASCII
+  - title: "Provocare: despre tine"
+  - title: Anul 2025
+  - title: "Provocare: vârsta ta în anii câinelui"
+  - title: "Provocare: calculul textului"

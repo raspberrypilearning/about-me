@@ -18,9 +18,9 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introductie
+    title: Inleiding
   - 
-    title: Wat heb je nodig
+    title: Wat je nodig hebt
   - 
     title: Hallo zeggen
   - 

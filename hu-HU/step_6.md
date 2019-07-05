@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Kihívás: rólad
+## Kihívás: magadról
 
 Írj egy olyan Python programot, ami bemutat téged másoknak, használj hozzá szöveget és az ASCII művészetet. Készíthetsz képet a hobbidról, barátaidról vagy bármiről, amiről csak szeretnél!
 

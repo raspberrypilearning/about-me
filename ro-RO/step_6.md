@@ -2,9 +2,9 @@
 
 ## Provocare: despre tine
 
-Scrieți un program Python pentru a le spune celorlalți despre voi, folosind text și artă ASCII. Puteți crea imagini cu hobby-urile, prietenii sau orice doriți!
+Scrie un program Python pentru a te prezenta în fața celorlalți, folosind text și artă ASCII. Poți crea imagini cu hobby-urile tale preferate, prietenii tăi sau orice dorești!
 
-**Nu uitați, codul pe care îl scrieți în Trinket este public. Nu distribuiți informații personale cum ar fi numele vostru complet sau adresa!**
+**Nu uita, codul pe care îl scrii în Trinket este public. Nu distribui informații personale cum ar fi numele tău complet sau adresa!**
 
 Iată un exemplu:
 

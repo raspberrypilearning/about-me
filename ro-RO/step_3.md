@@ -2,32 +2,32 @@
 
 Să începem prin scrierea unui text.
 
-+ Deschideți un șablon nou Python: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Deschide un șablon nou Python: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Introduceți următoarele în fereastra care apare:
++ Introdu următoarele în fereastra care apare:
     
     ![captură de ecran](images/me-hi.png)
     
     Linia `#!/bin/python3` doar îi spune lui Trinket că folosim limbajul Python 3 (ultima versiune).
 
-+ Apăsați pe **Run**, și ar trebui să vedeți cum comanda `print()` tipărește tot ceea ce este între apostrofuri`''`.
++ Click pe **Run**, și ar trebui să vedeți cum comanda `print()` tipărește tot ceea ce este între apostrofuri`''`.
     
     ![captură de ecran](images/me-hi-test.png)
 
-Dacă ați făcut o greșeală, veți primi un mesaj de eroare care vă spune unde s-a greșit!
+Dacă ai făcut o greșeală, vei primi un mesaj de eroare care vă spune unde s-a greșit!
 
-+ Încercați! Ștergeți apostroful de la sfârșit `'` sau paranteza de închidere `)` (ori ambele) și vedeți ce se întâmplă.
++ Încearcă! Șterge apostroful de la sfârșit `'` sau paranteza de închidere `)` (ori ambele) și vezi ce se întâmplă.
     
     ![captură de ecran](images/me-syntax.png)
 
-+ Adaugați apostroful sau paranteza înapoi și apăsați **Run** pentru a fi siguri ca proiectul vostru funcționează din nou.
++ Adaugă apostroful sau paranteza înapoi și dă click pe **Run** pentru a fi siguri ca proiectul tău funcționează din nou.
 
-**Nu aveți nevoie de un cont Trinket pentru a vă salva proiectele!**
+**Nu ai nevoie de un cont Trinket pentru a-ți salva proiectele!**
 
-Dacă nu aveți un cont Trinket, dați click pe săgeată-jos și, mai apoi, pe **Link**. Acest lucru vă va oferi un link pe care îl puteți salva și la care puteți reveni mai târziu. Va trebui să faceți acest lucru de fiecare dată când faceți modificări, deoarece link-ul se va schimba!
+Dacă nu ai un cont Trinket, dă click pe săgeata jos, iar mai apoi pe **Link**. Acest lucru îți va oferi un link pe care îl poți salva și la care poți reveni mai târziu. Va trebui să faci acest lucru de fiecare dată când faci modificări, deoarece link-ul se va schimba!
 
 ![captură de ecran](images/me-link.png)
 
-Dacă aveți un cont Trinket, puteți da click pe **Remix** pentru a vă salva propria copie a trinket-ului.
+Dacă ai un cont Trinket, poți da click pe **Remix** pentru a-ți salva propria ta copie a trinket-ului.
 
 ![captură de ecran](images/me-remix.png)

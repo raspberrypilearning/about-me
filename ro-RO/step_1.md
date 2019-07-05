@@ -1,8 +1,8 @@
 ## Introducere
 
-În acest proiect veți învăța cum să scrieți un program Python, care spune oamenilor totul despre tine.
+În acest proiect vei învăța cum să scrii un program Python pentru a te introduce celorlalți.
 
-### Ce veți face
+### Ce vei face
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a1f663ae0d?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -10,7 +10,7 @@
   <img src="images/me-final.png">
 </div>
 
-### Ce veți învăța
+### Ce vei învăța
 
 Acest proiect acoperă elemente din următoarele componente ale curriculum-ului [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 

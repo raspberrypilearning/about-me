@@ -10,7 +10,7 @@ Számításokat és számkiíratásokat is végezhetsz. Nézzük meg hány éves
     
     Figyelj arra, hogy nem kell idézőjeleket tenned a számok köré. (Ha másik évben születettél, meg kell változtatnod a `2006` számot.)
 
-+ Kattints a **Futtatás**-ra, és a programnak ki kell írnia az életkorod 2025-ben.
++ Kattints a **Run**-ra, és a programnak ki kell írnia az életkorod 2025-ben.
     
     ![képernyőkép](images/me-calc-run.png)
 

@@ -6,15 +6,15 @@ print('''
 A kedvenc állataim a bárányok
 
  o-###-
-   | | #
+   | |   #
 
 Glasgowban élek
 
    _|_
-  | |
+  |   |
   |# |____
-  | | |
-  | #| # |
+  |   |    |
+  |  #|  # |
  _|___|_#__|_
 
 ''')

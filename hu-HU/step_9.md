@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Kihívás: számolás írásjelekkel
+## Kihívás: a szöveg kiszámítása
 
 Tudtad, hogy a szöveget is kiszámolhatod?!
 

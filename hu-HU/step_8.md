@@ -6,6 +6,6 @@
 
 ![képernyőkép](images/me-dog-years.png)
 
-A programozásnál a **szorzás** szimbóluma a `*` karakter, amelyet általában a billentyűzeten a <kbd>Shift + 8</kbd> gomb megnyomásával írhatunk be.
+A programozásnál a **szorzás** szimbóluma a `*` karakter, amelyet általában a billentyűzeten a <kbd>AltGr + -</kbd> gomb megnyomásával írhatunk be.
 
 \--- /challenge \---

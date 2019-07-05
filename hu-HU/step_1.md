@@ -16,7 +16,7 @@ Ez a projekt a [Raspberry Pi Digitális Alkotás Tanterv](http://rpf.io/curricul
 
 + [Alapvető programozási szerkezetek használata egyszerű programok létrehozására](https://www.raspberrypi.org/curriculum/programming/creator) {:target="_blank"}
 
-### További információk oktatóknak
+### További információk oktatók számára
 
 Ha ki szeretnéd nyomtatni ezt a projektet, kérjük, használd a [nyomtatóbarát verzió](https://projects.raspberrypi.org/en/projects/about-me/print) -t {:target="_ blank"}.
 

@@ -1,6 +1,6 @@
 #!/bin/python3
 
-print('Bună, pot programa în Python!')
+print('Salut, pot programa în Python!')
 
 print('''
 Animalele mele preferate sunt oile

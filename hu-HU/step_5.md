@@ -6,13 +6,13 @@
     
     ![képernyőkép](images/me-dog.png)
 
-A kutya lábát a `|` cső karakterrel készítjük, amelyet a <kbd>Shift + \ </kbd> gombok megnyomásával írhatunk be a legtöbb UK/US angol billentyűzeten vagy a <1>AltGr + w </1> gombok megnyomásával a magyar billentyűzeten.
+A kutya lábát a `|` cső karakterrel készítjük, amelyet az <kbd>AltGr + w </kbd> gombok megnyomásával írhatunk be a magyar billentyűzeten.
 
 + Ha a **Run** parancsra kattintasz, látni fogod, hogy van egy hiba az új kódodban.
     
     ![képernyőkép](images/me-dog-bug.png)
     
-    Ez azért van, mert a szöveg egy plusz `'` aposztrófot tartalmaz, melyről a Python azt hiszi, hogy a szöveg vége!
+    Ez azért van, mert a szöveged aposztrófot `'` tartalmaz, melyről a Python azt hiszi, hogy a szöveg vége!
     
     ![képernyőkép](images/me-dog-quote.png)
 

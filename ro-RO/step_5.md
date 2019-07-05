@@ -1,18 +1,18 @@
 ## Artă ASCII
 
-Haideți să tipărim ceva mai distractiv decât text: artă ASCII! Arta ASCII (pronunțat '*ask-i*') creează **imagini din text**.
+Hai să tipărim ceva mai distractiv decât text: artă ASCII! Arta ASCII (pronunțat '*asc-i*') creează **imagini din text**.
 
-+ Să adăugăm elemente artistice la programul tău - o imagine a unui câine!
++ Să adăugăm elemente artistice la programul tău — o imagine a unui câine!
     
     ![captură de ecran](images/me-dog.png)
 
-Picioarele câinelui sunt realizate folosind caracterul bară verticală `|` pe care îl puteți tasta apăsând <kbd>Shift + \ </kbd> de pe majoritatea tastaturilor.
+Picioarele câinelui sunt realizate folosind caracterul bară verticală `|` pe care îl poți scrie apăsând <kbd>Shift + \ </kbd> de pe majoritatea tastaturilor.
 
-+ Dacă dați click pe **Run**, veți vedea că există o eroare în codul vostru.
++ Dacă dai click pe **Run**, vei vedea că există o eroare în codul tău.
     
     ![captură de ecran](images/me-dog-bug.png)
     
-    Asta pentru că textul vostru conține caracterul `'`, pe care Python îl interpretează ca fiind sfârșitul textului!
+    Asta se întâmplă pentru că textul tău conține caracterul `'`, pe care Python îl interpretează ca fiind sfârșitul textului!
     
     ![captură de ecran](images/me-dog-quote.png)
 
@@ -20,6 +20,6 @@ Picioarele câinelui sunt realizate folosind caracterul bară verticală `|` pe 
     
     ![captură de ecran](images/me-dog-bug-fix.png)
 
-+ Dacă vreți, puteți folosi trei apostrofuri `‘’’` în loc de unul, ceea ce vă permite să tipăriți mai multe linii de text cu o singură comandă `print`:
++ Dacă vrei, puteți folosi trei apostrofuri `‘’’` în loc de unul, ceea ce îți va permite să tipărești mai multe linii de text cu o singură comandă `print`:
     
     ![captură de ecran](images/me-dog-triple-quote.png)

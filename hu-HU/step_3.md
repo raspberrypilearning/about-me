@@ -10,7 +10,7 @@ Kezdjük egy rövid szöveggel!
     
     A `#!/bin/python3` csak azt mondja a Trinketnek, hogy a Python 3-at (a legújabb verzió) használjuk.
 
-+ Kattints a ****-ra, és látni fogod, hogy a `print ()` parancs mindent megjelenít az `''` idézőjelek között.
++ Kattints a **Run**-ra, és látni fogod, hogy a `print ()` parancs mindent megjelenít az `''` idézőjelek között.
     
     ![képernyőkép](images/me-hi-test.png)
 

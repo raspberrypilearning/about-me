@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Kihívás: életkorod kutyaévekben
+## Kihívás: az életkor a kutyaévekben
 
 Írj egy programot, amely megkérdezi a felhasználók életkorát, majd megmondja nekik a korukat kutyaévekben! Egy személy korát kutyaévekben úgy számíthatod ki, ha életkorát megszorzod 7-tel.
 

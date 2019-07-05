@@ -6,6 +6,6 @@ Scrie un program pentru a întreba vârsta utilizatorului și apoi afișează v�
 
 ![captură de ecran](images/me-dog-years.png)
 
-În programare, simbolul pentru **înmulțire** este caracterul `*` pe care îl tastați folosind combinația de taste <kbd>Shift + 8</kbd> de pe tastatură.
+În programare, simbolul pentru **înmulțire** este caracterul `*` pe care îl tastezi folosind combinația de taste <kbd>Shift + 8</kbd> de pe tastatură.
 
 \--- /challenge \---

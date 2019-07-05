@@ -1,14 +1,14 @@
 \--- challenge \---
 
-## Provocare: calculul textului
+## Provocare: calculează un text
 
-Știați că puteți calcula și textul?!
+Știai că poți calcula și textul?!
 
-Ce va afișa următorul program pe ecran? Vedeți dacă puteți ghici înainte de a rula programul.
+Ce va afișa următorul program pe ecran? Vezi dacă poți ghici înainte de a rula programul.
 
 ![captură de ecran](images/me-text-calc.png)
 
-Puteți inventa cuvinte noi? Ați putea face chiar și modele proprii!
+Poți inventa cuvinte noi? Ai putea face chiar și propriile tale modele!
 
 ![captură de ecran](images/me-patterns.png)
 

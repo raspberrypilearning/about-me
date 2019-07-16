@@ -20,6 +20,6 @@ Hundens ben är gjorda med streckkaraktären `|` som du kan skriva genom att try
     
     ![skärmdump](images/me-dog-bug-fix.png)
 
-+ If you prefer, you can use three apostrophes `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
++ Om du föredrar kan du använda tre apostrofer ` '' '` istället för en, som låter dig skriva ut flera rader med text med ett ` utskrift ` uttryck:
     
     ![skärmdump](images/me-dog-triple-quote.png)

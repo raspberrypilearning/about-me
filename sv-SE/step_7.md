@@ -18,7 +18,7 @@ Du kan också göra beräkningar och skriva ut siffror. Låt oss ta reda på hur
     
     ![skärmdump](images/me-input.png)
 
-+ Kör ditt program och skriv in det år du föddes. Did you get another error message?
++ Kör ditt program och skriv in det år du föddes. Fick du ett annat felmeddelande?
     
     Det beror på att allt som skrivits in i ditt program är **text**, och det måste konverteras till ett **nummer**.
     

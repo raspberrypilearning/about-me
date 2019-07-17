@@ -1,8 +1,8 @@
 ## Introduction
 
-Dans ce projet, tu apprendras à écrire un programme Python qui te dira tout sur toi.
+Dans ce projet, tu apprendras à écrire un programme Python pour te présenter aux autres.
 
-### Ce que tu vas créer
+### Voici ce que tu vas créer
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a1f663ae0d?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,9 +12,9 @@ Dans ce projet, tu apprendras à écrire un programme Python qui te dira tout su
 
 ### Ce que tu vas apprendre
 
-Ce projet couvre les éléments suivantes des sections du curriculum [ Raspberry Pi Digital Making](http://rpf.io/curriculum){: target = "_ blank"}:
+Ce projet couvre les éléments suivantes des sections du programme [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [ Utilise des concepts de base de programmation créer des programmes simples ](https://www.raspberrypi.org/curriculum/programming/creator) {: target = "_ blank"}
++ [Utilisation des concepts de base en programmation pour créer des programmes simples](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
 ### Informations supplémentaires pour les éducateurs
 

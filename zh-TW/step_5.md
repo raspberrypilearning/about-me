@@ -16,10 +16,10 @@
     
     ![截圖](images/me-dog-quote.png)
 
-+ 要解決這個問題，只需在 `here's` 的撇號之前加上一個反斜杠 `` 。 這告訴Python撇號是文本的一部分。
++ 要解決這個問題，只需在 `here's` 的撇號之前加上一個反斜杠 `` 。 這會告訴 Python︰撇號是文字的一部分。
     
     ![截圖](images/me-dog-bug-fix.png)
 
-+ If you prefer, you can use three apostrophes `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
++ 您想要的話，也可以使用三個撇號` ''' `而非一個，它將允許您使用一個`print`語句輸出多行文字：
     
     ![截圖](images/me-dog-triple-quote.png)

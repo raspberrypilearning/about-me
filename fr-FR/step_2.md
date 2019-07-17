@@ -2,8 +2,8 @@
 
 ### Matériel informatique
 
-+ Un ordinateur capable d'accéder au site web [ trinket.io ](https://trinket.io) {: target = "_ blank"}
++ Un ordinateur capable d'accéder au site Internet [trinket.io](https://trinket.io){:target="_blank"}
 
-### Logiciels
+### Logiciel
 
-Ce projet peut être complété dans un navigateur Web en utilisant [ trinket.io ](https://trinket.io) {: target = "_ blank"}
+Ce projet peut être complété dans un navigateur Internet en utilisant [trinket.io](https://trinket.io){:target="_blank"}

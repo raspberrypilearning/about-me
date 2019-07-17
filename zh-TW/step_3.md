@@ -1,22 +1,22 @@
 ## 打招呼
 
-我們先寫一些文字。
+首先，我們來寫一些字。
 
-+ 打開空白的Python模板飾品： <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc / python- new</a>。
++ 打開空白的 Python 模板： <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc / python- new</a>。
 
-+ 在出現的窗口中鍵入以下內容：
++ 在出現的視窗中輸入以下內容：
     
     ![截圖](images/me-hi.png)
     
-    `＃！/ bin / python3` 行告訴Trinket我們正在使用Python 3（最新版本）。
+    `#!/bin/python3` 這一行是在告訴 Trinket 我們要使用 Python 3 (最新的版本) 。
 
-+ 單擊 **運行**，您應該看到 `print（）` 命令打印引號 `“`之間的所有內容。
++ 點擊 **Run**，您應該會看到 `print()` 命令會將引號 `“`之間的所有內容印出來。
     
     ![截圖](images/me-hi-test.png)
 
-如果你犯了一個錯誤，你會得到一個錯誤信息告訴你什麼出了問題！
+如果你犯了錯誤，你會得到一個錯誤信息，告訴你什麼出了問題！
 
-+ 嘗試一下！ 刪除結束報價 `'` 或右括號 `）` （或兩者），看看會發生什麼。
++ 試試看！ 刪除結束報價 `'` 或右括號 `）` （或兩者），看看會發生什麼。
     
     ![截圖](images/me-syntax.png)
 

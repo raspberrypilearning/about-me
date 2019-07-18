@@ -1,6 +1,6 @@
 #!/bin/python3
 
-print（“HI，我可以用Python寫程式！”）
+print(“Hi, 我會用Python寫程式 !”）
 
 print('''
 我最喜歡的動物是綿羊

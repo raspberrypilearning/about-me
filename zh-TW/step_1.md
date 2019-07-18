@@ -2,7 +2,7 @@
 
 在這個專案中, 你將學習如何編寫一個 Python 程式，告訴他人關於你的一切。
 
-### 你要做什麼
+### 你會做出:
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a1f663ae0d?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -10,7 +10,7 @@
   <img src="images/me-final.png">
 </div>
 
-### 你會學到什麼
+### 你會學到︰
 
 這專案包含了以下幾個 [Raspberry Pi數位製作課程](http://rpf.io/curriculum){：target =“_ blank”}的基本內容：
 
@@ -20,4 +20,4 @@
 
 如果您需要列印此專案內容，請下載 [列印版本](https://projects.raspberrypi.org/en/projects/about-me/print){：target =“_ blank”}。
 
-使用頁腳中的連結訪問此項目的 GitHub 存儲庫，在 'en / resources' 資料夾中有所有的資源(包括一個已完成的專案檔案)。
+使用頁腳中的連結訪問此專案的 GitHub 存儲庫，在 'en / resources' 資料夾中有所有的資源(包括已完成的專案範例)。

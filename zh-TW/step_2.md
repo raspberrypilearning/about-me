@@ -6,4 +6,4 @@
 
 ### 軟體
 
-此項目可以直接在網頁瀏覽器中使用[trinket.io](https://trinket.io){：target =“_ blank”}完成。
+此專案可以直接在網頁瀏覽器中使用[trinket.io](https://trinket.io){：target =“_ blank”}完成。

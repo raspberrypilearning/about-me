@@ -1,8 +1,8 @@
-## ASCII umenie (ASCII art)
+## ASCII art
 
-Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
+Poďme zobraziť niečo oveľa zábavnejšie ako text: ASCII art! ASCII art (vyslovované '*ask-e*') vytvára **obrázky z textu**.
 
-+ Let's add some art to your program — a picture of a dog!
++ Pridajme k tvojmu programu nejaké umenie - obrázok psa!
     
     ![screenshot](images/me-dog.png)
 

@@ -2,8 +2,8 @@
 
 ### Hardvér
 
-+ A computer capable of accessing the [trinket.io](https://trinket.io){:target="_blank"} website
++ Počítač s možnosťou prístupu na stránku [trinket.io](https://trinket.io) {: target = "_blank"}
 
-### Software
+### Softvér
 
-This project can be completed in a web browser using [trinket.io](https://trinket.io){:target="_blank"}
+Tento projekt môže byť dokončený v prehliadači použitím [trinket.io](https://trinket.io){:target="_blank"}

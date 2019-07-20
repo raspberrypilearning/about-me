@@ -1,6 +1,6 @@
 ## Úvod
 
-V tomto projekte sa naučíte, ako napísať v Pythone program, ktorý ľuďom povie o vás.
+V tomto projekte sa naučíš, ako napísať v Pythone program, ktorý ľuďom povie o vás.
 
 ### Čo budeš robiť
 
@@ -18,6 +18,6 @@ Tento materiál pokrýva časti z nasledujúceho zdroja [Raspberry Pi Digital Ma
 
 ### Doplňujúce informácie pre učiteľov
 
-Ak potrebujete tento projekt vytlačiť, použite [verziu určenú pre tlač](https://projects.raspberrypi.org/en/projects/about-me/print){: target = "_ blank"}.
+Ak potrebuješ tento projekt vytlačiť, použite [verziu určenú pre tlač](https://projects.raspberrypi.org/en/projects/about-me/print){: target = "_ blank"}.
 
-Pomocou odkazu na konci strany sa dostanete do repozitára GitHub tohto projektu, ktorý obsahuje všetky zdroje (vrátane príkladu hotového projektu) v priečinku ‘en/resources’.
+Pomocou odkazu na konci strany sa dostaneš do repozitára GitHub tohto projektu, ktorý obsahuje všetky zdroje (vrátane príkladu hotového projektu) v priečinku ‘en/resources’.

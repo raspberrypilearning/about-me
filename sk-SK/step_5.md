@@ -6,13 +6,13 @@ Poďme zobraziť niečo oveľa zábavnejšie ako text: ASCII art! ASCII art (vys
     
     ![screenshot](images/me-dog.png)
 
-The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
+Psie nohy sú vytvorené zo znaku zvislej čiary `|`, ktorý môžeš napísať pomocou <kbd>Shift + \ </kbd> na väčšine UK/US English klávesníc. (Znak môžeš zadať aj s využitím numerickej klávesnice pomocou Alt + 124)</1>.
 
-+ If you click **Run**, you'll see that there's a bug in your new code.
++ Ak klikneš na tlačidlo **Run**, uvidíš, že v tvojom novom kóde je chyba.
     
     ![screenshot](images/me-dog-bug.png)
     
-    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
+    Je to preto, že tvoj text obsahuje apostrof `'`, o ktorom si Python myslí, že je koniec textu!
     
     ![screenshot](images/me-dog-quote.png)
 

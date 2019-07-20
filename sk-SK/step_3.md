@@ -1,22 +1,22 @@
-## Saying hello
+## Pozdrav
 
-Let's start by writing some text.
+Začnime napísaním nejakého textu.
 
-+ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Otvor prázdnu šablónu Python: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Type the following into the window that appears:
++ Do okna, ktoré sa zobrazí, napíš nasledujúci text:
     
     ![screenshot](images/me-hi.png)
     
-    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
+    Riadok `#!/bin/python3` len povie nástroju Trinket, že používame Python 3 (najnovšiu verziu).
 
-+ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
++ Klikni na **Run** a mal by si vidieť, že príkaz `print()` zobrazí všetko medzi znakmi `''`.
     
     ![screenshot](images/me-hi-test.png)
 
-If you've made a mistake, you'll get an error message telling you what went wrong instead!
+Ak si urobil/urobila chybu, zobrazí sa chybové hlásenie, ktorý ti povie, čo sa stalo!
 
-+ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
++ Vyskúšaj to! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
     
     ![screenshot](images/me-syntax.png)
 

@@ -2,8 +2,8 @@
 
 ## Výzva: na čo myslíš?
 
-Change the code you just wrote to print something more interesting about you!
+Zmeň kód, ktorý si práve napísal/napísala, aby si zobrazil/zobrazila niečo zaujímavejšie o sebe!
 
-![screenshot](images/me-mind.png)
+![snímka obrazovky](images/me-mind.png)
 
-\--- /challenge \---
+\--- /výzva \---

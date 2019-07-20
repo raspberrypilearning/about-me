@@ -1,6 +1,6 @@
 ## Úvod
 
-V tomto projekte sa naučíš, ako napísať v Pythone program, ktorý ľuďom povie o vás.
+V tomto projekte sa naučíš, ako napísať v Pythone program, ktorý ostatným povie všetko o tebe.
 
 ### Čo budeš robiť
 
@@ -12,12 +12,12 @@ V tomto projekte sa naučíš, ako napísať v Pythone program, ktorý ľuďom p
 
 ### Čo sa naučíš
 
-Tento materiál pokrýva časti z nasledujúceho zdroja [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Tento materiál pokrýva časti z nasledujúceho výukového zdroja [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [ Použite základné programovacie konštrukty na vytvorenie jednoduchých programov ](https://www.raspberrypi.org/curriculum/programming/creator) {: Target = "_ blank"}
++ [Použi základné programovacie konštrukty na vytvorenie jednoduchých programov](https://www.raspberrypi.org/curriculum/programming/creator) {:target="_blank"}
 
 ### Doplňujúce informácie pre učiteľov
 
-Ak potrebuješ tento projekt vytlačiť, použite [verziu určenú pre tlač](https://projects.raspberrypi.org/en/projects/about-me/print){: target = "_ blank"}.
+Ak potrebuješ tento projekt vytlačiť, použi [verziu určenú pre tlač](https://projects.raspberrypi.org/en/projects/about-me/print){: target = "_ blank"}.
 
 Pomocou odkazu na konci strany sa dostaneš do repozitára GitHub tohto projektu, ktorý obsahuje všetky zdroje (vrátane príkladu hotového projektu) v priečinku ‘en/resources’.

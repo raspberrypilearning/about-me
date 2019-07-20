@@ -1,6 +1,6 @@
-## What you will need
+## Čo budeš potrebovať
 
-### Hardware
+### Hardvér
 
 + A computer capable of accessing the [trinket.io](https://trinket.io){:target="_blank"} website
 

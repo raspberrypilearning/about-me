@@ -14,15 +14,15 @@ Taktiež môžeš robiť výpočty a zobrazovať čísla. Poďme zistiť, koľko
     
     ![screenshot](images/me-calc-run.png)
 
-+ You could improve your program by using `input()` to ask the user their age and store it in a **variable** called `born`.
++ Môžeš vylepšiť svoj program použitím príkazu `input()`, ktorým sa opýtaš užívateľa na rok jeho narodenia a uložiť ho do **premennej** nazvanej `narodenie`.
     
     ![screenshot](images/me-input.png)
 
-+ Run your program and then enter the year you were born. Did you get another error message?
++ Spusť program a zadaj rok tvojho narodenia. Zobrazila sa ti chybová hláška?
     
-    That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
+    Je to preto, lebo čokoľvek zadané do tvojho programu cez funkciu input() je **text** a ten musí byť prevedený (konvertovaný) na **číslo**.
     
-    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
+    Môžeš použiť príkaz `int()`, ktorý konvertuje text na **integer**. Integer je typ údaju obsahujúci celé číslo. An integer is a whole number.
     
     ![screenshot](images/me-input-test.png)
 

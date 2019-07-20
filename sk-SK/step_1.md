@@ -20,4 +20,4 @@ Tento materiál pokrýva časti z nasledujúceho výukového zdroja [Raspberry P
 
 Ak potrebuješ tento projekt vytlačiť, použi [verziu určenú pre tlač](https://projects.raspberrypi.org/en/projects/about-me/print){: target = "_ blank"}.
 
-Pomocou odkazu na konci strany sa dostaneš do repozitára GitHub tohto projektu, ktorý obsahuje všetky zdroje (vrátane príkladu hotového projektu) v priečinku ‘en/resources’.
+Pomocou odkazu na konci strany sa dostaneš do repozitára GitHub tohto projektu v priečinku ‘en/resources’, ktorý obsahuje všetky zdroje (vrátane príkladu hotového projektu).

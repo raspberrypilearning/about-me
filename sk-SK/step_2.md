@@ -6,4 +6,4 @@
 
 ### Softvér
 
-Tento projekt môže byť dokončený v prehliadači použitím [trinket.io](https://trinket.io){:target="_blank"}
+Projekt je možné dokončiť pomocou [trinket.io](https://trinket.io){:target="_blank"}

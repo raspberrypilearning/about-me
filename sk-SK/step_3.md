@@ -10,21 +10,21 @@ Začnime napísaním nejakého textu.
     
     Riadok `#!/bin/python3` len povie nástroju Trinket, že používame Python 3 (najnovšiu verziu).
 
-+ Klikni na **Run** a mal by si vidieť, že príkaz `print()` zobrazí všetko medzi znakmi `''`.
++ Klikni na **Run** a mal by si vidieť, že príkaz `print()` vypíše všetko medzi apostrofmi `''`.
     
     ![snímka obrazovky](images/me-hi-test.png)
 
 Ak si urobil/urobila chybu, zobrazí sa chybové hlásenie, ktorý ti povie, čo sa stalo!
 
-+ Vyskúšaj to! Vymaž koncovú úvodzovku `'` alebo ukončujúcu zátvorku `)` (alebo obe) a pozri sa, čo sa stane.
++ Vyskúšaj to! Vymaž koncový apostrof `'` alebo ukončujúcu zátvorku `)` (alebo obe) a pozri sa, čo sa stane.
     
     ![snímka obrazovky](images/me-syntax.png)
 
-+ Pridaj naspäť úvodzovku alebo zátvorku a klikni na **Run**, aby si sa uistil/uistila, že tvoj projekt opäť funguje.
++ Pridaj naspäť apostrof alebo zátvorku a klikni na **Run**, aby si sa uistil/uistila, že tvoj projekt opäť funguje.
 
-**Na ukladanie svojich projektov nemusíš mať účet na Trinket-e!**
+**Na ukladanie svojich projektov nemusíš mať účet na Trinkete!**
 
-Ak na Trinket-e nemáš vytvorený účet, klikni na šípku nadol a potom na **Link**. Dostaneš odkaz, ktorý si budeš môcť uložiť a neskôr sa k nemu vrátiť. Tento postup budeš musieť zopakovať vždy po vykonaní zmien, pretože aj odkaz sa zmení!
+Ak na Trinkete nemáš vytvorený účet, klikni na šípku nadol a potom na **Link**. Dostaneš odkaz, ktorý si budeš môcť uložiť a neskôr sa k nemu vrátiť. Tento postup budeš musieť zopakovať vždy po vykonaní zmien, pretože aj odkaz sa zmení!
 
 ![snímka obrazovky](images/me-link.png)
 

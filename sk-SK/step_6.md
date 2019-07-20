@@ -1,13 +1,13 @@
-\--- challenge \---
+\--- výzva \---
 
-## Challenge: about yourself
+## Výzva: o tebe
 
-Write a Python program to tell others about yourself using text and ASCII art. You can create images of your hobbies, friends, or anything you like!
+Napíš Python program, ktorým ostatným povieš niečo o sebe pomocou ASCII art. Môžeš vytvoriť obrázky tvojich koníčkov, kamarátov alebo hocičoho, čo sa ti páči!
 
-**Remember that the code you write in Trinket is public. Don't share any personal information like your full name or address!**
+**Nezabudni však, že kód, ktorý napíšeš v Trinkete, je verejný. Preto nezdieľaj žiadne osobné informácie, ako napríklad celé tvoje meno a priezvisko, či tvoja adresa!**
 
-Here’s an example:
+Tu je príklad:
 
-![screenshot](images/me-about.png)
+![snímka obrazovky](images/me-about.png)
 
-\--- /challenge \---
+\--- /výzva \---

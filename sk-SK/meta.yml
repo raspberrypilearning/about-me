@@ -7,7 +7,7 @@ ingredient: false
 copyedit: true
 curriculum: 1, návrh-0, programovanieg-1, phys-comp-0, výroba-0, spoločnosť-0
 title: O mne
-description: Použite programovací jazyk Python na vytvorenie obrázkov z textu
+description: Použi programovací jazyk Python na vytvorenie obrázkov z textu
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
 technologies: python
@@ -22,11 +22,11 @@ steps:
   - 
     title: Čo budeš potrebovať
   - 
-    title: Pozdrav
+    title: Povedz ahoj
   - 
     title: "Výzva: na čo myslíš?"
   - 
-    title: ASCII umenie (ASCII art)
+    title: ASCII art
   - 
     title: "Výzva: o tebe"
   - 
@@ -34,4 +34,4 @@ steps:
   - 
     title: "Výzva: tvoj vek v psích rokoch"
   - 
-    title: "Výzva: výpočet textu"
+    title: "Výzva: počítanie s textom"

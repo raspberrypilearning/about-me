@@ -6,7 +6,7 @@ Poďme vypísať niečo oveľa zábavnejšie ako text: ASCII art! ASCII art (vys
     
     ![screenshot](images/me-dog.png)
 
-Psie nohy sú vytvorené zo znaku zvislej čiary `|`, ktorý môžeš napísať pomocou <kbd>Shift + \ </kbd> na väčšine UK/US English klávesníc, na slovenskej klávesnici ho môžeš zadať s využitím numerickej klávesnice pomocou ľavého Alt + 124.
+Psie nohy sú vytvorené zo znaku zvislej čiary `|`, ktorý môžeš napísať pomocou Shift + \ na väčšine UK/US English klávesníc, na slovenskej klávesnici ho môžeš zadať s využitím numerickej klávesnice pomocou ľavého Alt + 124. Psí chvost je vytvorený zo znaku apostrof ' , ktorý môžeš napísať pomocou Shift + ' na väčšine UK/US English klávesníc, na slovenskej klávesnici ho môžeš zadať s využitím numerickej klávesnice pomocou ľavého Alt + 39.
 
 + Ak klikneš na tlačidlo **Run**, uvidíš, že v tvojom novom kóde je chyba.
     

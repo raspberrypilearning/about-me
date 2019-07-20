@@ -8,7 +8,7 @@ Moje najobľúbenejšie zvieratá sú ovce
  o-###-
    | |   #
 
-Žijem v Nitre
+Žijem v Glasgowe
 
    _|_
   |   |

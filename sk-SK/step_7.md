@@ -8,9 +8,9 @@ Taktiež môžeš robiť výpočty a zobrazovať čísla. Poďme zistiť, koľko
     
     ![screenshot](images/me-calc.png)
     
-    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
+    Všimni si, že apostrofy nemusíš dávať pred a za čísla. (Budeš musieť zmeniť číslo `2006`, ak tvoj rok narodenia je iný ako rok 2006.)
 
-+ Click **Run**, and your program should print your age in the year 2025.
++ Klikni na **Run** a tvoj program by mal vypísať tvoj vek v roku 2025.
     
     ![screenshot](images/me-calc-run.png)
 

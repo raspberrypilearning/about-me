@@ -14,10 +14,10 @@ V tomto projekte sa naučíte, ako napísať v Pythone program, ktorý ľuďom p
 
 Tento materiál pokrýva časti z nasledujúceho zdroja [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [ Použite základné programovacie konštrukty na vytvorenie jednoduchých programov ](https://www.raspberrypi.org/curriculum/programming/creator) {: Target = "_ blank"}
 
-### Additional information for educators
+### Doplňujúce informácie pre učiteľov
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/about-me/print){:target="_blank"}.
+Ak potrebujete tento projekt vytlačiť, použite [verziu určenú pre tlač](https://projects.raspberrypi.org/en/projects/about-me/print){: target = "_ blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Pomocou odkazu na konci strany sa dostanete do repozitára GitHub tohto projektu, ktorý obsahuje všetky zdroje (vrátane príkladu hotového projektu) v priečinku ‘en/resources’.

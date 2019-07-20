@@ -1,6 +1,6 @@
-\--- challenge \---
+\--- výzva \---
 
-## Challenge: What's on your mind?
+## Výzva: na čo myslíš?
 
 Change the code you just wrote to print something more interesting about you!
 

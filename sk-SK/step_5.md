@@ -1,6 +1,6 @@
 ## ASCII art
 
-Poďme zobraziť niečo oveľa zábavnejšie ako text: ASCII art! ASCII art (vyslovované '*ask-e*') vytvára **obrázky z textu**.
+Poďme vypísať niečo oveľa zábavnejšie ako text: ASCII art! ASCII art (vyslovované '*ask-e*') vytvára **obrázky z textu**.
 
 + Pridajme k tvojmu programu nejaké umenie - obrázok psa!
     

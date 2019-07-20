@@ -1,10 +1,10 @@
-## The year 2025
+## Rok 2025
 
-You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
+Taktiež môžeš robiť výpočty a zobrazovať čísla. Poďme zistiť, koľko rokov budeš mať v roku 2025!
 
-+ To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
++ Pre vypočítanie tvojho veku v roku 2025 musíš odčítať rok tvojho narodenia od čísla 2025.
     
-    Add this code to your program:
+    A toto je kód tvojho programu:
     
     ![screenshot](images/me-calc.png)
     

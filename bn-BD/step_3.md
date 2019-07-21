@@ -24,10 +24,10 @@
 
 **আপনার প্রকল্পগুলি সংরক্ষণ করতে (সেভ করে রাখতে) আপনার কোন Trinket অ্যাকাউন্ট দরকার নেই!**
 
-If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+আপনার কোন Trinket account না থাকলে নীচের তিরচিহ্নে ক্লিক করে **Link** এ ক্লিক করুন। এটা আপনাকে একটি লিঙ্ক দেবে যা আপনি সংরক্ষণ করে রাখতে পারবেন এবং পরে তাতে ফিরে আসতে পারবেন। প্রত্যেকবার পরিবর্তনের পর আপনাকে এটা করতে হবে, কারণ তাতে লিঙ্কটা পালটে যাবে!
 
 ![screenshot](images/me-link.png)
 
-If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
+যদি আপনার একটি Trinket অ্যাকাউন্ট থাকে, আপনি **রিমিক্স** এ ক্লিক করে আপনার নিজস্ব trinket সংরক্ষণ করতে পারেন।
 
 ![screenshot](images/me-remix.png)

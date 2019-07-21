@@ -20,6 +20,6 @@ Picioarele câinelui sunt realizate folosind caracterul bară verticală `|` pe 
     
     ![captură de ecran](images/me-dog-bug-fix.png)
 
-+ Dacă vrei, puteți folosi trei apostrofuri `‘’’` în loc de unul, ceea ce îți va permite să tipărești mai multe linii de text cu o singură comandă `print`:
++ Dacă vrei, poți folosi trei apostrofuri `‘’’` în loc de unul, ceea ce îți va permite să tipărești mai multe linii de text cu o singură comandă `print`:
     
     ![captură de ecran](images/me-dog-triple-quote.png)

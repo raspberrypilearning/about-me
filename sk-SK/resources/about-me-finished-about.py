@@ -19,7 +19,7 @@ Moje najobľúbenejšie zvieratá sú ovce
 
 ''')
 
-narodenie = input('V ktorom roku si sa narodil/narodila?')
+narodenie = input('Aký je rok tvojho narodenia?')
 narodenie = int(narodenie)
 vek = 2025 - narodenie
 print('V roku 2025 budeš mať', vek, 'rokov!')

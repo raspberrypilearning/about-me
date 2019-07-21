@@ -11,27 +11,27 @@ description: টেক্সট থেকে ছবি তৈরি করতে
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
 technologies: পাইথন (python)
-site_areas: প্রজেক্টসমূহ
+site_areas: প্রকল্পসমূহ
 hardware: ''
-software: python
+software: পাইথন (python)
 version: 3
-last_tested: 2017-01-01
+last_tested: ২০১৭-০১-০১
 steps:
   - 
-    title: পরিচিতি
+    title: ভূমিকা
   - 
     title: যা যা প্রয়োজন
   - 
     title: হ্যালো বলা
   - 
-    title: "Challenge: আপনি কি চিন্তা করছেন?"
+    title: "দেখা যাক: আপনি কি চিন্তা করছেন?"
   - 
-    title: ASCII art
+    title: ASCII শিল্প
   - 
-    title: "Challenge: নিজের সম্পর্কে"
+    title: "প্রতিযোগিতা: আপনার সম্পর্কে"
   - 
     title: ২০২৫ সাল
   - 
-    title: "Challenge: চাইনিজ ক্যালেন্ডার অনুযায়ী আপনার বয়স"
+    title: "প্রতিযোগিতা: কুকুরের আয়ু অনুযায়ী আপনার বয়স"
   - 
-    title: "Challenge: টেক্সট গণনা"
+    title: "প্রতিযোগিতা: অক্ষর গণনা"

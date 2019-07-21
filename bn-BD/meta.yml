@@ -5,12 +5,12 @@ duration: 0
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: আমার সম্পর্কে
+curriculum: 1, ডিজাইন -1, প্রোগ্রামিং -1, ফিজিক্যাল-কম্পিউটিং-0, উৎপাদন-0, কমিউনিটি -0
+title: আমার পরিচয়
 description: টেক্সট থেকে ছবি তৈরি করতে প্রোগ্রামিং ল্যাংগুয়েজ Python (পাইথন) ব্যবহার করুন
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
-technologies: python
+technologies: পাইথন (python)
 site_areas: প্রজেক্টসমূহ
 hardware: ''
 software: python

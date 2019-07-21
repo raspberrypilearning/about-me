@@ -1,9 +1,9 @@
-\--- challenge \---
+--প্রতিযোগিতা--
 
-## Challenge: What's on your mind?
+## দেখা যাক: আপনি কি চিন্তা করছেন?
 
-Change the code you just wrote to print something more interesting about you!
+আপনার সম্পর্কে আরও আকর্ষণীয় কিছু মুদ্রণ করতে আপনি যে কোডটি লিখেছেন তা পরিবর্তন করুন!
 
 ![screenshot](images/me-mind.png)
 
-\--- /challenge \---
+\--- / প্রতিযোগিতা \---

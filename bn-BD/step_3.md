@@ -10,19 +10,19 @@
     
     `#!/bin/python3` এই লাইন দ্বারা Trinket কে বলা হচ্ছে যে আমরা Python 3 (সবচেয়ে নতুন সংস্করণ) ব্যবহার করছি।
 
-+ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
++ **Run** এ ক্লিক করুন। এবার `print()` কম্যান্ডের উদ্ধৃতি চিহ্নের `''` মাঝের সব কিছু প্রিন্ট করার কথা।
     
     ![screenshot](images/me-hi-test.png)
 
-If you've made a mistake, you'll get an error message telling you what went wrong instead!
+আপনি কোন ভুল করে থাকলে একটি ভুল নির্দেশক বার্তা দেখতে পাবেন, যা আপনাকে জানিয়ে দেবে কথায় ভুল হয়েছে!
 
-+ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
++ এটা চেষ্টা করুন! শেষের উদ্ধৃতি `'` অথবা শেষের বন্ধনী `)` (বা উভয়কেই) মুছে দিন এবং দেখুন কি ঘটে।
     
     ![screenshot](images/me-syntax.png)
 
-+ Add the quote or bracket back in, and click **Run** to make sure your project works again.
++ উদ্ধৃতি বা বন্ধনীটি আবার যোগ করুন, এবং **Run** ক্লিক করে প্রকল্পটি পুনরায় কাজ করছে কিনা দেখে নিন।
 
-**You don't need a Trinket account to save your projects!**
+**আপনার প্রকল্পগুলি সংরক্ষণ করতে (সেভ করে রাখতে) আপনার কোন Trinket অ্যাকাউন্ট দরকার নেই!**
 
 If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
 

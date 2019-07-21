@@ -2,8 +2,8 @@
 
 ### হার্ডওয়্যার
 
-+ [trinket.io](https://trinket.io){:target="_blank"} ওয়েবসাইট অ্যাক্সেস করতে সক্ষম একটি কম্পিউটার
++ [trinket.io](https://trinket.io){:target="_blank"} ওয়েবসাইট খুলতে করতে সক্ষম একটি কম্পিউটার
 
 ### সফটওয়্যার
 
-এই প্রজেক্টটি এই [trinket.io](https://trinket.io){:target="_blank"} এই ওয়েব ব্রাউজ করে সম্পন্ন করা যাবে।
+এই প্রজেক্টটি ওয়েব ব্রাউজারে [trinket.io](https://trinket.io){:target="_blank"} লিঙ্কটি খুলে সম্পন্ন করা যাবে।

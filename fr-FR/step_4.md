@@ -1,9 +1,9 @@
-\--- Défi\---
+\--- challenge \---
 
-## Défi: À quoi penses-tu?
+## Défi : À quoi penses-tu ?
 
-Change le code que tu viens d'écrire pour imprimer quelque chose de plus intéressant à ton sujet!
+Change le code que tu viens d'écrire pour afficher quelque chose de plus intéressant à propos de toi !
 
 ![capture d'écran](images/me-mind.png)
 
-\--- /défi \---
+\--- /challenge \---

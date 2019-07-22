@@ -1,14 +1,14 @@
 ## L'année 2025
 
-Tu peux également faire des calculs et imprimer des numéros. Voyons voir quel âge tu auras en 2025!
+Tu peux également faire des calculs et afficher des nombres. Quel âge auras-tu en 2025 ?
 
-+ Pour calculer ton âge en 2025, tu devras soustraire l'année de naissance à 2025.
++ Pour calculer ton âge en 2025, tu dois soustraire l'année de ta naissance à l'année 2025.
     
-    Ajoutez ce code à ton programme:
+    Ajoute ce code à ton programme :
     
     ![capture d'écran](images/me-calc.png)
     
-    Note que tu n'as pas besoin de placer des guillemets autour des nombres. (Tu devras changer le numéro ` 2006 ` si tu es né une autre année)
+    Note que tu n'as pas besoin de placer des guillemets ou apostrophes autour des nombres. (Tu devras changer le nombre `2006` si tu es né une autre année)
 
 + Clique sur **Run**, et ton programme devrait imprimer ton âge en 2025.
     

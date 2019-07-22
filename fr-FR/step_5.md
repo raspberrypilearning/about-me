@@ -1,12 +1,12 @@
 ## Art ASCII
 
-Imprimons quelque chose de bien plus amusant que du texte : l’art ASCII ! L'Art ASCII (prononcé '* ask-i * ') crée ** des images à partir de texte ** .
+Affichons quelque chose de bien plus amusant que du texte : l’art ASCII ! L'art ASCII (prononcé '*a-ski*') crée **des images à partir de texte**.
 
-+ Ajoutons un peu d'art à ton programme - une photo d'un chien!
++ Ajoutons un peu d'art à ton programme — une photo d'un chien !
     
     ![screenshot](images/me-dog.png)
 
-Les jambes du chien sont fabriqués à partir du caractère barre verticale `|` que tu peux saisir en appuyant sur <kbd>Shift + \</kbd> sur la plupart des claviers anglais ou américains.
+Les jambes du chien sont faites à partir du caractère barre verticale `|` que tu peux saisir en appuyant sur <kbd>Alt Gr + 6</kbd> sur ton clavier.
 
 + Si tu cliques sur ** Exécuter ** , tu verras qu'il y a un bug dans ton nouveau code.
     

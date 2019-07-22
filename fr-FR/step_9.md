@@ -1,4 +1,4 @@
-\--- défi \---
+\--- challenge \---
 
 ## Défi : calculer du texte
 

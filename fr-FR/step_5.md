@@ -4,22 +4,22 @@ Affichons quelque chose de bien plus amusant que du texte : l’art ASCII ! L
 
 + Ajoutons un peu d'art à ton programme — une photo d'un chien !
     
-    ![screenshot](images/me-dog.png)
+    ![capture d'écran](images/me-dog.png)
 
 Les jambes du chien sont faites à partir du caractère barre verticale `|` que tu peux saisir en appuyant sur <kbd>Alt Gr + 6</kbd> sur ton clavier.
 
-+ Si tu cliques sur ** Exécuter ** , tu verras qu'il y a un bug dans ton nouveau code.
++ Si tu cliques sur **Run**, tu verras qu'il y a une erreur dans ton nouveau code.
     
-    ![screenshot](images/me-dog-bug.png)
+    ![capture d'écran](images/me-dog-bug.png)
     
-    C'est parce que ton texte contient une apostrophe ` ' ` que Python pense que c'est la fin du texte!
+    C'est parce que ton texte contient une apostrophe `'` et Python pense que c'est la fin du texte !
     
-    ![screenshot](images/me-dog-quote.png)
+    ![capture d'écran](images/me-dog-quote.png)
 
-+ Pour corriger cela, il suffit de mettre une barre oblique inverse ` \ ` avant l'apostrophe dans le mot ` ici ` . Cela indique à Python que l'apostrophe fait partie du texte.
++ Pour corriger cela, il suffit de mettre une barre oblique inverse `` avant l'apostrophe dans le mot `s'appelle`. Cela indique à Python que l'apostrophe fait partie du texte.
     
-    ![screenshot](images/me-dog-bug-fix.png)
+    ![capture d'écran](images/me-dog-bug-fix.png)
 
-+ Si tu préfères, tu peux utiliser trois apostrophes `'''` au lieu d'un, ce qui te permet d'imprimer plusieurs lignes de texte avec une seule commande `print` :
++ Si tu préfères, tu peux utiliser trois guillemets `"""` au lieu d'un apostrophe, ce qui te permet d'imprimer plusieurs lignes de texte avec une seule commande `print` :
     
-    ![screenshot](images/me-dog-triple-quote.png)
+    ![capture d'écran](images/me-dog-triple-quote.png)

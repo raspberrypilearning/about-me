@@ -18,15 +18,15 @@ Tu peux également faire des calculs et afficher des nombres. Quel âge auras-tu
     
     ![capture d'écran](images/me-input.png)
 
-+ Exécutez ton programme et entre ensuite l’année où tu es né. As-tu reçu un autre message d’erreur ?
++ Exécute ton programme et entre ensuite ton année de naissance. As-tu reçu un autre message d’erreur ?
     
-    C'est parce que tout ce qui est tapé dans ton programme est du **texte**, et il doit être converti en **nombres**.
+    C'est parce que tout ce qui est tapé dans ton programme est du **texte**, et il doit être converti en **nombre**.
     
-    Tu peux utiliser `int()` pour convertir le texte en un **entier**. Un entier est un nombre entier.
+    Tu peux utiliser `int()` pour convertir le texte en un **entier**. Un entier est un nombre qui ne possède pas de décimales.
     
     ![capture d'écran](images/me-input-test.png)
 
-+ Tu peux également créer une autre variable pour stocker ton calcul et l'imprimer à la place.
++ Tu peux également créer une autre variable pour stocker ton calcul et l'afficher à la place.
     
     ![capture d'écran](images/me-result-variable.png)
 

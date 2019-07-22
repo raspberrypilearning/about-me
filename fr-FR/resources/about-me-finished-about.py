@@ -1,8 +1,8 @@
 #!/bin/python3
 
-print ('Bonjour, je peux coder en Python!')
+print('Bonjour, je peux coder en Python !')
 
-print('''
+print("""
 Mon animal préféré est le mouton
 
  o-###-

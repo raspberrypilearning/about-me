@@ -10,11 +10,11 @@ Tu peux également faire des calculs et afficher des nombres. Quel âge auras-tu
     
     Note que tu n'as pas besoin de placer des guillemets ou apostrophes autour des nombres. (Tu devras changer le nombre `2006` si tu es né une autre année)
 
-+ Clique sur **Run**, et ton programme devrait imprimer ton âge en 2025.
++ Clique sur **Run**, et ton programme devrait afficher ton âge en 2025.
     
     ![capture d'écran](images/me-calc-run.png)
 
-+ Tu peut améliorer ton programme en utilisant `input()` pour demander à l'utilisateur son âge et le stocker dans une **variable** appelée `born`.
++ Tu peux améliorer ton programme en utilisant `input()` pour demander à l'utilisateur son âge et le stocker dans une **variable** appelée `annee_naissance`.
     
     ![capture d'écran](images/me-input.png)
 

@@ -18,6 +18,6 @@ Ce projet couvre les éléments suivantes des sections du programme [Raspberry P
 
 ### Informations supplémentaires pour les éducateurs
 
-Une [version imprimable](https://projects.raspberrypi.org/en/projects/about-me/print){:target="_blank"} est disponible si tu as besoin d'imprimer ce projet.
+Une [version imprimable](https://projects.raspberrypi.org/en/projects/about-me/print){:target="_blank"} est disponible si nécessaire.
 
-Utilise le lien en bas de cette page pour accéder au dépôt GitHub de ce projet, qui contient toutes les ressources (y compris un exemple du projet terminé) dans le dossier 'fr-FR/resources'.
+Utilisez le lien en bas de cette page pour accéder au dépôt GitHub de ce projet, qui contient toutes les ressources (y compris un exemple du projet terminé) dans le dossier 'fr-FR/resources'.

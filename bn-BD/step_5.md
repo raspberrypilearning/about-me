@@ -16,7 +16,7 @@ pipe character ` ব্যবহার করে কুকুরের পা �
     
     ![screenshot](images/me-dog-quote.png)
 
-+ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
++ এটি ঠিক করতে, কেবল একটি ব্যাকস্ল্যাশ রাখুন ` \ ` ` শব্দটিতে  ঊর্ধকমা এর আগে ` এখানে </0>। এটি পাইথনকে বোঝায় যে ঊর্ধকমা টেক্সট এর অংশ।
     
     ![screenshot](images/me-dog-bug-fix.png)
 

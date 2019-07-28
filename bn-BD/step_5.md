@@ -1,8 +1,8 @@
 ## ASCII art
 
-আসুন টেক্সট এর থেকেও আরও মজাদার কিছু প্রিন্ট করা যাক: ASCII আর্ট! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
+আসুন টেক্সট এর থেকেও আরও মজাদার কিছু প্রিন্ট করা যাক: ASCII আর্ট! ASCII art (উচ্চারণ '* অ্যাস-কি* ') টেক্সট থেকে </strong> ছবি তৈরি করছে </1> 
 
-+ Let's add some art to your program — a picture of a dog!
++ আসুন আপনার প্রোগ্রামে কিছু আর্ট যুক্ত করা যাক - একটি কুকুরের ছবি!
     
     ![screenshot](images/me-dog.png)
 

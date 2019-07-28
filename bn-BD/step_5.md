@@ -12,7 +12,7 @@ pipe character ` ব্যবহার করে কুকুরের পা �
     
     ![screenshot](images/me-dog-bug.png)
     
-    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
+    কারণ এটি আপনার টেক্সট এ একটি ঊর্ধকমা রয়েছে ` '` , Python যাকে টেক্সট এর শেষ বলে মনে করে। 
     
     ![screenshot](images/me-dog-quote.png)
 

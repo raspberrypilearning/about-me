@@ -6,9 +6,9 @@
     
     ![screenshot](images/me-dog.png)
 
-The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
+pipe character ` ব্যবহার করে কুকুরের পা তৈরি করা হয়েছে। ` যা আপনি <kbd> শিফট + \ টিপে টাইপ করতে পারেন </kbd> বেশিরভাগ ইউকে / মার্কিন ইংরেজী কীবোর্ডে।
 
-+ If you click **Run**, you'll see that there's a bug in your new code.
++ আপনি যদি ক্লিক করেন ** রান ** , আপনি দেখতে পাবেন যে আপনার নতুন কোডে একটি বাগ আছে।
     
     ![screenshot](images/me-dog-bug.png)
     

@@ -2,11 +2,11 @@
 
 Affichons quelque chose de bien plus amusant que du texte : l’art ASCII ! L'art ASCII (prononcé '*a-ski*') crée **des images à partir de texte**.
 
-+ Ajoutons un peu d'art à ton programme — une photo d'un chien !
++ Ajoutons un peu d'art à ton programme — une illustration d'un chien !
     
     ![capture d'écran](images/me-dog.png)
 
-Les jambes du chien sont faites à partir du caractère barre verticale `|` que tu peux saisir en appuyant sur <kbd>Alt Gr + 6</kbd> sur ton clavier.
+Les jambes du chien sont faites à partir du caractère barre verticale `|` que tu peux saisir en appuyant sur <kbd>Alt Gr + 6</kbd> sur ton clavier français.
 
 + Si tu cliques sur **Run**, tu verras qu'il y a une erreur dans ton nouveau code.
     

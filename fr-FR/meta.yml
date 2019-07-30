@@ -1,5 +1,5 @@
 ---
-hero_image: images/about-me.png
+hero_image: images/about-me.pn
 theme: orange
 duration: 2
 listed: true
@@ -20,7 +20,7 @@ steps:
   - 
     title: Introduction
   - 
-    title: Ce dont tu auras besoin
+    title: Ce qu'il te faut
   - 
     title: Dire bonjour
   - 

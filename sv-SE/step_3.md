@@ -8,7 +8,7 @@ Låt oss börja med att skriva lite text.
     
     ![skärmdump](images/me-hi.png)
     
-    Linjen `#!/bin/python3` berättar bara för Trinket att vi använder Python 3 (den senaste versionen).
+    Raden `#!/bin/python3` berättar bara för Trinket att vi använder Python 3 (den senaste versionen).
 
 + Klicka på **Kör**, och du borde se att kommandot `print ()` skriver ut allt mellan citattecken `''`.
     
@@ -20,11 +20,11 @@ Om du har gjort ett misstag får du i stället ett felmeddelande som berättar v
     
     ![skärmdump](images/me-syntax.png)
 
-+ Lägg citat eller parentes tillbaka och klicka på **Kör** för att se till att ditt projekt fungerar igen.
++ Lägg citat/apostrof eller parentes tillbaka och klicka på **Kör** för att se till att ditt projekt fungerar igen.
 
-**Du behöver inte ett Trinket -konto för att spara dina projekt!**
+**Du behöver inte ett Trinket-konto för att spara dina projekt!**
 
-Om du inte har ett Trinket -konto klickar du på pilen nedåt och klickar sedan på **Länk**. Detta ger dig en länk som du kan spara och komma tillbaka till senare. Du måste göra detta varje gång du gör ändringar, eftersom länken kommer att förändras!
+Om du inte har ett Trinket-konto klickar du på nedåtpilen och klickar sedan på **Länk**. Detta ger dig en länk som du kan spara och komma tillbaka till senare. Du måste göra detta varje gång du gör ändringar, eftersom länken kommer att förändras!
 
 ![skärmdump](images/me-link.png)
 

@@ -1,11 +1,25 @@
---- challenge ---
-## Défi: À propos de toi
-Écris un programme Python pour parler de toi aux autres. Utilise du texte et de l'art ASCII. Tu peux créer des images de tes passe-temps, amis... ou n'importe quoi que tu aimes!
+## Art ASCII
 
-__Rappelle toi que le code que tu écris avec Trinket est public. Ne partage pas d'informations personnelles comme ton nom complet ou ton adresse!__
+Affichons quelque chose de bien plus amusant que du texte: l’art ASCII! L'art ASCII (prononcé '*a-ski*') crée **des images à partir de texte**.
 
-Voici un exemple:
++ Ajoutons un peu d'art à ton programme — une illustration d'un chien!
+    
+    ![capture d'écran](images/me-dog.png)
 
-![screenshot](images/me-about.png)
+Les jambes du chien sont faites à partir du caractère barre verticale `|` que tu peux saisir en appuyant sur <kbd>Alt Gr + 6</kbd> sur ton clavier français.
 
---- /challenge ---
++ Si tu cliques sur **Run**, tu verras qu'il y a une erreur dans ton nouveau code.
+    
+    ![capture d'écran](images/me-dog-bug.png)
+    
+    C'est parce que ton texte contient une apostrophe `'` et Python pense que c'est la fin du texte!
+    
+    ![capture d'écran](images/me-dog-quote.png)
+
++ Pour corriger cela, il suffit de mettre une barre oblique inverse (antislash) avant l'apostrophe dans le mot `s'appelle`. Cela indique à Python que l'apostrophe fait partie du texte.
+    
+    ![capture d'écran](images/me-dog-bug-fix.png)
+
++ Si tu préfères, tu peux utiliser trois guillemets `"""` au lieu d'une apostrophe, ce qui te permet d'imprimer plusieurs lignes de texte avec une seule commande `print`:
+    
+    ![capture d'écran](images/me-dog-triple-quote.png)

@@ -20,4 +20,4 @@ Detta projekt omfattar element från följande rader av [Raspberry Pi Digital Ma
 
 Om du behöver skriva ut det här projektet, använd den [skrivarvänliga versionen](https://projects.raspberrypi.org/en/projects/about-me/print){:target = "_ blank"}.
 
-Använd länken i sidfoten för att komma åt GitHub -arkivet för det här projektet, vilket innehåller alla resurser (inklusive ett exempel på färdigt projekt) i mappen "en/resurser".
+Använd länken i sidfoten för att komma åt GitHub-arkivet för det här projektet, vilket innehåller alla resurser (inklusive ett exempel på färdigt projekt) i mappen "en/resources".

@@ -1,12 +1,12 @@
-## ASCII -konst
+## ASCII-konst
 
-Låt oss skriva ut något mycket roligare än text: ASCII -konst! ASCII -konst (uttalad "*ask-ii*") skapar **bilder ur text**.
+Låt oss skriva ut något mycket roligare än text: ASCII-konst! ASCII-konst (uttalad "*ask-e*") skapar **bilder ur text**.
 
 + Låt oss lägga till lite konst i ditt program - en bild av en hund!
     
     ![skärmdump](images/me-dog.png)
 
-Hundens ben är gjorda med streckkaraktären `|` som du kan skriva genom att trycka på <kbd>Shift + \ </kbd> på de flesta brittiska/amerikanska tangentbord.
+Hundens ben är gjorda med streckkaraktären `|` som du kan skriva genom att trycka på <kbd>Alt Gr + <</kbd> på de flesta svenska tangentbord.
 
 + Om du klickar på **Kör**, ser du att det finns ett fel i din nya kod.
     

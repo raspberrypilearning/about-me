@@ -1,13 +1,11 @@
 --- challenge ---
-## Défi: calculer du texte
-Savais-tu que tu pouvais aussi "calculer" du texte?!
 
-Qu'est-ce que le programme suivant affiche à l'écran? Essaie de deviner avant d'exécuter le programme.
+## Défi: ton âge en années de chien
 
-![capture d'écran](images/me-text-calc.png)
+Écris un programme pour demander à l'utilisateur son âge, puis affiche son âge en années de chien! Tu peux calculer l’âge d’une personne en années de chien en multipliant son âge par 7.
 
-Peux-tu composer tes propres mots de cette manière? Tu pourrais même créer tes propres motifs!
+![capture d'écran](images/me-dog-years.png)
 
-![screenshot](images/me-patterns.png)
+En programmation, le symbole **multiplication** est le caractère `*`.
 
 --- /challenge ---

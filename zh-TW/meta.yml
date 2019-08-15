@@ -1,0 +1,28 @@
+---
+hero_image: images/about-me.png
+theme: orange
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: 自我介紹
+description: 使用 Python 程式設計語言以文字排出圖案
+original_url: https://codeclubprojects.org/en-GB/python/about-me
+interests: ''
+technologies: python
+site_areas: projects
+hardware: ''
+software: python
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: 簡介
+  - title: 你需要些什麼
+  - title: 打招呼
+  - title: "挑戰：你想做什麼？"
+  - title: ASCII 藝術
+  - title: "挑戰：關於你自己"
+  - title: 西元2025年
+  - title: "挑戰: 你的年齡對狗而言等於多少年"
+  - title: "挑戰：計算文字"

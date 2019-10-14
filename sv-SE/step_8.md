@@ -6,6 +6,6 @@ Skriv ett program för att fråga användarens ålder och sedan visa hens ålder
 
 ![skärmdump](images/me-dog-years.png)
 
-I programmering är symbolen för **multiplikation** tecknet `*` som du vanligtvis kan skriva genom att trycka på <kbd>Shift + 8</kbd> på tangentbordet.
+I programmering är symbolen för **multiplikation** tecknet `*` som du vanligtvis kan skriva genom att trycka på <kbd>Shift + '</kbd> på tangentbordet.
 
 \--- /challenge \---

@@ -1,20 +1,20 @@
 #!/bin/python3
 
-print('Hej, jag kan programmera i Python)
+print ("Hej, jag kan koda i Python!")
 
 print('''
 Mina favoritdjur är lamm
 
  o-###-
-   | |   #
+     | |  #
 
 Jag bor i Göteborg
 
-   _|_
-  |   |
-  |#  |____
-  |   |    |
-  |  #|  # |
+     _|_
+   |   |
+   |#  |____
+   |   |    |
+   | # |  # |
  _|___|_#__|_
 
 ''')

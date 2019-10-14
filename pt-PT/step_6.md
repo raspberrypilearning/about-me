@@ -1,13 +1,13 @@
-\--- desafio \---
+\--- challenge \---
 
-## Desafio: sobre você
+## Desafio: sobre ti
 
-Escreva um programa em Python para contar aos outros sobre você usando texto e arte ASCII. Você pode criar imagens de seus hobbies, amigos ou qualquer coisa que você gosta!
+Escreve um programa em Python para informar os outros sobre ti usando texto e arte ASCII. Podes criar imagens dos teus hobbies, amigos ou qualquer coisa que gostes!
 
-**Lembre-se que o código que você escreve no Trinket é público. Não compartilhe informações pessoais, como seu nome completo ou endereço!**
+**Lembra-te que o código que escreves no Trinket é público. Não compartilhes informações pessoais, como o teu nome completo ou o teu endereço!**
 
 Aqui está um exemplo:
 
-![captura de tela](images/me-about.png)
+![captura de ecrã](images/me-about.png)
 
-\--- / desafio \---
+\--- /challenge \---

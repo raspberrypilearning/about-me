@@ -1,8 +1,8 @@
 ## Dizer olá
 
-Vamos começar escrevendo algum texto.
+Vamos começar por escrever algum texto.
 
-+ Abra o trinket de modelo Python em branco: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Abre o modelo em branco do Python Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
 + Digite o seguinte na janela que aparece:
     
@@ -10,24 +10,24 @@ Vamos começar escrevendo algum texto.
     
     A linha `#! / Bin / python3` apenas diz ao Trinket que estamos usando o Python 3 (a última versão).
 
-+ Clique em **Run**, e você verá que o comando `print ()` imprime tudo entre as marcas de aspas `''`.
++ Clique em **Run**, e verás que o comando `print ()` imprime tudo o que está entre os apóstrofos `''`.
     
     ![captura de tela](images/me-hi-test.png)
 
-Se você cometeu um erro, receberá uma mensagem de erro informando o que aconteceu de errado!
+Se cometeste um erro, em vez disso recebes uma mensagem de erro a dizer o que correu mal!
 
-+ Tente! Exclua a cotação final `'` ou o colchete de fechamento `)` (ou ambos) e veja o que acontece.
++ Tenta! Apaga o apostrofo final `'` ou o parentesis de fechar `)` (ou ambos) e vê o que acontece.
     
     ![captura de tela](images/me-syntax.png)
 
-+ Adicione a citação ou o bracket de volta e clique em **Execute** para garantir que seu projeto funcione novamente.
++ Adiciona o apóstrofo ou o parêntesis de volta e clica em **Run** para garantires que o teu projeto funciona novamente.
 
-**Você não precisa de uma conta Trinket para salvar seus projetos!**
+**Não precisas de uma conta Trinket para guardar os teus projetos!**
 
-Se você não tiver uma conta do Trinket, clique na seta para baixo e, em seguida, clique em **Link**. Isso lhe dará um link que você pode salvar e voltar mais tarde. Você precisará fazer isso toda vez que fizer mudanças, pois o link mudará!
+Se não tiveres uma conta do Trinket, clica na seta para baixo e, em seguida, clica em **Link**. Assim vais obter um link que podes guardar e que te permitirá voltar mais tarde ao projeto. Vais precisar de fazer o mesmo de cada vez que fizeres alterações, pois o link vai mudar!
 
 ![captura de tela](images/me-link.png)
 
-Se você tem uma conta Trinket, você pode clicar **Remix** para salvar sua própria cópia do trinket.
+Se tens uma conta Trinket, podes clicar **Remix** para guardar a tua própria cópia do trinket.
 
 ![captura de tela](images/me-remix.png)

@@ -1,14 +1,14 @@
 #!/bin/python3
 
-print('Cześć, umiem programować w języku Python!')
+print('Cześć, umiem programować w Pythonie!')
 
 print('''
-Moimi ulubionymi zwierzętami są owce.
+Moje ulubione zwierzęta to owce
 
  o-###-
    | |   #
 
-Mieszkam w Poznaniu.
+Mieszkam w Warszawie
 
    _|_
   |   |
@@ -19,7 +19,7 @@ Mieszkam w Poznaniu.
 
 ''')
 
-rokUrodzenia = input('W którym roku się urodziłeś?')
+rokUrodzenia = input('W którym roku się urodziłeś')
 rokUrodzenia = int(rokUrodzenia)
 wiek = 2025 - rokUrodzenia
-print('W 2025 roku będziesz miał', wiek, 'lat!')
+print('W roku 2025 będziesz mieć', wiek, 'lat!')

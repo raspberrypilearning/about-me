@@ -8,13 +8,13 @@ Du kan också göra beräkningar och skriva ut siffror. Låt oss ta reda på hur
     
     ![skärmdump](images/me-calc.png)
     
-    Observera att du inte behöver lägga citat runt nummer. (Du måste ändra nummer `2006` om du föddes ett annat år)
+    Observera att du inte behöver lägga citattecken runt nummer. (Du måste ändra siffran `2006` om du föddes ett annat år)
 
-+ Klicka på **Kör**, och ditt program ska skriva ut din ålder år 2025.
++ Klicka på **Run**, och ditt program bör skriva ut din ålder år 2025.
     
     ![skärmdump](images/me-calc-run.png)
 
-+ Du kan förbättra ditt program genom att använda `input()` att fråga användarens ålder och lagra den i en **variabel** kallad `född`.
++ Du kan förbättra ditt program genom att använda `input()` för att fråga efter användarens ålder och lagra den i en **variabel** kallad `fodd`.
     
     ![skärmdump](images/me-input.png)
 
@@ -26,7 +26,7 @@ Du kan också göra beräkningar och skriva ut siffror. Låt oss ta reda på hur
     
     ![skärmdump](images/me-input-test.png)
 
-+ Du kan även skapa en annan variabel för att lagra resultatet av din kalkyl och skriva ut den istället.
++ Du kan även skapa en annan variabel för att lagra resultatet av din beräkning och skriva ut den istället.
     
     ![skärmdump](images/me-result-variable.png)
 

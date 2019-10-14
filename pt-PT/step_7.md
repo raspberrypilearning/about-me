@@ -10,7 +10,7 @@ Também podes fazer cálculos e imprimir números. Vamos descobrir que idade vai
     
     Nota que não precisas de colocar apóstrofos nos números. (Precisas de alterar o número `2006` se nasceste num ano diferente.)
 
-+ Clique em **Run**e o teu programa deverá imprimir a tua idade no ano de 2025.
++ Clique em **Run** e o teu programa deverá imprimir a tua idade no ano de 2025.
     
     ![captura de ecrã](images/me-calc-run.png)
 

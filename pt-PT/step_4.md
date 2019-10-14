@@ -1,9 +1,9 @@
-\--- desafio \---
+\--- challenge \---
 
-## Desafio: O que você tem em mente?
+## Desafio: O que estás a pensar?
 
-Mude o código que você acabou de escrever para imprimir algo mais interessante sobre você!
+Altera o código que acabaste de escrever para imprimir algo mais interessante sobre ti!
 
 ![captura de tela](images/me-mind.png)
 
-\--- / desafio \---
+\--- /challenge \---

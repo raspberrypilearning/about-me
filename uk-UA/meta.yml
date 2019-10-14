@@ -1,5 +1,5 @@
 ---
-hero_image: images / about-me.png
+hero_image: images/about-me.png
 theme: orange
 duration: 2
 listed: true
@@ -20,11 +20,11 @@ steps:
   - 
     title: Вступ
   - 
-    title: Що вам знадобиться
+    title: Що тобі знадобиться
   - 
-    title: Скажіть привіт
+    title: Привітання
   - 
-    title: "Завдання: що в тебе на думці?"
+    title: "Завдання: про що ти думаєш?"
   - 
     title: ASCII-графіка
   - 
@@ -32,6 +32,6 @@ steps:
   - 
     title: 2025 рік
   - 
-    title: "Завдання: ваш вік у роках собак"
+    title: "Завдання: твій вік у роках собаки"
   - 
-    title: "Завдання: розрахунок тексту"
+    title: "Завдання: рахування тексту"

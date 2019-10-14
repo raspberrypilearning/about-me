@@ -1,35 +1,35 @@
 ## O ano de 2025
 
-Você também pode fazer cálculos e imprimir números. Vamos descobrir quantos anos você terá no ano 2025!
+Também podes fazer cálculos e imprimir números. Vamos descobrir que idade vais ter no ano 2025!
 
-+ Para calcular quantos anos você terá no ano de 2025, você precisa subtrair o ano em que nasceu a partir de 2025.
++ Para calcular que idade vais ter no ano de 2025, precisas subtrair o ano em que nasceste de 2025.
     
-    Adicione este código ao seu programa:
+    Adiciona este código ao teu programa:
     
-    ![captura de tela](images/me-calc.png)
+    ![captura de ecrã](images/me-calc.png)
     
-    Observe que você não precisa colocar aspas nos números. (Você precisará alterar o número `2006` se você nasceu em um ano diferente.)
+    Nota que não precisas de colocar apóstrofos nos números. (Precisas de alterar o número `2006` se nasceste num ano diferente.)
 
-+ Clique em **Executar**e seu programa deverá imprimir sua idade no ano de 2025.
++ Clique em **Run**e o teu programa deverá imprimir a tua idade no ano de 2025.
     
-    ![captura de tela](images/me-calc-run.png)
+    ![captura de ecrã](images/me-calc-run.png)
 
-+ Você poderia melhorar seu programa usando `input ()` para perguntar ao usuário sua idade e armazená-lo em uma **variável** chamada `nascida`.
++ Podes melhorar o teu programa usando `input ()` para perguntar ao utilizador a sua idade e armazená-la numa **variável** chamada `nascido`.
     
-    ![captura de tela](images/me-input.png)
+    ![captura de ecrã](images/me-input.png)
 
-+ Execute o seu programa e, em seguida, insira o ano em que você nasceu. Did you get another error message?
++ Executa o teu programa e em seguida insere o ano em que nasceste. Voltaste a receber uma mensagem de erro?
     
-    Isso porque qualquer coisa digitada em seu programa é **texto**e precisa ser convertida em **número**.
+    Isso foi porque qualquer coisa digitada no teu programa é **texto** e precisa ser convertida em **número**.
     
-    Você pode usar `int ()` para converter o texto em um **inteiro**. Um inteiro é um número inteiro.
+    Podes usar `int ()` para converter o texto em um **inteiro**. Um inteiro é um número inteiro.
     
-    ![captura de tela](images/me-input-test.png)
+    ![captura de ecrã](images/me-input-test.png)
 
-+ Você também pode criar outra variável para armazenar seu cálculo e imprimi-la.
++ Em vez disso também pode criar outra variável para armazenares o teu cálculo, e depois imprimi-la.
     
-    ![captura de tela](images/me-result-variable.png)
+    ![captura de ecrã](images/me-result-variable.png)
 
-+ Finalmente, você pode tornar seu programa mais fácil de entender, adicionando uma mensagem útil.
++ Finalmente, podes tornar o teu programa mais fácil de entender, adicionando uma mensagem de esclarecimento.
     
-    ![captura de tela](images/me-message.png)
+    ![captura de ecrã](images/me-message.png)

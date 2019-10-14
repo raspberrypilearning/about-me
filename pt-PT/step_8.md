@@ -1,11 +1,11 @@
-\--- desafio \---
+\--- challenge \---
 
-## Desafio: sua idade em anos de cão
+## Desafio: a tua idade em anos de cão
 
-Escreva um programa para perguntar ao usuário sua idade e, em seguida, diga a ele sua idade em anos de cachorro! Você pode calcular a idade de uma pessoa em anos de cachorro multiplicando sua idade por 7.
+Escreve um programa para perguntar ao utilizador a idade e, em seguida, responde com a idade em anos de cachorro! Podes calcular a idade de uma pessoa em anos de cachorro multiplicando a sua idade por 7.
 
-![captura de tela](images/me-dog-years.png)
+![captura de ecrã](images/me-dog-years.png)
 
-Na programação, o símbolo para a **multiplicação** é o `*` , que você normalmente pode digitar pressionando <kbd>Shift + 8</kbd> no teclado.
+Na programação, o símbolo para a **multiplicação** é o `*`, que normalmente podes digitar pressionando <kbd>Shift + 8</kbd> no teclado.
 
-\--- / desafio \---
+\--- /challenge \---

@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- izziv \---
 
 ## Challenge: about yourself
 
@@ -8,6 +8,6 @@ Write a Python program to tell others about yourself using text and ASCII art. Y
 
 Here’s an example:
 
-![screenshot](images/me-about.png)
+![posnetek zaslona](images/me-about.png)
 
 \--- /challenge \---

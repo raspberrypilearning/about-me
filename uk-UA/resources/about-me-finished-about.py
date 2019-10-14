@@ -8,7 +8,7 @@ print('''
  o-###-
    | |   #
 
-Я живу у Львові
+Я живу в Харкові
 
    _|_
   |   |
@@ -19,7 +19,7 @@ print('''
 
 ''')
 
-rik_narodzhennya = input('У якому році ви народилися?')
+rik_narodzhennya = input('В якому році ти народився?')
 rik_narodzhennya = int(rik_narodzhennya)
 vik = 2025 - rik_narodzhennya
-print('У 2025 році вам буде', vik, 'років!')
+print('У 2025 році тобі буде', vik, 'років!')

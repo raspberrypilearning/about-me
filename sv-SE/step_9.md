@@ -1,8 +1,8 @@
-\--- utmaning \---
+\--- challenge \---
 
-## Utmaning: Kalkyl med text
+## Utmaning: Beräkningar med text
 
-Visste du att du också kan göra kalkyler med text?!
+Visste du att du också kan göra beräkningar med text?!
 
 Vad kommer följande program att skriva ut på skärmen? Se om du kan gissa det korrekt innan du kör programmet.
 

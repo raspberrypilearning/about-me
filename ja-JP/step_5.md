@@ -21,6 +21,6 @@
     
     ![スクリーンショット](images/me-dog-bug-fix.png)
 
-+ If you prefer, you can use three apostrophes `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
++ 必要に応じて、3つのアポストロフィ `'''` を1つではなく使用して、1つの `print` ステートメントで複数行のテキストを表示することができます。
     
     ![スクリーンショット](images/me-dog-triple-quote.png)</ul>

@@ -6,7 +6,7 @@ print('''
 Meus animais favoritos são ovelhas
 
  o-###-
-   | | #
+   | |   #
 
 Eu moro em Glasgow
 
@@ -19,7 +19,7 @@ Eu moro em Glasgow
 
 ''')
 
-ano = input ('Em que ano você nasceu?')
+ano = input('Em que ano você nasceu? ')
 ano = int(ano)
 idade = 2025 - ano
-print ('No ano 2025 você estará com', idade, 'anos de idade!')
+print('No ano 2025 você estará com', idade, 'anos de idade!')

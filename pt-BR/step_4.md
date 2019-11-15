@@ -1,4 +1,4 @@
-\--- desafio \---
+\--- challenge \---
 
 ## Desafio: O que você tem em mente?
 

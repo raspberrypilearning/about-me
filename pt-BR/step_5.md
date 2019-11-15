@@ -1,25 +1,25 @@
 ## Arte ASCII
 
-Vamos imprimir algo muito mais divertido do que texto: arte ASCII! A arte ASCII (pronuncia-se '*ask-e*') está criando **imagens fora do texto**.
+Vamos imprimir algo muito mais divertido do que texto: arte ASCII! A arte ASCII (pronuncia-se '*ask-e*') é a criação de **imagens a partir de texto**.
 
 + Vamos adicionar um pouco de arte ao seu programa - uma foto de um cachorro!
     
     ![screenshot](images/me-dog.png)
 
-As pernas do cachorro são feitas usando o personagem pipe `|` que você pode digitar pressionando <kbd>Shift + \ </kbd> na maioria dos teclados do Reino Unido / EUA em inglês.
+As pernas do cachorro são feitas usando o caractere pipe `|` que você pode digitar pressionando <kbd>Shift + \ </kbd> na maioria dos teclados em português.
 
 + Se você clicar em **Run**, verá que há um bug no seu novo código.
     
     ![captura de tela](images/me-dog-bug.png)
     
-    Isso porque seu texto contém um apóstrofo `'`, que o Python considera o fim do texto!
+    Isso porque o corpo do cachorro contém uma aspa `'` para formar o rabo, que o Python considera o fim do texto!
     
     ![screenshot](images/me-dog-quote.png)
 
-+ Para corrigir isso, basta colocar uma barra invertida `` antes do apóstrofo na palavra `aqui`. Isso informa ao Python que o apóstrofo é parte do texto.
++ Para corrigir isso, basta colocar uma barra invertida `` antes da aspa que forma o rabo do cachorro `o____'`. Isso informa ao Python que a aspa é parte do texto.
     
     ![screenshot](images/me-dog-bug-fix.png)
 
-+ If you prefer, you can use three apostrophes `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
++ Se preferir você pode usar três aspas simples `'''` ao invés de uma, o que permite imprimir várias linhas de texto com uma instrução `print`:
     
     ![screenshot](images/me-dog-triple-quote.png)

@@ -1,33 +1,33 @@
-## Aufgabe: An was denkst du?
+## Hallo sagen
 
-Let's start by writing some text.
+Beginnen wir mit dem Schreiben von Text.
 
-+ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Öffne ein leeres Python-Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Type the following into the window that appears:
++ Gib Folgendes in das erscheinende Fenster ein:
     
     ![screenshot](images/me-hi.png)
     
-    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
+    Die Zeile `#!/bin/python3` teilt Trinket lediglich mit, dass wir Python 3 (die neueste Version) verwenden.
 
-+ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
++ Klicke auf **Run**, und Du solltest sehen, dass der Befehl `print()` alles zwischen den Anführungszeichen `''` druckt.
     
     ![Screenshot](images/me-hi-test.png)
 
-If you've made a mistake, you'll get an error message telling you what went wrong instead!
+Wenn Du einen Fehler gemacht hast, erhältst Du stattdessen eine Fehlermeldung, die dir sagt was schief gelaufen ist!
 
-+ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
++ Versuche es! Lösche das letzte Anführungszeichen `'` oder die schließende Klammer `)` (oder beides) und sieh, was passiert.
     
     ![screenshot](images/me-syntax.png)
 
-+ Add the quote or bracket back in, and click **Run** to make sure your project works again.
++ Füge das Anführungszeichen oder die Klammer wieder hinzu und klicke auf **Run** um sicherzustellen, dass dein Projekt wieder funktioniert.
 
 **Du benötigst kein Trinket-Konto, um deine Projekte zu speichern!**
 
-Wenn du kein Trinket-Konto hast, klicke auf den Pfeil hinunter und dann auf **Link**. Dadurch erhältst du einen Link, den du speichern und später wiederherstellen kannst. Das musst du jedes Mal tun, wenn du Änderungen vorgenommen hast, da sich der Link ändert!
+Wenn du kein Trinket-Konto hast, klicke auf den Pfeil runter und dann auf **Link**. Dadurch erhältst du einen Link, den du speichern und später wiederherstellen kannst. Das musst du jedes Mal tun, wenn du Änderungen vorgenommen hast, da sich der Link ändert!
 
 ![Screenshot](images/me-link.png)
 
-If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
+Wenn Du ein Trinket-Konto hast, kannst Du auf **Remix** klicken, um deine eigene Kopie des trinket zu speichern.
 
 ![Screenshot](images/me-remix.png)

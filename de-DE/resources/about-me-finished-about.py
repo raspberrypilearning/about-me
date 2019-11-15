@@ -1,14 +1,14 @@
 #!/bin/python3
 
-print('Hi, I can code in Python!')
+print ("Hallo, ich kann in Python programmieren!")
 
-print('''
-My favourite animals are sheep
+print("""
+Meine Lieblingstiere sind Schafe
 
  o-###-
    | |   #
 
-I live in Glasgow
+Ich lebe in Glasgow
 
    _|_
   |   |
@@ -17,9 +17,9 @@ I live in Glasgow
   |  #|  # |
  _|___|_#__|_
 
-''')
+""")
 
-born = input('What year were you born?')
-born = int(born)
-age = 2025 - born
-print('In the year 2025 you\'ll be', age, 'years old!')
+geboren = input("In welchem Jahr wurdest du geboren?")
+geboren = int(geboren)
+alter = 2025 - geboren
+print("Im Jahr 2025 wirst du " alter," Jahre alt sein!")

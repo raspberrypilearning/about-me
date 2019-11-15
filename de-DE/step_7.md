@@ -1,35 +1,35 @@
-## Aufgabe: Alter in Hundejahren
+## Das Jahr 2025
 
-You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
+Du kannst auch Berechnungen durchführen und Zahlen ausgeben. Lass uns herausfinden, wie alt Du im Jahr 2025 sein wirst!
 
-+ To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
++ Um zu berechnen, wie alt Du im Jahr 2025 sein wirst, musst Du das Jahr in dem Du geboren wurdest von 2025 subtrahieren.
     
-    Add this code to your program:
+    Füge diesen Code deinem Programm hinzu:
     
     ![Screenshot](images/me-calc.png)
     
-    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
+    Beachte, dass Du Zahlen nicht in Anführungszeichen setzen musst. (Du musst die Zahl `2006` ändern, wenn Du in einem anderen Jahr geboren wurdest.)
 
-+ Click **Run**, and your program should print your age in the year 2025.
++ Klicke auf **Run** und dein Programm sollte dein Alter im Jahr 2025 ausgeben.
     
     ![screenshot](images/me-calc-run.png)
 
-+ You could improve your program by using `input()` to ask the user their age and store it in a **variable** called `born`.
++ Du könntest dein Programm verbessern, indem du `input()` verwendest, um den Benutzer nach seinem Geburtsjahr zu fragen und dieses dann in einer **Variablen** namens `geboren` zu speichern.
     
     ![Screenshot](images/me-input.png)
 
-+ Run your program and then enter the year you were born. Did you get another error message?
++ Führe dein Programm aus und gib dann das Jahr ein, in dem Du geboren wurdest. Hast du eine weitere Fehlermeldung bekommen?
     
-    That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
+    Das liegt daran, dass alles, was in dein Programm eingegeben wird, **Text** ist und in eine **Zahl** konvertiert werden muss.
     
-    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
+    Du kannst `int()` verwenden, um den Text in ein **"Integer"** umzuwandeln. Ein "Integer" ist eine ganze Zahl.
     
     ![Screenshot](images/me-input-test.png)
 
-+ You can also create another variable to store your calculation, and print that instead.
++ Du kannst auch noch eine Variable erstellen, um deine Berechnung zu speichern und dann stattdessen diese ausgeben.
     
     ![screenshot](images/me-result-variable.png)
 
-+ Finally, you can make your program easier to understand by adding a helpful message.
++ Schließlich könntest Du dein Programm verständlicher machen, indem Du eine hilfreiche Nachricht hinzufügst.
     
     ![Screenshot](images/me-message.png)

@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Challenge: Einen Text berechnen
+## Herausforderung: Text berechnen
 
-Did you know that you can also calculate text?!
+Wusstest Du, dass Du auch Text berechnen kannst?!
 
-What will the following program print to the screen? See if you can guess it correctly before running the program.
+Was wird das folgende Programm auf dem Bildschirm ausgeben? Schau mal, ob Du es richtig erraten kannst, bevor Du das Programm ausführst.
 
 ![screenshot](images/me-text-calc.png)
 
-Can you make up any words of your own? You could even make your own patterns!
+Kannst Du dir eigene Wörter einfallen lassen? Du kannst sogar Deine eigenen Muster erstellen!
 
 ![Screenshot](images/me-patterns.png)
 
-Und ergänze den CSS-Code in <0>style.css</0>, um das Bild zu positionieren.
+\--- /challenge \---

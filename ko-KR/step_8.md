@@ -8,4 +8,4 @@
 
 프로그래밍에서, **multiplicaton**기호는 `*` 문자입니다. 키보드에서 <kbd>Shift + 8</kbd>을 눌러서 입력할 수 있어요.
 
-<0>for</0>, <0>forward()</0>, <0>penup()</0> and <0>pendown()</0>를 사용해 보세요.
+\--- /challenge \---

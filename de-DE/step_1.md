@@ -1,6 +1,6 @@
 ## Einleitung
 
-In diesem Projekt lernst du wie man ein Python-Programm schreibt, das den anderen Menschen alles über dich erzählt.
+In diesem Projekt lernst du wie man ein Python-Programm schreibt, das anderen Leuten alles über dich erzählt.
 
 ### Was du machen wirst
 
@@ -12,12 +12,12 @@ In diesem Projekt lernst du wie man ein Python-Programm schreibt, das den andere
 
 ### Was du lernen wirst
 
-Dieses Projekt umfasst Elemente aus den folgenden Strängen der [ Raspberry Pi Digital Making Curriculum ](http://rpf.io/curriculum) {:Ziel="_leer"}:
+Dieses Projekt umfasst Elemente aus den folgenden Themen des [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Verwende grundlegende Programmierkonstrukte, um einfache Programme zu erstellen ](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
 ### Zusätzliche Informationen für Pädagogen
 
-Wenn du dieses Projekt ausdrucken musst, verwende die [druckerfreundliche Version](https://projects.raspberrypi.org/en/projects/about-me/print){:Ziel="_leer"}.
+Wenn du dieses Projekt ausdrucken möchtest, verwende die [druckerfreundliche Version](https://projects.raspberrypi.org/en/projects/about-me/print){:target="_blank"}.
 
 Verwenden Sie den Link in der Fußzeile, um auf das GitHub-Repo für dieses Projekt zuzugreifen. Dieses enthält alle Ressourcen (einschließlich eines Beispiels für ein abgeschlossenes Projekt) im Ordner "de-DE/resources".

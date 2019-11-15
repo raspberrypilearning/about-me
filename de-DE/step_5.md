@@ -1,25 +1,25 @@
-## Aufgabe: Über Dich
+## ASCII-Kunst
 
-Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
+Lass uns etwas drucken, das viel mehr Spaß macht als Text: ASCII-Kunst! ASCII-Kunst (ausgesprochen '*ask-i*') erzeugt **Bilder aus Text**.
 
-+ Let's add some art to your program — a picture of a dog!
++ Lass uns etwas Kunst zu deinem Programm hinzufügen - ein Bild von einem Hund!
     
     ![Screenshot](images/me-dog.png)
 
-The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
+Die Beine des Hundes werden mit dem "pipe"-Zeichen (englisch: Rohr oder Pfeife) `|` gemacht. Das Du durch Drücken von <kbd>AltGr + < </kbd> auf den meisten deutschen Tastaturen eingeben kannst.
 
-+ If you click **Run**, you'll see that there's a bug in your new code.
++ Wenn Du auf **Run** klickst wirst du sehen, dass da ein Fehler in deinem neuen Code ist.
     
     ![screenshot](images/me-dog-bug.png)
     
-    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
+    Das liegt daran, dass dein Bild ein Apostroph `'` enthält, von dem Python denkt, dass es das Ende des Textes ist!
     
     ![Screenshot](images/me-dog-quote.png)
 
-+ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
++ Um das zu beheben, setz einfach einen "Backslash" `` (AltGr+ß) vor das Apostroph im Schwanz deines Hundes `||||'`. Das sagt Python, dass der Apostroph Teil des Textes ist.
     
     ![screenshot](images/me-dog-bug-fix.png)
 
-+ If you prefer, you can use three apostrophes `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
++ Wenn Du möchtest, kannst Du auch drei Apostrophe `'''` anstelle von einem verwenden, das erlaubt dir mehrere Textzeilen mit einer `print`-Anweisung zu drucken:
     
     ![Screenshot](images/me-dog-triple-quote.png)

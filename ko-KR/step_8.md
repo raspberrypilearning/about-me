@@ -6,6 +6,6 @@
 
 ![screenshot](images/me-dog-years.png)
 
-프로그래밍에서, **multiplicaton**기호는 `*` 문자입니다. 키보드에서 <kbd>Shift + 8</kbd>을 눌러서 입력할 수 있어요.
+프로그래밍에서, **곱셈 연산**기호는 `*` 문자입니다. 키보드에서 <kbd>Shift + 8</kbd>을 눌러서 입력할 수 있어요.
 
 --- /challenge ---

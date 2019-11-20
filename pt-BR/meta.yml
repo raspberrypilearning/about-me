@@ -22,7 +22,7 @@ steps:
   - 
     title: O que você vai precisar
   - 
-    title: Dizer olá
+    title: Dizendo olá
   - 
     title: "Desafio: o que você tem em mente?"
   - 
@@ -34,4 +34,4 @@ steps:
   - 
     title: "Desafio: sua idade em anos de cachorro"
   - 
-    title: "Desafio: calcular o texto"
+    title: "Desafio: cálculo de texto"

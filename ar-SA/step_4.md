@@ -1,7 +1,9 @@
 --- challenge ---
+
 ## التحدي: بم تفكر؟
+
 قم بتغيير التعليمة البرمجية التي كتبتها منذ قليل لطباعة شيء أكثر إثارة عنك!
 
-![screenshot](images/me-mind.png)
+![لقطة شاشة](images/me-mind.png)
 
 --- /challenge ---

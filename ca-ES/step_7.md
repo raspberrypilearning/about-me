@@ -22,7 +22,7 @@ També pots fer càlculs i imprimir números. Anem a descobrir quants anys tindr
     
     Això ha passat perquè qualsevol cosa que escriguis al teu programa és **text** i s'ha de convertir a **números**.
     
-    Pots fer servir `int()` per convertir el text a un **integer**. Un "integer" es un número enter.
+    Pots fer servir `int()` per convertir el text a un **integer**. Un "integer" és un número enter. correction
     
     ![captura de pantalla](images/me-input-test.png)
 

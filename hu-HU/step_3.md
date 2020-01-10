@@ -2,7 +2,7 @@
 
 Kezdjük egy rövid szöveggel!
 
-+ Nyisd meg az üres Python trinket sablont: <a href="https://trinket.io/python/e944e28e36" target="_blank">jumpto.cc/python-new</a>.
++ Nyisd meg az üres Python trinket sablont: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
 + Írd be a következőt a megjelenő ablakba:
     

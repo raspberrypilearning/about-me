@@ -2,7 +2,7 @@
 
 Vamos começar escrevendo algum texto.
 
-+ Abra um modelo Python em branco no trinket: <a href="https://trinket.io/python/e944e28e36" target="_blank">trinket.io/python/e944e28e36</a>.
++ Abra um modelo Python em branco no trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
 + Digite o seguinte na janela que aparece:
     

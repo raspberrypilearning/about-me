@@ -2,7 +2,7 @@
 
 Laten we beginnen met het schrijven van wat tekst.
 
-+ Open het nieuwe Python-sjabloon in Trinket: <a href="http://jumpto.cc/python-new" target="_blank"> jumpto.cc/python-new </a>.
++ Open het nieuwe Python-sjabloon in Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
 + Typ het volgende in het venster dat verschijnt:
     

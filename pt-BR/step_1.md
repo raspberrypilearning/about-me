@@ -20,4 +20,4 @@ Este projeto abrange elementos das seguintes vertentes do [Currículo Raspberry 
 
 Se você precisar imprimir este projeto, por favor, use a [versão para impressão](https://projects.raspberrypi.org/pt-BR/projects/about-me/print){:target="_blank"}.
 
-Use o link no rodapé para acessar o repositório do GitHub para este projeto, que contém todos os recursos (incluindo um exemplo do projeto concluído) na pasta 'en/resources'.
+Use o link no rodapé para acessar o repositório do GitHub para este projeto, que contém todos os recursos (incluindo um exemplo do projeto concluído) na pasta 'pt-BR/resources'.

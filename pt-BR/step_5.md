@@ -10,7 +10,7 @@ As pernas do cachorro são feitas usando o caractere pipe `|` que você pode dig
 
 + Se você clicar em **Run**, verá que há um bug no seu novo código.
     
-    ![captura de tela](images/me-dog-bug.png)
+    ![screenshot](images/me-dog-bug.png)
     
     Isso porque o corpo do cachorro contém uma aspa `'` para formar o rabo, que o Python considera o fim do texto!
     

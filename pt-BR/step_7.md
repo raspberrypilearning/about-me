@@ -12,11 +12,11 @@ Você também pode fazer cálculos e imprimir números. Vamos descobrir quantos 
 
 + Clique em **Run**, e seu programa deverá imprimir sua idade no ano de 2025.
     
-    ![captura de tela](images/me-calc-run.png)
+    ![screenshot](images/me-calc-run.png)
 
 + Você pode melhorar seu programa usando `input()` para perguntar ao usuário sua idade e armazená-la em uma **variável** chamada `ano`.
     
-    ![captura de tela](images/me-input.png)
+    ![screenshot](images/me-input.png)
 
 + Execute o seu programa e, em seguida, insira o ano em que você nasceu. Você recebeu outra mensagem de erro?
     
@@ -28,7 +28,7 @@ Você também pode fazer cálculos e imprimir números. Vamos descobrir quantos 
 
 + Você também pode criar outra variável para armazenar seu cálculo e imprimi-la.
     
-    ![captura](images/me-result-variable.png)
+    ![screenshot](images/me-result-variable.png)
 
 + Finalmente, você pode facilitar a compreensão do seu programa adicionando uma mensagem útil.
     

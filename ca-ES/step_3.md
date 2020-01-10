@@ -1,6 +1,6 @@
 ## Saludar
 
-Pots començar escribint alguna cosa.
+Pots començar escrivint alguna cosa. correction
 
 + Obre la plantilla en blanc de Python: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 

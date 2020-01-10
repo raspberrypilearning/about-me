@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: about yourself
+## Meydan okuma: kendin hakkında
 
-Write a Python program to tell others about yourself using text and ASCII art. You can create images of your hobbies, friends, or anything you like!
+Metin ve ASCII sanatını kullanarak başkalarına kendinizden bahsetmek için bir Python programı yazınız. Hobilerinizin, arkadaşlarınızın veya istediğiniz herhangi bir şeyin resimlerini oluşturabilirsiniz!
 
-**Remember that the code you write in Trinket is public. Don't share any personal information like your full name or address!**
+**Trinket’da yazdığınız kodun herkese açık olduğunu unutmayın. Adınız veya açık adresiniz gibi hiçbir kişisel bilginizi paylaşmayın!**
 
-Here’s an example:
+İşte bir örnek:
 
-![screenshot](images/me-about.png)
+![ekran görüntüsü](images/me-about.png)
 
 \--- /challenge \---

@@ -6,6 +6,6 @@ Escriu un programa per preguntar a l'usuari la seva edat, i després digues-li l
 
 ![captura de pantalla](images/me-dog-years.png)
 
-En programació, el símbol de **multiplicació** és el caràcter `*`, que el pots fer prément la tecla <kbd>Shift + "+"</kbd>.
+En programació, el símbol de **multiplicació** és el caràcter `*`, que el pots fer prement la tecla <kbd>Shift + "+"</kbd>. correction
 
 \--- /challenge \---

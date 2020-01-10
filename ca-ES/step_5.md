@@ -12,7 +12,7 @@ Les potes del gos s'han fet utilitzant el caràcter de tub `|` el qual pots repr
     
     ![captura de pantalla](images/me-dog-bug.png)
     
-    Això és perquè el teu text conté un apòstrof `'`, i Python pensa que es el final del text!
+    Això és perquè el teu text conté un apòstrof `'`, i Python pensa que és el final del text! correction
     
     ![captura de pantalla](images/me-dog-quote.png)
 

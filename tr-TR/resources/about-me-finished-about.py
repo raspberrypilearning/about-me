@@ -1,14 +1,14 @@
 #!/bin/python3
 
-print('Hi, I can code in Python!')
+print('Merhaba, Python\'da kodlama yapabiliyorum!')
 
 print('''
-My favourite animals are sheep
+Koyun en sevdiğim hayvandır
 
  o-###-
    | |   #
 
-I live in Glasgow
+Ankarada yaşıyorum
 
    _|_
   |   |
@@ -19,7 +19,7 @@ I live in Glasgow
 
 ''')
 
-born = input('What year were you born?')
-born = int(born)
-age = 2025 - born
-print('In the year 2025 you\'ll be', age, 'years old!')
+dogum = input('Hangi yılda doğdunuz?')
+dogum = int(dogum)
+yas = 2025 - dogum
+print('2025 yılında ', yas, 'yaşında olacaksınız!')

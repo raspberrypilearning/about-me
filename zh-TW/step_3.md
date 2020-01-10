@@ -2,7 +2,7 @@
 
 首先，我們來打一些字。
 
-+ 打開空白的 Python 模板： <a href="https://trinket.io/python/e944e28e36" target="_blank">jumpto.cc/python-new</a>。
++ 打開空白的 Python 模板： <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
 + 在出現的視窗中輸入以下內容：
     

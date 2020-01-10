@@ -2,7 +2,7 @@
 
 텍스트를 작성해 봅시다.
 
-+ 빈 파이썬 템플릿을 연다: <a href="https://trinket.io/python/e944e28e36" target="_blank">trinket.io/python/e944e28e36</a>
++ 빈 파이썬 템플릿을 연다: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
 + 보여지는 창에 다음을 입력한다.
     

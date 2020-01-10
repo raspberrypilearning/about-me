@@ -1,25 +1,25 @@
-## ASCII art
+## ASCII sanatı
 
-Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
+Düz yazıdan çok daha eğlenceli bir şey yazdıralım: ASCII sanatı! ASCII sanatı ('*aski*' diye telaffuz edilir) ** yazı karakterlerinden resim oluşturmaktadır**.
 
-+ Let's add some art to your program — a picture of a dog!
++ Hadi programınıza biraz sanat ekleyelim - bir köpeğin resmi!
     
-    ![screenshot](images/me-dog.png)
+    ![ekran görüntüsü](images/me-dog.png)
 
-The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
+Köpeğin bacakları, genellikle Türkçe klavyelerde <kbd>AltGr ve -</kbd> tuş ikilisine basılarak elde edilen düz çizgi `|` ile yapılabilir.
 
-+ If you click **Run**, you'll see that there's a bug in your new code.
++ **Run** (Çalıştır)'ı tıklarsanız, yeni kodunuzda bir hata olduğunu göreceksiniz.
     
-    ![screenshot](images/me-dog-bug.png)
+    ![ekran görüntüsü](images/me-dog-bug.png)
     
-    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
+    Çünkü metninizde, Python'un yazının sonlandırılmış olduğunu düşündüren bir kesme işareti `'` bulunuyor!
     
-    ![screenshot](images/me-dog-quote.png)
+    ![ekran görüntüsü](images/me-dog-quote.png)
 
-+ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
++ Bunu düzeltmek için, köpeğin ASCII sanat resminde kuyruğunu gösteren `'` kesme işaretinin hemen öncesine sadece bir ters eğik çizgi `` koyun. Bu Python'a kesme işaretinin metnin bir parçası olduğunu söyler.
     
-    ![screenshot](images/me-dog-bug-fix.png)
+    ![ekran görüntüsü](images/me-dog-bug-fix.png)
 
-+ If you prefer, you can use three apostrophes `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
++ Dilerseniz her satırda bir kesme işareti yazmak yerine tek bir `print` komutuyla birçok satır yazmanıza olanak sağlayan üç tane kesme işaretini `'''` de kullanabilirsiniz:
     
-    ![screenshot](images/me-dog-triple-quote.png)
+    ![ekran görüntüsü](images/me-dog-triple-quote.png)

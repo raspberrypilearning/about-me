@@ -1,13 +1,11 @@
 --- challenge ---
-## Aufgabe: Text berechnen
-Wusstest du, dass du auch Text berechnen kannst?!
 
-Was druckt das folgende Programm auf den Bildschirm? Probiere einmal, ob du es richtig erraten kannst, ehe du das Programm laufen lässt.
+## Herausforderung: Dein Alter in Hundejahren
 
-![screenshot](images/me-text-calc.png)
+Schreib ein Programm, um den Benutzer nach seinem Alter zu fragen, und teile ihm dann sein Alter in Hundejahren mit! Du kannst das Alter einer Person in Hundejahren berechnen, indem Du ihr Alter mit 7 multiplizierst.
 
-Kannst du vielleicht auch eigene Worte erfinden? Du kannst auch deine eigenen Muster erstellen!
+![screenshot](images/me-dog-years.png)
 
-![screenshot](images/me-patterns.png)
+In der Programmierung ist das Symbol für die **Multiplikation** das `*` Zeichen, das Du normalerweise durch Drücken von <kbd>Shift + +</kbd> auf der Tastatur eingeben kannst.
 
 --- /challenge ---

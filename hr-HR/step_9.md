@@ -15,6 +15,7 @@ Možeš li sam izmisliti neke svoje riječi? Možeš čak napraviti i vlastite u
 --- /challenge ---
 
 ***
+
 Ovaj su projekt preveli volonteri:
 
 **Maja Manojlović**

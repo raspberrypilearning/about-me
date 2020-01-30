@@ -14,9 +14,11 @@ Peux-tu inventer tes propres mots ? Tu peux même faire tes propres motifs!
 
 --- /challenge ---
 
+***
+Ce projet a été traduit par des bénévoles:
 
-**Traduction de la communauté**
+**Jonathan Virga**
 
-Ce projet a été traduit par **Jonathan Virga** et vérifié par **Simon Gleises**.
+**Simon Gleises**
 
-Nos incroyables bénévoles de traduction nous aident à donner aux enfants du monde entier la chance d'apprendre à coder. Vous pouvez nous aider à atteindre plus d'enfants en traduisant nos projets - en savoir plus sur [rpf.io/translators](https://rpf.io/translators).
+Grâce aux bénévoles, nous pouvons donner aux gens du monde entier la chance d'apprendre dans leur propre langue. Vous pouvez nous aider à atteindre plus de personnes en vous portant volontaire pour la traduction - plus d'informations sur [rpf.io/translate](https://rpf.io/translate).

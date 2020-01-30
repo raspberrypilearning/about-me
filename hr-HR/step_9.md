@@ -13,9 +13,14 @@ Možeš li sam izmisliti neke svoje riječi? Možeš čak napraviti i vlastite u
 ![screenshot](images/me-patterns.png)
 
 --- /challenge ---
+
 ***
-### Prijevod članova zajednice 
+Ovaj su projekt preveli volonteri:
 
-Ovaj je projekt preveo/la **Maja Manojlović** i pregledao/la **Erik Braun/Vedran Maršić**.
+**Maja Manojlović**
 
-Naši nevjerojatni volonteri prevoditelji pomažu nam da djeci širom svijeta pružimo priliku da nauče programirati. Možete nam pomoći da dosegnemo više djece prevođenjem naših projekata - pročitajte više na [rpf.io/translators](https://rpf.io/translators).
+**Erik Braun**
+
+**Vedran Maršić**
+
+Zahvaljujući volonterima, možemo pružiti ljudima širom svijeta priliku da uče na svom jeziku. Možete nam pomoći da dođemo do većeg broja ljudi tako da postanete volonter prevoditelj. Više informacija možete pronaći na [rpf.io/translate](https://rpf.io/translate).

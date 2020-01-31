@@ -1,15 +1,15 @@
-\--- výzva \---
+\--- challenge \---
 
-## Výzva: počítanie s textom
+## Challenge: calculating text
 
-Vieš, že môžeš počítať aj text?!
+Did you know that you can also calculate text?!
 
-Čo vypíše nasledujúci program na obrazovku? Skús, či to vieš uhádnuť ešte predtým, než spustíš program.
+What will the following program print to the screen? See if you can guess it correctly before running the program.
 
-![snímka obrazovky](images/me-text-calc.png)
+![screenshot](images/me-text-calc.png)
 
-Dokážeš takto poskladať slová podobným spôsobom? Môžeš dokonca vytvárať vlastné vzory!
+Can you make up any words of your own? You could even make your own patterns!
 
-![snímka obrazovky](images/me-patterns.png)
+![screenshot](images/me-patterns.png)
 
-\--- /výzva \---
+\--- /challenge \---

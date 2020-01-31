@@ -1,25 +1,25 @@
-## ASCII sanatı
+## ASCII art
 
-Düz yazıdan çok daha eğlenceli bir şey yazdıralım: ASCII sanatı! ASCII sanatı ('*aski*' diye telaffuz edilir) ** yazı karakterlerinden resim oluşturmaktadır**.
+Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
 
-+ Hadi programınıza biraz sanat ekleyelim - bir köpeğin resmi!
++ Let's add some art to your program — a picture of a dog!
     
-    ![ekran görüntüsü](images/me-dog.png)
+    ![screenshot](images/me-dog.png)
 
-Köpeğin bacakları, genellikle Türkçe klavyelerde <kbd>AltGr ve -</kbd> tuş ikilisine basılarak elde edilen düz çizgi `|` ile yapılabilir.
+The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
 
-+ **Run** (Çalıştır)'ı tıklarsanız, yeni kodunuzda bir hata olduğunu göreceksiniz.
++ If you click **Run**, you'll see that there's a bug in your new code.
     
-    ![ekran görüntüsü](images/me-dog-bug.png)
+    ![screenshot](images/me-dog-bug.png)
     
-    Çünkü metninizde, Python'un yazının sonlandırılmış olduğunu düşündüren bir kesme işareti `'` bulunuyor!
+    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
     
-    ![ekran görüntüsü](images/me-dog-quote.png)
+    ![screenshot](images/me-dog-quote.png)
 
-+ Bunu düzeltmek için, köpeğin ASCII sanat resminde kuyruğunu gösteren `'` kesme işaretinin hemen öncesine sadece bir ters eğik çizgi `` koyun. Bu Python'a kesme işaretinin metnin bir parçası olduğunu söyler.
++ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
     
-    ![ekran görüntüsü](images/me-dog-bug-fix.png)
+    ![screenshot](images/me-dog-bug-fix.png)
 
-+ Dilerseniz her satırda bir kesme işareti yazmak yerine tek bir `print` komutuyla birçok satır yazmanıza olanak sağlayan üç tane kesme işaretini `'''` de kullanabilirsiniz:
++ If you prefer, you can use three apostrophes `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
     
-    ![ekran görüntüsü](images/me-dog-triple-quote.png)
+    ![screenshot](images/me-dog-triple-quote.png)

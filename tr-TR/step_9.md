@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Meydan okuma: metin hesaplama
+## Challenge: calculating text
 
-Metin de hesaplayabileceğinizi biliyor muydunuz?!
+Did you know that you can also calculate text?!
 
-Aşağıdaki program ekrana ne yazdıracak? Programı çalıştırmadan önce doğru tahmin edip edemediğinizi görün.
+What will the following program print to the screen? See if you can guess it correctly before running the program.
 
-![ekran görüntüsü](images/me-text-calc.png)
+![screenshot](images/me-text-calc.png)
 
-Bu şekilde kendi kelimelerinizi de yapabilir misiniz? Kendi şekillerinizi bile yapabilirsiniz!
+Can you make up any words of your own? You could even make your own patterns!
 
-![ekran görüntüsü](images/me-patterns.png)
+![screenshot](images/me-patterns.png)
 
 \--- /challenge \---

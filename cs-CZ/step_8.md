@@ -2,7 +2,7 @@
 
 ## Challenge: your age in dog years
 
-Napiš program, který se uživatele zeptá na jeho věk a přepočítá ho na věk psí! Věk osoby v psích let lze vypočítat vynásobením jejich věku 7.
+Write a program to ask the user their age, and then tell them their age in dog years! You can calculate a person’s age in dog years by multiplying their age by 7.
 
 ![screenshot](images/me-dog-years.png)
 

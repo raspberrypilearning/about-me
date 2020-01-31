@@ -20,6 +20,6 @@ Per realizzare le zampe del cane, utilizza la barra verticale `|`, che puoi digi
     
     ![screenshot](images/me-dog-bug-fix.png)
 
-+ Se preferisci, puoi usare tre apostrofi `'''` invece di uno. Questo ti permetterà di stampare più righe di testo utilizzando il comando `print` una volta sola:
++ If you prefer, you can use three apostrophes `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
     
     ![screenshot](images/me-dog-triple-quote.png)

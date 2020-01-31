@@ -1,37 +1,37 @@
 ---
 hero_image: images/about-me.png
-theme: কমলা
-duration: 0
+theme: orange
+duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 1, ডিজাইন -1, প্রোগ্রামিং -1, ফিজিক্যাল-কম্পিউটিং-0, উৎপাদন-0, কমিউনিটি -0
-title: আমার পরিচয়
-description: টেক্সট থেকে ছবি তৈরি করতে প্রোগ্রামিং ল্যাংগুয়েজ Python (পাইথন) ব্যবহার করুন
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: About me
+description: Use the Python programming language to create pictures out of text
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
-technologies: পাইথন (python)
-site_areas: প্রকল্পসমূহ
+technologies: python
+site_areas: projects
 hardware: ''
-software: পাইথন (python)
+software: python
 version: 3
-last_tested: ২০১৭-০১-০১
+last_tested: 2017-01-01
 steps:
   - 
-    title: ভূমিকা
+    title: Introduction
   - 
-    title: যা যা প্রয়োজন
+    title: What you will need
   - 
-    title: হ্যালো বলা
+    title: Saying hello
   - 
-    title: "দেখা যাক: আপনি কি চিন্তা করছেন?"
+    title: "Challenge: what's on your mind?"
   - 
-    title: ASCII শিল্প
+    title: ASCII art
   - 
-    title: "প্রতিযোগিতা: আপনার সম্পর্কে"
+    title: "Challenge: about yourself"
   - 
-    title: ২০২৫ সাল
+    title: The year 2025
   - 
-    title: "প্রতিযোগিতা: কুকুরের আয়ু অনুযায়ী আপনার বয়স"
+    title: "Challenge: your age in dog years"
   - 
-    title: "প্রতিযোগিতা: অক্ষর গণনা"
+    title: "Challenge: calculating text"

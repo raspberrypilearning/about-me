@@ -4,6 +4,6 @@
 
 Change the code you just wrote to print something more interesting about you!
 
-![स्क्रीनशॉट](images/me-mind.png)
+![screenshot](images/me-mind.png)
 
 \--- /challenge \---

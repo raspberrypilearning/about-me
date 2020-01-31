@@ -1,35 +1,35 @@
-## Rok 2025
+## The year 2025
 
-Taktiež môžeš robiť výpočty a zobrazovať čísla. Poďme zistiť, koľko rokov budeš mať v roku 2025!
+You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
 
-+ Pre vypočítanie tvojho veku v roku 2025 musíš odčítať rok tvojho narodenia od čísla 2025.
++ To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
     
-    A toto je kód tvojho programu:
+    Add this code to your program:
     
-    ![snímka obrazovky](images/me-calc.png)
+    ![screenshot](images/me-calc.png)
     
-    Všimni si, že apostrofy nemusíš dávať pred a za čísla. (Budeš musieť zmeniť číslo `2006`, ak tvoj rok narodenia je iný ako rok 2006.)
+    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
 
-+ Klikni na **Run** a tvoj program by mal vypísať tvoj vek v roku 2025.
++ Click **Run**, and your program should print your age in the year 2025.
     
-    ![snímka obrazovky](images/me-calc-run.png)
+    ![screenshot](images/me-calc-run.png)
 
-+ Môžeš vylepšiť svoj program použitím príkazu `input()`, ktorým sa opýtaš užívateľa na rok jeho narodenia a uložiť ho do **premennej** nazvanej `narodenie`.
++ You could improve your program by using `input()` to ask the user their age and store it in a **variable** called `born`.
     
-    ![snímka obrazovky](images/me-input.png)
+    ![screenshot](images/me-input.png)
 
-+ Spusť program a zadaj rok tvojho narodenia. Zobrazila sa ti chybová hláška?
++ Run your program and then enter the year you were born. Did you get another error message?
     
-    Je to preto, lebo čokoľvek zadané do tvojho programu cez príkaz input() je **text** a ten musí byť prevedený (konvertovaný) na **číslo**.
+    That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
     
-    Môžeš použiť príkaz `int()`, ktorý konvertuje text na **integer**. Integer je typ údaju celé číslo.
+    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
     
-    ![snímka obrazovky](images/me-input-test.png)
+    ![screenshot](images/me-input-test.png)
 
-+ Môžeš tiež vytvoriť ďalšiu premennú na uloženie výpočtu a namiesto toho ju vypísať.
++ You can also create another variable to store your calculation, and print that instead.
     
-    ![snímka obrazovky](images/me-result-variable.png)
+    ![screenshot](images/me-result-variable.png)
 
-+ Nakoniec môžete program upraviť, aby bol ľahšie pochopiteľný tak, že pridáš pomocnú správu.
++ Finally, you can make your program easier to understand by adding a helpful message.
     
-    ![snímka obrazovky](images/me-message.png)
+    ![screenshot](images/me-message.png)

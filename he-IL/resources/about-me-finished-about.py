@@ -1,14 +1,14 @@
 #!/bin/python3
 
-("היי, אני יכול לכתוב בפייתון!")
+print('Hi, I can code in Python!')
 
 print('''
-החיות האהובות עלי הן כבשים
+My favourite animals are sheep
 
  o-###-
    | |   #
 
-אני גר בגלזגו
+I live in Glasgow
 
    _|_
   |   |
@@ -19,7 +19,7 @@ print('''
 
 ''')
 
-(= "איזו שנה נולדת?")
+born = input('What year were you born?')
 born = int(born)
 age = 2025 - born
-("בשנת 2025/'תהיה 'גיל', 'שנים'!)
+print('In the year 2025 you\'ll be', age, 'years old!')

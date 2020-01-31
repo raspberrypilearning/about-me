@@ -1,25 +1,25 @@
-## ASCII-konst
+## ASCII art
 
-Låt oss skriva ut något mycket roligare än text: ASCII-konst! ASCII-konst (uttalas "*ask-e*") skapar **bilder av text**.
+Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
 
-+ Låt oss lägga till lite konst i ditt program - en bild av en hund!
++ Let's add some art to your program — a picture of a dog!
     
-    ![skärmdump](images/me-dog.png)
+    ![screenshot](images/me-dog.png)
 
-Hundens ben är gjorda med streckkaraktären `|` som du kan skriva genom att trycka på <kbd>Alt Gr + <</kbd> på de flesta svenska tangentbord.
+The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
 
-+ Om du klickar på **Kör**, ser du att det finns ett fel i din nya kod.
++ If you click **Run**, you'll see that there's a bug in your new code.
     
-    ![skärmdump](images/me-dog-bug.png)
+    ![screenshot](images/me-dog-bug.png)
     
-    Det beror på att texten innehåller en apostrof `'`, som Python tycker är slutet på texten!
+    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
     
-    ![skärmdump](images/me-dog-quote.png)
+    ![screenshot](images/me-dog-quote.png)
 
-+ Lös problemet genom att bara sätta ett omvänt snedstreck `` innan apostrofen i ordet `här är`. Detta berättar för Python att apostrofen är en del av texten.
++ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
     
-    ![skärmdump](images/me-dog-bug-fix.png)
+    ![screenshot](images/me-dog-bug-fix.png)
 
-+ Om du föredrar kan du använda tre apostrofer ` '''` istället för en, som låter dig skriva ut flera rader med text med ett `print` uttryck:
++ If you prefer, you can use three apostrophes `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
     
-    ![skärmdump](images/me-dog-triple-quote.png)
+    ![screenshot](images/me-dog-triple-quote.png)

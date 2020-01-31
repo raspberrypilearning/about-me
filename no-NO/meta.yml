@@ -1,5 +1,5 @@
 ---
-hero_image: images / about-me.png
+hero_image: images/about-me.png
 theme: orange
 duration: 2
 listed: true
@@ -18,9 +18,9 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduksjon
+    title: Introduction
   - 
-    title: Dette trenger du
+    title: What you will need
   - 
     title: Saying hello
   - 

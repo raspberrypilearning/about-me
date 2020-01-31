@@ -1,4 +1,4 @@
-## Lo que necesitarás
+## What you will need
 
 ### Hardware
 
@@ -6,4 +6,4 @@
 
 ### Software
 
-Este proyecto puede completarse en un navegador web usando [trinket.io](https://trinket.io){:target="_blank"}
+This project can be completed in a web browser using [trinket.io](https://trinket.io){:target="_blank"}

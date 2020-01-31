@@ -1,25 +1,25 @@
 #!/bin/python3
 
-print ('Ahoj, kóduju v Pythonu!')
+print('Hi, I can code in Python!')
 
 print('''
-Moje oblíbená zvířata jsou ovce
+My favourite animals are sheep
 
-   o-###-
-       | |   #
+ o-###-
+   | |   #
 
-Žiji v Glasgowě
+I live in Glasgow
 
-      _|_
-    |   |
-    |#  |____
-    |   |    |
-    |  #|  # |
-  _|___|_#__|
+   _|_
+  |   |
+  |#  |____
+  |   |    |
+  |  #|  # |
+ _|___|_#__|_
 
 ''')
 
-narozen = input ("V jakém roce jsi se narodil?")
-narozen = int(narozen)
-vek = 2025 - narozen
-print('V roce 2025 ti bude', vek, 'let!')
+born = input('What year were you born?')
+born = int(born)
+age = 2025 - born
+print('In the year 2025 you\'ll be', age, 'years old!')

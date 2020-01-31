@@ -1,14 +1,14 @@
 #!/bin/python3
 
-print ('Hei, osaan koodata Pythonilla!')
+print('Hi, I can code in Python!')
 
 print('''
-Lempieläimeni on lammas
+My favourite animals are sheep
 
  o-###-
    | |   #
 
-Asun Helsingissä
+I live in Glasgow
 
    _|_
   |   |
@@ -19,7 +19,7 @@ Asun Helsingissä
 
 ''')
 
-syntynyt = input("Minä vuonna olet syntynyt?")
-syntynyt = int(syntynyt)
-ika = 2025 - syntynyt
-print('Vuonna 2025 olet', ika, 'vuotta vanha!')
+born = input('What year were you born?')
+born = int(born)
+age = 2025 - born
+print('In the year 2025 you\'ll be', age, 'years old!')

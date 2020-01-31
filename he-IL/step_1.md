@@ -1,8 +1,8 @@
-## הקדמה
+## Introduction
 
-בפרויקט זה תלמד כיצד לכתוב תוכנית פייתון שתספר לאנשים עליך.
+In this project you will learn how to write a Python program telling people all about you.
 
-### מה תעשה
+### What you will make
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a1f663ae0d?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -10,14 +10,14 @@
   <img src="images/me-final.png">
 </div>
 
-### מה תלמד
+### What you will learn
 
-פרויקט זה מכסה את הנושאים הבאים של [ תוכנית הלימודים הדיגיטלית של רספברי פי ](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [ השתמש במבנים בסיסיים כדי ליצור תוכניות פשוטות ](https://www.raspberrypi.org/curriculum/programming/creator)
++ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-### מידע נוסף למורי המועדון
+### Additional information for educators
 
-אם אתה צריך להדפיס את הפרויקט הזה, אנא השתמש ב [ גרסה ידידותית למדפסת ](https://projects.raspberrypi.org/en/projects/about-me/print).
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/about-me/print){:target="_blank"}.
 
-השתמש בקישור בכותרת התחתונה לגישה לGitHub עבור פרויקט זה, אשר מכיל את כל המשאבים (כולל פרויקט סיום לדוגמה) בתיקיה ‘en/resources'.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.

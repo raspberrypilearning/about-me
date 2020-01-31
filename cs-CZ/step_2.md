@@ -1,9 +1,9 @@
-## Co budeš potřebovat
+## What you will need
 
 ### Hardware
 
-+ Počítač s přístupem na stránky [trinket.io](https://trinket.io){:target="_blank"}
++ A computer capable of accessing the [trinket.io](https://trinket.io){:target="_blank"} website
 
 ### Software
 
-Projekt lze dokončit ve webovém prohlížeči pomocí [trinket.io](https://trinket.io){:target="_blank"}
+This project can be completed in a web browser using [trinket.io](https://trinket.io){:target="_blank"}

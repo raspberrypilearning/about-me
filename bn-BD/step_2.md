@@ -1,9 +1,9 @@
-## যা যা প্রয়োজন
+## What you will need
 
-### হার্ডওয়্যার
+### Hardware
 
-+ [trinket.io](https://trinket.io){:target="_blank"} ওয়েবসাইট খুলতে করতে সক্ষম একটি কম্পিউটার
++ A computer capable of accessing the [trinket.io](https://trinket.io){:target="_blank"} website
 
-### সফটওয়্যার
+### Software
 
-এই প্রজেক্টটি ওয়েব ব্রাউজারে [trinket.io](https://trinket.io){:target="_blank"} লিঙ্কটি খুলে সম্পন্ন করা যাবে।
+This project can be completed in a web browser using [trinket.io](https://trinket.io){:target="_blank"}

@@ -1,14 +1,14 @@
 \--- challenge \---
 
-## Izazov: izračunaj tekst
+## Challenge: calculating text
 
-Da li si znao/znala da možeš da izračunaš i tekst?!
+Did you know that you can also calculate text?!
 
-Šta će sljedeći program ispisati na ekranu? Pokušaj da tačno odgovoriš prije nego što pokreneš program.
+What will the following program print to the screen? See if you can guess it correctly before running the program.
 
 ![screenshot](images/me-text-calc.png)
 
-Možeš li da smisliš neke svoje riječi? Možeš čak i da napraviš sopstvene uzorke!
+Can you make up any words of your own? You could even make your own patterns!
 
 ![screenshot](images/me-patterns.png)
 

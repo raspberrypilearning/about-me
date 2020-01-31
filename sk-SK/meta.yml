@@ -1,37 +1,37 @@
 ---
 hero_image: images/about-me.png
-theme: oranžová
+theme: orange
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 1, návrh-0, programovanieg-1, phys-comp-0, výroba-0, spoločnosť-0
-title: O mne
-description: Použi programovací jazyk Python na vytvorenie obrázkov z textu
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: About me
+description: Use the Python programming language to create pictures out of text
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
 technologies: python
-site_areas: projekty
+site_areas: projects
 hardware: ''
 software: python
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Úvod
+    title: Introduction
   - 
-    title: Čo budeš potrebovať
+    title: What you will need
   - 
-    title: Povedz ahoj
+    title: Saying hello
   - 
-    title: "Výzva: na čo myslíš?"
+    title: "Challenge: what's on your mind?"
   - 
     title: ASCII art
   - 
-    title: "Výzva: o tebe"
+    title: "Challenge: about yourself"
   - 
-    title: Rok 2025
+    title: The year 2025
   - 
-    title: "Výzva: tvoj vek v psích rokoch"
+    title: "Challenge: your age in dog years"
   - 
-    title: "Výzva: počítanie s textom"
+    title: "Challenge: calculating text"

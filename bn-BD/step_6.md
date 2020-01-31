@@ -1,4 +1,4 @@
-\--- চ্যালেঞ্জ \---
+\--- challenge \---
 
 ## Challenge: about yourself
 

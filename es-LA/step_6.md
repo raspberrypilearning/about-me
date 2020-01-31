@@ -8,6 +8,6 @@ Write a Python program to tell others about yourself using text and ASCII art. Y
 
 Here’s an example:
 
-![captura de pantalla](images/me-about.png)
+![screenshot](images/me-about.png)
 
 \--- /challenge \---

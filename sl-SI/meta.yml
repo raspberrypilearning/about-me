@@ -18,9 +18,9 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Uvod
+    title: Introduction
   - 
-    title: Kaj boste potrebovali?
+    title: What you will need
   - 
     title: Saying hello
   - 

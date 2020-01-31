@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Izazov: koliko imaš psećih godina?
+## Challenge: your age in dog years
 
-Napiši program koji pita korisnika koliko godina ima, a zatim mu kaže koliko je to psećih godina! Možeš izračunati koliko psećih godina ima neka osoba tako što ćeš pomnožiti godine te osobe sa 7.
+Write a program to ask the user their age, and then tell them their age in dog years! You can calculate a person’s age in dog years by multiplying their age by 7.
 
 ![screenshot](images/me-dog-years.png)
 
-U programiranju je simbol za **množenje** znak `*` koji obično možemo da upišemo ako pritisnemo <kbd>Shift i +</kbd> na tastaturi.
+In programming, the symbol for **multiplication** is the `*` character, which you can usually type by pressing <kbd>Shift + 8</kbd> on the keyboard.
 
 \--- /challenge \---

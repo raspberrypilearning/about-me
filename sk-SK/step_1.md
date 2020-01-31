@@ -1,8 +1,8 @@
-## Úvod
+## Introduction
 
-V tomto projekte sa naučíš, ako napísať v Pythone program, ktorý ostatným povie všetko o tebe.
+In this project you will learn how to write a Python program telling people all about you.
 
-### Čo budeš robiť
+### What you will make
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a1f663ae0d?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -10,14 +10,14 @@ V tomto projekte sa naučíš, ako napísať v Pythone program, ktorý ostatným
   <img src="images/me-final.png">
 </div>
 
-### Čo sa naučíš
+### What you will learn
 
-Tento materiál pokrýva časti z nasledujúceho výukového zdroja [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Použi základné programovacie konštrukty na vytvorenie jednoduchých programov](https://www.raspberrypi.org/curriculum/programming/creator) {:target="_blank"}
++ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-### Doplňujúce informácie pre učiteľov
+### Additional information for educators
 
-Ak potrebuješ tento projekt vytlačiť, použi [verziu určenú pre tlač](https://projects.raspberrypi.org/en/projects/about-me/print){: target = "_ blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/about-me/print){:target="_blank"}.
 
-Pomocou odkazu na konci strany sa dostaneš do repozitára GitHub tohto projektu v priečinku ‘en/resources’, ktorý obsahuje všetky zdroje (vrátane príkladu hotového projektu).
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.

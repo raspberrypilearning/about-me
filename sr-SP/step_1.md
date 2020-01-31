@@ -1,8 +1,8 @@
-## Увод
+## Introduction
 
-У овом пројекту научићеж како да напиш Python програм који ће људима да каже све о теби.
+In this project you will learn how to write a Python program telling people all about you.
 
-### Шта ћеш направити
+### What you will make
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a1f663ae0d?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -10,14 +10,14 @@
   <img src="images/me-final.png">
 </div>
 
-### Шта ћеш научити
+### What you will learn
 
-Овај пројекат покрива елементе из следећих делова наставног плана и програма [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Коришћење основа програмирања за креирање простих програма](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-### Додатне информације за наставнике
+### Additional information for educators
 
-Уколико желите да одштампате овај пројекат, молимо Вас користите [верзију за штампање](https://projects.raspberrypi.org/en/projects/about-me/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/about-me/print){:target="_blank"}.
 
-Искористите линк у подножју да приступите GitHub репозиторијуму који садржи овај пројекат, који садржи све потребне ресурсе (укључујући и пример завршеног пројекта) у фолдеру 'en/resources'.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.

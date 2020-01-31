@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## チャレンジ：テキストの計算
+## Challenge: calculating text
 
-テキストを計算することもできますか？
+Did you know that you can also calculate text?!
 
-次のプログラムは何をスクリーンに表示しますか？ プログラムを実行する前に正しく推測できるかどうかを確認してください。
+What will the following program print to the screen? See if you can guess it correctly before running the program.
 
-![スクリーンショット](images/me-text-calc.png)
+![screenshot](images/me-text-calc.png)
 
-あなたは自分の言葉を構成することはできますか？ あなたは自分のパターンを作ることさえできます！
+Can you make up any words of your own? You could even make your own patterns!
 
-![スクリーンショット](images/me-patterns.png)
+![screenshot](images/me-patterns.png)
 
 \--- /challenge \---

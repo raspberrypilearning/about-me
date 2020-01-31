@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Utmaning: Om dig själv
+## Challenge: about yourself
 
-Skriv ett Python-program för att berätta för andra om dig själv med hjälp av text och ASCII -konst. Du kan skapa bilder av dina hobbyer, vänner eller vad du vill!
+Write a Python program to tell others about yourself using text and ASCII art. You can create images of your hobbies, friends, or anything you like!
 
-**Kom ihåg att koden du skriver i Trinket är offentlig. Dela inte personliga uppgifter som ditt fullständiga namn eller adress!**
+**Remember that the code you write in Trinket is public. Don't share any personal information like your full name or address!**
 
-Här är ett exempel:
+Here’s an example:
 
-![skärmdump](images/me-about.png)
+![screenshot](images/me-about.png)
 
 \--- /challenge \---

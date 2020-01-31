@@ -1,9 +1,9 @@
-\--- výzva \---
+\--- challenge \---
 
-## Výzva: na čo myslíš?
+## Challenge: What's on your mind?
 
-Zmeň tento práve napísaný kód, aby sa zobrazilo niečo zaujímavejšie o tebe!
+Change the code you just wrote to print something more interesting about you!
 
-![snímka obrazovky](images/me-mind.png)
+![screenshot](images/me-mind.png)
 
-\--- /výzva \---
+\--- /challenge \---

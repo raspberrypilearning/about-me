@@ -1,4 +1,4 @@
-## वर्ष 2025
+## The year 2025
 
 You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
 
@@ -6,17 +6,17 @@ You can also do calculations and print numbers. Let's find out how old you'll be
     
     Add this code to your program:
     
-    ![स्क्रीनशॉट](images/me-calc.png)
+    ![screenshot](images/me-calc.png)
     
     Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
 
 + Click **Run**, and your program should print your age in the year 2025.
     
-    ![स्क्रीनशॉट](images/me-calc-run.png)
+    ![screenshot](images/me-calc-run.png)
 
 + You could improve your program by using `input()` to ask the user their age and store it in a **variable** called `born`.
     
-    ![स्क्रीनशॉट](images/me-input.png)
+    ![screenshot](images/me-input.png)
 
 + Run your program and then enter the year you were born. Did you get another error message?
     
@@ -24,12 +24,12 @@ You can also do calculations and print numbers. Let's find out how old you'll be
     
     You can use `int()` to convert the text to an **integer**. An integer is a whole number.
     
-    ![स्क्रीनशॉट](images/me-input-test.png)
+    ![screenshot](images/me-input-test.png)
 
 + You can also create another variable to store your calculation, and print that instead.
     
-    ![स्क्रीनशॉट](images/me-result-variable.png)
+    ![screenshot](images/me-result-variable.png)
 
 + Finally, you can make your program easier to understand by adding a helpful message.
     
-    ![स्क्रीनशॉट](images/me-message.png)
+    ![screenshot](images/me-message.png)

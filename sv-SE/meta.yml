@@ -6,32 +6,32 @@ listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Om mig
-description: Använd Python programmeringsspråket för att skapa bilder av text
+title: About me
+description: Use the Python programming language to create pictures out of text
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
 technologies: python
-site_areas: projekt
+site_areas: projects
 hardware: ''
 software: python
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduktion
+    title: Introduction
   - 
-    title: Vad du kommer att behöva
+    title: What you will need
   - 
-    title: Säga hej
+    title: Saying hello
   - 
-    title: "Utmaning: Vad tänker du på?"
+    title: "Challenge: what's on your mind?"
   - 
-    title: ASCII-konst
+    title: ASCII art
   - 
-    title: "Utmaning: om dig själv"
+    title: "Challenge: about yourself"
   - 
-    title: Året 2025
+    title: The year 2025
   - 
-    title: "Utmaning: Din ålder i hundår"
+    title: "Challenge: your age in dog years"
   - 
-    title: "Utmaning: Beräkningar med text"
+    title: "Challenge: calculating text"

@@ -1,25 +1,25 @@
-## ASCII আর্ট
+## ASCII art
 
-আসুন টেক্সট এর থেকেও আরও মজাদার কিছু প্রিন্ট করা যাক: ASCII আর্ট! ASCII art (উচ্চারণ '* অ্যাস-কি* ') টেক্সট থেকে </strong> ছবি তৈরি করছে </1> 
+Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
 
-+ আসুন আপনার প্রোগ্রামে কিছু আর্ট যুক্ত করা যাক - একটি কুকুরের ছবি!
++ Let's add some art to your program — a picture of a dog!
     
-    ![স্ক্রিনশট](images/me-dog.png)
+    ![screenshot](images/me-dog.png)
 
-pipe character ` ব্যবহার করে কুকুরের পা তৈরি করা হয়েছে। ` যা আপনি <kbd> শিফট + \ টিপে টাইপ করতে পারেন </kbd> বেশিরভাগ ইউকে / মার্কিন ইংরেজী কীবোর্ডে।
+The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
 
-+ আপনি যদি ক্লিক করেন ** রান ** , আপনি দেখতে পাবেন যে আপনার নতুন কোডে একটি বাগ আছে।
++ If you click **Run**, you'll see that there's a bug in your new code.
     
-    ![স্ক্রিনশট](images/me-dog-bug.png)
+    ![screenshot](images/me-dog-bug.png)
     
-    কারণ এটি আপনার টেক্সট এ একটি ঊর্ধকমা রয়েছে ` '` , Python যাকে টেক্সট এর শেষ বলে মনে করে। 
+    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
     
-    ![স্ক্রিনশট](images/me-dog-quote.png)
+    ![screenshot](images/me-dog-quote.png)
 
-+ এটি ঠিক করতে, কেবল একটি ব্যাকস্ল্যাশ রাখুন ` \ ` ` শব্দটিতে  ঊর্ধকমা এর আগে ` এখানে </0>। এটি পাইথনকে বোঝায় যে ঊর্ধকমা টেক্সট এর অংশ।
++ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
     
-    ![স্ক্রিনশট](images/me-dog-bug-fix.png)
+    ![screenshot](images/me-dog-bug-fix.png)
 
-+ আপনি যদি পছন্দ করেন তবে আপনি তিনটি ঊর্ধকমা ব্যবহার করতে পারেন ` ''' ` একটি ঊর্ধকমার পরিবর্তে, যা আপনাকে একের বেশি টেক্সট লাইন প্রিন্ট করতে দেবে শুধু `print` ব্যবহার করলে। 
++ If you prefer, you can use three apostrophes `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
     
-    ![স্ক্রিনশট](images/me-dog-triple-quote.png)
+    ![screenshot](images/me-dog-triple-quote.png)

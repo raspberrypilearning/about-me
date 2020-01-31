@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Meydan okuma: Aklında ne var?
+## Challenge: What's on your mind?
 
-Yazdığınız kodu değiştirerek kendiniz hakkında daha ilginç bilgiler yazdırın!
+Change the code you just wrote to print something more interesting about you!
 
-![ekran görüntüsü](images/me-mind.png)
+![screenshot](images/me-mind.png)
 
 \--- /challenge \---

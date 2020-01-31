@@ -1,33 +1,33 @@
-## హలో చెప్పడం
+## Saying hello
 
-కొంత వచనం రాయడం ద్వారా ప్రారంభిద్దాం.
+Let's start by writing some text.
 
-+ ఖాళీ పైథాన్ టెంప్లేట్ ట్రింకీట్ను తెరువు: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ కనిపించే విండోలో క్రింది వాటిని టైప్ చేయండి:
++ Type the following into the window that appears:
     
-    ![స్క్రీన్](images/me-hi.png)
+    ![screenshot](images/me-hi.png)
     
-    పంక్తి `#! / బిన్ / పైథాన్ 3` మేము పైథాన్ 3 (తాజా వెర్షన్) ను ఉపయోగిస్తున్నట్లు ట్రింకీట్కు చెబుతుంది.
+    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
 
-+ **రన్**క్లిక్ చేసి, `ప్రింట్ ()` కమాండ్ కోట్ మార్క్స్ `''`మధ్య ప్రింటింగ్ చేస్తుందని మీరు చూడాలి.
++ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
     
-    ![స్క్రీన్](images/me-hi-test.png)
+    ![screenshot](images/me-hi-test.png)
 
-మీరు పొరపాటు చేసినట్లయితే, బదులుగా తప్పు జరిగిందని చెప్పే ఒక దోష సందేశం మీకు వస్తుంది!
+If you've made a mistake, you'll get an error message telling you what went wrong instead!
 
-+ ప్రయత్నించు! తుది కోట్ `'` లేదా మూసివేయడం బ్రాకెట్లు `)` (లేదా రెండింటినీ) తొలగించండి మరియు ఏమి జరుగుతుందో చూడండి.
++ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
     
-    ![స్క్రీన్](images/me-syntax.png)
+    ![screenshot](images/me-syntax.png)
 
-+ కోట్ లేదా బ్రాకెటును తిరిగి చేర్చండి మరియు మీ ప్రాజెక్ట్ మళ్ళీ పనిచేస్తుందని నిర్ధారించుకోవడానికి **రన్** క్లిక్ చేయండి.
++ Add the quote or bracket back in, and click **Run** to make sure your project works again.
 
-**మీ ప్రాజెక్టులను సేవ్ చేయడానికి మీకు ట్రింక్ సెట్ ఖాతా అవసరం లేదు!**
+**You don't need a Trinket account to save your projects!**
 
-మీరు ఒక ట్రింకిట్ ఖాతా లేకపోతే, డౌన్ బాణం క్లిక్ చేసి, ఆపై **లింక్**క్లిక్ చేయండి. ఈ మీరు సేవ్ మరియు తరువాత తిరిగి రండి ఒక లింక్ ఇస్తుంది. మీరు మార్పులు చేస్తున్న ప్రతిసారీ, లింకు మారిపోతున్నట్లు మీరు చెయ్యాలి!
+If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
 
-![స్క్రీన్](images/me-link.png)
+![screenshot](images/me-link.png)
 
-మీరు ఒక విలువ లేని వస్తువు ఖాతా ఉంటే, మీరు క్లిక్ చెయ్యవచ్చు **రీమిక్స్** విలువ లేని వస్తువు యొక్క మీ స్వంత కాపీని సేవ్.
+If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
 
-![స్క్రీన్](images/me-remix.png)
+![screenshot](images/me-remix.png)

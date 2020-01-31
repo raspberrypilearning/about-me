@@ -1,25 +1,25 @@
 #!/bin/python3
 
-print ("Hej, jag kan koda i Python!")
+print('Hi, I can code in Python!')
 
 print('''
-Mina favoritdjur är lamm
+My favourite animals are sheep
 
  o-###-
-     | |  #
+   | |   #
 
-Jag bor i Göteborg
+I live in Glasgow
 
-     _|_
-   |   |
-   |#  |____
-   |   |    |
-   | # |  # |
+   _|_
+  |   |
+  |#  |____
+  |   |    |
+  |  #|  # |
  _|___|_#__|_
 
 ''')
 
-fodd = input('Vilket år är du född?')
-fodd = int(fodd)
-alder = 2025 - fodd
-print('År 2025 kommer du att vara', alder, 'år gammal!')
+born = input('What year were you born?')
+born = int(born)
+age = 2025 - born
+print('In the year 2025 you\'ll be', age, 'years old!')

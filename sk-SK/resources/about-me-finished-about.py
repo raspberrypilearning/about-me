@@ -1,14 +1,14 @@
 #!/bin/python3
 
-print('Ahoj, viem programovať v jazyku Python!')
+print('Hi, I can code in Python!')
 
 print('''
-Moje najobľúbenejšie zvieratá sú ovce
+My favourite animals are sheep
 
  o-###-
    | |   #
 
-Žijem v Nitre
+I live in Glasgow
 
    _|_
   |   |
@@ -19,7 +19,7 @@ Moje najobľúbenejšie zvieratá sú ovce
 
 ''')
 
-narodenie = input('Aký je rok tvojho narodenia?')
-narodenie = int(narodenie)
-vek = 2025 - narodenie
-print('V roku 2025 budeš mať', vek, 'rokov!')
+born = input('What year were you born?')
+born = int(born)
+age = 2025 - born
+print('In the year 2025 you\'ll be', age, 'years old!')

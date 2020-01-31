@@ -1,37 +1,37 @@
 ---
 hero_image: images/about-me.png
-theme: turuncu
+theme: orange
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 1, tasarım-0, programlama-1, fiziksel-hesaplama-0, üretim-0, topluluk-0
-title: Hakkımda
-description: Python programlama dilini kullanarak yazı karakterlerinden resim oluşturun
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: About me
+description: Use the Python programming language to create pictures out of text
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
 technologies: python
-site_areas: projeler
+site_areas: projects
 hardware: ''
 software: python
 version: 3
-last_tested: 01/01/2017
+last_tested: 2017-01-01
 steps:
   - 
-    title: Giriş
+    title: Introduction
   - 
-    title: Nelere ihtiyacınız olacak
+    title: What you will need
   - 
-    title: Merhaba demek
+    title: Saying hello
   - 
-    title: "Meydan okuma: Aklında ne var?"
+    title: "Challenge: what's on your mind?"
   - 
-    title: ASCII sanatı
+    title: ASCII art
   - 
-    title: "Meydan okuma: kendin hakkında"
+    title: "Challenge: about yourself"
   - 
-    title: 2025 yılı
+    title: The year 2025
   - 
-    title: "Meydan okuma: Köpek takvimine göre yaşınız"
+    title: "Challenge: your age in dog years"
   - 
-    title: "Meydan okuma: metin hesaplama"
+    title: "Challenge: calculating text"

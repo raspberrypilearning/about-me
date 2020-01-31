@@ -1,8 +1,8 @@
-## Johdanto
+## Introduction
 
-Tässä projektissa opit kirjoittamaan Python-ohjelman, joka kertoo ihmisille kaiken sinusta.
+In this project you will learn how to write a Python program telling people all about you.
 
-### Mitä tulet tekemään
+### What you will make
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a1f663ae0d?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -10,14 +10,14 @@ Tässä projektissa opit kirjoittamaan Python-ohjelman, joka kertoo ihmisille ka
   <img src="images/me-final.png">
 </div>
 
-### Mitä opit
+### What you will learn
 
-Tämä projekti kattaa osia [Raspberry Pi Digital Making -opetussuunnitelman](http://rpf.io/curriculum) seuraavista osioista {:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Käytä yksinkertaisia ​​ohjelmointirakenteita yksinkertaisten ohjelmien luomiseen](https://www.raspberrypi.org/curriculum/programming/creator){: target = "_ blank"}
++ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-### Lisätietoja opettajille
+### Additional information for educators
 
-Jos haluat tulostaa tämän projektin, käytä [tulostusystävällistä versiota](https://projects.raspberrypi.org/en/projects/about-me/print){: target = "_ blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/about-me/print){:target="_blank"}.
 
-Käytä alatunnisteen linkkiä päästäksesi tämän hankkeen GitHub-arkistoon, joka sisältää kaikki resurssit (mukaan lukien esimerkki valmiista projekteista) 'en/resources' -kansiossa.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.

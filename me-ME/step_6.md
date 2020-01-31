@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Izazov: o tebi
+## Challenge: about yourself
 
-Napiši program u Pythonu u kojem ćeš drugima reći nešto o sebi koristeći tekst i ASCII umjetnost. Možeš da napraviš slike svojih hobija, prijatelja ili čega god želiš!
+Write a Python program to tell others about yourself using text and ASCII art. You can create images of your hobbies, friends, or anything you like!
 
-**Ne zaboravi da je kôd koji pišeš u Trinketu javan. Nemoj podijeliti nikakve lične informacije kao, na primjer, svoje puno ime i prezime ili adresu!**
+**Remember that the code you write in Trinket is public. Don't share any personal information like your full name or address!**
 
-Evo primjera:
+Here’s an example:
 
 ![screenshot](images/me-about.png)
 

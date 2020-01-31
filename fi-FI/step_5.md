@@ -1,25 +1,25 @@
-## ASCII-taide
+## ASCII art
 
-Tulostetaan jotain paljon hauskempaa kuin pelkkä teksti: ASCII -taidetta! ASCII-taide (lausutaan "*ask-ii*") luo **kuvaa tekstistä**.
+Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
 
-+ Lisätään hieman taidetta ohjelmaan - koiran kuva!
++ Let's add some art to your program — a picture of a dog!
     
-    ![ruutukaappaus](images/me-dog.png)
+    ![screenshot](images/me-dog.png)
 
-Koiran jalat on tehty putkimerkillä ` | ` jonka voit kirjoittaa painamalla <kbd>Vaihto + \</kbd> useimmissa UK/US -englanninkielisissä näppäimistöissä.
+The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
 
-+ Jos napsautat **Suorita**, näet, että uudessa koodissasi on vika.
++ If you click **Run**, you'll see that there's a bug in your new code.
     
-    ![ruutukaappaus](images/me-dog-bug.png)
+    ![screenshot](images/me-dog-bug.png)
     
-    Tämä johtuu siitä, että tekstisi sisältää heittomerkin `'`, jota Python pitää tekstin loppuna!
+    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
     
-    ![ruutukaappaus](images/me-dog-quote.png)
+    ![screenshot](images/me-dog-quote.png)
 
-+ Voit korjata tämän helposti laittamalla kenoviivan `` ennen heittomerkkiä sanassa `here's`. Tämä kertoo Pythonille, että heittomerkki on osa tekstiä.
++ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
     
-    ![ruutukaappaus](images/me-dog-bug-fix.png)
+    ![screenshot](images/me-dog-bug-fix.png)
 
-+ Jos haluat, voit käyttää kolmea heittomerkkiä `'''` yhden sijaan, jolloin voit tulostaa useita tekstirivejä yhdellä `print` lausekkeella:
++ If you prefer, you can use three apostrophes `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
     
-    ![ruutukaappaus](images/me-dog-triple-quote.png)
+    ![screenshot](images/me-dog-triple-quote.png)

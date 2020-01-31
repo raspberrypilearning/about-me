@@ -1,33 +1,33 @@
-## Merhaba demek
+## Saying hello
 
-Biraz metin yazarak başlayalım.
+Let's start by writing some text.
 
-+ Trinket'ta boş Python şablonunu açın: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Aşağıdakileri açılan pencereye yazın:
++ Type the following into the window that appears:
     
-    ![ekran alıntısı](images/me-hi.png)
+    ![screenshot](images/me-hi.png)
     
-    `#!/bin/python3` satırı, Trinket'a Python 3 (son sürümü) kullandığımızı bildiriyor.
+    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
 
-+ **Run** (Çalıştır)'a tıklayın ve `print()` (yazdır) komutunun `''`tırnak işareti arasındaki her şeyi yazdığını göreceksiniz.
++ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
     
-    ![ekran görüntüsü](images/me-hi-test.png)
+    ![screenshot](images/me-hi-test.png)
 
-Bir hata yaptıysanız, neyin yanlış gittiğini söyleyen bir hata mesajı alırsınız!
+If you've made a mistake, you'll get an error message telling you what went wrong instead!
 
-+ Deneyin! Sondaki `'` kesme işaretini ya da `)` parantez işaretini (veya her ikisi) silin ve neler olacağını görün.
++ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
     
-    ![ekran görüntüsü](images/me-syntax.png)
+    ![screenshot](images/me-syntax.png)
 
-+ Projenizin tekrar çalıştığından emin olmak için kesme işaretini ve parantezi yerine ekleyin ve **Run** (Çalıştır)'a tıklayın.
++ Add the quote or bracket back in, and click **Run** to make sure your project works again.
 
-**Projelerinizi kaydetmek için bir Trinket hesabına ihtiyacınız yok!**
+**You don't need a Trinket account to save your projects!**
 
-Bir Trinket hesabınız yoksa, aşağı okuna ve ardından **Link**'e tıklayın. Bu size kaydedebileceğiniz ve daha sonra geri dönebileceğiniz bir bağlantı verecektir. Her değişiklik yaptığınızda, bağlantı değişeceğinden bunu tekrar yapmanız gerekecektir!
+If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
 
-![ekran görüntüsü](images/me-link.png)
+![screenshot](images/me-link.png)
 
-Trinket hesabınız varsa kendi trinket kopyanızı **Remix** tuşuna tıklayarak kaydedebilirsiniz.
+If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
 
-![ekran görüntüsü](images/me-remix.png)
+![screenshot](images/me-remix.png)

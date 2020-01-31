@@ -1,8 +1,8 @@
-## Giới thiệu
+## Introduction
 
-Trong dự án này, bạn sẽ học cách viết một chương trình Python nói với mọi người về bạn.
+In this project you will learn how to write a Python program telling people all about you.
 
-### Bạn sẽ làm gì
+### What you will make
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a1f663ae0d?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -10,14 +10,14 @@ Trong dự án này, bạn sẽ học cách viết một chương trình Python 
   <img src="images/me-final.png">
 </div>
 
-### Bạn sẽ học được gì
+### What you will learn
 
-Dự án này bao gồm các nội dung từ chương trình [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Sử dụng cấu trúc lập trình cơ bản để tạo ra các chương trình đơn giản](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-### Thông tin bổ sung cho người hướng dẫn
+### Additional information for educators
 
-Nếu bạn cần in dự án này, vui lòng sử dụng [ bản in ](https://projects.raspberrypi.org/en/projects/about-me/print) {: target = "_ blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/about-me/print){:target="_blank"}.
 
-Sử dụng liên kết ở chân trang để truy cập kho GitHub cho dự án này, chứa tất cả các tài nguyên (bao gồm một ví dụ về dự án hoàn thành) trong thư mục 'en / resources'.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.

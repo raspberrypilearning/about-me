@@ -1,33 +1,33 @@
-## Reci zdravo
+## Saying hello
 
-Počnimo sa upisivanjem nekog teksta.
+Let's start by writing some text.
 
-+ Otvori prazan Python šablon u trinketu: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ U prozor koji se pojavio upiši sljedeće:
++ Type the following into the window that appears:
     
     ![screenshot](images/me-hi.png)
     
-    Red `#!/bin/python3` daje do znanja Trinketu da koristimo Python 3 (posljednju verziju).
+    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
 
-+ Klikni na **Run** i vidjećeš da naredba `print()` ispisuje sve što se nalazi između navodnika `''`.
++ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
     
     ![screenshot](images/me-hi-test.png)
 
-Ako napraviš grešku, dobićeš poruku o grešci koja će te obavijestiti u čemu je problem!
+If you've made a mistake, you'll get an error message telling you what went wrong instead!
 
-+ Probaj! Izbriši znak izvoda `'` ili zatvorenu zagradu `)` (ili oboje) i pogledaj šta će se desiti.
++ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
     
     ![screenshot](images/me-syntax.png)
 
-+ Ponovo upiši znak izvoda ili zagradu, a zatim klikni na **Run** da provjeriš da li tvoj projekat opet funkcioniše.
++ Add the quote or bracket back in, and click **Run** to make sure your project works again.
 
-**Nije ti potreban Trinket nalog da sačuvaš svoje projekte!**
+**You don't need a Trinket account to save your projects!**
 
-Ako nemaš Trinket nalog, klikni na strelicu nadolje, a zatim klikni na **Link**. Dobićeš link koji možeš sačuvati i vratititi se na njega kasnije. Biće potrebno da to uradiš svaki put kada napraviš izmjene, pošto će se i link promijeniti!
+If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
 
 ![screenshot](images/me-link.png)
 
-Ako imaš Trinket nalog, možeš da klikneš na **Remix** da sačuvaš svoju kopiju trinketa.
+If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
 
 ![screenshot](images/me-remix.png)

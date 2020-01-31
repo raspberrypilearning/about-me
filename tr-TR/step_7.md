@@ -1,35 +1,35 @@
-## 2025 yılı
+## The year 2025
 
-Ayrıca hesaplamalar yapabilir ve sayıları yazdırabilirsiniz. Hadi 2025 yılında kaç yaşında olacağınızı öğrenelim!
+You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
 
-+ 2025 yılında kaç yaşında olacağınızı hesaplamak için, 2025'ten doğduğunuz yılı çıkarmanız gerekir.
++ To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
     
-    Bu kodu programınıza ekleyin:
+    Add this code to your program:
     
-    ![ekran görüntüsü](images/me-calc.png)
+    ![screenshot](images/me-calc.png)
     
-    Sayıların yanına tırnak işareti koymaya gerek olmadığına dikkat edin. (Eğer farklı bir yılda doğmuşsanız, `2006` yılını değiştirmeniz gerekecek.)
+    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
 
-+ **Run** (Çalıştır)'a tıklayın ve programınız 2025 yılındaki yaşınızı yazmış olmalıdır.
++ Click **Run**, and your program should print your age in the year 2025.
     
-    ![ekran görüntüsü](images/me-calc-run.png)
+    ![screenshot](images/me-calc-run.png)
 
-+ Programınızı, kullanıcıya yaşını sorup `dogum` adı verilen bir **değişken**'de saklayan `input()` komutuyla geliştirebilirsiniz.
++ You could improve your program by using `input()` to ask the user their age and store it in a **variable** called `born`.
     
-    ![ekran görüntüsü](images/me-input.png)
+    ![screenshot](images/me-input.png)
 
-+ Programınızı çalıştırın ve sonra doğduğunuz yılı girin. Başka bir hata mesajı aldınız mı?
++ Run your program and then enter the year you were born. Did you get another error message?
     
-    Çünkü programınıza yazılan herhangi bir şey **metin**'dir ve bunun **sayı**'ya çevrilmesi gerekir.
+    That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
     
-    `int()` fonksiyonunu kullanarak metni **tamsayı**'ya çevirebilirsiniz. Bir tam sayı doğal sayıdır.
+    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
     
-    ![ekran görüntüsü](images/me-input-test.png)
+    ![screenshot](images/me-input-test.png)
 
-+ Hesaplamanızı saklamak için başka bir değişken de oluşturabilir ve bunun yerine yazdırabilirsiniz.
++ You can also create another variable to store your calculation, and print that instead.
     
-    ![ekran görüntüsü](images/me-result-variable.png)
+    ![screenshot](images/me-result-variable.png)
 
-+ Son olarak, yararlı bir mesaj ekleyerek programınızın anlaşılmasını kolaylaştırabilirsiniz.
++ Finally, you can make your program easier to understand by adding a helpful message.
     
-    ![ekran görüntüsü](images/me-message.png)
+    ![screenshot](images/me-message.png)

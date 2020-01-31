@@ -6,28 +6,28 @@ Let's start by writing some text.
 
 + Type the following into the window that appears:
     
-    ![skjermbilde](images/me-hi.png)
+    ![screenshot](images/me-hi.png)
     
     The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
 
 + Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
     
-    ![skjermbilde](images/me-hi-test.png)
+    ![screenshot](images/me-hi-test.png)
 
 If you've made a mistake, you'll get an error message telling you what went wrong instead!
 
 + Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
     
-    ![skjermbilde](images/me-syntax.png)
+    ![screenshot](images/me-syntax.png)
 
 + Add the quote or bracket back in, and click **Run** to make sure your project works again.
 
-**Du trenger ikke en Trinket-konto for å lagre prosjektene dine!**
+**You don't need a Trinket account to save your projects!**
 
-Hvis du ikke har en Trinket-konto, klikker du ned-pilen og deretter **Link**. Dette gir deg en link som du kan lagre og komme tilbake til senere. Du må gjøre dette hver gang du gjør endringer, siden linken vil endres!
+If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
 
-![skjermbilde](images/me-link.png)
+![screenshot](images/me-link.png)
 
 If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
 
-![skjermbilde](images/me-remix.png)
+![screenshot](images/me-remix.png)

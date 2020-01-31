@@ -1,33 +1,33 @@
-## Povedz ahoj
+## Saying hello
 
-Začnime napísaním nejakého textu.
+Let's start by writing some text.
 
-+ Otvor prázdnu šablónu Python na Trinkete: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Do okna, ktoré sa zobrazí, napíš nasledujúci text:
++ Type the following into the window that appears:
     
-    ![snímka obrazovky](images/me-hi.png)
+    ![screenshot](images/me-hi.png)
     
-    Riadok `#!/bin/python3` len povie nástroju Trinket, že používame Python 3 (najnovšiu verziu).
+    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
 
-+ Klikni na **Run** a malo by byť vidieť, že príkaz `print()` vypíše všetko medzi apostrofmi `''`.
++ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
     
-    ![snímka obrazovky](images/me-hi-test.png)
+    ![screenshot](images/me-hi-test.png)
 
-Ak urobíš chybu, zobrazí sa chybové hlásenie, ktorý ti povie, čo sa stalo!
+If you've made a mistake, you'll get an error message telling you what went wrong instead!
 
-+ Vyskúšaj to! Vymaž koncový apostrof `'` alebo ukončujúcu zátvorku `)` (alebo obe) a pozri sa, čo sa stane.
++ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
     
-    ![snímka obrazovky](images/me-syntax.png)
+    ![screenshot](images/me-syntax.png)
 
-+ Pridaj naspäť apostrof alebo zátvorku a klikni na **Run**. Tak sa uistíš, že tvoj projekt opäť funguje.
++ Add the quote or bracket back in, and click **Run** to make sure your project works again.
 
-**Na ukladanie svojich projektov nemusíš mať účet na Trinkete!**
+**You don't need a Trinket account to save your projects!**
 
-Ak na Trinkete nemáš vytvorený účet, klikni na šípku nadol a potom na **Link**. Takto získaš odkaz, ktorý si budeš môcť uložiť a neskôr sa k nemu vrátiť. Tento postup budeš musieť zopakovať vždy po vykonaní každej zmeny, pretože aj odkaz sa zmení!
+If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
 
-![snímka obrazovky](images/me-link.png)
+![screenshot](images/me-link.png)
 
-Ak máš účet na Trinket-e, môžeš kliknúť na **Remix** a uložiť si vlastnú kópiu.
+If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
 
-![snímka obrazovky](images/me-remix.png)
+![screenshot](images/me-remix.png)

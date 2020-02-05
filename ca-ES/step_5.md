@@ -1,8 +1,8 @@
-## Art ASCII
+## ASCII art
 
-Som-hi! Imprimim coses molt més divertides que text: art ASCII! L'art ASCII (pronunciat '*ask-i*') consisteix a crear ** imatges a partir de text **.
+Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
 
-+ Ara afegirem una mica d'art al teu programa: la foto d'un gos!
++ Let's add some art to your program — a picture of a dog!
     
     ![captura de pantalla](images/me-dog.png)
 
@@ -12,7 +12,7 @@ Les potes del gos s'han fet utilitzant el caràcter de tub `|` el qual pots repr
     
     ![captura de pantalla](images/me-dog-bug.png)
     
-    Això és perquè el teu text conté un apòstrof `'`, i Python pensa que és el final del text! correction
+    Això és perquè el teu text conté un apòstrof `'`, i Python pensa que és el final del text!
     
     ![captura de pantalla](images/me-dog-quote.png)
 

@@ -20,7 +20,7 @@ Du kan också göra beräkningar och skriva ut siffror. Låt oss ta reda på hur
 
 + Kör ditt program och skriv in det år du föddes. Fick du ett nytt felmeddelande?
     
-    That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
+    Det beror på att allt du skriver in i ditt program är **text**, och det måste konverteras till ett **nummer**.
     
     Du kan använda `int()` för att konvertera text till ett **heltal**. Ett heltal är ett tal utan decimaler.
     
@@ -32,4 +32,4 @@ Du kan också göra beräkningar och skriva ut siffror. Låt oss ta reda på hur
 
 + Slutligen kan du göra ditt program lättare att förstå genom att lägga till ett beskrivande meddelande.
     
-    ![screenshot](images/me-message.png)
+    ![skärmdump](images/me-message.png)

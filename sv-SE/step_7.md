@@ -1,35 +1,35 @@
-## The year 2025
+## Året 2025
 
-You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
+Du kan också göra beräkningar och skriva ut siffror. Låt oss ta reda på hur gammal du kommer att vara år 2025!
 
-+ To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
++ För att beräkna hur gammal du kommer att vara år 2025 måste du subtrahera det år du föddes från 2025.
     
-    Add this code to your program:
+    Lägg till den här koden i ditt program:
     
-    ![screenshot](images/me-calc.png)
+    ![skärmdump](images/me-calc.png)
     
-    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
+    Lägg märke till att du inte behöver lägga citattecken runt nummer. (Du måste ändra siffran `2006` om du föddes ett annat år)
 
-+ Click **Run**, and your program should print your age in the year 2025.
++ Klicka på **Run**, så skriver ditt program ut din ålder år 2025.
     
-    ![screenshot](images/me-calc-run.png)
+    ![skärmdump](images/me-calc-run.png)
 
-+ You could improve your program by using `input()` to ask the user their age and store it in a **variable** called `born`.
++ Du kan förbättra ditt program genom att använda `input()` för att fråga efter användarens ålder och lagra den i en **variabel** kallad `fodd`.
     
-    ![screenshot](images/me-input.png)
+    ![skärmdump](images/me-input.png)
 
-+ Run your program and then enter the year you were born. Did you get another error message?
++ Kör ditt program och skriv in det år du föddes. Fick du ett nytt felmeddelande?
     
     That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
     
-    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
+    Du kan använda `int()` för att konvertera text till ett **heltal**. Ett heltal är ett tal utan decimaler.
     
-    ![screenshot](images/me-input-test.png)
+    ![skärmdump](images/me-input-test.png)
 
-+ You can also create another variable to store your calculation, and print that instead.
++ Du kan också skapa en ny variabel för att spara resultatet av din beräkning och skriva ut den istället.
     
-    ![screenshot](images/me-result-variable.png)
+    ![skärmdump](images/me-result-variable.png)
 
-+ Finally, you can make your program easier to understand by adding a helpful message.
++ Slutligen kan du göra ditt program lättare att förstå genom att lägga till ett beskrivande meddelande.
     
     ![screenshot](images/me-message.png)

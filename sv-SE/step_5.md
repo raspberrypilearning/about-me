@@ -6,20 +6,20 @@ Låt oss skriva ut något mycket roligare än text: ASCII-konst! ASCII-konst (ut
     
     ![skärmdump](images/me-dog.png)
 
-The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
+Hundens ben är gjorda med streckkaraktären `|` som du kan skriva genom att trycka på <kbd>Alt Gr + <</kbd> på de flesta svenska tangentbord.
 
-+ If you click **Run**, you'll see that there's a bug in your new code.
++ Om du klickar på **Kör**, ser du att det finns ett fel i din nya kod.
     
-    ![screenshot](images/me-dog-bug.png)
+    ![skärmdump](images/me-dog-bug.png)
     
-    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
+    Det beror på att texten innehåller en apostrof `'`, som Python tycker är slutet på texten!
     
-    ![screenshot](images/me-dog-quote.png)
+    ![skärmdump](images/me-dog-quote.png)
 
-+ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
++ To fix this, just put a backslash `` before the apostrophe in the word `here's`. Detta berättar för Python att apostrofen är en del av texten.
     
-    ![screenshot](images/me-dog-bug-fix.png)
+    ![skärmdump](images/me-dog-bug-fix.png)
 
-+ If you prefer, you can use three apostrophes `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
++ Om du föredrar kan du använda tre apostrofer ` '''` istället för en, som låter dig skriva ut flera rader med text med ett `print` uttryck:
     
-    ![screenshot](images/me-dog-triple-quote.png)
+    ![skärmdump](images/me-dog-triple-quote.png)

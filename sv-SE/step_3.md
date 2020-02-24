@@ -1,14 +1,14 @@
-## Saying hello
+## Säga hej
 
-Let's start by writing some text.
+Låt oss börja med att skriva lite text.
 
-+ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Öppna den tomma Python-mallen trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Type the following into the window that appears:
++ Skriv följande i fönstret som visas:
     
-    ![screenshot](images/me-hi.png)
+    ![skärmdump](images/me-hi.png)
     
-    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
+    Raden `#!/bin/python3` berättar bara för Trinket att vi använder Python 3 (den senaste versionen).
 
 + Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
     

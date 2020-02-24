@@ -10,24 +10,24 @@ Låt oss börja med att skriva lite text.
     
     Raden `#!/bin/python3` berättar bara för Trinket att vi använder Python 3 (den senaste versionen).
 
-+ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
++ Klicka på **Kör**, och du borde se att kommandot `print()` skriver ut allt mellan citationstecknen `''`.
     
-    ![screenshot](images/me-hi-test.png)
+    ![skärmdump](images/me-hi-test.png)
 
-If you've made a mistake, you'll get an error message telling you what went wrong instead!
+Om du har gjort ett misstag får du i stället ett felmeddelande som berättar vad som gick fel!
 
-+ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
++ Försök! Ta bort det sista citationstecknet `'` eller höger parentesen `)` (eller båda) och se vad som händer.
     
-    ![screenshot](images/me-syntax.png)
+    ![skärmdump](images/me-syntax.png)
 
-+ Add the quote or bracket back in, and click **Run** to make sure your project works again.
++ Skriv in citationstecknet eller parentesen igen och klicka på **Kör** för att se till att ditt projekt fungerar igen.
 
-**You don't need a Trinket account to save your projects!**
+**Du behöver inte ett Trinket-konto för att spara dina projekt!**
 
-If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+Om du inte har ett Trinket-konto klickar du på pil nedåt och klickar sedan på **Link**. Detta ger dig en länk som du kan spara och komma tillbaka till senare. Du måste göra detta varje gång du gör ändringar, eftersom länken kommer att förändras!
 
-![screenshot](images/me-link.png)
+![skärmdump](images/me-link.png)
 
-If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
+Om du har ett Trinket-konto kan du klicka på **Remix** att spara din egen kopia av din trinket.
 
-![screenshot](images/me-remix.png)
+![skärmdump](images/me-remix.png)

@@ -1,10 +1,10 @@
-## ASCII art
+## ASCII-konst
 
-Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
+Låt oss skriva ut något mycket roligare än text: ASCII-konst! ASCII-konst (uttalas "*ask-e*") skapar **bilder av text**.
 
-+ Let's add some art to your program — a picture of a dog!
++ Låt oss lägga till lite konst i ditt program - en bild av en hund!
     
-    ![screenshot](images/me-dog.png)
+    ![skärmdump](images/me-dog.png)
 
 The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
 

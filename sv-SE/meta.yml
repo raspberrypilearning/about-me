@@ -11,7 +11,7 @@ description: Använd programmeringsspråket Python för att skapa bilder ur text
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
 technologies: python
-site_areas: projects
+site_areas: projekt
 hardware: ''
 software: python
 version: 3
@@ -26,12 +26,12 @@ steps:
   - 
     title: "Utmaning: vad tänker du på?"
   - 
-    title: ASCII art
+    title: ASCII-konst
   - 
-    title: "Challenge: about yourself"
+    title: "Utmaning: om dig själv"
   - 
-    title: The year 2025
+    title: Året 2025
   - 
-    title: "Challenge: your age in dog years"
+    title: "Utmaning: Din ålder i hundår"
   - 
-    title: "Challenge: calculating text"
+    title: "Utmaning: Beräkningar med text"

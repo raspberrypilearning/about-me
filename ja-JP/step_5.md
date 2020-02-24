@@ -1,25 +1,25 @@
-## ASCII art
+## ASCIIアート
 
-Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
+テキストよりももっと楽しいものを表示しましょう：ASCIIアート！ ASCIIアート（「*アスキー*」と発音）とは **文字を使って作られた絵**のことです。
 
-+ Let's add some art to your program — a picture of a dog!
++ あなたのプログラムに作品を加えてみましょう - 犬の絵！
     
-    ![screenshot](images/me-dog.png)
+    ![スクリーンショット](images/me-dog.png)
 
-The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
+犬の足は、パイプ文字 `|` を利用します。これは、ほとんどの英国/米国英語キーボードで、<kbd>Shift + \</kbd>を入力することにより表示されます。日本語キーボードの場合、Shift + ￥を入力します。
 
-+ If you click **Run**, you'll see that there's a bug in your new code.
++ **Run**をクリックすると、新しいコードにバグがあることがわかります。
     
-    ![screenshot](images/me-dog-bug.png)
+    ![スクリーンショット](images/me-dog-bug.png)
     
-    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
+    これは、テキストにアポストロフィ `'`が含まれているためです。これはPythonがテキストの終わりと考えるものです！
     
-    ![screenshot](images/me-dog-quote.png)
+    ![スクリーンショット](images/me-dog-quote.png)
 
-+ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
++ これを修正するには、アポストロフィの前にバックスラッシュ `` を `単語`に入れてください。日本語の場合ですと文字ボケする可能性がありますで、＋を使って二つの文字をつなげてください。もしくはアポストロフィを削除してそのまま続けてください。 アポストロフィーの前にバックスラッシュを入れることは、アポストロフィがテキストの一部であることをPythonに伝えています。
     
-    ![screenshot](images/me-dog-bug-fix.png)
+    ![スクリーンショット](images/me-dog-bug-fix.png)
 
-+ If you prefer, you can use three apostrophes `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
++ 必要に応じて、3つのアポストロフィ `'''` を1つではなく使用して、1つの `print` ステートメントで複数行のテキストを表示することができます。
     
-    ![screenshot](images/me-dog-triple-quote.png)
+    ![スクリーンショット](images/me-dog-triple-quote.png)

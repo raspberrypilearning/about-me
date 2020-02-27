@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Utmaning: Beräkningar med text
+## Utmaning: beräkningar med text
 
 Visste du att du också kan göra beräkningar med text?!
 

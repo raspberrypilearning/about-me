@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Utmaning: Din ålder i hundår
+## Utmaning: din ålder i hundår
 
 Skriv ett program som frågar användaren om deras ålder och sedan visar deras ålder i hundår! Du kan beräkna en persons ålder i hundår genom att multiplicera deras ålder med 7.
 

@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Challenge: calculating text
+## Desafío: calculando texto
 
-Did you know that you can also calculate text?!
+¡¿Sabías que también puedes calcular texto?!
 
-What will the following program print to the screen? See if you can guess it correctly before running the program.
+¿Qué imprimirá el siguiente programa en tu pantalla? Intenta adivinar correctamente antes de ejecutar el programa.
 
-![screenshot](images/me-text-calc.png)
+![captura de pantalla](images/me-text-calc.png)
 
-Can you make up any words of your own? You could even make your own patterns!
+¿Podrías inventar tus propias palabras? ¡Incluso puedes crear tus propios patrones!
 
-![screenshot](images/me-patterns.png)
+![captura de pantalla](images/me-patterns.png)
 
 \--- /challenge \---

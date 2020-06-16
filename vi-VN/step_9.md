@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Challenge: calculating text
+## Thử thách: tính toán văn bản
 
-Did you know that you can also calculate text?!
+Bạn có biết rằng bạn cũng có thể tính toán văn bản?!
 
-What will the following program print to the screen? See if you can guess it correctly before running the program.
+Chương trình sau đây sẽ in gì ra màn hình? Xem thử bạn có thể đoán chính xác trước khi chạy chương trình.
 
-![screenshot](images/me-text-calc.png)
+![ảnh chụp màn hình](images/me-text-calc.png)
 
-Can you make up any words of your own? You could even make your own patterns!
+Bạn có thể tạo nên bất kỳ từ nào của riêng bạn không? Bạn thậm chí có thể làm mẫu hình của riêng bạn!
 
-![screenshot](images/me-patterns.png)
+![ảnh chụp màn hình](images/me-patterns.png)
 
 \--- /challenge \---

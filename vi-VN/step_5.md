@@ -1,25 +1,25 @@
 ## ASCII art
 
-Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
+Hãy in thứ gì đó thú vị hơn nhiều so với văn bản: nghệ thuật ASCII! Nghệ thuật ASCII (phát âm '* ask-e * ') tạo ** hình ảnh từ văn bản **.
 
-+ Let's add some art to your program — a picture of a dog!
++ Hãy thêm một số nghệ thuật vào chương trình của bạn - một hình ảnh của một con chó!
     
-    ![screenshot](images/me-dog.png)
+    ![ảnh chụp màn hình](images/me-dog.png)
 
-The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
+Chân của con chó được tạo ra bằng ký tự ống ` | ` mà bạn có thể nhập bằng cách nhấn <kbd> Shift + \ </kbd> trên hầu hết các bàn phím tiếng Anh / Mỹ.
 
-+ If you click **Run**, you'll see that there's a bug in your new code.
++ Nếu bạn nhấp vào ** Run **, bạn sẽ thấy rằng có một lỗi trong mã mới của bạn.
     
-    ![screenshot](images/me-dog-bug.png)
+    ![ảnh chụp màn hình](images/me-dog-bug.png)
     
-    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
+    Đó là vì văn bản của bạn chứa dấu nháy đơn ` ' ` , mà Python nghĩ là kết thúc của văn bản!
     
-    ![screenshot](images/me-dog-quote.png)
+    ![ảnh chụp màn hình](images/me-dog-quote.png)
 
-+ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
++ Để khắc phục điều này, chỉ cần đặt dấu gạch chéo ngược ` \ ` trước dấu nháy đơn trong từ ` here's `. Điều này nói với Python rằng dấu nháy đơn là một phần của văn bản.
     
-    ![screenshot](images/me-dog-bug-fix.png)
+    ![ảnh chụp màn hình](images/me-dog-bug-fix.png)
 
-+ If you prefer, you can use three apostrophes `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
++ Nếu bạn thích, bạn có thể sử dụng ba dấu nháy đơn `'''` thay vì một dấu, cho phép bạn in nhiều dòng văn bản với lệnh `print`:
     
-    ![screenshot](images/me-dog-triple-quote.png)
+    ![ảnh chụp màn hình](images/me-dog-triple-quote.png)

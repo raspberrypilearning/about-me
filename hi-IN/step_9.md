@@ -1,15 +1,15 @@
-\--- challenge \---
+\--- चुनौती \---
 
-## Challenge: calculating text
+## चुनौती: पाठ की गणना करें
 
-Did you know that you can also calculate text?!
+क्या आप जानते हैं कि आप पाठ की गणना भी कर सकते हैं ?
 
-What will the following program print to the screen? See if you can guess it correctly before running the program.
+निम्न प्रोग्राम स्क्रीन पर क्या प्रिंट करेगा? देखें कि क्या आप प्रोग्राम चलाने से पहले इसका सही अनुमान लगा सकते हैं।
 
-![screenshot](images/me-text-calc.png)
+![स्क्रीनशॉट](images/me-text-calc.png)
 
-Can you make up any words of your own? You could even make your own patterns!
+क्या आप अपना कोई शब्द बना सकते हैं? आप भी अपने खुद के पैटर्न बना सकते हैं!
 
-![screenshot](images/me-patterns.png)
+![स्क्रीनशॉट](images/me-patterns.png)
 
-\--- /challenge \---
+\--- /चुनौती \---

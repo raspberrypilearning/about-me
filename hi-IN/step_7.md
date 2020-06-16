@@ -1,35 +1,35 @@
-## The year 2025
+## वर्ष 2025
 
-You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
+आप गणना और प्रिंट संख्या भी कर सकते हैं। आइए जानें कि वर्ष 2025 में आपकी उम्र कितनी होगी!
 
-+ To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
++ वर्ष 2025 में आप कितने साल के होंगे, इसकी गणना करने के लिए, आपको 2025 में से उस वर्ष को घटाना होगा जिसमें आप पैदा हुए थे।
     
-    Add this code to your program:
+    इस कोड को अपने प्रोग्राम में जोड़ें:
     
-    ![screenshot](images/me-calc.png)
+    ![स्क्रीनशॉट](images/me-calc.png)
     
-    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
+    ध्यान दें कि आपको संख्याओं के आसपास कोट्स देने की आवश्यकता नहीं है। (आपको नंबर `2006` को बदलना होगा यदि आप एक अलग वर्ष में पैदा हुए थे।)
 
-+ Click **Run**, and your program should print your age in the year 2025.
++ **रन** क्लिक करें, और आपके प्रोग्राम को वर्ष 2025 में आपकी आयु को प्रिंट करना चाहिए।
     
-    ![screenshot](images/me-calc-run.png)
+    ![स्क्रीनशॉट](images/me-calc-run.png)
 
-+ You could improve your program by using `input()` to ask the user their age and store it in a **variable** called `born`.
++ अपने प्रोग्राम को बेहतर बनाने के लिए आप `इनपुट()` का उपयोग करके उपयोगकर्ता से उनकी उम्र पूछें और उसे **वेरिएबल** `जन्म` में डालें
     
-    ![screenshot](images/me-input.png)
+    ![स्क्रीनशॉट](images/me-input.png)
 
-+ Run your program and then enter the year you were born. Did you get another error message?
++ अपने प्रोग्राम को चलाएं और फिर उस वर्ष को दर्ज करे जब आप पैदा हुए थे क्या आपको एक और त्रुटि संदेश मिला?
     
-    That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
+    ऐसा इसलिए है क्योंकि आपके प्रोग्राम में टाइप किया गया कुछ भी ** टेक्स्ट है ** , और इसे ** संख्या में परिवर्तित करने की आवश्यकता है ** ।
     
-    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
+    आप `int ()` का उपयोग कर सकते हैं टेक्स्ट को **पूर्णांक** में बदलने के लिए पूर्णांक एक पूर्ण संख्या है।
     
-    ![screenshot](images/me-input-test.png)
+    ![स्क्रीनशॉट](images/me-input-test.png)
 
-+ You can also create another variable to store your calculation, and print that instead.
++ आप अपनी गणना को संग्रहीत करने के लिए एक अन्य वेरिएबल भी बना सकते हैं, और इसके बजाय उसे प्रिंट कर सकते हैं।
     
-    ![screenshot](images/me-result-variable.png)
+    ![स्क्रीनशॉट](images/me-result-variable.png)
 
-+ Finally, you can make your program easier to understand by adding a helpful message.
++ अंत में, आप एक उपयोगी संदेश जोड़कर अपने प्रोग्राम को समझने में आसान बना सकते हैं।
     
-    ![screenshot](images/me-message.png)
+    ![स्क्रीनशॉट](images/me-message.png)

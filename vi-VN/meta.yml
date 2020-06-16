@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: About me
-description: Use the Python programming language to create pictures out of text
+title: Thông tin về tôi
+description: Sử dụng ngôn ngữ lập trình Python để tạo hình ảnh từ văn bản
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
 technologies: python
@@ -18,20 +18,20 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Giới thiệu
   - 
-    title: What you will need
+    title: Những gì bạn sẽ cần
   - 
-    title: Saying hello
+    title: Nói xin chào
   - 
-    title: "Challenge: what's on your mind?"
+    title: "Thử thách: Bạn đang nghĩ gì?"
   - 
     title: ASCII art
   - 
-    title: "Challenge: about yourself"
+    title: "Thử thách: về bản thân"
   - 
-    title: The year 2025
+    title: Năm 2025
   - 
-    title: "Challenge: your age in dog years"
+    title: "Thử thách: tuổi của bạn tính theo năm chó"
   - 
-    title: "Challenge: calculating text"
+    title: "Thử thách: tính toán văn bản"

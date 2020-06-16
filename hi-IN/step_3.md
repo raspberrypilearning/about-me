@@ -1,33 +1,33 @@
-## Saying hello
+## हैलो कह रहे हैं
 
-Let's start by writing some text.
+कुछ पाठ लिखकर शुरू करते हैं।
 
-+ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ रिक्त पायथन टेंपलेट ट्रिंकेट खोलें: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Type the following into the window that appears:
++ दिखाई देने वाली विंडो में निम्न टाइप करें:
     
-    ![screenshot](images/me-hi.png)
+    ![स्क्रीनशॉट](images/me-hi.png)
     
-    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
+    `#!/bin/python3` पंक्ति आपके कंप्यूटर को यह बताती है कि हम Python 3 (पायथन के नवीनतम संस्करण) का उपयोग कर रहे हैं।
 
-+ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
++ **रन** क्लिक करें, और आपको यह दिखेगा कि ` प्रिंट () ` कमांड मार्क के बीच सब कुछ प्रिंट करता है `''` ।
     
-    ![screenshot](images/me-hi-test.png)
+    ![स्क्रीनशॉट](images/me-hi-test.png)
 
-If you've made a mistake, you'll get an error message telling you what went wrong instead!
+यदि आपने कोई गलती की है, तो आपको एक त्रुटि संदेश मिलेगा जो आपको बताएगा कि इसके बजाय क्या गलत हुआ!
 
-+ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
++ इसे आजमाएँ! अंतिम उद्धरण हटाएं ` ' ` या समापन ब्रैकेट `) ` (या दोनों) और देखें कि क्या होता है।
     
-    ![screenshot](images/me-syntax.png)
+    ![स्क्रीनशॉट](images/me-syntax.png)
 
-+ Add the quote or bracket back in, and click **Run** to make sure your project works again.
++ उद्धरण या ब्रैकेट को वापस जोड़ें और ** रन**पर क्लिक करें यह सुनिश्चित करने के लिए कि आपका प्रोजेक्ट फिर से काम करता है।
 
-**You don't need a Trinket account to save your projects!**
+**आपको अपने प्रोजेक्ट सहेजने के लिए ट्रिंकेट खाते की आवश्यकता नहीं है!**
 
-If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+यदि आपके पास Trinket खाता नहीं है, तो नीचे के तीर पर क्लिक करें और फिर **Link** (लिंक) पर क्लिक करें। इससे आपको एक लिंक मिलेगा जिसे आप सहेज सकते हैं और बाद में वापस आ सकते हैं। हर बार जब आप परिवर्तन करेंगे, आपको ऐसा करने की आवश्यकता होगी, क्योंकि लिंक बदल जाएगा!
 
-![screenshot](images/me-link.png)
+![स्क्रीनशॉट](images/me-link.png)
 
-If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
+यदि आपके पास ट्रिंकेट खाता है, तो आप ट्रिंकेट की अपनी प्रति सहेजने के लिए **रीमिक्स** पर क्लिक कर सकते हैं।
 
-![screenshot](images/me-remix.png)
+![स्क्रीनशॉट](images/me-remix.png)

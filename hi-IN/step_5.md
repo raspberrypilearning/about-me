@@ -1,25 +1,25 @@
-## ASCII art
+## ASCII कला
 
-Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
+चलो पाठ की तुलना में कुछ अधिक मजेदार प्रिंट करें: ASCII कला! ASCII कला (उच्चारण '* Ask-e * ') पाठ से ** चित्र बना रहा है ** ।
 
-+ Let's add some art to your program — a picture of a dog!
++ चलो अपने कार्यक्रम में कुछ कला जोड़ते हैं - एक कुत्ते की तस्वीर!
     
-    ![screenshot](images/me-dog.png)
+    ![स्क्रीनशॉट](images/me-dog.png)
 
-The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
+कुत्ते के पैर पाइप चरित्र ` | ` जिसे आप <kbd> Shift + \ _ दबाकर टाइप कर सकते हैं </kbd> अधिकांश यूके / यूएस अंग्रेजी कीबोर्ड पर।
 
-+ If you click **Run**, you'll see that there's a bug in your new code.
++ यदि आप **रन** क्लिक करते हैं, आप देखेंगे कि आपके नए कोड में एक बग है।
     
-    ![screenshot](images/me-dog-bug.png)
+    ![स्क्रीनशॉट](images/me-dog-bug.png)
     
-    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
+    ऐसा इसलिए है क्योंकि आपके पाठ में एपोस्ट्रोफी है ` ' ` , जो पायथन को लगता है कि पाठ का अंत है!
     
-    ![screenshot](images/me-dog-quote.png)
+    ![स्क्रीनशॉट](images/me-dog-quote.png)
 
-+ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
++ इसे ठीक करने के लिए, बस एक बैकस्लैश डालें ` \ ` शब्द में अपोस्ट्रोफ से पहले ` यहाँ है ` । यह पायथन को बताता है कि एपोस्ट्रोफी पाठ का हिस्सा है।
     
-    ![screenshot](images/me-dog-bug-fix.png)
+    ![स्क्रीनशॉट](images/me-dog-bug-fix.png)
 
-+ If you prefer, you can use three apostrophes `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
++ यदि आप चाहें, तो आप तीन एपोस्ट्रोफ ` '' का उपयोग कर सकते हैं ` एक के बजाय, जो आपको एक ` प्रिंट` के साथ पाठ की कई पंक्तियों को प्रिंट करने की अनुमति देता है:
     
-    ![screenshot](images/me-dog-triple-quote.png)
+    ![स्क्रीनशॉट](images/me-dog-triple-quote.png)

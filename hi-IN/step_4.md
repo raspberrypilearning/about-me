@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: What's on your mind?
+## चुनौती: आपके मन में क्या है?
 
-Change the code you just wrote to print something more interesting about you!
+आपके द्वारा अभी-अभी कुछ और दिलचस्प छापने के लिए लिखे गए कोड को बदलें!
 
-![screenshot](images/me-mind.png)
+![स्क्रीनशॉट](images/me-mind.png)
 
 \--- /challenge \---

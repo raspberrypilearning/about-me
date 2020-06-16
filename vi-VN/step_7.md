@@ -1,35 +1,35 @@
-## The year 2025
+## Năm 2025
 
-You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
+Bạn cũng có thể làm tính toán và in các con số. Hãy tìm hiểu xem bạn sẽ bao nhiêu tuổi vào năm 2025!
 
-+ To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
++ Để tính tuổi của bạn vào năm 2025, bạn cần phải trừ đi năm bạn sinh từ năm 2025.
     
-    Add this code to your program:
+    Thêm mã này vào chương trình của bạn:
     
-    ![screenshot](images/me-calc.png)
+    ![ảnh chụp màn hình](images/me-calc.png)
     
-    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
+    Lưu ý rằng bạn không cần đặt dấu ngoặc kép quanh các số. (Bạn sẽ cần thay đổi số ` 2006 ` nếu bạn được sinh ra trong một năm khác.)
 
-+ Click **Run**, and your program should print your age in the year 2025.
++ Nhấp vào ** Chạy ** và chương trình của bạn sẽ in tuổi của bạn vào năm 2025.
     
-    ![screenshot](images/me-calc-run.png)
+    ![ảnh chụp màn hình](images/me-calc-run.png)
 
-+ You could improve your program by using `input()` to ask the user their age and store it in a **variable** called `born`.
++ Bạn có thể cải thiện chương trình của mình bằng cách sử dụng ` input () ` để hỏi người dùng tuổi của họ và lưu trữ trong biến ** ** được gọi là ` born `.
     
-    ![screenshot](images/me-input.png)
+    ![ảnh chụp màn hình](images/me-input.png)
 
-+ Run your program and then enter the year you were born. Did you get another error message?
++ Chạy chương trình của bạn và sau đó nhập năm sinh của bạn. Bạn có nhận được một thông báo lỗi?
     
-    That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
+    Đó là bởi vì mọi thứ được nhập vào chương trình của bạn là ** văn bản ** và nó cần được chuyển đổi thành số ** ** .
     
-    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
+    Bạn có thể sử dụng ` int () ` để chuyển đổi văn bản thành số nguyên ** **. Một số nguyên là một số trọn vẹn.
     
-    ![screenshot](images/me-input-test.png)
+    ![ảnh chụp màn hình](images/me-input-test.png)
 
-+ You can also create another variable to store your calculation, and print that instead.
++ Bạn cũng có thể tạo một biến khác để lưu trữ tính toán của mình và in số đó ra.
     
-    ![screenshot](images/me-result-variable.png)
+    ![ảnh chụp màn hình](images/me-result-variable.png)
 
-+ Finally, you can make your program easier to understand by adding a helpful message.
++ Cuối cùng, bạn có thể làm cho chương trình của bạn dễ hiểu hơn bằng cách thêm một thông điệp hữu ích.
     
-    ![screenshot](images/me-message.png)
+    ![ảnh chụp màn hình](images/me-message.png)

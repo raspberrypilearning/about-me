@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: about yourself
+## Thử thách: về bản thân
 
-Write a Python program to tell others about yourself using text and ASCII art. You can create images of your hobbies, friends, or anything you like!
+Viết chương trình Python để nói với người khác về bản thân bạn bằng văn bản và nghệ thuật ASCII. Bạn có thể tạo hình ảnh về sở thích, bạn bè hoặc bất cứ điều gì bạn thích!
 
-**Remember that the code you write in Trinket is public. Don't share any personal information like your full name or address!**
+**Hãy nhớ rằng mã bạn viết trong Trinket là công khai. Không chia sẻ bất kỳ thông tin cá nhân nào như tên đầy đủ hoặc địa chỉ của bạn!**
 
-Here’s an example:
+Đây là một ví dụ:
 
-![screenshot](images/me-about.png)
+![ảnh chụp màn hình](images/me-about.png)
 
 \--- /challenge \---

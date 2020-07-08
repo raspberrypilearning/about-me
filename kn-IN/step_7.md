@@ -1,35 +1,35 @@
-## The year 2025
+## ವರ್ಷ 2025
 
-You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
+ನೀವು ಲೆಕ್ಕಾಚಾರಗಳನ್ನು ಮತ್ತು ಸಂಖ್ಯೆಗಳ ಮುದ್ರಣವನ್ನು ಸಹ ಮಾಡಬಹುದು. ನಿಮ್ಮ ವಯಸ್ಸು 2025 ರಲ್ಲಿ ಎಷ್ಟಿರಬಹುದೆಂದು ಕಂಡುಹಿಡಿಯೋಣ!
 
-+ To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
++ 2025 ರಲ್ಲಿ ನೀವು ಎಷ್ಟು ವಯಸ್ಸಾಗಿರುತ್ತೀರಿ ಎಂದು ಲೆಕ್ಕಹಾಕಲು, ನೀವು 2025 ರಿಂದ ಜನಿಸಿದ ವರ್ಷವನ್ನು ಕಳೆಯಬೇಕು.
     
-    Add this code to your program:
+    ನಿಮ್ಮ ಪ್ರೋಗ್ರಾಂಗೆ ಈ ಕೋಡ್ ಸೇರಿಸಿ:
     
-    ![screenshot](images/me-calc.png)
+    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ (ಪರದೆ ಚಿತ್ರ)](images/me-calc.png)
     
-    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
+    ನೀವು ಸಂಖ್ಯೆಗಳ ಸುತ್ತ ಉಲ್ಲೇಖಗಳನ್ನು (') ಹಾಕುವ ಅಗತ್ಯವಿಲ್ಲ ಎಂಬುದನ್ನು ಗಮನಿಸಿ. (ನೀವು ಬೇರೆ ವರ್ಷದಲ್ಲಿ ಜನಿಸಿದರೆ ` 2006 ` ಸಂಖ್ಯೆಯನ್ನು ಬದಲಾಯಿಸಬೇಕಾಗುತ್ತದೆ.)
 
-+ Click **Run**, and your program should print your age in the year 2025.
++ ** Run** ಕ್ಲಿಕ್ ಮಾಡಿ, ಮತ್ತು ನಿಮ್ಮ ಪ್ರೋಗ್ರಾಂ ನಿಮ್ಮ 2025 ರ ವಯಸ್ಸನ್ನು ಮುದ್ರಿಸಬೇಕು.
     
-    ![screenshot](images/me-calc-run.png)
+    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ (ಪರದೆ ಚಿತ್ರ)](images/me-calc-run.png)
 
-+ You could improve your program by using `input()` to ask the user their age and store it in a **variable** called `born`.
++ ನೀವು `input()` ಅನ್ನು ಬಳಸುವ ಮೂಲಕ ನಿಮ್ಮ ಪ್ರೋಗ್ರಾಂ ಅನ್ನು ಸುಧಾರಿಸಬಹುದು ಅದು ಹೇಗೆಂದರೆ ಬಳಕೆದಾರರಿಗೆ ತಮ್ಮ ವಯಸ್ಸನ್ನು ಕೇಳುವುದು ಮತ್ತು ಅದನ್ನು `born` ಯಂಬ **ಅಸ್ಥಿರ ಪದ(ವೇರಿಯಬಲ್)** ದಲ್ಲಿ ಸಂಗ್ರಹಿಸುವುದರಿಂದ.
     
-    ![screenshot](images/me-input.png)
+    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ (ಪರದೆ ಚಿತ್ರ)](images/me-input.png)
 
-+ Run your program and then enter the year you were born. Did you get another error message?
++ ನಿಮ್ಮ ಪ್ರೋಗ್ರಾಂ ಅನ್ನು ರನ್(Run) ಮಾಡಿ ಮತ್ತು ನಂತರ ನೀವು ಹುಟ್ಟಿದ ವರ್ಷವನ್ನು ನಮೂದಿಸಿ. ನಿಮಗೆ ಇನ್ನೊಂದು ದೋಷ ಸಂದೇಶ ಬಂದಿದೆಯೇ?
     
-    That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
+    ಏಕೆಂದರೆ ನಿಮ್ಮ ಪ್ರೋಗ್ರಾಂನಲ್ಲಿ ಏನೇ ಟೈಪ್ ಮಾಡಿದರು ಅದು **ಪಠ್ಯ**ದಲ್ಲಿರುತ್ತದೆ ಮತ್ತು ಅದನ್ನು **ಸಂಖ್ಯೆ** ಗೆ ಪರಿವರ್ತಿಸುವ ಅಗತ್ಯವಿದೆ.
     
-    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
+    ನೀವು `int()` ಅನ್ನು ಪಠ್ಯದಿಂದ **ಪೂರ್ಣಾಂಕಕ್ಕೆ(integer)** ಪರಿವರ್ತಿಸಲು ಬಳಸಬಹುದು. ಒಂದು ಪೂರ್ಣಾಂಕವು ಸಂಪೂರ್ಣ ಸಂಖ್ಯೆಯಾಗಿರುತ್ತದೆ.
     
-    ![screenshot](images/me-input-test.png)
+    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ (ಪರದೆ ಚಿತ್ರ)](images/me-input-test.png)
 
-+ You can also create another variable to store your calculation, and print that instead.
++ ನಿಮ್ಮ ಲೆಕ್ಕಾಚಾರವನ್ನು ಸಂಗ್ರಹಿಸಲು ನೀವು ಇನ್ನೊಂದು ವೇರಿಯೇಬಲ್(ಅಸ್ಥಿರ ಪದ) ಅನ್ನು ಸಹ ರಚಿಸಬಹುದು ಮತ್ತು ಬದಲಿಗೆ ಅದನ್ನು ಮುದ್ರಿಸಬಹುದು.
     
-    ![screenshot](images/me-result-variable.png)
+    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ (ಪರದೆ ಚಿತ್ರ)](images/me-result-variable.png)
 
-+ Finally, you can make your program easier to understand by adding a helpful message.
++ ಅಂತಿಮವಾಗಿ, ನಿಮ್ಮ ಪ್ರೋಗ್ರಾಂ ಅನ್ನು ಸುಲಭವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಳು ಸಹಾಯಕ ಸಂದೇಶವನ್ನು ಸೇರಿಸಬಹುದು.
     
-    ![screenshot](images/me-message.png)
+    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ (ಪರದೆ ಚಿತ್ರ)](images/me-message.png)

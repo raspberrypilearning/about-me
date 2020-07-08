@@ -1,35 +1,35 @@
-## The year 2025
+## वर्ष 2025
 
-You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
+आपण गणना आणि नंबर print देखील करू शकता. आपण वर्ष 2025 मध्ये किती वयाचे आहात ते शोधू!
 
-+ To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
++ सन 2025 मध्ये आपण किती वर्षाचे आहात याची गणना करण्यासाठी, 2025 पासून आपण जन्माला आलेल्या वर्षाचे वजा करणे आवश्यक आहे.
     
-    Add this code to your program:
+    आपल्या प्रोग्राममध्ये हा कोड जोडा:
     
     ![screenshot](images/me-calc.png)
     
-    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
+    लक्षात घ्या की आपल्याला संख्येच्या आसपास कोटस (") ठेवण्याची आवश्यकता नाही. (आपल्याला `2006` क्रमांक बदलण्याची आवश्यकता असेल जर तुमचा जन्म वेगळ्या वर्षात झाला असेल तर.)
 
-+ Click **Run**, and your program should print your age in the year 2025.
++ **Run** क्लिक करा, आणि आपल्या प्रोग्रामने आपले वय वर्ष 2025 मध्ये मुद्रित केले पाहिजे.
     
     ![screenshot](images/me-calc-run.png)
 
-+ You could improve your program by using `input()` to ask the user their age and store it in a **variable** called `born`.
++ `input()` वापरुन आपण आपला प्रोग्राम सुधारू शकता, वापरकर्त्यास त्यांचे वय विचारण्यासाठी आणि ते **variable** `born` मध्ये संचयित करण्यासाठी.
     
     ![screenshot](images/me-input.png)
 
-+ Run your program and then enter the year you were born. Did you get another error message?
++ आपला प्रोग्राम चालवा आणि त्यानंतर आपण जन्माला घातलेल्या वर्षात प्रवेश करा. तुम्हाला आणखी एक error संदेश मिळाला?
     
-    That's because anything typed into your program is **text**, and it needs to be converted to a **number**.
+    कारण आपल्या प्रोग्राममध्ये टाइप केलेले काहीही **text** आहे, आणि ते **number** मध्ये रूपांतरित करणे आवश्यक आहे.
     
-    You can use `int()` to convert the text to an **integer**. An integer is a whole number.
+    आपण `int()` वापरू शकता मजकूर **integer** रात रूपांतरित करण्यासाठी. Integer पूर्ण संख्या असते.
     
     ![screenshot](images/me-input-test.png)
 
-+ You can also create another variable to store your calculation, and print that instead.
++ आपण आपली गणना संग्रहित करण्यासाठी आणखी एक variable देखील तयार करू शकता आणि त्याऐवजी ते print करू शकता.
     
     ![screenshot](images/me-result-variable.png)
 
-+ Finally, you can make your program easier to understand by adding a helpful message.
++ शेवटी, आपण एक उपयुक्त संदेश जोडून आपला प्रोग्राम समजून घेणे सुलभ करू शकता.
     
     ![screenshot](images/me-message.png)

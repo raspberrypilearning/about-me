@@ -1,8 +1,8 @@
-## Introduction
+## परिचय
 
-In this project you will learn how to write a Python program telling people all about you.
+या प्रकल्पात आपण Python प्रोग्राम जो आपल्याबद्दल लोकांना सांगेल हे शिकाल.
 
-### What you will make
+### आपण काय तयार करणार आहोत
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a1f663ae0d?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -10,14 +10,14 @@ In this project you will learn how to write a Python program telling people all 
   <img src="images/me-final.png">
 </div>
 
-### What you will learn
+### ह्यातून तुम्हाला काय शिकायला मिळेल
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+ह्या प्रकल्पात [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"} च्या अभ्यासक्रमातील पुढील बाबी समाविष्ट आहेत:
 
-+ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [साधे प्रोग्राम तयार करण्यासाठी बेसिक प्रोग्रामिंग कॉन्स्ट्रक्टचा वापर करा](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-### Additional information for educators
+### शिक्षकांसाठी अतिरिक्त माहिती
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/about-me/print){:target="_blank"}.
+आपल्याला जर हा प्रकल्प प्रिंट करायचा असेल तर आपण [प्रिंटर अनुकूल आवृत्ती](https://projects.raspberrypi.org/en/projects/about-me/print){:target="_blank"} चा वापर करू शकता.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+या प्रकल्पाचे GitHub repository वर प्रवेश करण्यासाठी फूटरमध्ये दिलेले link वापरा, ज्यात 'en/resources' फोल्डरमध्ये सर्व संसाधने (व उदाहरणार्थ पूर्ण झालेले प्रकल्प) समाविष्ट आहे.

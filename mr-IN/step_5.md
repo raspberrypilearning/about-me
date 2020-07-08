@@ -1,25 +1,25 @@
-## ASCII art
+## ASCII आर्ट
 
-Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
+चला मजकूरापेक्षा काहीतरी जास्त मजेदार print करूयाः ASCII कला! ASCII आर्ट (उच्चारित '*ask-e*') **मजकूराच्या बाहेर चित्रे** तयार करीत आहे.
 
-+ Let's add some art to your program — a picture of a dog!
++ चला आपल्या प्रोग्राममध्ये काही कला जोडा - कुत्र्याचे चित्र!
     
     ![screenshot](images/me-dog.png)
 
-The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
+कुत्र्याचे पाय पाईप कॅरेक्टर `|` वापरून बनले आहेत जे आपण <kbd>Shift + \</kbd> दाबून टाइप करू शकता बर्‍याच यूके/यूएस इंग्रजी कीबोर्डवर.
 
-+ If you click **Run**, you'll see that there's a bug in your new code.
++ आपण **Run** क्लिक केल्यास, आपल्या नवीन कोडमध्ये एक bug असल्याचे आपल्याला दिसेल.
     
     ![screenshot](images/me-dog-bug.png)
     
-    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
+    कारण आपल्या मजकूरामध्ये अपोस्ट्रोफी `'` आहे, Python ला वाटते की मजकूराचा शेवट आहे!
     
     ![screenshot](images/me-dog-quote.png)
 
-+ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
++ याचे निराकरण करण्यासाठी, फक्त एक बॅकस्लॅश `` ठेवा `here's` शब्दाच्या अपोस्ट्रोफीच्या आधी. हे Python ला सांगते की अपोस्ट्रोफी मजकूराचा एक भाग आहे.
     
     ![screenshot](images/me-dog-bug-fix.png)
 
-+ If you prefer, you can use three apostrophes `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
++ आपण प्राधान्य दिल्यास, आपण तीन अ‍ॅस्ट्रॉपॉफ `'''` वापरू शकता एकाऐवजी, जे आपल्याला एका `print` सह मजकूराच्या अनेक ओळी print करण्यास अनुमती देते:
     
     ![screenshot](images/me-dog-triple-quote.png)

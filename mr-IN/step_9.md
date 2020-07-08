@@ -1,14 +1,14 @@
 \--- challenge \---
 
-## Challenge: calculating text
+## आव्हान: मजकूराची गणना करणे
 
-Did you know that you can also calculate text?!
+आपणास माहित आहे की आपण मजकूराची गणना देखील करू शकता?!
 
-What will the following program print to the screen? See if you can guess it correctly before running the program.
+पुढील प्रोग्राम स्क्रीनवर काय print करेल? प्रोग्राम चालू करण्यापूर्वी आपण त्याचा योग्य अंदाज लावू शकता का ते पहा.
 
 ![screenshot](images/me-text-calc.png)
 
-Can you make up any words of your own? You could even make your own patterns!
+आपण स्वतःचे कोणतेही शब्द तयार करू शकता? आपण आपल्या स्वत: च्या नमुने देखील बनवू शकता!
 
 ![screenshot](images/me-patterns.png)
 

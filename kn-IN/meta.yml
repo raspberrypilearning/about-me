@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: About me
-description: Use the Python programming language to create pictures out of text
+title: ನನ್ನ ಬಗ್ಗೆ
+description: ಪಠ್ಯದಿಂದ ಚಿತ್ರಗಳನ್ನು ರಚಿಸಲು Python ಪ್ರೋಗ್ರಾಮಿಂಗ್ ಭಾಷೆಯನ್ನು ಬಳಸಿ
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
 technologies: python
@@ -18,20 +18,20 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: ಪರಿಚಯ
   - 
-    title: What you will need
+    title: ನಿಮಗೆ ಬೇಕಾದುದನ್ನು
   - 
-    title: Saying hello
+    title: ಹಲೋ ಹೇಳುವುದು
   - 
-    title: "Challenge: what's on your mind?"
+    title: "ಸವಾಲು: ನಿಮ್ಮ ಮನಸ್ಸಿನಲ್ಲಿ ಏನಿದೆ?"
   - 
-    title: ASCII art
+    title: ಆಸ್ಕೀ(ASCII) ಕಲೆ
   - 
-    title: "Challenge: about yourself"
+    title: "ಸವಾಲು: ನಿಮ್ಮ ಬಗ್ಗೆ"
   - 
-    title: The year 2025
+    title: ವರ್ಷ 2025
   - 
-    title: "Challenge: your age in dog years"
+    title: "ಸವಾಲು: ನಾಯಿ ವರ್ಷಗಳಲ್ಲಿ ನಿಮ್ಮ ವಯಸ್ಸು"
   - 
-    title: "Challenge: calculating text"
+    title: "ಸವಾಲು: ಪಠ್ಯವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು"

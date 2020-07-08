@@ -18,7 +18,7 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - title: ಪರಿಚಯ
-  - title: ನಿಮಗೆ ಬೇಕಾದುದನ್ನು
+  - title: ನಿಮಗೆ ಬೇಕಾದುದು
   - title: ಹಲೋ ಹೇಳುವುದು
   - title: "ಸವಾಲು: ನಿಮ್ಮ ಮನಸ್ಸಿನಲ್ಲಿ ಏನಿದೆ?"
   - title: ಆಸ್ಕೀ(ASCII) ಕಲೆ

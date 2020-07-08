@@ -1,25 +1,25 @@
-## ASCII art
+## ಆಸ್ಕೀ(ASCII) ಕಲೆ
 
-Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '*ask-e*') is creating **pictures out of text**.
+ಪಠ್ಯಕ್ಕಿಂತ ಹೆಚ್ಚು ಮೋಜಿನ ಸಂಗತಿಯನ್ನು ಮುದ್ರಿಸೋಣ: ಆಸ್ಕೀ(ASCII) ಕಲೆ! ಆಸ್ಕೀ(ASCII) ಕಲೆಯು('* ಆಸ್ಕ್-ಈ(ask-e)*'ಎಂದು ಉಚ್ಚರಿಸಲಾಗುತ್ತದೆ)**ಪಠ್ಯದ ಹೊರಗಿನ ಚಿತ್ರಗಳನ್ನು** ರಚಿಸುತ್ತಿದೆ.
 
-+ Let's add some art to your program — a picture of a dog!
++ ನಿಮ್ಮ ಕಾರ್ಯಕ್ರಮಕ್ಕೆ(ಪ್ರೋಗ್ರಾಮ್ ಗೆ) ಕೆಲವು ಕಲೆಗಳನ್ನು ಸೇರಿಸೋಣ - ನಾಯಿಯ ಚಿತ್ರ!
     
-    ![screenshot](images/me-dog.png)
+    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ (ಪರದೆ ಚಿತ್ರ)](images/me-dog.png)
 
-The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards.
+ನಾಯಿಯ ಕಾಲುಗಳನ್ನು ಪೈಪ್ ಅಕ್ಷರ ` | ` ಬಳಸಿ ತಯಾರಿಸಲಾಗುತ್ತದೆ, ಇದನ್ನು ನೀವು ಹೆಚ್ಚಿನ ಯುಕೆ(UK) / ಯುಎಸ್(USA) ಆಂಗ್ಲ(ಇಂಗ್ಲಿಷ್) ಕೀಬೋರ್ಡ್‌ಗಳಲ್ಲಿ <kbd> Shift+ \ </kbd> ಒತ್ತುವ ಮೂಲಕ ಟೈಪ್ ಮಾಡಬಹುದು.
 
-+ If you click **Run**, you'll see that there's a bug in your new code.
++ ನೀವು **Run** ಕ್ಲಿಕ್ ಮಾಡಿದರೆ, ನಿಮ್ಮ ಹೊಸ ಕೋಡ್‌ನಲ್ಲಿ ದೋಷವಿದೆ ಎಂದು ನೀವು ನೋಡುತ್ತೀರಿ.
     
-    ![screenshot](images/me-dog-bug.png)
+    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ (ಪರದೆ ಚಿತ್ರ)](images/me-dog-bug.png)
     
-    That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
+    ನಿಮ್ಮ ಪಠ್ಯವು ಸಂಭೋಧನಾ ಚಿಹ್ನೆಯನ್ನು (ಅಪಾಸ್ಟ್ರಫಿ)`'` ಒಳಗೊಂಡಿರುವುದರಿಂದ, ಪಠ್ಯದ ಅಂತ್ಯ ಎಂದು ಪೈಥಾನ್(Python) ಭಾವಿಸುತ್ತಾನೆ!
     
-    ![screenshot](images/me-dog-quote.png)
+    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ (ಪರದೆ ಚಿತ್ರ)](images/me-dog-quote.png)
 
-+ To fix this, just put a backslash `` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
++ ಇದನ್ನು ಸರಿಪಡಿಸಲು, `here's` ಪದದಲ್ಲಿ ಸಂಭೋಧನಾ ಚಿಹ್ನೆಗೆ(ಅಪಾಸ್ಟ್ರಫಿಗೆ) ಮೊದಲು ಬ್ಯಾಕ್ಸ್‌ಲ್ಯಾಶ್ ` \ ` ಅನ್ನು ಸೇರಿಸಿ. ಸಂಭೋಧನಾ ಚಿಹ್ನೆಯು(ಅಪಾಸ್ಟ್ರಫಿ) ಪಠ್ಯದ ಭಾಗವಾಗಿದೆ ಎಂದು ಇದು ಪೈಥಾನ್ ಗೆ(Python) ಹೇಳುತ್ತದೆ.
     
-    ![screenshot](images/me-dog-bug-fix.png)
+    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ (ಪರದೆ ಚಿತ್ರ)](images/me-dog-bug-fix.png)
 
-+ If you prefer, you can use three apostrophes `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
++ ನೀವು ಬಯಸಿದರೆ, ನೀವು ಒಂದರ ಬದಲು ಮೂರು ಸಂಭೋಧನಾ ಚಿಹ್ನೆಗಳನ್ನು ಬಳಸಬಹುದು `'''`, ಇದು ಒಂದು ` print` ಹೇಳಿಕೆಯೊಂದಿಗೆ ಅನೇಕ ಸಾಲುಗಳ ಪಠ್ಯವನ್ನು ಮುದ್ರಿಸಲು ನಿಮಗೆ ಅನುಮತಿಸುತ್ತದೆ:
     
-    ![screenshot](images/me-dog-triple-quote.png)
+    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ (ಪರದೆ ಚಿತ್ರ)](images/me-dog-triple-quote.png)

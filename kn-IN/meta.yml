@@ -1,0 +1,28 @@
+---
+hero_image: images/about-me.png
+theme: orange
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: ನನ್ನ ಬಗ್ಗೆ
+description: ಪಠ್ಯದಿಂದ ಚಿತ್ರಗಳನ್ನು ರಚಿಸಲು Python ಪ್ರೋಗ್ರಾಮಿಂಗ್ ಭಾಷೆಯನ್ನು ಬಳಸಿ
+original_url: https://codeclubprojects.org/en-GB/python/about-me
+interests: ''
+technologies: python
+site_areas: projects
+hardware: ''
+software: python
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: ಪರಿಚಯ
+  - title: ನಿಮಗೆ ಬೇಕಾದುದು
+  - title: ಹಲೋ ಹೇಳುವುದು
+  - title: "ಸವಾಲು: ನಿಮ್ಮ ಮನಸ್ಸಿನಲ್ಲಿ ಏನಿದೆ?"
+  - title: ಆಸ್ಕೀ(ASCII) ಕಲೆ
+  - title: "ಸವಾಲು: ನಿಮ್ಮ ಬಗ್ಗೆ"
+  - title: ವರ್ಷ 2025
+  - title: "ಸವಾಲು: ನಾಯಿ ವರ್ಷಗಳಲ್ಲಿ ನಿಮ್ಮ ವಯಸ್ಸು"
+  - title: "ಸವಾಲು: ಪಠ್ಯವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು"

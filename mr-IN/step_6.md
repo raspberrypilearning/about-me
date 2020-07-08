@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: about yourself
+## आव्हान: आपल्याबद्दल
 
-Write a Python program to tell others about yourself using text and ASCII art. You can create images of your hobbies, friends, or anything you like!
+मजकूर आणि ASCII कला वापरुन आपल्याबद्दल इतरांना सांगण्यासाठी Python प्रोग्राम लिहा. आपण आपल्या छंद, मित्र किंवा आपल्या आवडीची प्रतिमा तयार करू शकता!
 
-**Remember that the code you write in Trinket is public. Don't share any personal information like your full name or address!**
+**लक्षात ठेवा आपण Trinket मध्ये लिहिता कोड सार्वजनिक आहे. आपले पूर्ण नाव किंवा पत्ता यासारखी कोणतीही वैयक्तिक माहिती सामायिक करू नका!**
 
-Here’s an example:
+येथे एक उदाहरण आहे:
 
 ![screenshot](images/me-about.png)
 

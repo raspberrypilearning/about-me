@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: your age in dog years
+## ಸವಾಲು: ನಾಯಿ ವರ್ಷಗಳಲ್ಲಿ ನಿಮ್ಮ ವಯಸ್ಸು
 
-Write a program to ask the user their age, and then tell them their age in dog years! You can calculate a person’s age in dog years by multiplying their age by 7.
+ಬಳಕೆದಾರರಿಗೆ ಅವರ ವಯಸ್ಸನ್ನು ಕೇಳಲು ಪ್ರೋಗ್ರಾಂ ಬರೆಯಿರಿ, ತದನಂತರ ನಾಯಿ ವರ್ಷಗಳಲ್ಲಿ ಅವರ ವಯಸ್ಸನ್ನು ಅವರಿಗೆ ತಿಳಿಸಿ! ವ್ಯಕ್ತಿಯ ವಯಸ್ಸನ್ನು ನಾಯಿಯ ವರ್ಷಗಳಲ್ಲಿ ಲೆಕ್ಕ ಹಾಕಬೇಕಾದರೆ ಅವರ(ವ್ಯಕ್ತಿಯ) ವಯಸ್ಸನ್ನು 7 ರಿಂದ ಗುಣಿಸಿ.
 
-![screenshot](images/me-dog-years.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ (ಪರದೆ ಚಿತ್ರ)](images/me-dog-years.png)
 
-In programming, the symbol for **multiplication** is the `*` character, which you can usually type by pressing <kbd>Shift + 8</kbd> on the keyboard.
+ಪ್ರೋಗ್ರಾಮಿಂಗ್‌ನಲ್ಲಿ, **ಗುಣಾಕಾರ** (multiplication) ನ ಸಂಕೇತವು `*` ಅಕ್ಷರವಾಗಿದೆ, ಇದನ್ನು ನೀವು ಸಾಮಾನ್ಯವಾಗಿ ಕೀಬೋರ್ಡ್‌ನಲ್ಲಿ <kbd>Shift+ 8</kbd> ಒತ್ತುವ ಮೂಲಕ ಟೈಪ್ ಮಾಡಬಹುದು.
 
 \--- /challenge \---

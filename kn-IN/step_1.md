@@ -1,8 +1,8 @@
-## Introduction
+## ಪರಿಚಯ
 
-In this project you will learn how to write a Python program telling people all about you.
+ಈ ಯೋಜನೆಯಲ್ಲಿ ನಿಮ್ಮ ಬಗ್ಗೆ ಜನರಿಗೆ ತಿಳಿಸುವ ಪೈಥಾನ್(Python) ಪ್ರೋಗ್ರಾಂ ಅನ್ನು ಹೇಗೆ ಬರೆಯುವುದು ಎಂದು ನೀವು ಕಲಿಯುವಿರಿ.
 
-### What you will make
+### ನೀವು ಏನು ಮಾಡುತ್ತೀರಿ
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a1f663ae0d?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -10,14 +10,14 @@ In this project you will learn how to write a Python program telling people all 
   <img src="images/me-final.png">
 </div>
 
-### What you will learn
+### ನೀವು ಏನು ಕಲಿಯುವಿರಿ
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+ಈ ಯೋಜನೆಯು ಈ ಕೆಳಗಿನ ಎಳೆಗಳಿಂದ [ Raspberry Pi Digital Making Curriculum ](http://rpf.io/curriculum){:target="_blank"}: ಅಂಶಗಳನ್ನು ಒಳಗೊಂಡಿದೆ:
 
-+ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [ ಸರಳ ಪ್ರೋಗ್ರಾಮ್ ಗಳನ್ನು ರಚಿಸಲು ಮೂಲ ಪ್ರೋಗ್ರಾಮಿಂಗ್(programming) ರಚನೆಗಳನ್ನು ಬಳಸಿ. ](https://www.raspberrypi.org/curriculum/programming/creator) {: target = "_ blank"}
 
-### Additional information for educators
+### ಶಿಕ್ಷಣತಜ್ಞರಿಗೆ ಹೆಚ್ಚುವರಿ ಮಾಹಿತಿ
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/about-me/print){:target="_blank"}.
+ನೀವು ಈ ಯೋಜನೆಯನ್ನು ಮುದ್ರಿಸಬೇಕಾದರೆ, ದಯವಿಟ್ಟು [ ಮುದ್ರಕ-ಸ್ನೇಹಿ ಆವೃತ್ತಿಯನ್ನು(printer-friendly version)](https://projects.raspberrypi.org/en/projects/about-me/print) {:target = "_blank"} ಬಳಸಿ.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+ಈ ಯೋಜನೆಯ ಗಿಟ್‌ಹಬ್(GitHub) ರೆಪೊಸಿಟರಿಯನ್ನು ಪ್ರವೇಶಿಸಲು ಅಡಿಟಿಪ್ಪಣಿ ಲಿಂಕ್ ಅನ್ನು ಬಳಸಿ, ಅದರ 'en/resources' ಫೋಲ್ಡರ್‌ನಲ್ಲಿ ಎಲ್ಲಾ ಸಂಪನ್ಮೂಲಗಳು ಒಳಗೊಂಡಿದೆ (ಮುಗಿದಿರುವ ಉದಾಹರಣೆ ಪ್ರಾಜೆಕ್ಟ್ ಕೂಡ ಸೇರಿದೆ).

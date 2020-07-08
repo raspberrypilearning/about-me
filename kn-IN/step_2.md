@@ -1,9 +1,9 @@
-## What you will need
+## ನಿಮಗೆ ಬೇಕಾದುದು
 
-### Hardware
+### ಯಂತ್ರಾಂಶ(ಹಾರ್ಡ್ವೇರ್)
 
-+ A computer capable of accessing the [trinket.io](https://trinket.io){:target="_blank"} website
++ [ trinket.io ](https://trinket.io) {: target = "_ blank"}ವೆಬ್‌ಸೈಟ್ ಪ್ರವೇಶಿಸುವ ಸಾಮರ್ಥ್ಯವಿರುವ ಕಂಪ್ಯೂಟರ್
 
-### Software
+### ಸಾಫ್ಟ್ವೇರ್
 
-This project can be completed in a web browser using [trinket.io](https://trinket.io){:target="_blank"}
+[trinket.io](https://trinket.io){:target="_blank"}ನನ್ನು ಬಳಸಿ ವೆಬ್ ಬ್ರೌಸರ್‌ನಲ್ಲಿ ಈ ಯೋಜನೆಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಬಹುದು

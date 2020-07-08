@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Challenge: calculating text
+## ಸವಾಲು: ಪಠ್ಯವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು
 
-Did you know that you can also calculate text?!
+ನೀವು ಪಠ್ಯವನ್ನು ಸಹ ಲೆಕ್ಕ ಹಾಕಬಹುದು ಎಂದು ನಿಮಗೆ ತಿಳಿದಿದೆಯೇ?!
 
-What will the following program print to the screen? See if you can guess it correctly before running the program.
+ಕೆಳಗಿನ ಪ್ರೋಗ್ರಾಂ ಪರದೆಯ ಮೇಲೆ ಏನನ್ನು ಮುದ್ರಿಸುತ್ತದೆ? ಪ್ರೋಗ್ರಾಂ ಅನ್ನು ಚಾಲನೆ ಮಾಡುವ ಮೊದಲು ನೀನು ಅದನ್ನು ಸರಿಯಾಗಿ ಊಹಿಸಬಹುದೇ ಎಂದು ನೋಡಿಕೊಳ್ಳಿ.
 
-![screenshot](images/me-text-calc.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ (ಪರದೆ ಚಿತ್ರ)](images/me-text-calc.png)
 
-Can you make up any words of your own? You could even make your own patterns!
+ನಿನ್ನದೇ ಆದ ಯಾವುದೇ ಪದಗಳನ್ನು ನೀನು ರಚಿಸಬಹುದೇ? ನಿಮ್ಮ ಸ್ವಂತ ಮಾದರಿಗಳನ್ನು ಸಹ ನೀವು ಮಾಡಬಹುದು!
 
-![screenshot](images/me-patterns.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ (ಪರದೆ ಚಿತ್ರ)](images/me-patterns.png)
 
 \--- /challenge \---

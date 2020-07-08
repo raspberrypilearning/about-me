@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: about yourself
+## ಸವಾಲು: ನಿಮ್ಮ ಬಗ್ಗೆ
 
-Write a Python program to tell others about yourself using text and ASCII art. You can create images of your hobbies, friends, or anything you like!
+ಪಠ್ಯ ಮತ್ತು ಆಸ್ಕೀ(ASCII) ಕಲೆ ಬಳಸಿ ನಿಮ್ಮ ಬಗ್ಗೆ ಇತರರಿಗೆ ಹೇಳಲು ಪೈಥಾನ್(Python) ಪ್ರೋಗ್ರಾಂ ಬರೆಯಿರಿ. ನಿಮ್ಮ ಹವ್ಯಾಸಗಳು, ಸ್ನೇಹಿತರು ಅಥವಾ ನೀವು ಇಷ್ಟಪಡುವ ಯಾವುದಾದರೂ ಚಿತ್ರಗಳನ್ನು ನೀವು ರಚಿಸಬಹುದು!
 
-**Remember that the code you write in Trinket is public. Don't share any personal information like your full name or address!**
+**ಟ್ರಿಂಕೆಟ್(Trinket) ನಲ್ಲಿ ನೀವು ಬರೆಯುವ ಕೋಡ್ ಸಾರ್ವಜನಿಕವಾಗಿದೆ ಎಂಬುದನ್ನು ನೆನಪಿಡಿ. ನಿಮ್ಮ ಪೂರ್ಣ ಹೆಸರು ಅಥವಾ ವಿಳಾಸದಂತಹ ಯಾವುದೇ ವೈಯಕ್ತಿಕ ಮಾಹಿತಿಯನ್ನು ಹಂಚಿಕೊಳ್ಳಬೇಡಿ!**
 
-Here’s an example:
+ಒಂದು ಉದಾಹರಣೆ ಇಲ್ಲಿದೆ:
 
-![screenshot](images/me-about.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ (ಪರದೆ ಚಿತ್ರ)](images/me-about.png)
 
 \--- /challenge \---

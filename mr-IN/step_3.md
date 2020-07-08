@@ -1,33 +1,33 @@
-## Saying hello
+## नमस्कार बोलणे
 
-Let's start by writing some text.
+चला काही मजकूर लिहून प्रारंभ करूया.
 
-+ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ रिकामा Python Trinket टेंप्लेट उघडा: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Type the following into the window that appears:
++ दिसत असलेल्या विंडोमध्ये खालील टाइप करा:
     
     ![screenshot](images/me-hi.png)
     
-    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
+    `#!/bin/python3` ही ओळ Trinket ला फक्त सांगते की आम्ही Python 3 (नवीनतम आवृत्ती) वापरत आहोत.
 
-+ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
++ **Run** क्लिक करा, आणि आपण हे पहातो की `print()` कमांड `''` कोट मार्क दरम्यान प्रत्येक गोष्ट प्रिंट करते.
     
     ![screenshot](images/me-hi-test.png)
 
-If you've made a mistake, you'll get an error message telling you what went wrong instead!
+आपण चुकल्यास, काय चूक झाली हे सांगताना आपल्याला एक error message मिळेल!
 
-+ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
++ करून पाहा! शेवटचा कोट `'` किंवा क्लोजिंग ब्रॅकेट `)` (किंवा दोन्ही) हटवा आणि काय होते ते पहा.
     
     ![screenshot](images/me-syntax.png)
 
-+ Add the quote or bracket back in, and click **Run** to make sure your project works again.
++ पुन्हा कोट किंवा कंस जोडा आणि **Run** क्लिक करा आपला प्रकल्प पुन्हा कार्य करेल याची खात्री करण्यासाठी.
 
-**You don't need a Trinket account to save your projects!**
+**तुमचे प्रकल्प सेव्ह करण्यासाठी तुम्हाला Trinket खातं असण्याची गरज नाही!**
 
-If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+तुमचं Trinket खातं नसेल तर, down बाणावर क्लिक करून **Link** वर क्लिक करा. यातून आपल्याला एक लिंक मिळेल ज्याचा वापर करून तुम्ही तिथे नंतर परत जाऊ शकता. लिंक बदलल्यामुळे तुम्ही जेव्हा प्रकल्पात बदल कराल तेव्हा तुम्हाला प्रत्येक वेळी या पद्धतीने नवीन लिंक तयार करून त्याचा वापर करावा लागेल!
 
 ![screenshot](images/me-link.png)
 
-If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
+आपल्याकडे Trinket खाते असल्यास आपण **Remix** क्लिक करू शकता trinket ची स्वतःची कॉपी जतन करण्यासाठी.
 
 ![screenshot](images/me-remix.png)

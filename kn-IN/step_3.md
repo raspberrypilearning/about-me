@@ -1,33 +1,33 @@
-## Saying hello
+## ಹಲೋ ಹೇಳುವುದು
 
-Let's start by writing some text.
+ಕೆಲವು ಪಠ್ಯವನ್ನು ಬರೆಯುವ ಮೂಲಕ ಪ್ರಾರಂಭಿಸೋಣ.
 
-+ Open the blank Python template trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ ಖಾಲಿ ಪೈಥಾನ್(Python) ಟ್ರಿಂಕೆಟ್(Trinket) ಟೆಂಪ್ಲೆಟ್(ಮಾದರಿತೋರಕ): <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>ಅನ್ನು ತೆರೆಯಿರಿ.
 
-+ Type the following into the window that appears:
++ ಗೋಚರಿಸುವ ವಿಂಡೋದಲ್ಲಿ, ಕೆಳಗಿನವುಗಳನ್ನು ಟೈಪ್ ಮಾಡಿ:
     
-    ![screenshot](images/me-hi.png)
+    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ (ಪರದೆ ಚಿತ್ರ)](images/me-hi.png)
     
-    The line `#!/bin/python3` just tells Trinket that we're using Python 3 (the latest version).
+    ಈ ಸಾಲು ` #! /bin /python3 ` ನಾವು Python 3 (ಇತ್ತೀಚಿನ ಆವೃತ್ತಿ) ಬಳಸುತ್ತಿದ್ದೇವೆ ಎಂದು ಟ್ರಿಂಕೆಟ್ ಗೆ(Trinket) ಹೇಳುತ್ತದೆ.
 
-+ Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
++ **Run**ಕ್ಲಿಕ್ ಮಾಡಿ, ನಂತರ `print()` ಆಜ್ಞೆಯು ಉದ್ಧರಣ ಚಿಹ್ನೆಗಳ `''` ನಡುವೆ ಎಲ್ಲವನ್ನೂ ಮುದ್ರಿಸುತ್ತದೆ.
     
-    ![screenshot](images/me-hi-test.png)
+    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ (ಪರದೆ ಚಿತ್ರ)](images/me-hi-test.png)
 
-If you've made a mistake, you'll get an error message telling you what went wrong instead!
+ನೀವು ತಪ್ಪು ಮಾಡಿದ್ದರೆ, ಬದಲಿಗೆ ಏನು ತಪ್ಪಾಗಿದೆ ಎಂದು ಹೇಳುವ ದೋಷ ಸಂದೇಶವನ್ನು ನೀವು ಪಡೆಯುತ್ತೀರಿ!
 
-+ Try it! Delete the end quote `'` or the closing bracket `)` (or both) and see what happens.
++ ಪ್ರಯತ್ನಿಸಿ ನೋಡಿ! ಅಂತಿಮ ಉಲ್ಲೇಖವನ್ನೋ ` ' `ಅಥವಾ ಮುಚ್ಚುವ ಆವರಣವನ್ನೋ `)` (ಅಥವಾ ಎರಡೂ) ಅಳಿಸಿ ನಂತರ ಏನಾಗುತ್ತದೆ ಎಂದು ನೋಡಿ.
     
-    ![screenshot](images/me-syntax.png)
+    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ (ಪರದೆ ಚಿತ್ರ)](images/me-syntax.png)
 
-+ Add the quote or bracket back in, and click **Run** to make sure your project works again.
++ ಉಲ್ಲೇಖ ಅಥವಾ ಬ್ರಾಕೆಟ್ ಅನ್ನು ಪುನಃ ಸೇರಿಸಿ, ಮತ್ತು ** Run** ಕ್ಲಿಕ್ ಮಾಡಿ ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್(ಯೋಜನೆ) ಮತ್ತೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆಯೇ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು.
 
-**You don't need a Trinket account to save your projects!**
+**ನಿಮ್ಮ ಯೋಜನೆಗಳನ್ನು ಉಳಿಸಲು ನಿಮಗೆ ಟ್ರಿಂಕೆಟ್(Trinket) ಖಾತೆಯ ಅವಶ್ಯಕತೆ ಇಲ್ಲಾ!**
 
-If you don't have a Trinket account, click the down arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+ನೀವು ಟ್ರಿಂಕೆಟ್(Trinket) ಖಾತೆಯನ್ನು ಹೊಂದಿಲ್ಲದಿದ್ದರೆ, ಕೆಳಗಿನ ಬಾಣದ ಗುರುತನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು ನಂತರ **ಲಿಂಕ್**ಕ್ಲಿಕ್ ಮಾಡಿ. ಇದು ನಿಮಗೆ ಉಳಿಸಬಹುದಾದ(ಸೇವ್ ಮಾಡುವ) ಲಿಂಕ್ ಅನ್ನು ನೀಡುತ್ತದೆ ಮತ್ತು ನಂತರ ಹಿಂತಿರುಗಬಹುದು. ಲಿಂಕ್ ಬದಲಾದಂತೆ, ನೀವು ಬದಲಾವಣೆಗಳನ್ನು ಮಾಡಿದಾಗ ನೀವು ಇದನ್ನು ಪ್ರತಿ ಬಾರಿ ಮಾಡಬೇಕಾಗುತ್ತದೆ!
 
-![screenshot](images/me-link.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ (ಪರದೆ ಚಿತ್ರ)](images/me-link.png)
 
-If you have a Trinket account, you can click **Remix** to save your own copy of the trinket.
+ನೀವು ಟ್ರಿಂಕೆಟ್(Trinket) ಖಾತೆಯನ್ನು ಹೊಂದಿದ್ದರೆ, ನಿಮ್ಮ ಸ್ವಂತ ಟ್ರಿಂಕೆಟ್‌ನ(trinket) ನಕಲನ್ನು ಉಳಿಸಲು ನೀವು **Remix** ಕ್ಲಿಕ್ ಮಾಡಬಹುದು.
 
-![screenshot](images/me-remix.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ (ಪರದೆ ಚಿತ್ರ)](images/me-remix.png)

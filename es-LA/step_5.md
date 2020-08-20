@@ -1,6 +1,6 @@
 ## Arte ASCII
 
-Imprimamos algo mucho más divertido que texto: ¡arte ASCII! El arte ASCII (pronunciado '*ask-e*') está creando **pictures out of text**.
+Imprimamos algo mucho más divertido que texto: ¡arte ASCII! El arte ASCII (pronunciado '*ask-e*') está creando **imágenes a partir de texto**.
 
 + Añadamos un poco de arte a tu programa, ¡la imagen de un perro!
     
@@ -16,7 +16,7 @@ Las patas del perro se hacen usando el carácter de barra vertical `|` que se pu
     
     ![captura de pantalla](images/me-dog-quote.png)
 
-+ Para solucionarlo, solo coloca una barra invertida `` antes del apóstrofo en la palabra `here's`. Esto le dice a Python que el apóstrofo es parte del texto.
++ Para solucionar esto, simplemente coloca una barra invertida `` antes de la comilla que forma la cola del perro `'`. Esto le dice a Python que el apóstrofo es parte del texto.
     
     ![captura de pantalla](images/me-dog-bug-fix.png)
 

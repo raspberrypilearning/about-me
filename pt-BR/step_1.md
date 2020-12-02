@@ -12,7 +12,7 @@ Neste projeto, você aprenderá a escrever um programa em Python informando as p
 
 ### O que você vai aprender
 
-Este projeto abrange elementos das seguintes vertentes do [Currículo Raspberry Pi de Criação Digital](http://rpf.io/curriculum){:target="_ blank"}:
+Este projeto abrange elementos das seguintes vertentes do [Currículo Raspberry Pi de Criação Digital](https://rpf.io/curriculum){:target="_ blank"}:
 
 + [Use construções básicas de programação para criar programas simples](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 

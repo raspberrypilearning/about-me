@@ -12,7 +12,7 @@ En aquest projecte aprendràs a escriure un programa de Python parlant sobre tu.
 
 ### Què aprendràs
 
-Aquest projecte tracta elements dels següents aspectes del [Currículum de Fabricació Digital de Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+Aquest projecte tracta elements dels següents aspectes del [Currículum de Fabricació Digital de Raspberry Pi](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Utilitza estructures de programació senzilles per crear programes simples](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 

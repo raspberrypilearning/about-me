@@ -12,7 +12,7 @@ In questo progetto, imparerai a creare un programma in Python che parla di te.
 
 ### Cosa imparerai
 
-Questo progetto include elementi tratti dalle seguenti componenti del [Digital Making Curriculum di Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+Questo progetto include elementi tratti dalle seguenti componenti del [Digital Making Curriculum di Raspberry Pi](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Utilizzare i costrutti base di un linguaggio di programmazione per creare programmi semplici](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 

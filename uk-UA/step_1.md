@@ -12,7 +12,7 @@
 
 ### Що ти вивчиш
 
-Цей проект охоплює елементи з наступних частин [Електронного навчального плану Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+Цей проект охоплює елементи з наступних частин [Електронного навчального плану Raspberry Pi](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Використовування основних конструкції програмування для створення простих програм](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 

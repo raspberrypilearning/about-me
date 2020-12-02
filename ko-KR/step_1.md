@@ -12,7 +12,7 @@
 
 ### 배울 지식
 
-이 프로젝트는 [라즈베리 파이 디지털 메이킹 커리큘럼](http://rpf.io/curriculum){:target="_blank"}: 중 아래의 과정에 있는 요소들을 다룹니다.
+이 프로젝트는 [라즈베리 파이 디지털 메이킹 커리큘럼](https://rpf.io/curriculum){:target="_blank"}: 중 아래의 과정에 있는 요소들을 다룹니다.
 
 + [기본적인 프로그래밍 구문을 사용하여 간단한 프로그램 만들기](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 

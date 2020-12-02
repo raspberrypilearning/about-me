@@ -12,7 +12,7 @@
 
 ### 你将学习什么
 
-本项目包括 [Raspberry Pi 数字制作课程](http://rpf.io/curriculum){:target="_blank"} 以下几个部分的元素:
+本项目包括 [Raspberry Pi 数字制作课程](https://rpf.io/curriculum){:target="_blank"} 以下几个部分的元素:
 
 + [使用基本编程结构创建简单程序。](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 

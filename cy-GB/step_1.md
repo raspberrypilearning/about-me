@@ -12,7 +12,7 @@ Yn y prosiect yma fe fyddi di'n dysgu sut i ysgrifennu rhaglen Python yn dweud w
 
 ### Beth fyddi di'n ei ddysgu
 
-Mae'r prosiect yma yn trin elfennau sydd yn rhan o'r adran ganlynol o [Faes Llafur Creu Digidol Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+Mae'r prosiect yma yn trin elfennau sydd yn rhan o'r adran ganlynol o [Faes Llafur Creu Digidol Raspberry Pi](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Defnyddio rhaglenni sylfaenol i greu rhaglen syml](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 

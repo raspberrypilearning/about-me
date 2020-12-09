@@ -12,7 +12,7 @@
 
 ### ನೀವು ಏನು ಕಲಿಯುವಿರಿ
 
-ಈ ಯೋಜನೆಯು ಈ ಕೆಳಗಿನ ಎಳೆಗಳಿಂದ [ Raspberry Pi Digital Making Curriculum ](http://rpf.io/curriculum){:target="_blank"}: ಅಂಶಗಳನ್ನು ಒಳಗೊಂಡಿದೆ:
+ಈ ಯೋಜನೆಯು ಈ ಕೆಳಗಿನ ಎಳೆಗಳಿಂದ [ Raspberry Pi Digital Making Curriculum ](https://rpf.io/curriculum){:target="_blank"}: ಅಂಶಗಳನ್ನು ಒಳಗೊಂಡಿದೆ:
 
 + [ ಸರಳ ಪ್ರೋಗ್ರಾಮ್ ಗಳನ್ನು ರಚಿಸಲು ಮೂಲ ಪ್ರೋಗ್ರಾಮಿಂಗ್(programming) ರಚನೆಗಳನ್ನು ಬಳಸಿ. ](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 

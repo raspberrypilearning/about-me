@@ -11,7 +11,7 @@ A través de este proyecto, aprenderás a escribir un programa Python contando c
 
 ### Lo que aprenderás
 
-Este proyecto incluye elementos de los siguientes aspectos del [currículo de creación digital de Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+Este proyecto incluye elementos de los siguientes aspectos del [currículo de creación digital de Raspberry Pi](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Usa constructores de programación básicos para crear programas simples](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 

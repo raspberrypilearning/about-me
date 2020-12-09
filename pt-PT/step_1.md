@@ -12,7 +12,7 @@ Neste projeto, vais aprender a escrever um programa em Python contando aos outro
 
 ### O que vais aprender
 
-Este projeto abrange elementos das seguintes vertentes do [Currículo Raspberry Pi Digital Making](http://rpf.io/curriculum){:target="_blank"}:
+Este projeto abrange elementos das seguintes vertentes do [Currículo Raspberry Pi Digital Making](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Usar construções básicas de programação para criar programas simples](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 

@@ -12,7 +12,7 @@
 
 ### Ce veți învăța
 
-Acest proiect acoperă elemente din următoarele componente ale curriculum-ului [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Acest proiect acoperă elemente din următoarele componente ale curriculum-ului [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Folosiți elemente de bază ale programării pentru a creea programe simple](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 

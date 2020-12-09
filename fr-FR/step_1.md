@@ -12,7 +12,7 @@ Dans ce projet, tu apprendras à écrire un programme Python pour te présenter 
 
 ### Ce que tu vas apprendre
 
-Ce projet couvre les éléments suivantes des sections du programme [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Ce projet couvre les éléments suivantes des sections du programme [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Utilisation des concepts de base en programmation pour créer des programmes simples](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 

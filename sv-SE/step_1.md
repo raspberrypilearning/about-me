@@ -12,7 +12,7 @@ I det här projektet lär du dig hur man skriver ett Python-program som berätta
 
 ### Vad du kommer att lära dig
 
-Detta projekt omfattar element från följande rader av [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){: target = "_ blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Använd grundläggande programmeringskonstruktioner för att skapa enkla program](https://www.raspberrypi.org/curriculum/programming/creator){: target = "_ blank"}
 

@@ -12,7 +12,7 @@ Bu projede, insanlara kendiniz hakkında herşeyi anlattığınız bir Python pr
 
 ### Ne öğreneceksiniz
 
-Bu proje, [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){@ target = "_ blank"} 'un aşağıdaki bölümünden bilgiler kapsamaktadır:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Basit programlar oluşturmak için temel programlama yapılarını kullanın](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 

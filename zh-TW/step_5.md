@@ -16,7 +16,7 @@
     
     ![截圖](images/me-dog-quote.png)
 
-+ 要解決這個問題，只需在 `here's` 的撇號之前加上一個反斜杠 `` 。 這會告訴 Python︰撇號是文字的一部分。
++ 要解決這個問題，只需在 `here's` 的撇號之前加上一個反斜杠 `\` 。 這會告訴 Python︰撇號是文字的一部分。
     
     ![截圖](images/me-dog-bug-fix.png)
 

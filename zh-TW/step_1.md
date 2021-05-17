@@ -12,7 +12,7 @@
 
 ### 你會學到︰
 
-這專案包含了以下幾個 [Raspberry Pi數位製作課程](http://rpf.io/curriculum){：target =“_ blank”}的基本內容：
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [使用基本的程式結構來創造簡單的程式](https://www.raspberrypi.org/curriculum/programming/creator){：target =“_ blank”}
 

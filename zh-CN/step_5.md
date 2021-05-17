@@ -16,7 +16,7 @@
     
     ![截图](images/me-dog-quote.png)
 
-+ 要解决这个问题，只需要在`here's`一词中的单引号前加上``即可。 反斜线告诉Python单引号是文本内容的一部分。
++ 要解决这个问题，只需要在`here's`一词中的单引号前加上`\`即可。 反斜线告诉Python单引号是文本内容的一部分。
     
     ![截图](images/me-dog-bug-fix.png)
 

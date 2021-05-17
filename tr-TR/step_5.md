@@ -16,7 +16,7 @@ Köpeğin bacakları, genellikle Türkçe klavyelerde <kbd>AltGr ve -</kbd> tuş
     
     ![ekran görüntüsü](images/me-dog-quote.png)
 
-+ Bunu düzeltmek için, köpeğin ASCII sanat resminde kuyruğunu gösteren `'` kesme işaretinin hemen öncesine sadece bir ters eğik çizgi `` koyun. Bu Python'a kesme işaretinin metnin bir parçası olduğunu söyler.
++ Bunu düzeltmek için, köpeğin ASCII sanat resminde kuyruğunu gösteren `'` kesme işaretinin hemen öncesine sadece bir ters eğik çizgi `\` koyun. Bu Python'a kesme işaretinin metnin bir parçası olduğunu söyler.
     
     ![ekran görüntüsü](images/me-dog-bug-fix.png)
 

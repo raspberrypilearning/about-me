@@ -16,7 +16,7 @@ As pernas do cachorro são feitas usando o caratere barra vertical `|` que podes
     
     ![captura de ecrã](images/me-dog-quote.png)
 
-+ Para corrigir isso, basta colocar uma barra invertida `` antes do apóstrofo na palavra `d'agua`. Isso diz ao Python que o apóstrofo faz parte do texto.
++ Para corrigir isso, basta colocar uma barra invertida `\` antes do apóstrofo na palavra `d'agua`. Isso diz ao Python que o apóstrofo faz parte do texto.
     
     ![captura de ecrã](images/me-dog-bug-fix.png)
 

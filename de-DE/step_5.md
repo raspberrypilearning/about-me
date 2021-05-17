@@ -16,7 +16,7 @@ Die Beine des Hundes werden mit dem "pipe"-Zeichen (englisch: Rohr oder Pfeife) 
     
     ![Screenshot](images/me-dog-quote.png)
 
-+ Um das zu beheben, setz einfach einen "Backslash" `` (AltGr+ß) vor das Apostroph im Schwanz deines Hundes `||||'`. Das sagt Python, dass der Apostroph Teil des Textes ist.
++ Um das zu beheben, setz einfach einen "Backslash" `\` (AltGr+ß) vor das Apostroph im Schwanz deines Hundes `||||'`. Das sagt Python, dass der Apostroph Teil des Textes ist.
     
     ![screenshot](images/me-dog-bug-fix.png)
 

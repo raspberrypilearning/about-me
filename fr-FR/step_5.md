@@ -16,7 +16,7 @@ Les jambes du chien sont faites à partir du caractère barre verticale `|` que 
     
     ![capture d'écran](images/me-dog-quote.png)
 
-+ Pour corriger cela, il suffit de mettre une barre oblique inverse (antislash) `` avant l'apostrophe dans le mot `s'appelle`. Cela indique à Python que l'apostrophe fait partie du texte.
++ Pour corriger cela, il suffit de mettre une barre oblique inverse (antislash) `\` avant l'apostrophe dans le mot `s'appelle`. Cela indique à Python que l'apostrophe fait partie du texte.
     
     ![capture d'écran](images/me-dog-bug-fix.png)
 

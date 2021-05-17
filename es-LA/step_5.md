@@ -16,7 +16,7 @@ Las patas del perro se hacen usando el carácter de barra vertical `|` que se pu
     
     ![captura de pantalla](images/me-dog-quote.png)
 
-+ Para solucionar esto, simplemente coloca una barra invertida `` antes de la comilla que forma la cola del perro `'`. Esto le dice a Python que el apóstrofo es parte del texto.
++ Para solucionar esto, simplemente coloca una barra invertida `\` antes de la comilla que forma la cola del perro `'`. Esto le dice a Python que el apóstrofo es parte del texto.
     
     ![captura de pantalla](images/me-dog-bug-fix.png)
 

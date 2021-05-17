@@ -16,7 +16,7 @@ Les potes del gos s'han fet utilitzant el caràcter de tub `|` el qual pots repr
     
     ![captura de pantalla](images/me-dog-quote.png)
 
-+ Per solucionar això, només has d'afegir una barra obliqua inversa `` abans de l'apòstrof que forma la cua del gos `'`. Això li diu a Python que l'apòstrof forma part del text.
++ Per solucionar això, només has d'afegir una barra obliqua inversa `\` abans de l'apòstrof que forma la cua del gos `'`. Això li diu a Python que l'apòstrof forma part del text.
     
     ![captura de pantalla](images/me-dog-bug-fix.png)
 

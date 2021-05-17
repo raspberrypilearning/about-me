@@ -16,7 +16,7 @@ As pernas do cachorro são feitas usando o caractere pipe `|` que você pode dig
     
     ![screenshot](images/me-dog-quote.png)
 
-+ Para corrigir isso, basta colocar uma barra invertida `` antes da aspa que forma o rabo do cachorro `o____'`. Isso informa ao Python que a aspa é parte do texto.
++ Para corrigir isso, basta colocar uma barra invertida `\` antes da aspa que forma o rabo do cachorro `o____'`. Isso informa ao Python que a aspa é parte do texto.
     
     ![screenshot](images/me-dog-bug-fix.png)
 

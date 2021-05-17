@@ -12,7 +12,7 @@ Wykonując ten projekt nauczysz się, jak napisać w języku Python program, kt�
 
 ### Czego się nauczysz
 
-Ten projekt pokrywa elementy z następujących wątków z [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Użycie podstawowych konstrukcji programistycznych do tworzenia prostych programów](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 

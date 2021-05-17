@@ -16,7 +16,7 @@ Hundens ben är gjorda med streckkaraktären `|` som du kan skriva genom att try
     
     ![skärmdump](images/me-dog-quote.png)
 
-+ Lös problemet genom att bara sätta ett omvänt snedstreck `` innan apostrofen som är hundens svans. Detta berättar för Python att apostrofen är en del av texten.
++ Lös problemet genom att bara sätta ett omvänt snedstreck `\` innan apostrofen som är hundens svans. Detta berättar för Python att apostrofen är en del av texten.
     
     ![skärmdump](images/me-dog-bug-fix.png)
 

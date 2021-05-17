@@ -12,7 +12,7 @@
 
 ### Чему ты научишься
 
-Этот проект включает в себя элементы из следующих направлений [Учебного плана цифрового мейкерства от Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Применение базовых конструкций программирования для создания простых программ](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 

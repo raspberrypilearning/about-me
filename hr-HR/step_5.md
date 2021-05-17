@@ -16,7 +16,7 @@ Noge psa možeš napraviti koristeći znak `|`. Ispiši ga koristeći tipke <kbd
     
     ![screenshot](images/me-dog-quote.png)
 
-+ Da bi ovo popravio, jednostavno dodaj znak `` prije znaka navodnika u riječi `Pogle`. Tako će Python znati da je znak navodnika dio teksta.
++ Da bi ovo popravio, jednostavno dodaj znak `\` prije znaka navodnika u riječi `Pogle`. Tako će Python znati da je znak navodnika dio teksta.
     
     ![screenshot](images/me-dog-bug-fix.png)
 

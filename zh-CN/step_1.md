@@ -12,7 +12,7 @@
 
 ### 学习具体目标
 
-本项目涵盖了[树莓派数字制作课程](http://rpf.io/curriculum){:target="_blank"}如下几方面内容:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [利用基本编程结构创建简单程序](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 

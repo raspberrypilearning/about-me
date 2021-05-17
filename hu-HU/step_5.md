@@ -16,7 +16,7 @@ A kutya lábát a `|` cső karakterrel készítjük, amelyet az <kbd>AltGr + w <
     
     ![képernyőkép](images/me-dog-quote.png)
 
-+ Ezt úgy tudod kijavítani, hogy beszúrsz egy fordított per jelet `` (backslash) a Pythont megtévesztő aposztóf elé. Ez megmondja a Pythonnak, hogy az aposztróf a szöveg része.
++ Ezt úgy tudod kijavítani, hogy beszúrsz egy fordított per jelet `\` (backslash) a Pythont megtévesztő aposztóf elé. Ez megmondja a Pythonnak, hogy az aposztróf a szöveg része.
     
     ![képernyőkép](images/me-dog-bug-fix.png)
 

@@ -12,7 +12,7 @@ Ebben a projektben azt fogod megtanulni, hogy hogyan írj egy olyan Python progr
 
 ### Amit meg fogsz tanulni
 
-Ez a projekt a [Raspberry Pi Digitális Alkotás Tanterv](http://rpf.io/curriculum) alábbi részeiből fed le elemeket: {:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Alapvető programozási szerkezetek használata egyszerű programok létrehozására](https://www.raspberrypi.org/curriculum/programming/creator) {:target="_blank"}
 

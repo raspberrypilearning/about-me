@@ -12,7 +12,7 @@
 
 ### あなたが学ぶもの
 
-このプロジェクトは、[Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:の次の要素から構成されています。
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [基本的なプログラミング構造を使いかんたんなプログラムを作成します。](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 

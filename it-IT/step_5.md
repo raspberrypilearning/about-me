@@ -16,7 +16,7 @@ Per realizzare le zampe del cane, utilizza la barra verticale `|`, che puoi digi
     
     ![screenshot](images/me-dog-quote.png)
 
-+ Per risolvere questo problema, basta inserire una barra rovesciata `` prima dell'apostrofo nella parola `l'immagine`. Questo dice a Python che l'apostrofo è parte del testo.
++ Per risolvere questo problema, basta inserire una barra rovesciata `\` prima dell'apostrofo nella parola `l'immagine`. Questo dice a Python che l'apostrofo è parte del testo.
     
     ![screenshot](images/me-dog-bug-fix.png)
 

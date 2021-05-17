@@ -16,7 +16,7 @@ Las patas del perro se hacen usando el carácter `|` que se puede escribir tecle
     
     ![screenshot](images/me-dog-quote.png)
 
-+ Para solucionar esto, simplemente coloca una barra invertida `` antes de la comilla que forma la cola del perro `'`. Esto le dice a Python que la comilla es parte del texto.
++ Para solucionar esto, simplemente coloca una barra invertida `\` antes de la comilla que forma la cola del perro `'`. Esto le dice a Python que la comilla es parte del texto.
     
     ![screenshot](images/me-dog-bug-fix.png)
 

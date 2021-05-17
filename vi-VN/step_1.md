@@ -12,7 +12,7 @@ Trong dự án này, bạn sẽ học cách viết một chương trình Python 
 
 ### Bạn sẽ học được gì
 
-Dự án này bao gồm các nội dung từ chương trình [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Sử dụng cấu trúc lập trình cơ bản để tạo ra các chương trình đơn giản](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 

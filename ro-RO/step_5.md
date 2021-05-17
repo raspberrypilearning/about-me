@@ -16,7 +16,7 @@ Picioarele câinelui sunt realizate folosind caracterul bară verticală `|` pe 
     
     ![captură de ecran](images/me-dog-quote.png)
 
-+ Pentru a repara asta, puneți caracterul backslash `` în fața apostrofului, adică coada câinelui. Acest lucru îi spune lui Python că apostroful face parte din text.
++ Pentru a repara asta, puneți caracterul backslash `\` în fața apostrofului, adică coada câinelui. Acest lucru îi spune lui Python că apostroful face parte din text.
     
     ![captură de ecran](images/me-dog-bug-fix.png)
 

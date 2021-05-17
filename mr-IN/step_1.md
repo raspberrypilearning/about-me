@@ -12,7 +12,7 @@
 
 ### ह्यातून तुम्हाला काय शिकायला मिळेल
 
-ह्या प्रकल्पात [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"} च्या अभ्यासक्रमातील पुढील बाबी समाविष्ट आहेत:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [साधे प्रोग्राम तयार करण्यासाठी बेसिक प्रोग्रामिंग कॉन्स्ट्रक्टचा वापर करा](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 

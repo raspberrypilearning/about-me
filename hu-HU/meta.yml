@@ -17,12 +17,14 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Bevezetés
-  - title: Amire szükséged lesz
-  - title: Üdvözlés
-  - title: "Kihívás: mit gondolsz?"
-  - title: ASCII művészet
-  - title: "Kihívás: magadról"
-  - title: A 2025-ös év
-  - title: "Kihívás: az életkor a kutyaévekben"
-  - title: "Kihívás: a szöveg kiszámítása"
+- title: Bevezetés
+- title: Amire szükséged lesz
+  completion: engaged
+- title: Üdvözlés
+- title: 'Kihívás: mit gondolsz?'
+- title: ASCII művészet
+- title: 'Kihívás: magadról'
+- title: A 2025-ös év
+- title: 'Kihívás: az életkor a kutyaévekben'
+  completion: internal
+- title: 'Kihívás: a szöveg kiszámítása'

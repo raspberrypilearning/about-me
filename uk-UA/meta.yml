@@ -17,12 +17,14 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Вступ
-  - title: Що тобі знадобиться
-  - title: Привітання
-  - title: "Завдання: про що ти думаєш?"
-  - title: ASCII-графіка
-  - title: "Завдання: про себе"
-  - title: 2025 рік
-  - title: "Завдання: твій вік у роках собаки"
-  - title: "Завдання: рахування тексту"
+- title: Вступ
+- title: Що тобі знадобиться
+  completion: engaged
+- title: Привітання
+- title: 'Завдання: про що ти думаєш?'
+- title: ASCII-графіка
+- title: 'Завдання: про себе'
+- title: 2025 рік
+- title: 'Завдання: твій вік у роках собаки'
+  completion: internal
+- title: 'Завдання: рахування тексту'

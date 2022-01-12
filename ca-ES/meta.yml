@@ -7,7 +7,8 @@ ingredient: false
 copyedit: true
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: Sobre mi
-description: Utilitza el llenguatge de programació Python per crear imatges fora del text
+description: Utilitza el llenguatge de programació Python per crear imatges fora del
+  text
 original_url: https://codeclubprojects.org/en-GB/python/about-me
 interests: ''
 technologies: python
@@ -17,12 +18,14 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introducció
-  - title: Què necessitaràs
-  - title: Saludar
-  - title: "Repte: Què tens en ment?"
-  - title: Art ASCII
-  - title: "Repte: Sobre mi"
-  - title: L'any 2025
-  - title: "Repte: La teva edat en anys de gos"
-  - title: "Repte: Calcular text"
+- title: Introducció
+- title: Què necessitaràs
+  completion: engaged
+- title: Saludar
+- title: 'Repte: Què tens en ment?'
+- title: Art ASCII
+- title: 'Repte: Sobre mi'
+- title: L'any 2025
+- title: 'Repte: La teva edat en anys de gos'
+  completion: internal
+- title: 'Repte: Calcular text'

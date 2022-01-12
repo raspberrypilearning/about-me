@@ -17,12 +17,14 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: 소개
-  - title: 준비물
-  - title: '"안녕"이라 말하기'
-  - title: "도전 과제: 무슨 생각을 하나요?"
-  - title: ASCII 아트
-  - title: "도전 과제: 당신에 대해서"
-  - title: 2025년
-  - title: "도전 과제: 개의 나이를 입력했을 때 사람의 나이로는 몇 살인가?"
-  - title: "도전 과제: 텍스트 계산"
+- title: 소개
+- title: 준비물
+  completion: engaged
+- title: '"안녕"이라 말하기'
+- title: '도전 과제: 무슨 생각을 하나요?'
+- title: ASCII 아트
+- title: '도전 과제: 당신에 대해서'
+- title: 2025년
+- title: '도전 과제: 개의 나이를 입력했을 때 사람의 나이로는 몇 살인가?'
+  completion: internal
+- title: '도전 과제: 텍스트 계산'

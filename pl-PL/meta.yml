@@ -16,13 +16,15 @@ hardware: ''
 software: python
 version: 3
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Wprowadzenie
 - title: Czego będziesz potrzebować
+  completion: engaged
 - title: Mówimy "cześć"
 - title: 'Wyzwanie: o czym myślisz?'
 - title: ASCII art
 - title: 'Wyzwanie: o sobie'
 - title: Rok 2025
 - title: 'Wyzwanie: twój wiek w psich latach'
+  completion: internal
 - title: 'Wyzwanie: obliczanie tekstu'

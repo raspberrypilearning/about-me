@@ -17,12 +17,14 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: المقدمة
-  - title: ما ستحتاج إليه
-  - title: إلقاء التحية
-  - title: "التحدي: بم تفكر؟"
-  - title: رسم ASCII
-  - title: "التحدي: نبذة عن نفسك"
-  - title: عام 2025
-  - title: "التحدي: عمرك بسنوات الكلب"
-  - title: "التحدي: حساب النص"
+- title: المقدمة
+- title: ما ستحتاج إليه
+  completion: engaged
+- title: إلقاء التحية
+- title: 'التحدي: بم تفكر؟'
+- title: رسم ASCII
+- title: 'التحدي: نبذة عن نفسك'
+- title: عام 2025
+- title: 'التحدي: عمرك بسنوات الكلب'
+  completion: internal
+- title: 'التحدي: حساب النص'

@@ -17,12 +17,14 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: परिचय
-  - title: तुम्हाला काय काय लागेल
-  - title: नमस्कार बोलणे
-  - title: "आव्हान: तुमच्या मनात काय आहे?"
-  - title: ASCII कला
-  - title: "आव्हान: आपल्याबद्दल"
-  - title: वर्ष 2025
-  - title: "आव्हान: आपले वय कुत्र वर्षात"
-  - title: "आव्हान: मजकूराची गणना करणे"
+- title: परिचय
+- title: तुम्हाला काय काय लागेल
+  completion: engaged
+- title: नमस्कार बोलणे
+- title: 'आव्हान: तुमच्या मनात काय आहे?'
+- title: ASCII कला
+- title: 'आव्हान: आपल्याबद्दल'
+- title: वर्ष 2025
+- title: 'आव्हान: आपले वय कुत्र वर्षात'
+  completion: internal
+- title: 'आव्हान: मजकूराची गणना करणे'

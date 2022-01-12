@@ -17,12 +17,14 @@ software: python
 version: 3
 last_tested: 01/01/2017
 steps:
-  - title: Introdução
-  - title: O que você vai precisar
-  - title: Dizer olá
-  - title: "Desafio: o que você tem em mente?"
-  - title: Arte ASCII
-  - title: "Desafio: sobre você"
-  - title: O ano de 2025
-  - title: "Desafio: sua idade em anos de cachorro"
-  - title: "Desafio: cálculo de texto"
+- title: Introdução
+- title: O que você vai precisar
+  completion: engaged
+- title: Dizer olá
+- title: 'Desafio: o que você tem em mente?'
+- title: Arte ASCII
+- title: 'Desafio: sobre você'
+- title: O ano de 2025
+- title: 'Desafio: sua idade em anos de cachorro'
+  completion: internal
+- title: 'Desafio: cálculo de texto'

@@ -1,3 +1,4 @@
+---
 hero_image: images/about-me.png
 theme: orange
 duration: 2
@@ -15,9 +16,13 @@ steps:
 - title: 介绍
 - title: 你将需要什么
 - title: 说你好
-- title: “挑战：你在想什么?”
+- title: "“挑战：你在想什么?”"
 - title: ASCII 艺术
-- title: “挑战：关于你自己”
+  completion:
+  - engaged
+- title: "“挑战：关于你自己”"
 - title: 2025 年
-- title: “挑战：狗年你多大了”
-- title: “挑战：计算文本”
+  completion:
+  - internal
+- title: "“挑战：狗年你多大了”"
+- title: "“挑战：计算文本”"

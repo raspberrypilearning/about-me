@@ -1,3 +1,4 @@
+---
 hero_image: images/about-me.png
 theme: orange
 duration: 2
@@ -15,13 +16,17 @@ hardware: ''
 software: python
 version: 3
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Introduction
 - title: What you will need
 - title: Saying hello
-- title: "Challenge: what's on your mind?"
+- title: 'Challenge: what''s on your mind?'
 - title: ASCII art
-- title: "Challenge: about yourself"
+  completion:
+  - engaged
+- title: 'Challenge: about yourself'
 - title: The year 2025
-- title: "Challenge: your age in dog years"
-- title: "Challenge: calculating text"
+  completion:
+  - internal
+- title: 'Challenge: your age in dog years'
+- title: 'Challenge: calculating text'

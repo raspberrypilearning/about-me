@@ -17,12 +17,16 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Uvod
-  - title: Trebat ćeš
-  - title: Reci bok
-  - title: "Izazov: Što ti je na umu?"
-  - title: ASCII umjetnost
-  - title: "Izazov: O tebi"
-  - title: 2025. godina
-  - title: "Izazov: Koliko imaš psećih godina?"
-  - title: "Izazov: Izračunaj tekst"
+- title: Uvod
+- title: Trebat ćeš
+- title: Reci bok
+- title: 'Izazov: Što ti je na umu?'
+- title: ASCII umjetnost
+  completion:
+  - engaged
+- title: 'Izazov: O tebi'
+- title: 2025. godina
+  completion:
+  - internal
+- title: 'Izazov: Koliko imaš psećih godina?'
+- title: 'Izazov: Izračunaj tekst'

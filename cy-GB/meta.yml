@@ -1,3 +1,4 @@
+---
 hero_image: images/about-me.png
 theme: orange
 duration: 2
@@ -15,13 +16,17 @@ hardware: ''
 software: python
 version: 3
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Cyflwyniad
-- title: Beth fydd angen 
+- title: Beth fydd angen
 - title: Dweud helo
-- title: "Her: beth sydd ar dy feddwl di?"
+- title: 'Her: beth sydd ar dy feddwl di?'
 - title: Celf ASCII
-- title: "Her: amdano ti"
+  completion:
+  - engaged
+- title: 'Her: amdano ti'
 - title: Y flwyddyn 2025
-- title: "Her: dy oedran mewn blynyddoedd ci"
-- title: "Her: cyfrifo testun"
+  completion:
+  - internal
+- title: 'Her: dy oedran mewn blynyddoedd ci'
+- title: 'Her: cyfrifo testun'

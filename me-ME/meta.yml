@@ -19,12 +19,14 @@ last_tested: 2017-01-01
 steps:
 - title: Uvod
 - title: Šta će ti biti potrebno
-  completion: engaged
 - title: Reci zdravo
 - title: 'Izazov: šta ti je na umu?'
 - title: ASCII umjetnost
+  completion:
+  - engaged
 - title: 'Izazov: o tebi'
 - title: 2025. godina
+  completion:
+  - internal
 - title: 'Izazov: koliko imaš psećih godina?'
-  completion: internal
 - title: 'Izazov: izračunaj tekst'

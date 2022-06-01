@@ -19,12 +19,14 @@ last_tested: 2017-01-01
 steps:
 - title: Вступ
 - title: Що тобі знадобиться
-  completion: engaged
 - title: Привітання
 - title: 'Завдання: про що ти думаєш?'
 - title: ASCII-графіка
+  completion:
+  - engaged
 - title: 'Завдання: про себе'
 - title: 2025 рік
+  completion:
+  - internal
 - title: 'Завдання: твій вік у роках собаки'
-  completion: internal
 - title: 'Завдання: рахування тексту'

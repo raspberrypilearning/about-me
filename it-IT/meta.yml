@@ -20,12 +20,14 @@ last_tested: 2017-01-01
 steps:
 - title: Introduzione
 - title: Requisiti
-  completion: engaged
 - title: Diciamo ciao
 - title: 'Sfida: A cosa stai pensando?'
 - title: Disegni ASCII
+  completion:
+  - engaged
 - title: 'Sfida: Mi presento'
 - title: Nel 2025
+  completion:
+  - internal
 - title: 'Sfida: La tua età in anni canini'
-  completion: internal
 - title: 'Sfida: Calcolare un testo'

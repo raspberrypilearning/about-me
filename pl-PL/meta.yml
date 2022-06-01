@@ -19,12 +19,14 @@ last_tested: 2017-01-01
 steps:
 - title: Wprowadzenie
 - title: Czego będziesz potrzebować
-  completion: engaged
 - title: Mówimy "cześć"
 - title: 'Wyzwanie: o czym myślisz?'
 - title: ASCII art
+  completion:
+  - engaged
 - title: 'Wyzwanie: o sobie'
 - title: Rok 2025
+  completion:
+  - internal
 - title: 'Wyzwanie: twój wiek w psich latach'
-  completion: internal
 - title: 'Wyzwanie: obliczanie tekstu'

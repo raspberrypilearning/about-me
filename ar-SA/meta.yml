@@ -19,12 +19,14 @@ last_tested: 2017-01-01
 steps:
 - title: المقدمة
 - title: ما ستحتاج إليه
-  completion: engaged
 - title: إلقاء التحية
 - title: 'التحدي: بم تفكر؟'
 - title: رسم ASCII
+  completion:
+  - engaged
 - title: 'التحدي: نبذة عن نفسك'
 - title: عام 2025
+  completion:
+  - internal
 - title: 'التحدي: عمرك بسنوات الكلب'
-  completion: internal
 - title: 'التحدي: حساب النص'

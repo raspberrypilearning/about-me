@@ -19,12 +19,14 @@ last_tested: 2017-01-01
 steps:
 - title: Introduktion
 - title: Vad du kommer att behöva
-  completion: engaged
 - title: Säga hej
 - title: 'Utmaning: vad tänker du på?'
 - title: ASCII-konst
+  completion:
+  - engaged
 - title: 'Utmaning: om dig själv'
 - title: Året 2025
+  completion:
+  - internal
 - title: 'Utmaning: din ålder i hundår'
-  completion: internal
 - title: 'Utmaning: beräkningar med text'

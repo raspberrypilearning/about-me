@@ -20,12 +20,14 @@ last_tested: 2017-01-01
 steps:
 - title: Introducció
 - title: Què necessitaràs
-  completion: engaged
 - title: Saludar
 - title: 'Repte: Què tens en ment?'
 - title: Art ASCII
+  completion:
+  - engaged
 - title: 'Repte: Sobre mi'
 - title: L'any 2025
+  completion:
+  - internal
 - title: 'Repte: La teva edat en anys de gos'
-  completion: internal
 - title: 'Repte: Calcular text'

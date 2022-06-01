@@ -20,12 +20,14 @@ last_tested: 2017-01-01
 steps:
 - title: Εισαγωγή
 - title: Τι θα χρειαστείς
-  completion: engaged
 - title: Καλωσόρισμα
 - title: 'Πρόκληση: Τι σκέφτεσαι'
 - title: Τέχνη ASCII
+  completion:
+  - engaged
 - title: 'Πρόκληση: Για τον εαυτό σου'
 - title: Το έτος 2025
+  completion:
+  - internal
 - title: 'Πρόκληση: Η ηλικία σου σε ηλικία σκύλου'
-  completion: internal
 - title: 'Πρόκληση: Υπολογισμός κειμένου'

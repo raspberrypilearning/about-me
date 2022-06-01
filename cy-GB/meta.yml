@@ -19,12 +19,14 @@ last_tested: 2017-01-01
 steps:
 - title: Cyflwyniad
 - title: Beth fydd angen
-  completion: engaged
 - title: Dweud helo
 - title: 'Her: beth sydd ar dy feddwl di?'
 - title: Celf ASCII
+  completion:
+  - engaged
 - title: 'Her: amdano ti'
 - title: Y flwyddyn 2025
+  completion:
+  - internal
 - title: 'Her: dy oedran mewn blynyddoedd ci'
-  completion: internal
 - title: 'Her: cyfrifo testun'

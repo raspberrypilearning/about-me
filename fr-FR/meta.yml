@@ -19,12 +19,14 @@ last_tested: 2017-01-01
 steps:
 - title: Introduction
 - title: Ce qu'il te faut
-  completion: engaged
 - title: Dire bonjour
 - title: 'Défi: à quoi penses-tu?'
 - title: Art ASCII
+  completion:
+  - engaged
 - title: 'Défi: à propos de toi'
 - title: L'année 2025
+  completion:
+  - internal
 - title: 'Défi: ton âge en années de chien'
-  completion: internal
 - title: 'Défi: calculer du texte'

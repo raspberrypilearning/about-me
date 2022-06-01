@@ -19,12 +19,14 @@ last_tested: 2017-01-01
 steps:
 - title: Introduction
 - title: What you will need
-  completion: engaged
 - title: Saying hello
 - title: 'Challenge: what''s on your mind?'
 - title: ASCII art
+  completion:
+  - engaged
 - title: 'Challenge: about yourself'
 - title: The year 2025
+  completion:
+  - internal
 - title: 'Challenge: your age in dog years'
-  completion: internal
 - title: 'Challenge: calculating text'

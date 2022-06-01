@@ -19,12 +19,14 @@ last_tested: 2017-01-01
 steps:
 - title: Giriş
 - title: Nelere ihtiyacınız olacak
-  completion: engaged
 - title: Merhaba demek
 - title: 'Meydan okuma: Aklında ne var?'
 - title: ASCII sanatı
+  completion:
+  - engaged
 - title: 'Meydan okuma: kendin hakkında'
 - title: 2025 yılı
+  completion:
+  - internal
 - title: 'Meydan okuma: Köpek takvimine göre yaşınız'
-  completion: internal
 - title: 'Meydan okuma: metin hesaplama'

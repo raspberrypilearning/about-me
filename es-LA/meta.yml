@@ -20,12 +20,14 @@ last_tested: 2017-01-01
 steps:
 - title: Introducción
 - title: Lo que necesitarás
-  completion: engaged
 - title: Aprendiendo a saludar
 - title: 'Desafío: ¿en qué estás pensando?'
 - title: Arte ASCII
+  completion:
+  - engaged
 - title: 'Desafío: sobre ti'
 - title: El año 2025
+  completion:
+  - internal
 - title: 'Desafío: tu edad en años de perro'
-  completion: internal
 - title: 'Desafío: calculando texto'

@@ -19,12 +19,14 @@ last_tested: 2017-01-01
 steps:
 - title: Inleiding
 - title: Wat je nodig hebt
-  completion: engaged
 - title: Hallo zeggen
 - title: 'Uitdaging: waar denk je aan?'
 - title: ASCII-kunst
+  completion:
+  - engaged
 - title: 'Uitdaging: over jezelf'
 - title: Het jaar 2025
+  completion:
+  - internal
 - title: 'Uitdaging: je leeftijd in hondenjaren'
-  completion: internal
 - title: 'Uitdaging: rekenen met tekst'

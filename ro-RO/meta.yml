@@ -20,12 +20,14 @@ last_tested: 2017-01-01
 steps:
 - title: Introducere
 - title: De ce veți avea nevoie
-  completion: engaged
 - title: Cum să saluți
 - title: 'Provocare: la ce te gândești?'
 - title: Artă ASCII
+  completion:
+  - engaged
 - title: 'Provocare: despre tine'
 - title: Anul 2025
+  completion:
+  - internal
 - title: 'Provocare: vârsta ta în anii câinelui'
-  completion: internal
 - title: 'Provocare: calculul textului'

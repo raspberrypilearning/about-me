@@ -19,12 +19,14 @@ last_tested: 2017-01-01
 steps:
 - title: はじめに
 - title: 必要なもの
-  completion: engaged
 - title: こんにちは！
 - title: チャレンジ：あなた自身について何か表現できますか？
 - title: ASCIIアート
+  completion:
+  - engaged
 - title: チャレンジ：あなた自身について
 - title: 2025年
+  completion:
+  - internal
 - title: チャレンジ：犬の年齢
-  completion: internal
 - title: チャレンジ：テキストの計算

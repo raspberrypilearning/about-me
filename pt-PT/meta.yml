@@ -19,12 +19,14 @@ last_tested: 2017-01-01
 steps:
 - title: Introdução
 - title: O que vais precisar
-  completion: engaged
 - title: Dizer olá
 - title: 'Desafio: o que estás a pensar?'
 - title: Arte ASCII
+  completion:
+  - engaged
 - title: 'Desafio: sobre ti'
 - title: O ano de 2025
+  completion:
+  - internal
 - title: 'Desafio: a tua idade em anos de cão'
-  completion: internal
 - title: 'Desafio: calcular o texto'

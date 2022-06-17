@@ -45,7 +45,7 @@ jobs:
         if: steps.env_lookup.outputs.ENV == 'PRODUCTION' || steps.env_lookup.outputs.ENV == 'STAGING'
         run: |
           if [[ "${{ steps.env_lookup.outputs.ENV }}" == "PRODUCTION" ]]; then
-            aws s3 sync . s3://learning-resources-production/projects/${{ github.event.repository.name }}/${{ github.sha }}/ --exclude "*" --include "*/images/*" --include "*/resources/*" --include "*/solutions/*" --delete --size-only
+            aws s3 sync . s3://learning-resources-production/projects/${{ github.event.repository.name }}/${{ github.sha }}/ --exclude "*" --include "*/images/*" --include "*/resources/*" --include "*/solutions/*" --delete --size-only --no-follow-symlinks
           elif [[ "${{ steps.env_lookup.outputs.ENV }}" == "STAGING" ]]; then
-            aws s3 sync . s3://learning-resources-dev-staging/projects/${{ github.event.repository.name }}/${{ github.sha }}/ --exclude "*" --include "*/images/*" --include "*/resources/*" --include "*/solutions/*" --delete --size-only
+            aws s3 sync . s3://learning-resources-dev-staging/projects/${{ github.event.repository.name }}/${{ github.sha }}/ --exclude "*" --include "*/images/*" --include "*/resources/*" --include "*/solutions/*" --delete --size-only --no-follow-symlinks
           fi

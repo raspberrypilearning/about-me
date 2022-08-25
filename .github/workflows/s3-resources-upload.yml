@@ -27,19 +27,19 @@ jobs:
     steps:
       - id: set-matrix
         run: |
-          if [[ ! -z "${{ github.event.inputs.environment }}" ]]; then
-            echo '::set-output name=matrix::{"environment":["${{ github.event.inputs.environment }}"]}'
-          else
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            if [[ ! -z "${{ github.event.inputs.environment }}" ]]; then
+              echo '::set-output name=matrix::{"environment":["${{ github.event.inputs.environment }}"]}'
+            else
+              echo '::set-output name=matrix::{}'
+            fi
+          elif [[ "${{ github.event_name }}" == "push" ]]; then
             echo '::set-output name=matrix::{"environment":["PRODUCTION","STAGING"]}'
+          else
+            echo '::set-output name=matrix::{}'
           fi
     outputs:
       matrix: ${{steps.set-matrix.outputs.matrix}}
-
-  debug:
-    needs: matrix
-    runs-on: ubuntu-latest
-    steps:
-      - run: echo "${{needs.matrix.outputs.matrix}}"
 
   s3-resources-upload:
     name: 'S3 Upload - ${{ matrix.environment }}'
@@ -47,6 +47,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix: ${{fromJSON(needs.matrix.outputs.matrix)}}
+    if: ${{ needs.matrix.outputs.matrix != '{}' }}
     steps:
       - name: Debug Environment
         run: |

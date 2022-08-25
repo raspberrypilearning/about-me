@@ -5,47 +5,67 @@ on:
       - main
       - master
       - draft
+    inputs:
+      environment:
+        type: choice
+        description: 'Set environment to upload resources to'
+        options:
+          - "PRODUCTION"
+          - "STAGING"
+        required: true
   push:
     branches:
       - main
       - master
       - draft
-concurrency: 
+concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: true
 jobs:
-  s3-resources-upload:
+  matrix:
+    name: 'Environment Matrix'
     runs-on: ubuntu-latest
     steps:
-      - name: Environment lookup
-        id: env_lookup
+      - id: set-matrix
         run: |
-          BRANCH=${GITHUB_REF#refs/heads/}
-          echo "Running on branch $BRANCH"
-          if [[ "master,main" == *"$BRANCH"* ]]; then
-            echo "::set-output name=ENV::PRODUCTION"
-          elif [ "$BRANCH" = "draft" ]; then
-            echo "::set-output name=ENV::STAGING"
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            if [[ ! -z "${{ github.event.inputs.environment }}" ]]; then
+              echo '::set-output name=matrix::{"environment":["${{ github.event.inputs.environment }}"]}'
+            else
+              echo '::set-output name=matrix::{}'
+            fi
+          elif [[ "${{ github.event_name }}" == "push" ]]; then
+            echo '::set-output name=matrix::{"environment":["PRODUCTION","STAGING"]}'
           else
-             echo "::set-output name=ENV::FEATURE"
+            echo '::set-output name=matrix::{}'
           fi
+    outputs:
+      matrix: ${{steps.set-matrix.outputs.matrix}}
+
+  s3-resources-upload:
+    name: 'S3 Upload - ${{ matrix.environment }}'
+    needs: matrix
+    runs-on: ubuntu-latest
+    strategy:
+      matrix: ${{fromJSON(needs.matrix.outputs.matrix)}}
+    if: ${{ needs.matrix.outputs.matrix != '{}' }}
+    steps:
       - name: Debug Environment
         run: |
-          echo "Setting environment to ${{ steps.env_lookup.outputs.ENV }}"
+          echo "Setting environment to ${{ matrix.environment }}"
       - uses: actions/checkout@v3
-        if: steps.env_lookup.outputs.ENV == 'PRODUCTION' || steps.env_lookup.outputs.ENV == 'STAGING'
+        if: matrix.environment == 'PRODUCTION' || matrix.environment == 'STAGING'
       - name: Configure AWS Credentials
-        if: steps.env_lookup.outputs.ENV == 'PRODUCTION' || steps.env_lookup.outputs.ENV == 'STAGING'
+        if: matrix.environment == 'PRODUCTION' || matrix.environment == 'STAGING'
         uses: aws-actions/configure-aws-credentials@v1
         with:
-          aws-access-key-id: ${{ secrets[format('AWS_ACCESS_KEY_ID_{0}', steps.env_lookup.outputs.ENV)] }}
-          aws-secret-access-key: ${{ secrets[format('AWS_SECRET_ACCESS_KEY_{0}', steps.env_lookup.outputs.ENV)] }}
+          aws-access-key-id: ${{ secrets[format('AWS_ACCESS_KEY_ID_{0}', matrix.environment)] }}
+          aws-secret-access-key: ${{ secrets[format('AWS_SECRET_ACCESS_KEY_{0}', matrix.environment)] }}
           aws-region: eu-west-2
       - name: Deploy static assets to S3 bucket
-        if: steps.env_lookup.outputs.ENV == 'PRODUCTION' || steps.env_lookup.outputs.ENV == 'STAGING'
+        if: matrix.environment == 'PRODUCTION' || matrix.environment == 'STAGING'
         run: |
-          if [[ "${{ steps.env_lookup.outputs.ENV }}" == "PRODUCTION" ]]; then
+          if [[ "${{ matrix.environment }}" == "PRODUCTION" ]]; then
             aws s3 sync . s3://learning-resources-production/projects/${{ github.event.repository.name }}/${{ github.sha }}/ --exclude "*" --include "*/images/*" --include "*/resources/*" --include "*/solutions/*" --delete --size-only --no-follow-symlinks
-          elif [[ "${{ steps.env_lookup.outputs.ENV }}" == "STAGING" ]]; then
+          elif [[ "${{ matrix.environment }}" == "STAGING" ]]; then
             aws s3 sync . s3://learning-resources-dev-staging/projects/${{ github.event.repository.name }}/${{ github.sha }}/ --exclude "*" --include "*/images/*" --include "*/resources/*" --include "*/solutions/*" --delete --size-only --no-follow-symlinks
           fi

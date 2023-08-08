@@ -24,14 +24,18 @@ steps:
   - 
     title: Merhaba demek
   - 
-    title: "Meydan okuma: Aklında ne var?"
+    title: 'Meydan okuma: Aklında ne var?'
   - 
     title: ASCII sanatı
+    completion:
+      - engaged
   - 
-    title: "Meydan okuma: kendin hakkında"
+    title: 'Meydan okuma: kendin hakkında'
   - 
     title: 2025 yılı
+    completion:
+      - internal
   - 
-    title: "Meydan okuma: Köpek takvimine göre yaşınız"
+    title: 'Meydan okuma: Köpek takvimine göre yaşınız'
   - 
-    title: "Meydan okuma: metin hesaplama"
+    title: 'Meydan okuma: metin hesaplama'

@@ -24,14 +24,18 @@ steps:
   - 
     title: 打个招呼吧
   - 
-    title: "挑战: 你在想什么?"
+    title: '挑战: 你在想什么?'
   - 
     title: ASCII字符画
+    completion:
+      - engaged
   - 
-    title: "挑战: 关于你自己"
+    title: '挑战: 关于你自己'
   - 
     title: 2025年
+    completion:
+      - internal
   - 
-    title: "挑战：把你的年龄转换为狗龄"
+    title: '挑战：把你的年龄转换为狗龄'
   - 
-    title: "挑战: 文本计算"
+    title: '挑战: 文本计算'

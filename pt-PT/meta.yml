@@ -24,14 +24,18 @@ steps:
   - 
     title: Dizer olá
   - 
-    title: "Desafio: O que estás a pensar?"
+    title: 'Desafio: O que estás a pensar?'
   - 
     title: Arte ASCII
+    completion:
+      - engaged
   - 
-    title: "Desafio: sobre ti"
+    title: 'Desafio: sobre ti'
   - 
     title: O ano de 2025
+    completion:
+      - internal
   - 
-    title: "Desafio: a tua idade em anos de cão"
+    title: 'Desafio: a tua idade em anos de cão'
   - 
-    title: "Desafio: calcular o texto"
+    title: 'Desafio: calcular o texto'

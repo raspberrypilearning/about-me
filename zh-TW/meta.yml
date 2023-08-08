@@ -24,14 +24,18 @@ steps:
   - 
     title: 打招呼
   - 
-    title: "挑戰：你想做什麼？"
+    title: '挑戰：你想做什麼？'
   - 
     title: ASCII 藝術
+    completion:
+      - engaged
   - 
-    title: "挑戰：關於你自己"
+    title: '挑戰：關於你自己'
   - 
     title: 西元2025年
+    completion:
+      - internal
   - 
-    title: "挑戰: 你的年齡對狗而言等於多少年"
+    title: '挑戰: 你的年齡對狗而言等於多少年'
   - 
-    title: "挑戰：計算文字"
+    title: '挑戰：計算文字'

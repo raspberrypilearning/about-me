@@ -24,14 +24,18 @@ steps:
   - 
     title: こんにちは！
   - 
-    title: "チャレンジ：あなた自身について何か表現できますか？"
+    title: 'チャレンジ：あなた自身について何か表現できますか？'
   - 
     title: ASCIIアート
+    completion:
+      - engaged
   - 
-    title: "チャレンジ：あなた自身について"
+    title: 'チャレンジ：あなた自身について'
   - 
     title: 2025年
+    completion:
+      - internal
   - 
-    title: "チャレンジ：犬の年齢"
+    title: 'チャレンジ：犬の年齢'
   - 
-    title: "チャレンジ：テキストの計算"
+    title: 'チャレンジ：テキストの計算'

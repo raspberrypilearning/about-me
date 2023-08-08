@@ -24,14 +24,18 @@ steps:
   - 
     title: Hallo sagen
   - 
-    title: "Herausforderung: Was beschäftigt dich?"
+    title: 'Herausforderung: Was beschäftigt dich?'
   - 
     title: ASCII Kunst
+    completion:
+      - engaged
   - 
-    title: "Herausforderung: Über dich"
+    title: 'Herausforderung: Über dich'
   - 
     title: Das Jahr 2025
+    completion:
+      - internal
   - 
-    title: "Herausforderung: Dein Alter in Hundejahren"
+    title: 'Herausforderung: Dein Alter in Hundejahren'
   - 
-    title: "Herausforderung: Text berechnen"
+    title: 'Herausforderung: Text berechnen'

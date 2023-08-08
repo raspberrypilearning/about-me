@@ -24,14 +24,18 @@ steps:
   - 
     title: Säga hej
   - 
-    title: "Utmaning: vad tänker du på?"
+    title: 'Utmaning: vad tänker du på?'
   - 
     title: ASCII-konst
+    completion:
+      - engaged
   - 
-    title: "Utmaning: om dig själv"
+    title: 'Utmaning: om dig själv'
   - 
     title: Året 2025
+    completion:
+      - internal
   - 
-    title: "Utmaning: Din ålder i hundår"
+    title: 'Utmaning: Din ålder i hundår'
   - 
-    title: "Utmaning: Beräkningar med text"
+    title: 'Utmaning: Beräkningar med text'

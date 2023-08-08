@@ -24,14 +24,18 @@ steps:
   - 
     title: إلقاء التحية
   - 
-    title: "التحدي: بم تفكر؟"
+    title: 'التحدي: بم تفكر؟'
   - 
     title: رسم ASCII
+    completion:
+      - engaged
   - 
-    title: "التحدي: نبذة عن نفسك"
+    title: 'التحدي: نبذة عن نفسك'
   - 
     title: عام 2025
+    completion:
+      - internal
   - 
-    title: "التحدي: عمرك بسنوات الكلب"
+    title: 'التحدي: عمرك بسنوات الكلب'
   - 
-    title: "التحدي: حساب النص"
+    title: 'التحدي: حساب النص'

@@ -24,14 +24,18 @@ steps:
   - 
     title: Reci bok
   - 
-    title: "Izazov: što ti je na umu?"
+    title: 'Izazov: što ti je na umu?'
   - 
     title: ASCII umjetnost
+    completion:
+      - engaged
   - 
-    title: "Izazov: o tebi"
+    title: 'Izazov: o tebi'
   - 
     title: 2025. godina
+    completion:
+      - internal
   - 
-    title: "Izazov: koliko imaš psećih godina?"
+    title: 'Izazov: koliko imaš psećih godina?'
   - 
-    title: "Izazov: izračunaj tekst"
+    title: 'Izazov: izračunaj tekst'

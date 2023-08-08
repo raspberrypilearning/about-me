@@ -24,14 +24,18 @@ steps:
   - 
     title: Saludar
   - 
-    title: "Repte: Què tens en ment?"
+    title: 'Repte: Què tens en ment?'
   - 
     title: Art ASCII
+    completion:
+      - engaged
   - 
-    title: "Repte: Sobre mi"
+    title: 'Repte: Sobre mi'
   - 
     title: L'any 2025
+    completion:
+      - internal
   - 
-    title: "Repte: La teva edat en anys de gos"
+    title: 'Repte: La teva edat en anys de gos'
   - 
-    title: "Repte: calcular text"
+    title: 'Repte: calcular text'

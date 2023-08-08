@@ -10,14 +10,26 @@
   <img src="images/me-final.png">
 </div>
 
+## \--- collapse \---
+
+## title: What you will learn
+
 ### 你會學到︰
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [使用基本的程式結構來創造簡單的程式](https://www.raspberrypi.org/curriculum/programming/creator){：target =“_ blank”}
 
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Additional information for educators
+
 ### 給教育工作者的額外資訊
 
-如果您需要列印此專案內容，請下載 [列印版本](https://projects.raspberrypi.org/en/projects/about-me/print){：target =“_ blank”}。
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/about-me/print){:target="_blank"}.
 
-使用頁腳中的連結訪問此專案的 GitHub 存儲庫，在 'en / resources' 資料夾中有所有的資源(包括已完成的專案範例)。
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+
+\--- /collapse \---

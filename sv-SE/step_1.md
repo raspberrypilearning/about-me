@@ -10,14 +10,26 @@ I det här projektet lär du dig hur man skriver ett Python-program som berätta
   <img src="images/me-final.png">
 </div>
 
+## \--- collapse \---
+
+## title: What you will learn
+
 ### Vad du kommer att lära dig
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Använd grundläggande programmeringskonstruktioner för att skapa enkla program](https://www.raspberrypi.org/curriculum/programming/creator){: target = "_ blank"}
 
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Additional information for educators
+
 ### Ytterligare information för lärare
 
-Om du behöver skriva ut det här projektet, använd den [utskriftsvänliga versionen](https://projects.raspberrypi.org/en/projects/about-me/print){:target = "_ blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/about-me/print){:target="_blank"}.
 
-Använd länken i sidfoten för att komma till GitHub-arkivet för det här projektet, vilket innehåller alla resurser (inklusive ett exempel på det färdiga projekt) i mappen "en/resources".
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+
+\--- /collapse \---

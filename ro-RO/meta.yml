@@ -24,14 +24,18 @@ steps:
   - 
     title: Cum să saluți
   - 
-    title: "Provocare: la ce te gândești?"
+    title: 'Provocare: la ce te gândești?'
   - 
     title: Artă ASCII
+    completion:
+      - engaged
   - 
-    title: "Provocare: despre tine"
+    title: 'Provocare: despre tine'
   - 
     title: Anul 2025
+    completion:
+      - internal
   - 
-    title: "Provocare: vârsta ta în ani canini"
+    title: 'Provocare: vârsta ta în ani canini'
   - 
-    title: "Provocare: calculează un text"
+    title: 'Provocare: calculează un text'

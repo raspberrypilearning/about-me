@@ -10,14 +10,26 @@ U ovom projektu naučit ćeš kako napisati program u Pythonu kojim ćeš drugim
   <img src="images/me-final.png">
 </div>
 
+## \--- collapse \---
+
+## title: What you will learn
+
 ### Naučit ćeš
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Korištenje osnova programiranja za izradu jednostavnih programa](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Additional information for educators
+
 ### Dodatne informacije za nastavnike
 
-Ako trebate ispisati ovaj projekt, koristite [ verziju koja je prilagođena za pisač ](https://projects.raspberrypi.org/en/projects/about-me/print) {: Target = "_ blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/about-me/print){:target="_blank"}.
 
-Koristite poveznicu u podnožju da bi pristupili GitHub repozitoriju ovog projekta koji sadrži sve resurse (uključujući i primjer dovršenog projekta) u mapi 'hr-HR/resources'.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+
+\--- /collapse \---

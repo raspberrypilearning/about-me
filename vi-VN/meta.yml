@@ -24,14 +24,18 @@ steps:
   - 
     title: Nói xin chào
   - 
-    title: "Thử thách: Bạn đang nghĩ gì?"
+    title: 'Thử thách: Bạn đang nghĩ gì?'
   - 
     title: ASCII art
+    completion:
+      - engaged
   - 
-    title: "Thử thách: về bản thân"
+    title: 'Thử thách: về bản thân'
   - 
     title: Năm 2025
+    completion:
+      - internal
   - 
-    title: "Thử thách: tuổi của bạn tính theo năm chó"
+    title: 'Thử thách: tuổi của bạn tính theo năm chó'
   - 
-    title: "Thử thách: tính toán văn bản"
+    title: 'Thử thách: tính toán văn bản'

@@ -24,14 +24,18 @@ steps:
   - 
     title: Üdvözlés
   - 
-    title: "Kihívás: mit gondolsz?"
+    title: 'Kihívás: mit gondolsz?'
   - 
     title: ASCII művészet
+    completion:
+      - engaged
   - 
-    title: "Kihívás: rólad"
+    title: 'Kihívás: rólad'
   - 
     title: A 2025-ös év
+    completion:
+      - internal
   - 
-    title: "Kihívás: életkorod kutyaévekben"
+    title: 'Kihívás: életkorod kutyaévekben'
   - 
-    title: "Kihívás: a szöveg kiszámítása"
+    title: 'Kihívás: a szöveg kiszámítása'

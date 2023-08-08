@@ -24,14 +24,18 @@ steps:
   - 
     title: Diciamo ciao
   - 
-    title: "Sfida: A cosa stai pensando?"
+    title: 'Sfida: A cosa stai pensando?'
   - 
     title: Disegni ASCII
+    completion:
+      - engaged
   - 
-    title: "Sfida: Mi presento"
+    title: 'Sfida: Mi presento'
   - 
     title: Nel 2025
+    completion:
+      - internal
   - 
-    title: "Sfida: La tua età in anni canini"
+    title: 'Sfida: La tua età in anni canini'
   - 
-    title: "Sfida: Calcolare un testo"
+    title: 'Sfida: Calcolare un testo'

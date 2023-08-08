@@ -24,14 +24,18 @@ steps:
   - 
     title: Dire bonjour
   - 
-    title: "Défi : À quoi penses-tu ?"
+    title: 'Défi : À quoi penses-tu ?'
   - 
     title: Art ASCII
+    completion:
+      - engaged
   - 
-    title: "Défi : à propos de toi"
+    title: 'Défi : à propos de toi'
   - 
     title: L'année 2025
+    completion:
+      - internal
   - 
-    title: "Défi : Ton âge en années de chien"
+    title: 'Défi : Ton âge en années de chien'
   - 
-    title: "Défi : calculer du texte"
+    title: 'Défi : calculer du texte'

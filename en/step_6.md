@@ -14,7 +14,7 @@ language: python
 filename: main.py
 line_numbers: true
 line_number_start: 1
-line_highlights: 3-7
+line_highlights: 9
 ---
 print('Hello!')
 
@@ -131,10 +131,10 @@ Finally, you can make your program easier to understand by adding a helpful mess
 language: python
 filename: main.py
 line_numbers: true
-line_number_start: 1
-line_highlights: 11-12
+line_number_start: 9
+line_highlights: 12
 ---
-input('What year were you born?')
+born = input('What year were you born?')
 born = int(born)
 age = 2035 - born
 print('In the year 2035 you\ll be', age, 'years old!')

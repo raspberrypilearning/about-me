@@ -22,7 +22,7 @@ print('/\  ' * 10)
 print('  \/' * 10)
 ```
 
-This will output the following
+This will output the following:
 
 ```
 Here is a scarf:

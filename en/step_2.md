@@ -26,7 +26,7 @@ print('Hello!')
 
 --- /task ---
 
----- task ---
+--- task ---
 
 Click **Run**, and you should see that the `print()` command prints everything between the quote marks `''`.
 

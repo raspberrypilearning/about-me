@@ -1,14 +1,11 @@
 --- challenge ---
- 
- ## Challenge: What's on your mind?
 
- --- task ---
+ ## Challenge: What's on your mind?
 
 Change the code you just wrote to print something more interesting about you!
 
-![screenshot](images/me-mind.png)
-
- --- /task ---
-
+```
+Hi, I can code in Python!
+```
 
 --- /challenge ---

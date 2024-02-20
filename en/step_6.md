@@ -1,38 +1,147 @@
-## The year 2025
+## The year 2035
 
-You can also do calculations and print numbers. Let's find out how old you'll be in the year 2025!
+You can also do calculations and print numbers. Let's find out how old you'll be in the year 2035!
 
-+ To calculate how old you'll be in the year 2025, you need to subtract the year you were born from 2025.
+To calculate how old you'll be in the year 2035, you need to subtract the year you were born from 2035.
 
-    Add this code to your program:
+--- task ---
 
-    ![screenshot](images/me-calc.png)
+Add this code to your program:
 
-    Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
+--- code ---
+---
+language: python
+filename: main.py
+line_numbers: true
+line_number_start: 1
+line_highlights: 3-7
+---
+print('Hello!')
 
-+ Click **Run**, and your program should print your age in the year 2025.
+print('''
+here's a picture of a dog:
+o____ 
+ ||||
+ ''')
 
-    ![screenshot](images/me-calc-run.png)
+ print(2035 - 2015)
+--- /code ---
 
-+ You could improve your program by using `input()` to ask the user their age and store it in a __variable__ called `born`.
+--- /task ---
 
-    ![screenshot](images/me-input.png)
+Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
 
-+ Run your program and then enter the year you were born. Did you get another error message?
+--- task ---
 
-    That's because anything typed into your program is __text__, and it needs to be converted to a __number__.
+Click **Run**, and your program should print your age in the year 2025.
 
-    You can use `int()` to convert the text to an __integer__. An integer is a whole number.
+--- /task ---
 
-    ![screenshot](images/me-input-test.png)
+--- task ---
 
-+ You can also create another variable to store your calculation, and print that instead.
+You could improve your program by using `input()` to ask the user their age and store it in a __variable__ called `born`.
 
-    ![screenshot](images/me-result-variable.png)
+--- code ---
+---
+language: python
+filename: main.py
+line_numbers: true
+line_number_start: 1
+line_highlights: 11-12
+---
+print('Hello!')
 
-+ Finally, you can make your program easier to understand by adding a helpful message.
+print('''
+here's a picture of a dog:
+o____ 
+ ||||
+ ''')
 
-    ![screenshot](images/me-message.png)
+born = input('What year were you born?')
+print(2035 - born)
+--- /code ---
+
+--- /task ---
+
+--- task ---
+
+Run your program and then enter the year you were born. Did you get another error message?
+
+That's because anything typed into your program is __text__, and it needs to be converted to a __number__.
+
+You can use `int()` to convert the text to an __integer__. An integer is a whole number.
+
+--- code ---
+---
+language: python
+filename: main.py
+line_numbers: true
+line_number_start: 1
+line_highlights: 11
+---
+print('Hello!')
+
+print('''
+here's a picture of a dog:
+o____ 
+ ||||
+ ''')
+
+born = input('What year were you born?')
+born = int(born)
+print(2035 - born)
+--- /code ---
+
+--- /task ---
+
+--- task ---
+
+You can also create another variable to store your calculation, and print that instead.
+
+--- code ---
+---
+language: python
+filename: main.py
+line_numbers: true
+line_number_start: 1
+line_highlights: 11-12
+---
+print('Hello!')
+
+print('''
+here's a picture of a dog:
+o____ 
+ ||||
+ ''')
+
+born = input('What year were you born?')
+born = int(born)
+age = 2035 - born
+print(age)
+--- /code ---
+
+--- /task ---
+
+--- task ---
+
+Finally, you can make your program easier to understand by adding a helpful message.
+
+--- code ---
+---
+language: python
+filename: main.py
+line_numbers: true
+line_number_start: 1
+line_highlights: 11-12
+---
+input('What year were you born?')
+born = int(born)
+age = 2035 - born
+print('In the year 2035 you\ll be', age, 'years old!')
+--- /code ---
+
+--- /task ---
+
 
 
 

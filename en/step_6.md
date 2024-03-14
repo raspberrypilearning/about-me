@@ -16,7 +16,7 @@ line_numbers: true
 line_number_start: 1
 line_highlights: 9
 ---
-print('Hello!')
+print('Hi, I can code in Python!')
 
 print('''
 here's a picture of a dog:
@@ -29,11 +29,13 @@ o____
 
 --- /task ---
 
-Notice that you don't need to put quotes around numbers. (You'll need to change the number `2006` if you were born in a different year.)
+Notice that you don't need to put quotes around numbers. 
+
+(You'll need to change the number `2015` if you were born in a different year.)
 
 --- task ---
 
-Click **Run**, and your program should print your age in the year 2025.
+Click **Run**, and your program should print your age in the year 2035.
 
 --- /task ---
 
@@ -47,9 +49,9 @@ language: python
 filename: main.py
 line_numbers: true
 line_number_start: 1
-line_highlights: 11-12
+line_highlights: 9-10
 ---
-print('Hello!')
+print('Hi, I can code in Python!')
 
 print('''
 here's a picture of a dog:
@@ -77,7 +79,7 @@ language: python
 filename: main.py
 line_numbers: true
 line_number_start: 1
-line_highlights: 11
+line_highlights: 10
 ---
 print('Hello!')
 
@@ -137,7 +139,7 @@ line_highlights: 12
 born = input('What year were you born?')
 born = int(born)
 age = 2035 - born
-print('In the year 2035 you\ll be', age, 'years old!')
+print('In the year 2035 you\'ll be', age, 'years old!')
 --- /code ---
 
 --- /task ---

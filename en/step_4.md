@@ -14,7 +14,7 @@ line_numbers: true
 line_number_start: 1
 line_highlights: 3-5
 ---
-print('Hello!')
+print('Hi, I can code in Python!')
 
 print('here's a picture of a dog:')
 print('o____ ')
@@ -33,7 +33,9 @@ That's because your text contains an apostrophe `'`, which Python thinks is the 
 
 --- task ---
 
-To fix this, just put a backslash `\` before the apostrophe in the word `here's`. This tells Python that the apostrophe is part of the text.
+To fix this, just put a backslash `\` before the apostrophe in the word `here's`. 
+
+This tells Python that the apostrophe is part of the text.
 
 --- code ---
 ---
@@ -43,7 +45,7 @@ line_numbers: true
 line_number_start: 1
 line_highlights: 3
 ---
-print('Hello!')
+print('Hi, I can code in Python!')
 
 print('here\'s a picture of a dog:')
 print('o____ ')
@@ -61,7 +63,7 @@ line_numbers: true
 line_number_start: 1
 line_highlights: 3-7
 ---
-print('Hello!')
+print('Hi, I can code in Python!')
 
 print('''
 here's a picture of a dog:

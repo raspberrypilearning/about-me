@@ -7,9 +7,9 @@ Here’s an example:
 
 --- code ---
 ---
-language: python
-filename: main.py
-line_numbers: true
+language: 
+filename: 
+line_numbers: 
 line_number_start: 
 line_highlights: 
 ---

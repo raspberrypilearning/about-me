@@ -4,23 +4,7 @@ In this project you will learn how to write a Python program telling people all 
 
 ### What you will make
 
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/a1f663ae0d?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-  <img src="images/me-final.png">
-</div>
-
---- collapse ---
----
-title: What you will learn
----
-### What you will learn
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
-
-+ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
-
---- /collapse ---
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/about-me-solution" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe> 
 
 --- collapse ---
 ---

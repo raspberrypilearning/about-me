@@ -27,5 +27,6 @@ steps:
 - title: The year 2035
   completion:
   - internal
+  - external
 - title: 'Challenge: your age in dog years'
 - title: 'Challenge: calculating text'
